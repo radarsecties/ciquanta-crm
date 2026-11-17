@@ -33,13 +33,16 @@ export const dominioBase = u => { const d = dominio(u); if (!d) return ''; const
 /** Escolhe a instituição da OpenAlex que corresponde à organização: pelo domínio do site ou pelo nome. */
 export function escolherInstituicao(org, candidatas) {
   const dOrg = dominioBase(org.site), pOrg = new Set(palavras(org.nomeFantasia || org.nome));
+  const siglas = [org.nome, org.nomeFantasia, ...String(org.nome).split(/[,(]/)].map(x => norm(String(x || '').replace(/\)/g, ''))).filter(x => /^[a-z0-9&-]{2,10}$/.test(x));
   let melhor = null, nota = 0;
   for (const c of candidatas || []) {
     const pC = palavras(c.display_name), comuns = pC.filter(w => pOrg.has(w)).length;
     const nome = (pOrg.size ? comuns / pOrg.size : 0) * 1.2 + (pC.length ? comuns / pC.length : 0) * 0.8;
     const tipo = (TIPOS_OK[org.segmento] || []).includes(c.type) ? 0.4 : 0;
+    // Sigla registrada na OpenAlex (INPE, CBPF, IME) vale como nome
+    const sigla = siglas.some(a => (c.display_name_acronyms || []).some(x => norm(x) === a)) ? 2 + Math.log10((c.works_count || 0) + 1) * 0.05 : 0;
     // Mesmo domínio: decide o porte (a sede publica mais que uma unidade regional); sem domínio, decide o nome
-    const n = dOrg && dominioBase(c.homepage_url) === dOrg ? 3 + Math.log10((c.works_count || 0) + 1) * 0.6 + nome * 0.3 + tipo : nome + tipo - (c.country_code && c.country_code !== 'BR' ? 1 : 0);
+    const n = dOrg && dominioBase(c.homepage_url) === dOrg ? 3 + Math.log10((c.works_count || 0) + 1) * 0.6 + nome * 0.3 + tipo : Math.max(nome, sigla) + tipo - (c.country_code && c.country_code !== 'BR' ? 1 : 0);
     if (n > nota) { nota = n; melhor = c; }
   }
   // Exige o domínio ou um nome muito próximo: melhor ficar sem do que associar a organização errada
@@ -98,7 +101,9 @@ export async function orcidPublico(orcid, org) {
 export async function coletarPesquisadores({ log = console.log } = {}) {
   const base = ler('pesquisadores.json', { porOrg: {} });
   // Versão 2: critério estrito de computação quântica e associação por domínio; refaz tudo uma vez
-  if (base.versao !== 2) { for (const x of Object.values(base.porOrg)) { delete x.buscadoEm; delete x.instituicao; } base.versao = 2; }
+  if (!(base.versao >= 2)) { for (const x of Object.values(base.porOrg)) { delete x.buscadoEm; delete x.instituicao; } base.versao = 2; }
+  // Versão 3: associação por sigla; refaz as organizações que ficaram sem instituição
+  if (base.versao < 3) { for (const x of Object.values(base.porOrg)) if (!x.instituicao) { delete x.buscadoEm; x.pessoas = []; } base.versao = 3; }
   const limite = new Date(Date.now() - RENOVAR_DIAS * 864e5).toISOString();
   const ordem = { A: 0, B: 1, C: 2 }, ev = { confirmada: 0, indicios: 1 };
   const fila = organizacoes().filter(o => SEGMENTOS.has(o.segmento) && !(base.porOrg[o.id]?.buscadoEm > limite))
@@ -112,13 +117,13 @@ export async function coletarPesquisadores({ log = console.log } = {}) {
       let inst = x.instituicao;
       if (!inst) {
         const q = encodeURIComponent((o.nomeFantasia || o.nome).replace(/\(.*?\)/g, '').trim());
-        const r = await oa(`/institutions?search=${q}&filter=country_code:BR&per_page=8&select=id,display_name,type,homepage_url,country_code,works_count`);
+        const r = await oa(`/institutions?search=${q}&filter=country_code:BR&per_page=8&select=id,display_name,display_name_acronyms,type,homepage_url,country_code,works_count`);
         const c = escolherInstituicao(o, r.results);
         inst = x.instituicao = c ? { id: c.id.replace('https://openalex.org/', ''), nome: c.display_name, tipo: c.type, trabalhos: c.works_count } : null;
         await sleep(120);
       }
       x.buscadoEm = agora();
-      if (!inst) { x.pessoas = x.pessoas || []; continue; }
+      if (!inst) { x.pessoas = []; continue; }
       comInst++;
       const sel = 'select=id,doi,title,publication_year,authorships,topics';
       const [rec, qua] = await Promise.all([
