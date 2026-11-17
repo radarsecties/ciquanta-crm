@@ -1,6 +1,7 @@
 # CRM do CIQUANTA: coleta diária automática.
 # Atualiza notícias, editais, canais institucionais, dados da Receita Federal, totais do Painel CIQUANTA
-# e, com a chave da Anthropic configurada, descobre novas organizações nas notícias.
+# e, com a chave da Anthropic configurada, descobre novas organizações nas notícias e busca na web
+# os e-mails de diretorias, conferidos na página de origem antes de entrar na base.
 # Este arquivo vale quando a pasta do CRM é a raiz do repositório.
 name: CIQUANTA · Coleta diária
 
@@ -33,6 +34,7 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           CIQUANTA_MODELO: ${{ vars.CIQUANTA_MODELO }}
+          CIQUANTA_LOTE_IA: ${{ vars.CIQUANTA_LOTE_IA }}
         run: node tools/coleta/coletar.mjs
       - name: Publicar as bases atualizadas
         run: |
