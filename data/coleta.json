@@ -1,6 +1,12 @@
 {
  "execucoes": [
   {
+   "em": "2026-11-17T15:49:44.159Z",
+   "segundos": 0,
+   "etapas": [],
+   "integridade": "ok"
+  },
+  {
    "em": "2026-11-17T11:25:37.580Z",
    "segundos": 28,
    "etapas": [
@@ -154,19 +160,9 @@
   }
  ],
  "ultima": {
-  "em": "2026-11-17T11:25:37.580Z",
-  "segundos": 28,
-  "etapas": [
-   {
-    "id": "pesquisadores",
-    "nome": "Pessoas de P&D (OpenAlex e ORCID)",
-    "ok": true,
-    "ignorada": false,
-    "n": 105,
-    "segundos": 28,
-    "msg": "pesquisadores: 45 organizações consultadas, 7 com produção identificada, 105 pessoas de P&D, 1 com e-mail profissional público, 0 falhas · base: 316 pessoas"
-   }
-  ],
+  "em": "2026-11-17T15:49:44.159Z",
+  "segundos": 0,
+  "etapas": [],
   "integridade": "ok"
  }
 }
