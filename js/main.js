@@ -1,0 +1,177 @@
+// Roteador e estrutura da aplicação
+import { $, $$, toast, esc } from './util.js';
+import * as store from './store.js';
+import * as G from './google.js';
+import * as monitor from './monitor.js';
+import { icon } from './icons.js';
+import * as cadencia from './cadencia.js';
+import { abrirPaleta } from './paleta.js';
+import * as sync from './sync.js';
+import * as automacao from './automacao.js';
+import { animarNumeros, revelar } from './motion.js';
+
+const ROUTES = {
+  painel: ['Painel', 'painel', () => import('./pages/painel.js'), 'Visão geral'],
+  sinais: ['Sinais do mercado', 'sinal', () => import('./pages/sinais.js'), 'Visão geral'],
+  captacao: ['Plano de captação', 'oportunidades', () => import('./pages/captacao.js'), 'Visão geral'],
+  interacoes: ['Interações em tempo real', 'interacoes', () => import('./pages/interacoes.js'), 'Visão geral'],
+  agenda: ['Agenda', 'agenda', () => import('./pages/agenda.js'), 'Visão geral'],
+  visitas: ['Visitas e cadastros', 'contatos', () => import('./pages/visitas.js'), 'Visão geral'],
+  organizacoes: ['Organizações', 'organizacoes', () => import('./pages/organizacoes.js'), 'Relacionamento'],
+  contatos: ['Contatos', 'contatos', () => import('./pages/contatos.js'), 'Relacionamento'],
+  oportunidades: ['Oportunidades de negócio', 'oportunidades', () => import('./pages/oportunidades.js'), 'Relacionamento'],
+  rede: ['Rede de relacionamento', 'link', () => import('./pages/rede.js'), 'Relacionamento'],
+  setores: ['Setores e aplicações', 'setores', () => import('./pages/setores.js'), 'Relacionamento'],
+  busca: ['Busca ativa', 'busca', () => import('./pages/busca.js'), 'Relacionamento'],
+  cadencias: ['Cadências automáticas', 'play', () => import('./pages/cadencias.js'), 'Comunicação'],
+  campanhas: ['Campanhas de e-mail', 'campanhas', () => import('./pages/campanhas.js'), 'Comunicação'],
+  modelos: ['Modelos de e-mail', 'modelos', () => import('./pages/modelos.js'), 'Comunicação'],
+  apresentacoes: ['Apresentações', 'apresentacoes', () => import('./pages/apresentacoes.js'), 'Comunicação'],
+  materiais: ['Materiais', 'materiais', () => import('./pages/materiais.js'), 'Comunicação'],
+  mecanismos: ['Leis e mecanismos de fomento', 'mecanismos', () => import('./pages/mecanismos.js'), 'Fomento'],
+  editais: ['Editais e chamadas', 'modelos', () => import('./pages/editais.js'), 'Fomento'],
+  simulador: ['Simulador de incentivos', 'simulador', () => import('./pages/simulador.js'), 'Fomento'],
+  automacao: ['Central de automação', 'robo', () => import('./pages/automacao.js'), 'Sistema'],
+  fontes: ['Fontes e referências', 'fontes', () => import('./pages/fontes.js'), 'Sistema'],
+  config: ['Configurações', 'config', () => import('./pages/config.js'), 'Sistema'],
+  org: ['Organização', 'organizacoes', () => import('./pages/org.js'), null],
+};
+const NAV_LABEL = { sinais: 'Sinais do mercado', automacao: 'Automação', captacao: 'Captação', interacoes: 'Interações', oportunidades: 'Oportunidades', setores: 'Setores', campanhas: 'Campanhas', mecanismos: 'Leis e mecanismos', simulador: 'Simulador', fontes: 'Fontes', cadencias: 'Cadências', rede: 'Rede', editais: 'Editais', visitas: 'Visitas e cadastros' };
+
+let cleanup = null, current = '', seq = 0;
+
+function buildNav() {
+  let g = '', h = '';
+  for (const [id, [title, ic, , grupo]] of Object.entries(ROUTES)) {
+    if (!grupo) continue;
+    if (grupo !== g) { h += `<div class="nav-group">${esc(grupo)}</div>`; g = grupo; }
+    h += `<a href="#/${id}" data-route="${id}">${icon(ic)}<span>${esc(NAV_LABEL[id] || title)}</span>${id === 'interacoes' ? '<span class="count hidden" id="nav-live"></span>' : ''}</a>`;
+  }
+  $('#nav').innerHTML = h;
+}
+
+function parseHash() {
+  const h = location.hash.replace(/^#\/?/, '');
+  const [path, query = ''] = h.split('?');
+  const [name, ...rest] = path.split('/');
+  return { name: ROUTES[name] ? name : 'painel', arg: rest.join('/') ? decodeURIComponent(rest.join('/')) : '', params: new URLSearchParams(query) };
+}
+
+async function route() {
+  const { name, arg, params } = parseHash();
+  const my = ++seq;
+  const [title, , loader] = ROUTES[name];
+  try { cleanup?.(); } catch {}
+  cleanup = null; current = name;
+  $('#page-title').textContent = title;
+  document.title = `${title} · CIQUANTA`;
+  const navId = name === 'org' ? 'organizacoes' : name;
+  $$('#nav a').forEach(a => a.classList.toggle('active', a.dataset.route === navId));
+  $('#sidebar').classList.remove('open');
+  const view = $('#view');
+  view.classList.remove('entrada');
+  view.innerHTML = '<div class="esqueleto" aria-busy="true" aria-label="Carregando"><i></i><i></i><i></i><i></i><b></b><b></b></div>';
+  try {
+    const mod = await loader();
+    await store.loadSetores();
+    if (my !== seq) return;
+    view.innerHTML = '';
+    const c = (await mod.render(view, { arg, params })) || null;
+    if (my !== seq) { try { c?.(); } catch {} return; }
+    cleanup = c;
+    void view.offsetWidth; view.classList.add('entrada');
+    animarNumeros(view); revelar(view);
+    view.focus({ preventScroll: true }); window.scrollTo(0, 0);
+  } catch (e) {
+    console.error(e);
+    view.innerHTML = `<div class="card"><h3>Não foi possível abrir esta página</h3><p class="muted">${esc(e.message)}</p></div>`;
+  }
+}
+
+function badges() {
+  const s = G.status(), m = monitor.estado();
+  const el = $('#gmail-status');
+  el.classList.toggle('on', s.conectado); el.classList.toggle('off', !s.conectado);
+  el.querySelector('.txt').textContent = s.conectado ? s.email || 'Conta Google conectada' : 'Conta Google desconectada';
+  $('#live-btn').classList.toggle('on', m.ativo);
+  $('#live-btn').title = m.ativo ? `Acompanhamento ativo${m.ultimo ? ', última verificação ' + new Date(m.ultimo).toLocaleTimeString('pt-BR') : ''}` : 'Acompanhamento em tempo real desligado';
+  const n = $('#nav-live'); if (n) { n.textContent = m.naoLidos; n.classList.toggle('hidden', !m.naoLidos); }
+  const y = sync.estado(), sb = $('#sync-btn');
+  sb.classList.toggle('hidden', !y.ativo); sb.classList.toggle('on', y.fase === 'ok'); sb.classList.toggle('bad', y.fase === 'erro'); sb.classList.toggle('girando', y.fase === 'sincronizando');
+  sb.title = y.fase === 'erro' ? 'Base compartilhada: ' + y.erro : y.fase === 'sincronizando' ? 'Sincronizando a base compartilhada…' : `Base compartilhada sincronizada${y.ultimo ? ' às ' + new Date(y.ultimo).toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' }) : ''}. Clique para sincronizar agora.`;
+}
+
+function init() {
+  buildNav();
+  $('#menu-btn').innerHTML = icon('menu', 18);
+  $('#theme-btn').innerHTML = icon('tema', 17);
+  $('#live-btn').innerHTML = icon('sino', 17);
+  $('#sync-btn').innerHTML = icon('sync', 17);
+  $('#sync-btn').onclick = () => sync.sincronizar({ manual: true });
+  window.addEventListener('hashchange', route);
+  $('#menu-btn').onclick = () => $('#sidebar').classList.toggle('open');
+  $('#theme-btn').onclick = () => {
+    const cur = document.documentElement.dataset.theme || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    const next = cur === 'dark' ? 'light' : 'dark';
+    document.documentElement.dataset.theme = next;
+    try { localStorage.setItem('ciquanta:tema', next); } catch {}
+    window.dispatchEvent(new Event('themechange'));
+  };
+  $('#live-btn').onclick = () => { location.hash = '#/interacoes'; };
+  const novo = async tipo => { const c = await import('./components.js'); const ir = o => { if (o?.orgId || o?.id) location.hash = `#/org/${o.orgId || o.id}`; }; ({ org: () => c.openOrgForm({}, ir), contato: () => c.openContatoForm({}, ir), oportunidade: () => c.openOportunidadeForm({}, ir), reuniao: () => c.openReuniaoForm({}) })[tipo](); };
+  const acoes = [
+    { n: 'Nova organização', f: () => novo('org') }, { n: 'Novo contato', f: () => novo('contato') }, { n: 'Nova oportunidade', f: () => novo('oportunidade') }, { n: 'Agendar reunião', f: () => novo('reuniao') },
+    { n: 'Relatório executivo de captação', f: async () => (await import('./relatorio.js')).gerarRelatorio() },
+    { n: 'Sincronizar a base compartilhada', f: () => sync.sincronizar({ manual: true }) },
+    { n: 'Baixar cópia de segurança', f: async () => (await import('./util.js')).download(`ciquanta-crm-${new Date().toISOString().slice(0, 10)}.json`, store.exportJSON(), 'application/json') },
+    { n: 'Alternar tema claro e escuro', f: () => $('#theme-btn').click() }, { n: 'Atalhos de teclado', f: () => atalhos() },
+  ];
+  const paleta = () => abrirPaleta(Object.entries(ROUTES).filter(([, r]) => r[3]).map(([id, r]) => ({ id, titulo: r[0] })), acoes);
+  const IR = { p: 'painel', m: 'captacao', o: 'organizacoes', c: 'contatos', n: 'oportunidades', a: 'agenda', i: 'interacoes', e: 'cadencias', s: 'setores', l: 'mecanismos' };
+  const atalhos = async () => (await import('./util.js')).modal({ title: 'Atalhos de teclado', body: `<div class="atalhos">
+    <kbd>Ctrl K</kbd><span>Busca rápida e ações (organizações, contatos, oportunidades, telas)</span>
+    <kbd>?</kbd><span>Esta lista de atalhos</span>
+    ${Object.entries(IR).map(([k, r]) => `<kbd>g ${k}</kbd><span>Ir para ${esc(ROUTES[r][0])}</span>`).join('')}
+    <kbd>Esc</kbd><span>Fechar janelas</span></div>` });
+  let g = 0;
+  document.addEventListener('keydown', e => {
+    if (e.ctrlKey || e.metaKey || e.altKey || ['INPUT', 'TEXTAREA', 'SELECT'].includes(e.target.tagName) || e.target.isContentEditable || $('#modal-root').children.length || document.querySelector('.paleta')) return;
+    if (e.key === '?') { e.preventDefault(); atalhos(); }
+    else if (e.key === '/') { e.preventDefault(); paleta(); }
+    else if (e.key === 'g') g = Date.now();
+    else if (Date.now() - g < 1200 && IR[e.key]) { g = 0; location.hash = '#/' + IR[e.key]; }
+  });
+  $('#global-search').addEventListener('focus', e => { e.target.blur(); paleta(); });
+  window.addEventListener('ciq:paleta', paleta);
+  document.addEventListener('keydown', e => { if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k') { e.preventDefault(); paleta(); } });
+  $('#gmail-status').onclick = () => { location.hash = '#/config'; };
+  G.onAuth(s => {
+    badges();
+    if (s.conectado) cadencia.iniciar(); else cadencia.parar();
+    if (s.conectado && G.hasScope('read')) {
+      monitor.iniciar();
+      if (store.cfg().notificacoes && 'Notification' in window && Notification.permission === 'default') Notification.requestPermission().catch(() => {});
+    } else if (!s.conectado) monitor.parar();
+  });
+  monitor.onLive(badges);
+  sync.onSync(badges);
+  let reabrir;
+  store.onChange(w => {
+    if (w === 'recebidos') badges();
+    // Dados alterados por outra aba ou por outro computador: atualiza a tela, sem interromper quem está digitando
+    if (w === 'externo') { clearTimeout(reabrir); reabrir = setTimeout(() => { if (!$('#modal-root').children.length && !['INPUT', 'TEXTAREA', 'SELECT'].includes(document.activeElement?.tagName)) route(); badges(); }, 400); }
+  });
+  store.pontoDiario();
+  automacao.iniciar();
+  automacao.onAutomacao(res => { if (res?.some(x => x.n) && ['painel', 'organizacoes', 'contatos', 'visitas'].includes(current) && !$('#modal-root').children.length && !['INPUT', 'TEXTAREA', 'SELECT'].includes(document.activeElement?.tagName)) route(); });
+  store.seedIfNeeded().then(novo => { if (novo && ['painel', 'agenda', 'modelos'].includes(current)) route(); });
+  if (!location.hash) location.hash = '#/painel'; else route();
+  badges();
+  // Aplicativo instalável e uso sem conexão (somente em endereço seguro)
+  if ('serviceWorker' in navigator && (location.protocol === 'https:' || ['localhost', '127.0.0.1'].includes(location.hostname))) navigator.serviceWorker.register('sw.js').catch(e => console.warn('sw', e));
+  window.addEventListener('error', e => { if (e.message && !/ResizeObserver/.test(e.message)) toast('Erro: ' + e.message, 'bad'); });
+  window.addEventListener('unhandledrejection', e => { console.error(e.reason); toast('Erro: ' + (e.reason?.message || 'operação não concluída'), 'bad'); });
+  window.addEventListener('offline', () => toast('Sem conexão com a internet. O que você fizer fica guardado neste navegador.', 'bad'));
+  window.addEventListener('online', () => { toast('Conexão restabelecida.', 'ok'); sync.sincronizar(); });
+}
+init();
