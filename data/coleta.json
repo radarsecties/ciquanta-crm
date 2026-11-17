@@ -1,6 +1,22 @@
 {
  "execucoes": [
   {
+   "em": "2026-11-17T11:25:37.580Z",
+   "segundos": 28,
+   "etapas": [
+    {
+     "id": "pesquisadores",
+     "nome": "Pessoas de P&D (OpenAlex e ORCID)",
+     "ok": true,
+     "ignorada": false,
+     "n": 105,
+     "segundos": 28,
+     "msg": "pesquisadores: 45 organizações consultadas, 7 com produção identificada, 105 pessoas de P&D, 1 com e-mail profissional público, 0 falhas · base: 316 pessoas"
+    }
+   ],
+   "integridade": "ok"
+  },
+  {
    "em": "2026-11-17T11:24:04.580Z",
    "segundos": 34,
    "etapas": [
@@ -138,17 +154,17 @@
   }
  ],
  "ultima": {
-  "em": "2026-11-17T11:24:04.580Z",
-  "segundos": 34,
+  "em": "2026-11-17T11:25:37.580Z",
+  "segundos": 28,
   "etapas": [
    {
     "id": "pesquisadores",
     "nome": "Pessoas de P&D (OpenAlex e ORCID)",
     "ok": true,
     "ignorada": false,
-    "n": 211,
-    "segundos": 34,
-    "msg": "pesquisadores: 45 organizações consultadas, 16 com produção identificada, 211 pessoas de P&D, 1 com e-mail profissional público, 0 falhas · base: 226 pessoas"
+    "n": 105,
+    "segundos": 28,
+    "msg": "pesquisadores: 45 organizações consultadas, 7 com produção identificada, 105 pessoas de P&D, 1 com e-mail profissional público, 0 falhas · base: 316 pessoas"
    }
   ],
   "integridade": "ok"
