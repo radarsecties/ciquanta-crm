@@ -1,5 +1,6 @@
 # CRM do CIQUANTA: coleta diária automática.
-# Atualiza notícias, editais, canais institucionais, dados da Receita Federal, totais do Painel CIQUANTA
+# Atualiza notícias, editais, canais institucionais, dados da Receita Federal, totais do Painel CIQUANTA,
+# pessoas de P&D das organizações (OpenAlex e ORCID)
 # e, com a chave da Anthropic configurada, descobre novas organizações nas notícias e busca na web
 # os e-mails de diretorias, conferidos na página de origem antes de entrar na base.
 # Este arquivo vale quando a pasta do CRM é a raiz do repositório.
@@ -10,6 +11,11 @@ on:
     - cron: "17 9 * * *"    # 6h17 em Brasília
     - cron: "47 18 * * 1-5" # 15h47 em Brasília, dias úteis
   workflow_dispatch:
+    inputs:
+      etapas:
+        description: 'Etapas a rodar, separadas por espaço (vazio: todas). Ex.: pesquisadores canais'
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -35,7 +41,10 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           CIQUANTA_MODELO: ${{ vars.CIQUANTA_MODELO }}
           CIQUANTA_LOTE_IA: ${{ vars.CIQUANTA_LOTE_IA }}
-        run: node tools/coleta/coletar.mjs
+          CIQUANTA_LOTE_PESQUISA: ${{ vars.CIQUANTA_LOTE_PESQUISA }}
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+          ETAPAS: ${{ inputs.etapas }}
+        run: node tools/coleta/coletar.mjs $ETAPAS
       - name: Publicar as bases atualizadas
         run: |
           git config user.name "CIQUANTA CRM"
