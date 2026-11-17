@@ -1,7 +1,163 @@
 {
- "atualizadoEm": "2026-11-17T00:14:40.955Z",
+ "atualizadoEm": "2026-11-17T18:35:15.480Z",
  "aviso": "Títulos e links de notícias públicas; o conteúdo pertence a cada veículo.",
  "itens": [
+  {
+   "id": "5582d2d0e7d9",
+   "titulo": "Entidades científicas propõem elevar investimento em pesquisa a 3% do PIB até 2040",
+   "fonte": "Jornal GGN",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU3YzcndweFdQR0JubFJQSlNUS05mTUtDcEtSYzNJSmRWc0xRVHFRME9ydzEzdlByT0VESVpXeDRwWnNZaHQyU2t1WTBlcGJFWWs0RVM5XzUxbERGbm90YzUxMDk2SHJHVnhxdDJYTDZEUXlKQWdXUjduMXBuMEhNTW13VFRxTGFHWmhYeTFxM3p6dlQzNkxfOWFEVVFkZWpib1ZrUXFOTGpqQXJESnNSTmdHRWtfVVVCbEgxTmR1eUl0NFNuTTJERENCWmx1dm9Hc0h3?oc=5",
+   "data": "2026-11-17T17:21:00.000Z",
+   "temas": [
+    "pdi"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Entidades científicas propõem elevar investimento em pesquisa a 3% do PIB até 2040 Jornal GGN",
+   "coletadoEm": "2026-11-17T18:35:00.939Z"
+  },
+  {
+   "id": "8892968932b0",
+   "titulo": "Programa Deep Tech RS estrutura habitats de inovação para acelerar empresas de base científica",
+   "fonte": "Brasil Inovador",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOVNMWFcyX0NsNkJLaHpySWlULWxIcWMxelQ0a1lFOWpQQ1F3Qno1b3B0UjhoWWtTQ3E3dkJRR3hqbHVxcmFzWFJDbTlvZVRxZkc2T2VZNkdFSE9qRkUwMzlUYVB4dXVMbFpkT3NFN01ZT25aMExzcWVsX3BRUmxHbm02cUVzWEthOXF5MjJpWWFXN3hsMHU0U0tFZzVkeTRMX25LS1hBRW5hVE9Cak9lR1E4aGhLal9iX29tdzNGQUw3cU0?oc=5",
+   "data": "2026-11-17T17:05:07.000Z",
+   "temas": [
+    "investimento"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Programa Deep Tech RS estrutura habitats de inovação para acelerar empresas de base científica Brasil Inovador",
+   "coletadoEm": "2026-11-17T18:34:58.996Z"
+  },
+  {
+   "id": "854c5592682d",
+   "titulo": "Reforma tributária pode reduzir investimentos da Lei de TICs em P&D, alertam empresas",
+   "fonte": "TeleSíntese",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQzRRRXhNcWFscnlTdFl4eV9fN1lJX2FBajUtaTUtVXQydm9GNmNoRHRyWEpXNzNEX1B4ZkpQaWtTLVo4NHphQ0JTaG8tN3VJWnhPRHhKNXRVYjJpaEV5YWhNZC03dkU3WTRHNVk5dUZzVURrcTVBcm9BYVp1WnpqeWpqRFRpZzdVR2tVMXBaYkRqNnkxVzAyYUFCdmVlelM0cVBScmhQV2RUZTJKWEtsTA?oc=5",
+   "data": "2026-11-17T16:50:44.000Z",
+   "temas": [
+    "pdi"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Reforma tributária pode reduzir investimentos da Lei de TICs em P&D, alertam empresas TeleSíntese",
+   "coletadoEm": "2026-11-17T18:35:00.939Z"
+  },
+  {
+   "id": "dad7178820be",
+   "titulo": "SBPC e ABC defendem 3% do PIB e cota regional para ciência e inovação",
+   "fonte": "Agência Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOFFEaVd1aVdGVkNyR3Zwc0s1TUpqZVdCS3ZNakM3N09hazdNX1RGaHlza25CN3R2VEdIeXNLMzNyVUtIWktvZEVhbnRGcGVpVm9CenJmeTdpckxockkxcTdBMXFVRlNHeGdQWlJINHhOMDFDbTdyNmZVbFE3WU90Qm9DMXE1cFVlTmNnTTN3Z0VYX0Q0bEJPSFNoVF9GdmlzQWdNLTZ5WGJBSi1QcVh4czlVSkJubFRMSVZncTVZejNiakk?oc=5",
+   "data": "2026-11-17T15:50:00.000Z",
+   "temas": [
+    "pdi"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "SBPC e ABC defendem 3% do PIB e cota regional para ciência e inovação Agência Brasil",
+   "coletadoEm": "2026-11-17T18:35:00.939Z"
+  },
+  {
+   "id": "b929090be5e6",
+   "titulo": "Ei, startups! Chamada aberta para o Deep Tech Indústria, programa de soluções tecnológicas",
+   "fonte": "Agência de Notícias da Indústria",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMldnbGJKTGF6QWV2enA5bUVJeHVHWHZNR2t0MVE2Rm9LdFpwdzlMRmNLYTNzb2wyNlVDc3BCS01PczNScnA5dnUtdzFxaWN1aUI3QTFkY3F1RlpvejJWLURaYjhNS3dncE5JdXVYM0kyVmxyd2MtTk9EUDJpOFR2enZjNVJtTmdEejJYSDIyVG96SmFWdXZBUVg5czUydWdJRWhMdkZHNEotbXpLWFlBLW5jdFlKWGFsUzhxMHY3TjJpQ2FqblZHb2hIcnlPUE5NNE1MWk1EcS1OdkxpVy1PTG5mXzBmV2VaemhXcTU0anJ0QXM?oc=5",
+   "data": "2026-11-17T15:06:56.000Z",
+   "temas": [
+    "investimento"
+   ],
+   "orgs": [],
+   "edital": true,
+   "resumo": "Ei, startups! Chamada aberta para o Deep Tech Indústria, programa de soluções tecnológicas Agência de Notícias da Indústria",
+   "coletadoEm": "2026-11-17T18:34:58.996Z"
+  },
+  {
+   "id": "69eed45db3ef",
+   "titulo": "Estado do nordeste recebe primeiros supercomputadores quânticos da América Latina, avaliados em R$ 83 milhões",
+   "fonte": "Revista Fórum",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56QTlWSHNCczY5emNmS1c4S0RlamdSVm9MUGpyd0E4V1lXeU12X25OWUVfdmRXaUtPajh0UHJiNUZ5TW80cTlXdlEyM1RrWTFpUHRJeTZGN0drMHFBYmFoZ1pWRlFpaDFwTzByWlQzdy1UeUYxWkxpLQ?oc=5",
+   "data": "2026-11-17T13:35:50.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Estado do nordeste recebe primeiros supercomputadores quânticos da América Latina, avaliados em R$ 83 milhões Revista Fórum",
+   "coletadoEm": "2026-11-17T18:34:42.549Z"
+  },
+  {
+   "id": "eaf8f70b2a48",
+   "titulo": "Estudo aponta lacunas no planejamento quântico da defesa brasileira",
+   "fonte": "Defesa em Foco",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVU1JZTdPVWxWeW1qd3RMMS1vWjdnQTFyR1FfenZfWGF6RHBMZnpyOW1fYmFBZHh3cGlNU1dOVkE4WWFSSlZjRzdfYUVLTGZkSWNfZXBTaTB5dXFuX2NudFFjRERURnJDUllNSHdpNWdlSkJaaC1TYloxZ0tIRUp1RmhuMlphSFVDenFVa2dwS2c?oc=5",
+   "data": "2026-11-17T10:00:06.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Estudo aponta lacunas no planejamento quântico da defesa brasileira Defesa em Foco",
+   "coletadoEm": "2026-11-17T18:34:44.338Z"
+  },
+  {
+   "id": "7567b4b43143",
+   "titulo": "BBVA se posiciona como o segundo banco europeu mais avançado em computação quântica",
+   "fonte": "Demócrata",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUnh0WEtfX21YSTZ5b21PQmI2TmNpQW4tWkRYeGVRT1gwWWxPX2JCbHVoS2x4ckdoTDQwWGxzRHd4ZlpmR1pVMlhyNlVpVzk4LVNsQzdTMHROaVpCdEoxV1NqTW5nM3lXb0l6R0wzQ0o4eTVEN1V4RHJNcDdzLVM3djAwb0FBY1ZGU01tTHlhV1B2VkVJd3NVQ2ZLSG1LdVlhcUFFbVY0QmpqOWpGdzBfcWdNRmp3djhCTnJrLXc0LVdfbUXSAcMBQVVfeXFMT1J4dFhLX19tWEk2eW9tT0JiNk5jaUFuLVpEWHhlUU9YMFlsT19iQmx1aEtseHJHaEw0MFhsc0R3eGZaZkdaVTJYcjZVaVc5OC1TbEM3UzB0TmlaQnRKMVdTak1uZzN5V29JekdMM0NKOHk1RDdVeERyTXA3cy1TN3YwMG9BQWNWRlNNbUx5YVdQdlZFSXdzVUNmS0htS3VZYXFBRW1WNEJqajlqRncwX3FnTUZqd3Y4Qk5yay13NC1XX21F?oc=5",
+   "data": "2026-11-17T09:47:07.000Z",
+   "temas": [
+    "quantica",
+    "financeiro"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "BBVA se posiciona como o segundo banco europeu mais avançado em computação quântica Demócrata",
+   "coletadoEm": "2026-11-17T18:34:42.549Z"
+  },
+  {
+   "id": "d5a187d74c1d",
+   "titulo": "Além de atrair investimentos, o Vietnã precisa dominar a pesquisa e o desenvolvimento na indústria de semicondutores.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa19DVXVjNFdXaXpESXBDN3VjWDVLYXRRSXVTZDdCLTVYTnBjQUR0OVJlcEI2WlF6QmZIdl9XNldZWk1lUDBNRFFvdWc1U3E1Q1FRWU5ZNHRvVTFBY3hRZTZINER4aVFJQUsxeGlIbHkxdmpyVTZULUd4SzBaaW9fMFRCak40TThncmJyTVB1dkxPNlRx?oc=5",
+   "data": "2026-11-17T06:07:04.000Z",
+   "temas": [
+    "pdi"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Além de atrair investimentos, o Vietnã precisa dominar a pesquisa e o desenvolvimento na indústria de semicondutores. Vietnam.vn",
+   "coletadoEm": "2026-11-17T18:35:00.940Z"
+  },
+  {
+   "id": "5fb43bd6b3cd",
+   "titulo": "Paraíba recebe dois computadores quânticos de R$ 83 milhões; veja o que eles podem fazer",
+   "fonte": "NE9",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zYjB5MlN5dHRjcnhRNTN1MHFZUC1lN0hNUTFsWEFuQjRDOXRBYTN0RS1CNDR0dzNLeHFfRld6UF9ZUy1UTFZaeDFkNmQzeGZSQWE3TUZLMUlOai15Yk1GZzdFNXNVUzZSU1pVb3lnN3FKUl9SWHRmOVFZWQ?oc=5",
+   "data": "2026-11-17T06:05:46.000Z",
+   "temas": [
+    "ciquanta",
+    "energia"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Paraíba recebe dois computadores quânticos de R$ 83 milhões; veja o que eles podem fazer NE9",
+   "coletadoEm": "2026-11-17T18:34:47.939Z"
+  },
+  {
+   "id": "abbe3467baf2",
+   "titulo": "Computadores quânticos chegam à Paraíba e hélio raro define testes no Ciquanta",
+   "fonte": "Movimento Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMnZpX3NQY3R4SExwY2xISEhmbE83TWFrWnhBbXhYYklOZUVjUHhVOU9mSGtjM2ZVUTVJU2x4THNUMUhwd0xZU1htY2tuSmRoRlFDWTFxRXVxZ0lEb21kSkF5RlIwTS1LUk11UmFRM1FDaGFOVHdULU9RRXU5dTE4aEl1LWo5bXJfdy1ramJPSXIwdzVRSXBRWWI3UUF6bXBmRW5vbnhndTlSNFdrRVozYXZRSHpYUlZJNkRwcDhELTB6aFFDTGhMcDRwWWNScUFG?oc=5",
+   "data": "2026-11-16T23:41:17.000Z",
+   "temas": [
+    "ciquanta"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Computadores quânticos chegam à Paraíba e hélio raro define testes no Ciquanta Movimento Econômico",
+   "coletadoEm": "2026-11-17T18:34:47.938Z"
+  },
   {
    "id": "d827df9800b8",
    "titulo": "Com apoio do MCTI, computadores quânticos chegam a João Pessoa e implementação do Ciquanta avança",
@@ -47,6 +203,34 @@
    "coletadoEm": "2026-11-16T22:34:46.770Z"
   },
   {
+   "id": "c8316bb39756",
+   "titulo": "Computadores Quânticos chegam em JP e marca nova etapa de implantação do CIQUANTA",
+   "fonte": "Polêmica Paraíba",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVzlhaDBfTjJmNDZNNEJLajZVbGU1MlFmdlp4VnZSR2JvNjF2eWVEM1RJXzZPcnhGVjk1R1lkQTRQelNJVURKdUNtQ0lZX0I1NHB3UFg3T01WV2tGOUtKR3g5ZHl4ZjgzUm5ZdW91UGE4dHhObDdoQVBydjVJRHZMRFJVOVhXTmdJMGpNc052TVhDVFBQZE96VTZDR2tTSjBSejRQZUpSZm84ZjB2djVIX004NGNmQ051VWhUdUl2dm9waDJVUWc?oc=5",
+   "data": "2026-11-16T22:23:34.000Z",
+   "temas": [
+    "ciquanta"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Computadores Quânticos chegam em JP e marca nova etapa de implantação do CIQUANTA Polêmica Paraíba",
+   "coletadoEm": "2026-11-17T18:34:47.940Z"
+  },
+  {
+   "id": "ea658871b27b",
+   "titulo": "Paraíba recebe primeiros computadores quânticos da América Latina",
+   "fonte": "ParaibaOnline",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlNVV3pXb3ZZUWJ6eDBWUFBvQkNLWmhJdTVLM3ljNWQ0ekh5OGFxdjhWVXdZdjUzaUh2ekFtS2tMazB0X2lsdUxiRERRaDJubDFjU2xBSTV2NjdOcWxHZ0R5M3htVXBLTXJHcENQSHo4SWVYOFd4Qm5scFVpSGQxenlJcWRrcXJsRzNHMDk4WnQyNUt4LVdLTC11V0d3VkFPSGJlTFVCWVR2WGVTa29BWnNhS0RpMjRB?oc=5",
+   "data": "2026-11-16T22:13:37.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Paraíba recebe primeiros computadores quânticos da América Latina ParaibaOnline",
+   "coletadoEm": "2026-11-17T18:34:44.339Z"
+  },
+  {
    "id": "d4932349fbea",
    "titulo": "Paraíba quer transformar computação quântica em tecnologia própria",
    "fonte": "Paraíba Business",
@@ -90,13 +274,29 @@
    "coletadoEm": "2026-11-16T22:20:06.865Z"
   },
   {
+   "id": "609df86e9c36",
+   "titulo": "Primeiro computador quântico da América Latina chega à Paraíba nesta segunda-feira",
+   "fonte": "Portal Sertão da Paraíba",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYW5kcGVTdllQXzVlZUlwUXRXaHZ0V0hXSU1FcUVNMGJqNkNGUG9Ba1RmcHBJWUtPWGI1XzVYeHlGRmp1c2VER3YzM1lFNmgzVHJvTlRhc09HQlU0RjFPekp3ODZJMHdpbmJoM09BR3J1SWl6MDVtY01LTlZCYWxjNDJxbVRxYUUxMkI4ZWdSc3pWWDhIWXJxOVM3ajAtbF9kbDVPNHNkVmdEQ21selNjZ1FEZTVTUFJaMnVHNGRMM3N0czA?oc=5",
+   "data": "2026-11-16T19:56:00.000Z",
+   "temas": [
+    "ciquanta",
+    "saude"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Primeiro computador quântico da América Latina chega à Paraíba nesta segunda-feira Portal Sertão da Paraíba",
+   "coletadoEm": "2026-11-17T18:34:47.939Z"
+  },
+  {
    "id": "b6d12035db6b",
    "titulo": "Primeiros computadores quânticos da América Latina chegam à Paraíba e vão ser instalados em João Pessoa",
    "fonte": "G1",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUkYxVjNYUm1Ea1QyRmxUeVpKemgxUU1zREFERDRreGNJejdlcXRFN283eEs5eF9LdE0zelBsV2hxaks2VUNEa2hpb290ekl1R1lXb21TN1RIUkxDN0JTWFB5dnNWLVVVNmh1cks1YkdvSUN5NzlBejB4anJUemoyMHlDbjFMYlhYdS1uR2lhNnhRZkNpbjUwWHZxRGIwcXB2ZlNsRUswbTR2NmFuNDJNYU0tMldPRldFbTZPOTZqS0FlNHcxcUtKamNjM2ZhV3RPV3R0MmJZRjTSAdgBQVVfeXFMTlJGMVYzWFJtRGtUMkZsVHlaSnpoMVFNc0RBREQ0a3hjSXo3ZXF0RTdvN3hLOXhfS3RNM3pQbFdocWpLNlVDRGtoaW9vdHpJdUdZV29tUzdUSFJMQzdCU1hQeXZzVi1VVTZodXJLNWJHb0lDeTc5QXoweGpyVHpqMjB5Q24xTGJYWHUtbkdpYTZ4UWZDaW41MFh2cURiMHFwdmZTbEVLMG00djZhbjQyTWFNLTJXT0ZXRW02Tzk2aktBZTR3MXFLSmpjYzNmYVd0T1d0dDJiWUY0?oc=5",
    "data": "2026-11-16T19:51:58.000Z",
    "temas": [
-    "quantica"
+    "quantica",
+    "ciquanta"
    ],
    "orgs": [],
    "edital": false,
@@ -176,6 +376,34 @@
    "edital": false,
    "resumo": "Comissão aprova incentivos fiscais para empresas focadas em tecnologias assistivas RCWTV",
    "coletadoEm": "2026-11-16T22:20:17.406Z"
+  },
+  {
+   "id": "3d0a172f88cc",
+   "titulo": "Computador quântico já está a caminho de João Pessoa",
+   "fonte": "Paraíba Já",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZmdKTG1pNWVORlBfZkgwbkljSndLT21YRU1TalpMZzVaUkdaY0lac0ZqVXRGeG4xUVY3Nlo4dzYwQVJLUlZLZS1ZTWRuUzRyU003WWZycXhfYTI4OHNpZUpUNlhXeW1GZGxUOHJkaXVoTko1Wl9acHlNYjQ4S1Y4YmpHc08yRW44S0NHeV8tM2FlRUVSTk9FemtMcjdJTU9yaGc?oc=5",
+   "data": "2026-11-16T16:23:37.000Z",
+   "temas": [
+    "ciquanta"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Computador quântico já está a caminho de João Pessoa Paraíba Já",
+   "coletadoEm": "2026-11-17T18:34:47.939Z"
+  },
+  {
+   "id": "87e489f08c90",
+   "titulo": "Nvidia e IBM ampliam colaboração em computação quântica",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNU42dlFfazJzcGJRaWZrV3Y3WTB6MExUMlROR2xfZEtjX0szVHFmZ1J3bW5nZ2tjdkVZXzV4Qm9ESnVCZ2ZYbWkzajN5TVI1cDR1MHpmVVFpSm9rQ2s1X2pVSjJXSWdweklkcTFKQzhUR1hLTHZRREdGXzdBbkhZeHNkWGlrWFl2SWZ5WVNRSnhLTnhOQVVuMVY3MW9XWDRiamhfZFM2RFFsVVF0SGV4LQ?oc=5",
+   "data": "2026-11-16T16:05:00.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Nvidia e IBM ampliam colaboração em computação quântica Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "coletadoEm": "2026-11-17T18:34:42.548Z"
   },
   {
    "id": "7044897dd7b8",
@@ -535,6 +763,23 @@
    "coletadoEm": "2026-11-16T22:20:16.340Z"
   },
   {
+   "id": "4dd9abc16045",
+   "titulo": "Unicamp e Petrobras estruturam iniciativa para impulsionar startups deep tech e aproximar ciência do mercado de energia",
+   "fonte": "Brasil Inovador",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRnZtOGRGLXAzUmZ4OURlbWNoUS1PdUZrZndidGVuSmI1U2ZfbFVRU2hvZkVZa0owR1l5bjdyZWRDSldLSGoxQzlUdFkwM1JyYnNpcTQwTnMxSWhvMlBzdEhZdmstU1h1TWp0RUtId1Q1VlFuNXIyNnpkSXRjbVRvTGhJZmVIbjFBcVJ5QXFBa0p3ZXdEQTc1MkNBTFNHbDZLWkQyb2gyZTEtdFFSQVdJYlZfTTNiZDNHWHgzMklsRFM2czV5TGRhSlBiZUdMbm1Fa2tmSkhDdmpJRURuSm5EM0ZDYUs?oc=5",
+   "data": "2026-11-13T19:20:06.000Z",
+   "temas": [
+    "investimento"
+   ],
+   "orgs": [
+    "ref-petrobras",
+    "ref-unicamp"
+   ],
+   "edital": false,
+   "resumo": "Unicamp e Petrobras estruturam iniciativa para impulsionar startups deep tech e aproximar ciência do mercado de energia Brasil Inovador",
+   "coletadoEm": "2026-11-17T18:34:58.996Z"
+  },
+  {
    "id": "9d83c46f0651",
    "titulo": "Computação quântica avança, mas ainda enfrenta desafios para chegar às aplicações práticas",
    "fonte": "Jornal da USP",
@@ -596,6 +841,20 @@
    "edital": true,
    "resumo": "Projetos da UFSC são selecionados na Chamada Pop Ciência do CNPq Proifes",
    "coletadoEm": "2026-11-16T22:20:19.307Z"
+  },
+  {
+   "id": "ad259d1ff833",
+   "titulo": "CTC acelera investimentos em pesquisa no 2º trimestre, mas lucro tem queda",
+   "fonte": "NovaCana",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZmtxNHhMTGdFc2JCZkRpaXFJdE4yTmk0U3dRVWpKZjlCUG51OFpPVEpBaU5sd2lFRE0xQUUteVZCYnVZNFNoNVRuNW5WdTNFLVpESTZ6UFhTVXBTMlpnUzlOX1pRcjFzUHc4R0hsbkVSUFBLSFVPaVJkTGVjNDhJb0lYVWYzbHVqalQzM2ZTSF9xcW1MdnhrU3RsMzJrSVJoNkFDY09PZ3J3Zw?oc=5",
+   "data": "2026-11-13T13:06:54.000Z",
+   "temas": [
+    "pdi"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "CTC acelera investimentos em pesquisa no 2º trimestre, mas lucro tem queda NovaCana",
+   "coletadoEm": "2026-11-17T18:35:00.939Z"
   },
   {
    "id": "a47e48bbb885",
@@ -799,7 +1058,8 @@
    "data": "2026-11-12T13:34:40.000Z",
    "temas": [
     "quantica",
-    "financeiro"
+    "financeiro",
+    "saude"
    ],
    "orgs": [],
    "edital": false,
@@ -1922,7 +2182,8 @@
    "data": "2026-10-19T07:00:00.000Z",
    "temas": [
     "saude",
-    "agro"
+    "agro",
+    "energia"
    ],
    "orgs": [],
    "edital": false,

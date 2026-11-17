@@ -7166,9 +7166,5221 @@
      "relevancia": 24
     }
    ]
+  },
+  "ref-braskem": {
+   "instituicao": {
+    "id": "I4210159212",
+    "nome": "Braskem (Brazil)",
+    "tipo": "company",
+    "trabalhos": 307
+   },
+   "buscadoEm": "2026-11-17T18:38:20.837Z",
+   "pessoas": [
+    {
+     "id": "A5016482828",
+     "nome": "Márcio V. Rebouças",
+     "orcid": "0000-0002-8094-9587",
+     "trabalhos": 11,
+     "ultimoAno": 2025,
+     "temas": [
+      "CO2 Reduction Techniques and Catalysts",
+      "Advanced Polymer Synthesis and Characterization",
+      "Organometallic Complex Synthesis and Catalysis"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Cationic polymerization of isobutylene by AlCl3 in polar solvents at mild temperatures",
+      "ano": 2025,
+      "url": "https://doi.org/10.1016/j.polymer.2025.129096",
+      "quantico": false
+     },
+     "relevancia": 56,
+     "cargo": "Process Technology Specialist, Innovation & Technology",
+     "orcidVistoEm": "2026-11-17T18:38:21.914Z"
+    },
+    {
+     "id": "A5026536420",
+     "nome": "Márcio Henrique S. Andrade",
+     "orcid": "",
+     "trabalhos": 9,
+     "ultimoAno": 2025,
+     "temas": [
+      "Carbon Dioxide Capture Technologies",
+      "Fluid Dynamics and Mixing",
+      "CO2 Reduction Techniques and Catalysts"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Modeling of Suspension Polymerizations in Continuous Oscillatory Baffled Reactors (COBR): Population Balance Model",
+      "ano": 2025,
+      "url": "https://doi.org/10.1021/acs.iecr.5c01553",
+      "quantico": false
+     },
+     "relevancia": 53
+    },
+    {
+     "id": "A5113113568",
+     "nome": "Normando José Castro de Jesus",
+     "orcid": "",
+     "trabalhos": 4,
+     "ultimoAno": 2025,
+     "temas": [
+      "Fluid Dynamics and Mixing",
+      "Polymer Science and PVC",
+      "Chemical and Environmental Engineering Research"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Modeling of Suspension Polymerizations in Continuous Oscillatory Baffled Reactors (COBR): Population Balance Model",
+      "ano": 2025,
+      "url": "https://doi.org/10.1021/acs.iecr.5c01553",
+      "quantico": false
+     },
+     "relevancia": 38
+    },
+    {
+     "id": "A5025711728",
+     "nome": "Rita Marinho",
+     "orcid": "",
+     "trabalhos": 3,
+     "ultimoAno": 2025,
+     "temas": [
+      "Fluid Dynamics and Mixing",
+      "Polymer Science and PVC",
+      "Chemical and Environmental Engineering Research"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Modeling of Suspension Polymerizations in Continuous Oscillatory Baffled Reactors (COBR): Population Balance Model",
+      "ano": 2025,
+      "url": "https://doi.org/10.1021/acs.iecr.5c01553",
+      "quantico": false
+     },
+     "relevancia": 35
+    },
+    {
+     "id": "A5021420607",
+     "nome": "Antonio Rodolfo",
+     "orcid": "0000-0002-7792-5533",
+     "trabalhos": 6,
+     "ultimoAno": 2025,
+     "temas": [
+      "Polymer Science and PVC",
+      "Fatigue and fracture mechanics",
+      "Polymer crystallization and properties"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "From the end to the beginning: Obtaining and evaluation of flexible PVC produced via chemical recycling of post-consumer PET",
+      "ano": 2025,
+      "url": "https://doi.org/10.1177/14777606251314280",
+      "quantico": false
+     },
+     "relevancia": 32,
+     "cargo": "Application Engineering and Market Development Manager - PVC/Caustic Soda, Vinyls",
+     "orcidVistoEm": "2026-11-17T18:38:22.352Z"
+    },
+    {
+     "id": "A5045547063",
+     "nome": "Ana Paula de Azeredo",
+     "orcid": "",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Thermochemical Biomass Conversion Processes",
+      "Polymer crystallization and properties",
+      "Thermal and Kinetic Analysis"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Pretreatment Effects of Conventional and Reactive Extrusion on LLDPE Waste Pyrolysis",
+      "ano": 2026,
+      "url": "https://doi.org/10.1002/pen.70571",
+      "quantico": false
+     },
+     "relevancia": 30
+    },
+    {
+     "id": "A5004595274",
+     "nome": "Regina F. Nonemacher",
+     "orcid": "",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Thermochemical Biomass Conversion Processes",
+      "Polymer crystallization and properties",
+      "Thermal and Kinetic Analysis"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Pretreatment Effects of Conventional and Reactive Extrusion on LLDPE Waste Pyrolysis",
+      "ano": 2026,
+      "url": "https://doi.org/10.1002/pen.70571",
+      "quantico": false
+     },
+     "relevancia": 30
+    },
+    {
+     "id": "A5000371935",
+     "nome": "Débora Micheline Vaz de Miranda",
+     "orcid": "0000-0002-8091-8596",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Thermochemical Biomass Conversion Processes",
+      "Zeolite Catalysis and Synthesis",
+      "Polymer crystallization and properties"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "A Review on Catalyst Chemical Recycling Technologies for Production of Light Gaseous Compounds from Polyolefin Waste",
+      "ano": 2026,
+      "url": "https://doi.org/10.3390/pr14121863",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5117758544",
+     "nome": "Rodrigo Almeida Luciano",
+     "orcid": "",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Thermochemical Biomass Conversion Processes",
+      "Zeolite Catalysis and Synthesis",
+      "Polymer crystallization and properties"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "A Review on Catalyst Chemical Recycling Technologies for Production of Light Gaseous Compounds from Polyolefin Waste",
+      "ano": 2026,
+      "url": "https://doi.org/10.3390/pr14121863",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5112722131",
+     "nome": "Normando Jesus",
+     "orcid": "",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Zeolite Catalysis and Synthesis",
+      "Catalysis and Oxidation Reactions",
+      "Thermochemical Biomass Conversion Processes"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "A Review on Catalyst Chemical Recycling Technologies for Production of Light Gaseous Compounds from Polyolefin Waste",
+      "ano": 2026,
+      "url": "https://doi.org/10.3390/pr14121863",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5102707356",
+     "nome": "Samir Budhathoki",
+     "orcid": "0000-0003-3972-1772",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Machine Learning in Materials Science",
+      "Metal-Organic Frameworks: Synthesis and Applications"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Machine Learned Force Field Modeling of Metal Organic Frameworks for CO2 Direct Air Capture",
+      "ano": 2024,
+      "url": "https://doi.org/10.2172/2438428",
+      "quantico": false
+     },
+     "relevancia": 25,
+     "orcidVistoEm": "2026-11-17T18:38:22.754Z"
+    },
+    {
+     "id": "A5005553729",
+     "nome": "Marcio Henrique dos S. Andrade",
+     "orcid": "",
+     "trabalhos": 3,
+     "ultimoAno": 2025,
+     "temas": [
+      "Advanced Polymer Synthesis and Characterization",
+      "Organometallic Complex Synthesis and Catalysis"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Cationic polymerization of isobutylene by AlCl3 in polar solvents at mild temperatures",
+      "ano": 2025,
+      "url": "https://doi.org/10.1016/j.polymer.2025.129096",
+      "quantico": false
+     },
+     "relevancia": 23
+    },
+    {
+     "id": "A5147284169",
+     "nome": "José Capistrano Nobre de Abreu",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Polymer Synthesis and Characterization",
+      "Advanced Polymer Synthesis and Characterization"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Influence of Reaction Conditions and Water on the Manufacture of C9 Aromatic Hydrocarbon Resins",
+      "ano": 2026,
+      "url": "https://doi.org/10.1002/pen.70822",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5159515249",
+     "nome": "Stephen Schmidt",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Polymer Foaming and Composites",
+      "Polymer crystallization and properties"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Foams with High Recycled Content Enabled by Dynamic Crosslinking",
+      "ano": 2026,
+      "url": "https://doi.org/10.65569/xnmx3039",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5080894984",
+     "nome": "Kimberly Miller McLoughlin",
+     "orcid": "0000-0003-1398-6561",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Polymer Foaming and Composites",
+      "Polymer crystallization and properties"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Foams with High Recycled Content Enabled by Dynamic Crosslinking",
+      "ano": 2026,
+      "url": "https://doi.org/10.65569/xnmx3039",
+      "quantico": false
+     },
+     "relevancia": 21
+    }
+   ]
+  },
+  "ref-suzano": {
+   "instituicao": {
+    "id": "I4210110541",
+    "nome": "Suzano (Brazil)",
+    "tipo": "company",
+    "trabalhos": 281
+   },
+   "buscadoEm": "2026-11-17T18:38:23.397Z",
+   "pessoas": [
+    {
+     "id": "A5071789575",
+     "nome": "Clayton Alcarde Álvares",
+     "orcid": "0000-0001-7731-6327",
+     "trabalhos": 27,
+     "ultimoAno": 2026,
+     "temas": [
+      "Forest ecology and management",
+      "Plant Water Relations and Carbon Dynamics",
+      "Remote Sensing and LiDAR Applications"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "The role of ecophysiological traits in driving biomass growth of Eucalyptus genetic materials with different drought tolerances",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.agrformet.2026.111490",
+      "quantico": false
+     },
+     "relevancia": 60,
+     "orcidVistoEm": "2026-11-17T18:38:24.789Z"
+    },
+    {
+     "id": "A5005357678",
+     "nome": "Edival Ângelo Valverde Zauza",
+     "orcid": "0000-0001-8322-7689",
+     "trabalhos": 15,
+     "ultimoAno": 2026,
+     "temas": [
+      "Genetics and Plant Breeding",
+      "Forest Insect Ecology and Management",
+      "Plant Stress Responses and Tolerance"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Aeroponics in the characterization of the root system of eucalyptus",
+      "ano": 2026,
+      "url": "https://doi.org/10.53661/1806-9088202650263902",
+      "quantico": false
+     },
+     "relevancia": 60,
+     "orcidVistoEm": "2026-11-17T18:38:25.247Z"
+    },
+    {
+     "id": "A5083020125",
+     "nome": "Everton Pires Soliman",
+     "orcid": "0000-0001-6220-4568",
+     "trabalhos": 10,
+     "ultimoAno": 2026,
+     "temas": [
+      "Forest Insect Ecology and Management",
+      "Hymenoptera taxonomy and phylogeny",
+      "Hemiptera Insect Studies"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Psyllaephagus brachiatus and Psyllaephagus sp. HH (Hymenoptera: Encyrtidae) in infestations of Glycaspis brimblecombei (Hemiptera: Aphalaridae) in Brazil",
+      "ano": 2026,
+      "url": "https://doi.org/10.1590/1519-6984.300346",
+      "quantico": false
+     },
+     "relevancia": 60,
+     "orcidVistoEm": "2026-11-17T18:38:25.667Z"
+    },
+    {
+     "id": "A5025110167",
+     "nome": "Reginaldo Gonçalves Máfia",
+     "orcid": "0000-0003-2408-5531",
+     "trabalhos": 9,
+     "ultimoAno": 2026,
+     "temas": [
+      "Genetics and Plant Breeding",
+      "Genetically Modified Organisms Research",
+      "Plant Pathogens and Fungal Diseases"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Aeroponics in the characterization of the root system of eucalyptus",
+      "ano": 2026,
+      "url": "https://doi.org/10.53661/1806-9088202650263902",
+      "quantico": false
+     },
+     "relevancia": 57,
+     "orcidVistoEm": "2026-11-17T18:38:26.110Z"
+    },
+    {
+     "id": "A5018001757",
+     "nome": "Henrique Ferraço Scolforo",
+     "orcid": "0000-0002-2015-5056",
+     "trabalhos": 11,
+     "ultimoAno": 2026,
+     "temas": [
+      "Remote Sensing and LiDAR Applications",
+      "Forest ecology and management",
+      "Remote Sensing in Agriculture"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Context-aware quantile baselines for disturbance detection in non-stationary short-rotation forest plantations",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.jag.2026.105555",
+      "quantico": false
+     },
+     "relevancia": 48,
+     "orcidVistoEm": "2026-11-17T18:38:26.524Z"
+    },
+    {
+     "id": "A5055965451",
+     "nome": "Maurício Magalhães Domingues",
+     "orcid": "0000-0001-9026-578X",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Forest Insect Ecology and Management",
+      "Insect and Arachnid Ecology and Behavior",
+      "Biological Control of Invasive Species"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Machine learning-based assessment of leaf-cutting ant infestation in Eucalyptusforest plantations.",
+      "ano": 2026,
+      "url": "https://doi.org/10.1590/01047760202632013570",
+      "quantico": false
+     },
+     "relevancia": 42,
+     "orcidVistoEm": "2026-11-17T18:38:27.024Z"
+    },
+    {
+     "id": "A5021282904",
+     "nome": "Ítalo Ramos Cegatta",
+     "orcid": "0000-0003-0833-6214",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Forest ecology and management",
+      "Insect and Arachnid Ecology and Behavior",
+      "Forest Insect Ecology and Management"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Machine learning-based assessment of leaf-cutting ant infestation in Eucalyptusforest plantations.",
+      "ano": 2026,
+      "url": "https://doi.org/10.1590/01047760202632013570",
+      "quantico": false
+     },
+     "relevancia": 42,
+     "cargo": "Data Scientist, Information Technology",
+     "orcidVistoEm": "2026-11-17T18:38:27.462Z"
+    },
+    {
+     "id": "A5059125040",
+     "nome": "Antônio Carlos Mota Porto",
+     "orcid": "0000-0002-8229-0149",
+     "trabalhos": 6,
+     "ultimoAno": 2026,
+     "temas": [
+      "Genetics and Plant Breeding",
+      "Genetic and phenotypic traits in livestock",
+      "Plant Pathogenic Bacteria Studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Reliability of Greenhouse Screening for Early Selection of Eucalyptus Clones Resistant to Erwinia psidii",
+      "ano": 2026,
+      "url": "https://doi.org/10.1111/efp.70080",
+      "quantico": false
+     },
+     "relevancia": 36,
+     "cargo": "R&D Coordinator, FuturaGene-Biotech Division",
+     "orcidVistoEm": "2026-11-17T18:38:27.875Z"
+    },
+    {
+     "id": "A5102256779",
+     "nome": "Aguinaldo José de Souza",
+     "orcid": "0000-0003-0247-3007",
+     "trabalhos": 5,
+     "ultimoAno": 2026,
+     "temas": [
+      "Wood Treatment and Properties",
+      "Forest ecology and management",
+      "Genetics and Plant Breeding"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Estimation of basic wood density of eucalyptus using non-destructive methods",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/s11056-026-10201-5",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "email": "ajsouza@suzano.com.br",
+     "cargo": "",
+     "orcidVistoEm": "2026-11-17T18:38:28.307Z"
+    },
+    {
+     "id": "A5006336002",
+     "nome": "Vitoria Fernanda dos Santos",
+     "orcid": "0000-0001-7722-5783",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Insect and Arachnid Ecology and Behavior",
+      "Forest Insect Ecology and Management"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Machine learning-based assessment of leaf-cutting ant infestation in Eucalyptusforest plantations.",
+      "ano": 2026,
+      "url": "https://doi.org/10.1590/01047760202632013570",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "orcidVistoEm": "2026-11-17T18:38:28.718Z"
+    },
+    {
+     "id": "A5034818730",
+     "nome": "Lúcio Mauro da Silva Guimarães",
+     "orcid": "0000-0003-1397-8086",
+     "trabalhos": 5,
+     "ultimoAno": 2026,
+     "temas": [
+      "Genetics and Plant Breeding",
+      "Genetic and phenotypic traits in livestock",
+      "Plant Water Relations and Carbon Dynamics"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Clonal selection and genotype-by-environment interaction in Eucalyptus for sustainable forestry in Alagoas",
+      "ano": 2026,
+      "url": "https://doi.org/10.1590/01047760202632013647",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "cargo": "Researcher , FuturaGene",
+     "orcidVistoEm": "2026-11-17T18:38:29.128Z"
+    },
+    {
+     "id": "A5000996253",
+     "nome": "Talyta Galafassi Zarpelon",
+     "orcid": "0009-0004-2806-7095",
+     "trabalhos": 2,
+     "ultimoAno": 2025,
+     "temas": [
+      "Plant Pathogenic Bacteria Studies",
+      "Phytoplasmas and Hemiptera pathogens",
+      "Plant Pathogens and Fungal Diseases"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Phylloplane as a potential Erwinia psidii inoculum reservoir",
+      "ano": 2025,
+      "url": "https://doi.org/10.1007/s40858-025-00720-5",
+      "quantico": false
+     },
+     "relevancia": 32,
+     "orcidVistoEm": "2026-11-17T18:38:29.527Z"
+    },
+    {
+     "id": "A5003248221",
+     "nome": "Renata Guilherme Cândido da Silva",
+     "orcid": "0000-0003-2862-5179",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Wood Treatment and Properties",
+      "Forest ecology and management",
+      "Genetics and Plant Breeding"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Estimation of basic wood density of eucalyptus using non-destructive methods",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/s11056-026-10201-5",
+      "quantico": false
+     },
+     "relevancia": 30,
+     "orcidVistoEm": "2026-11-17T18:38:29.957Z"
+    },
+    {
+     "id": "A5080522188",
+     "nome": "José Mateus Wisniewski Gonsalves",
+     "orcid": "0000-0003-0482-3189",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Genetics and Plant Breeding",
+      "Plant Pathogenic Bacteria Studies",
+      "Seedling growth and survival studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Reliability of Greenhouse Screening for Early Selection of Eucalyptus Clones Resistant to Erwinia psidii",
+      "ano": 2026,
+      "url": "https://doi.org/10.1111/efp.70080",
+      "quantico": false
+     },
+     "relevancia": 30,
+     "orcidVistoEm": "2026-11-17T18:38:30.367Z"
+    },
+    {
+     "id": "A5047588599",
+     "nome": "Rodrigo Neves Graça",
+     "orcid": "0009-0007-3395-2859",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Genetics and Plant Breeding",
+      "Plant Pathogenic Bacteria Studies",
+      "Seedling growth and survival studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Reliability of Greenhouse Screening for Early Selection of Eucalyptus Clones Resistant to Erwinia psidii",
+      "ano": 2026,
+      "url": "https://doi.org/10.1111/efp.70080",
+      "quantico": false
+     },
+     "relevancia": 30,
+     "orcidVistoEm": "2026-11-17T18:38:30.779Z"
+    }
+   ]
+  },
+  "ref-weg": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-17T18:38:32.607Z",
+   "pessoas": []
+  },
+  "ref-ht-micron": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-17T18:38:32.955Z",
+   "pessoas": []
+  },
+  "ref-samsung-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-17T18:38:33.293Z",
+   "pessoas": []
+  },
+  "ref-dell-technologies-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-17T18:38:33.646Z",
+   "pessoas": []
+  },
+  "ref-lenovo-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-17T18:38:34.098Z",
+   "pessoas": []
+  },
+  "ref-rumo": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-17T18:38:34.433Z",
+   "pessoas": []
+  },
+  "ref-stellantis": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-17T18:38:36.572Z",
+   "pessoas": []
+  },
+  "ref-volkswagen-do-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-17T18:38:38.596Z",
+   "pessoas": []
+  },
+  "ref-byd-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-17T18:38:38.924Z",
+   "pessoas": []
+  },
+  "ref-mercado-livre": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-17T18:38:39.231Z",
+   "pessoas": []
+  },
+  "ref-embraer": {
+   "instituicao": {
+    "id": "I1288761627",
+    "nome": "Embraer (Brazil)",
+    "tipo": "company",
+    "trabalhos": 1080
+   },
+   "buscadoEm": "2026-11-17T18:38:39.559Z",
+   "pessoas": [
+    {
+     "id": "A5071463379",
+     "nome": "Milton Neto",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2025,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Reliability and Maintenance Optimization"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Quantum-Enhanced Predictive Maintenance for Aerospace Robotic Arms",
+      "ano": 2025,
+      "url": "https://doi.org/10.3384/wcc215.1157",
+      "quantico": true
+     },
+     "relevancia": 72
+    },
+    {
+     "id": "A5061156882",
+     "nome": "Michelle Fernandino Westin",
+     "orcid": "0000-0001-9333-5835",
+     "trabalhos": 9,
+     "ultimoAno": 2026,
+     "temas": [
+      "Aerospace and Aviation Technology",
+      "Fluid dynamics and aerodynamics studies",
+      "Computational Fluid Dynamics and Aerodynamics"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "An experimental study of discrete gust interaction with a propeller in axial flight: Asymmetric loading and gust breakdown mechanisms",
+      "ano": 2026,
+      "url": "https://doi.org/10.1063/5.0351333",
+      "quantico": false
+     },
+     "relevancia": 45,
+     "orcidVistoEm": "2026-11-17T18:38:43.222Z"
+    },
+    {
+     "id": "A5072776222",
+     "nome": "Stiven Schwanz Dias",
+     "orcid": "0000-0002-6285-4103",
+     "trabalhos": 8,
+     "ultimoAno": 2026,
+     "temas": [
+      "Target Tracking and Data Fusion in Sensor Networks",
+      "Inertial Sensor and Navigation",
+      "Video Surveillance and Tracking Methods"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "A Data-Centric Analysis for Improved Object Detection in Coastal Maritime Surveillance",
+      "ano": 2026,
+      "url": "https://doi.org/10.23919/fusion67272.2026.11726595",
+      "quantico": false
+     },
+     "relevancia": 42,
+     "cargo": "Senior Data Fusion Engineer, R&D",
+     "orcidVistoEm": "2026-11-17T18:38:43.627Z"
+    },
+    {
+     "id": "A5011318101",
+     "nome": "Sidney Osses Nunes",
+     "orcid": "",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Lightning and Electromagnetic Phenomena",
+      "Electromagnetic Compatibility and Noise Suppression",
+      "Air Traffic Management and Optimization"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Investigation of Lightning Indirect Effects on a Composite Aircraft Fuselage Segment",
+      "ano": 2026,
+      "url": "https://doi.org/10.5281/zenodo.23084079",
+      "quantico": false
+     },
+     "relevancia": 39
+    },
+    {
+     "id": "A5005338867",
+     "nome": "Angelo Antonio Verri",
+     "orcid": "0000-0001-9004-2164",
+     "trabalhos": 7,
+     "ultimoAno": 2026,
+     "temas": [
+      "Aeroelasticity and Vibration Control",
+      "Computational Fluid Dynamics and Aerodynamics",
+      "Mechanical Engineering Research and Applications"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Structural Dynamic Analysis in eVTOL Power Distribution Units",
+      "ano": 2026,
+      "url": "https://doi.org/10.2514/6.2026-4139",
+      "quantico": false
+     },
+     "relevancia": 39,
+     "cargo": "Specialist Engineer, Chief Office",
+     "orcidVistoEm": "2026-11-17T18:38:44.045Z"
+    },
+    {
+     "id": "A5056673613",
+     "nome": "Pedro David Bravo-Mosquera",
+     "orcid": "0000-0001-5666-9465",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Computational Fluid Dynamics and Aerodynamics",
+      "Fluid dynamics and aerodynamics studies",
+      "Aeroelasticity and Vibration Control"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Unsteady Aerodynamics and Hinge Moment Calculations of Control Surfaces at Transonic Speeds",
+      "ano": 2026,
+      "url": "https://doi.org/10.2514/1.c038573",
+      "quantico": false
+     },
+     "relevancia": 39,
+     "orcidVistoEm": "2026-11-17T18:38:44.440Z"
+    },
+    {
+     "id": "A5070645893",
+     "nome": "José Antônio de Souza Mariano",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Lightning and Electromagnetic Phenomena",
+      "Electromagnetic Compatibility and Noise Suppression",
+      "Air Traffic Management and Optimization"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Investigation of Lightning Indirect Effects on a Composite Aircraft Fuselage Segment",
+      "ano": 2026,
+      "url": "https://doi.org/10.5281/zenodo.23084079",
+      "quantico": false
+     },
+     "relevancia": 36
+    },
+    {
+     "id": "A5013175996",
+     "nome": "Diego Faria Amaral",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Lightning and Electromagnetic Phenomena",
+      "Air Traffic Management and Optimization",
+      "Advanced Aircraft Design and Technologies"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Lightning Environment for Operation of eVTOLs Vehicles",
+      "ano": 2026,
+      "url": "https://doi.org/10.5281/zenodo.23084426",
+      "quantico": false
+     },
+     "relevancia": 36
+    },
+    {
+     "id": "A5019568444",
+     "nome": "F.G. Brandão",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Additive Manufacturing Materials and Processes",
+      "Cellular and Composite Structures",
+      "Additive Manufacturing and 3D Printing Technologies"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Thermomechanical properties optimization of L-PBF support structures via asymptotic homogenization and response surfaces",
+      "ano": 2026,
+      "url": "https://doi.org/10.1051/matecconf/202642202004",
+      "quantico": false
+     },
+     "relevancia": 36
+    },
+    {
+     "id": "A5111287567",
+     "nome": "Oséias Ferreira",
+     "orcid": "0009-0007-4066-8709",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Optimization and Packing Problems",
+      "Metaheuristic Optimization Algorithms Research",
+      "Reinforcement Learning in Robotics"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Random‐key optimization for 2D irregular packing with reusable area evaluation",
+      "ano": 2026,
+      "url": "https://doi.org/10.1111/itor.70246",
+      "quantico": false
+     },
+     "relevancia": 36,
+     "orcidVistoEm": "2026-11-17T18:38:44.849Z"
+    },
+    {
+     "id": "A5043758819",
+     "nome": "Thiago R.L. Zmijevski",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Aerodynamics and Acoustics in Jet Flows",
+      "Vehicle Noise and Vibration Control",
+      "Noise Effects and Management"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Propeller Noise Study for eVTOL Interior Noise Using Equivalent Acoustic Source Model",
+      "ano": 2026,
+      "url": "https://doi.org/10.3397/nc_2026_0205",
+      "quantico": false
+     },
+     "relevancia": 36
+    },
+    {
+     "id": "A5059056431",
+     "nome": "José Fernando Basso Brancalion",
+     "orcid": "0000-0002-4387-0204",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Reinforcement Learning in Robotics",
+      "Guidance and Control Systems",
+      "Maritime Navigation and Safety"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Deep Reinforcement Learning with Graph Attention for Cooperative Loyal Wingmen under Shared Spatio-Temporal Observations",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/s10846-026-02415-8",
+      "quantico": false
+     },
+     "relevancia": 36,
+     "orcidVistoEm": "2026-11-17T18:38:45.252Z"
+    },
+    {
+     "id": "A5091456500",
+     "nome": "Murilo Mestriner",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Computational Fluid Dynamics and Aerodynamics",
+      "Aeroelasticity and Vibration Control",
+      "Fluid dynamics and aerodynamics studies"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Calculation of Lofting Deformation Impacts on Aircraft Airframe and Trim Drag Using Mesh Morphing and Monte Carlo Method",
+      "ano": 2026,
+      "url": "https://doi.org/10.2514/6.2026-4520",
+      "quantico": false
+     },
+     "relevancia": 36
+    },
+    {
+     "id": "A5104230415",
+     "nome": "Fernando J. Oliveira Moreira",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Air Traffic Management and Optimization",
+      "Petri Nets in System Modeling",
+      "Vehicle Routing Optimization Methods"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Supervisory Control Architecture for Safe eVTOL Routing",
+      "ano": 2026,
+      "url": "https://doi.org/10.2514/6.2026-4218",
+      "quantico": false
+     },
+     "relevancia": 36
+    },
+    {
+     "id": "A5030140206",
+     "nome": "Gustavo Luiz Olichevis Halila",
+     "orcid": "0000-0003-2462-1058",
+     "trabalhos": 3,
+     "ultimoAno": 2025,
+     "temas": [
+      "Computational Fluid Dynamics and Aerodynamics",
+      "Aeroelasticity and Vibration Control",
+      "Model Reduction and Neural Networks"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "WITHDRAWAL: Curvature-Constrained Transonic Wing Adjoint-Based Aerodynamic Shape Optimization",
+      "ano": 2025,
+      "url": "https://doi.org/10.2514/6.2025-3017.c1",
+      "quantico": false
+     },
+     "relevancia": 35,
+     "cargo": "Lead Aerodynamicist and CFD Engineer, Technology Development",
+     "orcidVistoEm": "2026-11-17T18:38:45.668Z"
+    }
+   ]
+  },
+  "ref-vivo-telefonica-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-17T18:38:46.470Z",
+   "pessoas": []
+  },
+  "ref-tim-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-17T18:38:46.845Z",
+   "pessoas": []
+  },
+  "ref-claro-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-17T18:38:47.278Z",
+   "pessoas": []
+  },
+  "ref-padtec": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-17T18:38:47.629Z",
+   "pessoas": []
+  },
+  "ref-certisign": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-17T18:38:47.970Z",
+   "pessoas": []
+  },
+  "ref-microsoft-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-17T18:38:48.318Z",
+   "pessoas": []
+  },
+  "ref-amazon-web-services-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-17T18:38:48.641Z",
+   "pessoas": []
+  },
+  "ref-lncc": {
+   "instituicao": {
+    "id": "I4210142352",
+    "nome": "Laboratório Nacional de Computação Científica",
+    "tipo": "government",
+    "trabalhos": 3893
+   },
+   "buscadoEm": "2026-11-17T18:38:48.959Z",
+   "pessoas": [
+    {
+     "id": "A5008778719",
+     "nome": "Renato Portugal",
+     "orcid": "0000-0003-0894-4279",
+     "trabalhos": 32,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography",
+      "Quantum Mechanics and Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Adaptive Quantum Physics-Informed Neural Networks for Differential Equations with Applications to Fluid Dynamics",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2608.00850",
+      "quantico": true
+     },
+     "relevancia": 100,
+     "orcidVistoEm": "2026-11-17T18:38:50.484Z"
+    },
+    {
+     "id": "A5021671858",
+     "nome": "Fábio Borges",
+     "orcid": "0000-0001-5159-9517",
+     "trabalhos": 7,
+     "ultimoAno": 2026,
+     "temas": [
+      "Cryptography and Data Security",
+      "Cryptography and Residue Arithmetic",
+      "Cryptographic Implementations and Security"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "A Comparison of Security and its Performance for Key Agreements in Post-Quantum Cryptography",
+      "ano": 2020,
+      "url": "https://doi.org/10.1109/access.2020.3013250",
+      "quantico": true
+     },
+     "relevancia": 91,
+     "orcidVistoEm": "2026-11-17T18:38:50.903Z"
+    },
+    {
+     "id": "A5008848139",
+     "nome": "Gilson Antonio Giraldi",
+     "orcid": "0000-0003-0623-9461",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum many-body systems",
+      "Image and Signal Denoising Methods"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Regression and Classification with Single-Qubit Quantum Neural Networks",
+      "ano": 2024,
+      "url": "https://doi.org/10.48550/arxiv.2412.09486",
+      "quantico": true
+     },
+     "relevancia": 79,
+     "orcidVistoEm": "2026-11-17T18:38:51.313Z"
+    },
+    {
+     "id": "A5068432430",
+     "nome": "Jalil Khatibi Moqadam",
+     "orcid": "0000-0001-7428-9896",
+     "trabalhos": 3,
+     "ultimoAno": 2025,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography",
+      "Quantum Mechanics and Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Efficient Circuit Implementations of Continuous-Time Quantum Walks for Quantum Search",
+      "ano": 2025,
+      "url": "https://doi.org/10.3390/e27050454",
+      "quantico": true
+     },
+     "relevancia": 75,
+     "orcidVistoEm": "2026-11-17T18:38:51.822Z"
+    },
+    {
+     "id": "A5144405879",
+     "nome": "João Felipe Bragança",
+     "orcid": "0009-0006-4356-4430",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Cold Atom Physics and Bose-Einstein Condensates"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Computação quântica de átomos neutros: utilização do framework Bloqade na solução de problemas de Conjunto Independente",
+      "ano": 2026,
+      "url": "https://doi.org/10.1590/1806-9126-rbef-2025-0467",
+      "quantico": true
+     },
+     "relevancia": 73,
+     "orcidVistoEm": "2026-11-17T18:38:52.252Z"
+    },
+    {
+     "id": "A5021436388",
+     "nome": "Leandro Carlos de Souza",
+     "orcid": "0000-0002-5318-4814",
+     "trabalhos": 2,
+     "ultimoAno": 2025,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography",
+      "Quantum many-body systems"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Single-qudit quantum neural networks for multiclass classification",
+      "ano": 2025,
+      "url": "https://doi.org/10.1007/s11128-025-04998-x",
+      "quantico": true
+     },
+     "relevancia": 72,
+     "orcidVistoEm": "2026-11-17T18:38:52.656Z"
+    },
+    {
+     "id": "A5063987136",
+     "nome": "Gustavo Alves Bezerra",
+     "orcid": "0000-0002-6667-4353",
+     "trabalhos": 2,
+     "ultimoAno": 2024,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography",
+      "Quantum Mechanics and Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Quantum counting on the complete bipartite graph",
+      "ano": 2024,
+      "url": "https://doi.org/10.1142/s0219749924500278",
+      "quantico": true
+     },
+     "relevancia": 68,
+     "orcidVistoEm": "2026-11-17T18:38:53.124Z"
+    },
+    {
+     "id": "A5002142749",
+     "nome": "Abuzer Yakaryılmaz",
+     "orcid": "0000-0002-2372-252X",
+     "trabalhos": 5,
+     "ultimoAno": 2016,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "semigroups and automata theory",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Debates with Small Transparent Quantum Verifiers",
+      "ano": 2016,
+      "url": "https://doi.org/10.1142/s0129054116400104",
+      "quantico": true
+     },
+     "relevancia": 67,
+     "orcidVistoEm": "2026-11-17T18:38:53.567Z"
+    },
+    {
+     "id": "A5078861305",
+     "nome": "Bruno Clemente Guingo",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Image Processing and 3D Reconstruction"
+     ],
+     "quantico": true,
+     "afim": false,
+     "destaque": {
+      "titulo": "Image classification of archaeological artifacts using quantum neural networks",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.daach.2026.e00539",
+      "quantico": true
+     },
+     "relevancia": 61
+    },
+    {
+     "id": "A5028227330",
+     "nome": "Said Lantigua",
+     "orcid": "0009-0008-4594-9312",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Model Reduction and Neural Networks",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": false,
+     "destaque": {
+      "titulo": "QPI-DeepONet-MAC: A Scalable and Stable Hybrid Classical-Quantum Architecture for Physics-Informed Deep Operator Networks",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2610.01824",
+      "quantico": true
+     },
+     "relevancia": 61,
+     "orcidVistoEm": "2026-11-17T18:38:53.985Z"
+    },
+    {
+     "id": "A5002624923",
+     "nome": "Jonas Maziero",
+     "orcid": "0000-0002-2872-986X",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Model Reduction and Neural Networks",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": false,
+     "destaque": {
+      "titulo": "QPI-DeepONet-MAC: A Scalable and Stable Hybrid Classical-Quantum Architecture for Physics-Informed Deep Operator Networks",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2610.01824",
+      "quantico": true
+     },
+     "relevancia": 61,
+     "orcidVistoEm": "2026-11-17T18:38:54.419Z"
+    },
+    {
+     "id": "A5071140604",
+     "nome": "Diogo Augusto Barros Pereira",
+     "orcid": "0000-0002-1884-0994",
+     "trabalhos": 3,
+     "ultimoAno": 2020,
+     "temas": [
+      "Cryptography and Data Security",
+      "Cryptography and Residue Arithmetic"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "A Comparison of Security and its Performance for Key Agreements in Post-Quantum Cryptography",
+      "ano": 2020,
+      "url": "https://doi.org/10.1109/access.2020.3013250",
+      "quantico": true
+     },
+     "relevancia": 61,
+     "orcidVistoEm": "2026-11-17T18:38:54.840Z"
+    },
+    {
+     "id": "A5014590768",
+     "nome": "Paulo Ricardo Reis",
+     "orcid": "0000-0003-2050-6984",
+     "trabalhos": 2,
+     "ultimoAno": 2020,
+     "temas": [
+      "Cryptography and Data Security",
+      "Cryptography and Residue Arithmetic"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "A Comparison of Security and its Performance for Key Agreements in Post-Quantum Cryptography",
+      "ano": 2020,
+      "url": "https://doi.org/10.1109/access.2020.3013250",
+      "quantico": true
+     },
+     "relevancia": 58,
+     "orcidVistoEm": "2026-11-17T18:38:55.269Z"
+    },
+    {
+     "id": "A5112460950",
+     "nome": "Claudio Téllez",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2018,
+     "temas": [
+      "Cryptography and Residue Arithmetic",
+      "Cryptography and Data Security"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Supersingular Isogeny and Ring Learning With Errors-Based Diffie-Hellman Cryptosystems: A Performance and Security Comparison",
+      "ano": 2018,
+      "url": "https://doi.org/10.17648/wrac-2018-97122",
+      "quantico": true
+     },
+     "relevancia": 58
+    },
+    {
+     "id": "A5014284667",
+     "nome": "Pedro H. G. Lugão",
+     "orcid": "0000-0002-2316-445X",
+     "trabalhos": 1,
+     "ultimoAno": 2021,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Mechanics and Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Quantum-walk-based search algorithms with multiple marked vertices",
+      "ano": 2021,
+      "url": "https://doi.org/10.1103/physreva.103.062202",
+      "quantico": true
+     },
+     "relevancia": 55,
+     "orcidVistoEm": "2026-11-17T18:38:55.688Z"
+    }
+   ]
+  },
+  "ref-usp": {
+   "instituicao": {
+    "id": "I17974374",
+    "nome": "Universidade de São Paulo",
+    "tipo": "education",
+    "trabalhos": 570647
+   },
+   "buscadoEm": "2026-11-17T18:38:56.549Z",
+   "pessoas": [
+    {
+     "id": "A5058562603",
+     "nome": "Victor Takashi Hayashi",
+     "orcid": "0000-0001-6672-4296",
+     "trabalhos": 5,
+     "ultimoAno": 2026,
+     "temas": [
+      "Physical Unclonable Functions (PUFs) and Hardware Security",
+      "Cryptographic Implementations and Security",
+      "Security and Verification in Computing"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Delta-XMSS: Incremental State Optimization for Post-Quantum Hash-Based Signatures",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sbseg.2026.25247",
+      "quantico": true
+     },
+     "relevancia": 85,
+     "orcidVistoEm": "2026-11-17T18:38:58.675Z"
+    },
+    {
+     "id": "A5032612024",
+     "nome": "Diogo O. Soares-Pinto",
+     "orcid": "0000-0002-4293-6144",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum many-body systems",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Quantifying and Bounding Spatiotemporal Correlations in Quantum Noise",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2609.17870",
+      "quantico": true
+     },
+     "relevancia": 82,
+     "orcidVistoEm": "2026-11-17T18:38:59.084Z"
+    },
+    {
+     "id": "A5019846990",
+     "nome": "Regina Melo Silveira",
+     "orcid": "0000-0003-0059-6310",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Advanced Neural Network Applications",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Modelos de Quantum Machine Learning Aplicados na Classificação de Imagens Coloridas: Comparação entre Modelos Híbridos e Clássicos",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sbccq.2026.21226",
+      "quantico": true
+     },
+     "relevancia": 82,
+     "orcidVistoEm": "2026-11-17T18:38:59.518Z"
+    },
+    {
+     "id": "A5058630168",
+     "nome": "Neilson Carlos Leite Ramalho",
+     "orcid": "0009-0007-8543-6426",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Software Engineering Research",
+      "Scientific Computing and Data Management"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "NxM-Version Programming for Quantum Software: High-Level Components across Frameworks and Engines",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2609.33255",
+      "quantico": true
+     },
+     "relevancia": 79,
+     "orcidVistoEm": "2026-11-17T18:38:59.951Z"
+    },
+    {
+     "id": "A5020521912",
+     "nome": "Marcos Lordello Chaim",
+     "orcid": "0000-0001-7157-5141",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Software Engineering Research",
+      "Scientific Computing and Data Management"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "NxM-Version Programming for Quantum Software: High-Level Components across Frameworks and Engines",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2609.33255",
+      "quantico": true
+     },
+     "relevancia": 79,
+     "orcidVistoEm": "2026-11-17T18:39:00.378Z"
+    },
+    {
+     "id": "A5099623071",
+     "nome": "G. E. L. Pexe",
+     "orcid": "0000-0003-3389-9510",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum many-body systems",
+      "Metaheuristic Optimization Algorithms Research"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Preparing a thermofield double state with feedback quantum algorithms",
+      "ano": 2026,
+      "url": "https://doi.org/10.1103/nwjw-vkty",
+      "quantico": true
+     },
+     "relevancia": 79,
+     "orcidVistoEm": "2026-11-17T18:39:00.796Z"
+    },
+    {
+     "id": "A5010228690",
+     "nome": "Wilson Vicente Ruggiero",
+     "orcid": "0000-0003-3612-3937",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Physical Unclonable Functions (PUFs) and Hardware Security",
+      "Security and Verification in Computing",
+      "Cryptographic Implementations and Security"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "AI-based hardware trojan generation and detection in post-quantum cryptography",
+      "ano": 2026,
+      "url": "https://doi.org/10.21203/rs.3.rs-9849559/v1",
+      "quantico": true
+     },
+     "relevancia": 79,
+     "orcidVistoEm": "2026-11-17T18:39:01.219Z"
+    },
+    {
+     "id": "A5161386775",
+     "nome": "Marcos Eduardo Elias Eliashberg Elias",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Mechanics and Applications",
+      "Financial Markets and Investment Strategies"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "The Subordinator Renormalization Problem: When Markovian Error Models Misidentify Quantum Memory",
+      "ano": 2026,
+      "url": "https://doi.org/10.5281/zenodo.24119613",
+      "quantico": true
+     },
+     "relevancia": 76
+    },
+    {
+     "id": "A5077765350",
+     "nome": "Ellison Fernando Cardoso",
+     "orcid": "0000-0002-5542-4527",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Ethics and Social Impacts of AI",
+      "Quantum Computing Algorithms and Architecture",
+      "ECG Monitoring and Analysis"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Responsible Quantum Machine Learning for Medical Imaging: A Fairness Audit Across Sensitive Subgroups",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2610.37819",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "orcidVistoEm": "2026-11-17T18:39:01.661Z"
+    },
+    {
+     "id": "A5057346935",
+     "nome": "Higor Amario de Souza",
+     "orcid": "0000-0003-4233-5987",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Scientific Computing and Data Management",
+      "Software Engineering Research"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "NxM-Version Programming for Quantum Software: High-Level Components across Frameworks and Engines",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2609.33255",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "orcidVistoEm": "2026-11-17T18:39:02.081Z"
+    },
+    {
+     "id": "A5084426173",
+     "nome": "P. Nussenzveig",
+     "orcid": "0000-0002-8789-7505",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Mechanical and Optical Resonators",
+      "Quantum optics and atomic interactions"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Deleterious effect of photon-phonon coupling on microcavities in their application as quantum sources",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2607.21743",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "orcidVistoEm": "2026-11-17T18:39:02.570Z"
+    },
+    {
+     "id": "A5084568949",
+     "nome": "Nathália B. Tomazio",
+     "orcid": "0000-0002-3097-8232",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Mechanical and Optical Resonators",
+      "Quantum Information and Cryptography",
+      "Photonic and Optical Devices"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Deleterious effect of photon-phonon coupling on microcavities in their application as quantum sources",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2607.21743",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "orcidVistoEm": "2026-11-17T18:39:03.010Z"
+    },
+    {
+     "id": "A5076532462",
+     "nome": "M. Martinelli",
+     "orcid": "0000-0002-6504-7040",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Mechanical and Optical Resonators",
+      "Quantum optics and atomic interactions"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Deleterious effect of photon-phonon coupling on microcavities in their application as quantum sources",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2607.21743",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "orcidVistoEm": "2026-11-17T18:39:03.475Z"
+    },
+    {
+     "id": "A5135977134",
+     "nome": "Leonardo S. Belluzzo",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Advanced Neural Network Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Modelos de Quantum Machine Learning Aplicados na Classificação de Imagens Coloridas: Comparação entre Modelos Híbridos e Clássicos",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sbccq.2026.21226",
+      "quantico": true
+     },
+     "relevancia": 76
+    },
+    {
+     "id": "A5053809873",
+     "nome": "Waldemir Cambiucci",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography",
+      "Parallel Computing and Optimization Techniques"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Framework Ciente da Rede para Análise de Viabilidade da Execução Distribuída de Algoritmos Variacionais Quânticos",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/wqunets.2026.22949",
+      "quantico": true
+     },
+     "relevancia": 76
+    }
+   ]
+  },
+  "ref-ufpb": {
+   "instituicao": {
+    "id": "I169045520",
+    "nome": "Universidade Federal da Paraíba",
+    "tipo": "education",
+    "trabalhos": 67744
+   },
+   "buscadoEm": "2026-11-17T18:39:04.452Z",
+   "pessoas": [
+    {
+     "id": "A5056005637",
+     "nome": "Bertúlio de Lima Bernardo",
+     "orcid": "0000-0001-5351-9090",
+     "trabalhos": 10,
+     "ultimoAno": 2025,
+     "temas": [
+      "Quantum Mechanics and Applications",
+      "Quantum Information and Cryptography",
+      "Advanced Thermodynamics and Statistical Mechanics"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Accelerating feedback-based quantum algorithms through time rescaling",
+      "ano": 2025,
+      "url": "https://doi.org/10.1103/qc91-5mj2",
+      "quantico": true
+     },
+     "relevancia": 96,
+     "orcidVistoEm": "2026-11-17T18:39:05.565Z"
+    },
+    {
+     "id": "A5005986615",
+     "nome": "Claudio Furtado",
+     "orcid": "0000-0002-3455-4285",
+     "trabalhos": 8,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Mechanics and Applications",
+      "Quantum and electron transport phenomena",
+      "Relativity and Gravitational Theory"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Quantum Foundations and Open Quantum Systems: Lecture Notes of the Advanced School",
+      "ano": 2014,
+      "url": "https://doi.org/10.1142/9238",
+      "quantico": true
+     },
+     "relevancia": 94,
+     "email": "furtado@fisica.ufpb.br",
+     "orcidVistoEm": "2026-11-17T18:39:06.011Z"
+    },
+    {
+     "id": "A5021436388",
+     "nome": "Leandro Carlos de Souza",
+     "orcid": "0000-0002-5318-4814",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Image Processing and 3D Reconstruction",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Image classification of archaeological artifacts using quantum neural networks",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.daach.2026.e00539",
+      "quantico": true
+     },
+     "relevancia": 79,
+     "orcidVistoEm": "2026-11-17T18:39:06.445Z"
+    },
+    {
+     "id": "A5120729652",
+     "nome": "Miguel Alvarez Lisboa",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Quantum State Preparation for Classical Data Encoding",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sbccq.2026.20984",
+      "quantico": true
+     },
+     "relevancia": 73
+    },
+    {
+     "id": "A5144376584",
+     "nome": "Victor H. F. Brasil",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Quantum State Preparation for Classical Data Encoding",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sbccq.2026.20984",
+      "quantico": true
+     },
+     "relevancia": 73
+    },
+    {
+     "id": "A5144381274",
+     "nome": "João V. H. Duarte",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Quantum State Preparation for Classical Data Encoding",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sbccq.2026.20984",
+      "quantico": true
+     },
+     "relevancia": 73
+    },
+    {
+     "id": "A5144358554",
+     "nome": "Leandro C. Souza",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Quantum State Preparation for Classical Data Encoding",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sbccq.2026.20984",
+      "quantico": true
+     },
+     "relevancia": 73
+    },
+    {
+     "id": "A5061368124",
+     "nome": "D. Bazeia",
+     "orcid": "0000-0003-1335-3705",
+     "trabalhos": 2,
+     "ultimoAno": 2025,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Mechanics and Applications",
+      "Nonlinear Waves and Solitons"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Entangled states from simple quantum graphs",
+      "ano": 2025,
+      "url": "https://doi.org/10.1088/1751-8121/ae1270",
+      "quantico": true
+     },
+     "relevancia": 72,
+     "orcidVistoEm": "2026-11-17T18:39:06.871Z"
+    },
+    {
+     "id": "A5045778029",
+     "nome": "Carlos Octavio A. Ribeiro Neto",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2025,
+     "temas": [
+      "Advanced Thermodynamics and Statistical Mechanics",
+      "Quantum Information and Cryptography",
+      "Quantum Mechanics and Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Thermodynamics of ancilla-assisted erasure of quantum information",
+      "ano": 2025,
+      "url": "https://doi.org/10.1007/s11128-025-04770-1",
+      "quantico": true
+     },
+     "relevancia": 72
+    },
+    {
+     "id": "A5067329220",
+     "nome": "K. Bakke",
+     "orcid": "0000-0002-9038-863X",
+     "trabalhos": 6,
+     "ultimoAno": 2014,
+     "temas": [
+      "Quantum Mechanics and Applications",
+      "Quantum and electron transport phenomena",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Quantum holonomies for displaced Landau–Aharonov–Casher states",
+      "ano": 2014,
+      "url": "https://doi.org/10.1007/s11128-014-0751-9",
+      "quantico": true
+     },
+     "relevancia": 70,
+     "orcidVistoEm": "2026-11-17T18:39:07.287Z"
+    },
+    {
+     "id": "A5052155645",
+     "nome": "J. L. Montenegro Ferreira",
+     "orcid": "0000-0002-2982-4092",
+     "trabalhos": 2,
+     "ultimoAno": 2024,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Mechanics and Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Quantum tomography for arbitrary single-photon polarization-path states",
+      "ano": 2024,
+      "url": "https://doi.org/10.1103/physreva.109.022421",
+      "quantico": true
+     },
+     "relevancia": 68,
+     "orcidVistoEm": "2026-11-17T18:39:07.702Z"
+    },
+    {
+     "id": "A5033536995",
+     "nome": "W. F. Magalhães",
+     "orcid": "0000-0001-8990-8186",
+     "trabalhos": 2,
+     "ultimoAno": 2023,
+     "temas": [
+      "Advanced Thermodynamics and Statistical Mechanics",
+      "Quantum Mechanics and Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Quantum coherence and the principle of microscopic reversibility",
+      "ano": 2023,
+      "url": "https://doi.org/10.1103/physreva.108.052215",
+      "quantico": true
+     },
+     "relevancia": 64,
+     "orcidVistoEm": "2026-11-17T18:39:08.113Z"
+    },
+    {
+     "id": "A5018465391",
+     "nome": "Andréa Freire dos Santos",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2023,
+     "temas": [
+      "Quantum Mechanics and Applications",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Influence of polarization and the environment on wave–particle duality",
+      "ano": 2023,
+      "url": "https://doi.org/10.1007/s11128-022-03813-1",
+      "quantico": true
+     },
+     "relevancia": 61
+    },
+    {
+     "id": "A5047369089",
+     "nome": "Natália E. L. Barbosa",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2023,
+     "temas": [
+      "Quantum Mechanics and Applications",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Influence of polarization and the environment on wave–particle duality",
+      "ano": 2023,
+      "url": "https://doi.org/10.1007/s11128-022-03813-1",
+      "quantico": true
+     },
+     "relevancia": 61
+    },
+    {
+     "id": "A5083238319",
+     "nome": "B. Baseia",
+     "orcid": "0000-0002-2464-9889",
+     "trabalhos": 2,
+     "ultimoAno": 2019,
+     "temas": [
+      "Quantum Mechanics and Applications",
+      "Quantum optics and atomic interactions",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Time evolution of statistical properties of a radiation field described by a density operator that interpolates between pure and mixing states",
+      "ano": 2019,
+      "url": "https://doi.org/10.1140/epjb/e2019-100335-3",
+      "quantico": true
+     },
+     "relevancia": 58,
+     "orcidVistoEm": "2026-11-17T18:39:08.559Z"
+    }
+   ]
+  },
+  "ref-ufcg": {
+   "instituicao": {
+    "id": "I41455075",
+    "nome": "Universidade Federal de Campina Grande",
+    "tipo": "education",
+    "trabalhos": 37127
+   },
+   "buscadoEm": "2026-11-17T18:39:09.228Z",
+   "pessoas": [
+    {
+     "id": "A5058758241",
+     "nome": "Francisco de Assis",
+     "orcid": "0000-0002-8619-0874",
+     "trabalhos": 22,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture",
+      "Wireless Communication Security Techniques"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Arithmetic Reconciliation for CVQKD With Gaussian Modulation",
+      "ano": 2026,
+      "url": "https://doi.org/10.1109/access.2026.3738025",
+      "quantico": true
+     },
+     "relevancia": 100,
+     "orcidVistoEm": "2026-11-17T18:39:10.949Z"
+    },
+    {
+     "id": "A5125103358",
+     "nome": "Rávilla R. S. Leite",
+     "orcid": "0000-0001-8583-1265",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Wireless Communication Security Techniques"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Arithmetic Reconciliation for CVQKD With Gaussian Modulation",
+      "ano": 2026,
+      "url": "https://doi.org/10.1109/access.2026.3738025",
+      "quantico": true
+     },
+     "relevancia": 73,
+     "orcidVistoEm": "2026-11-17T18:39:11.373Z"
+    },
+    {
+     "id": "A5070992948",
+     "nome": "David O. Santos",
+     "orcid": "0009-0009-3926-1148",
+     "trabalhos": 1,
+     "ultimoAno": 2025,
+     "temas": [
+      "Metaheuristic Optimization Algorithms Research",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "A Grover-Operator-Based Quantum Variant of Particle Swarm Optimization for Robot Manipulators’ Inverse Kinematics: Theory and Simulation",
+      "ano": 2025,
+      "url": "https://doi.org/10.1109/access.2025.3628560",
+      "quantico": true
+     },
+     "relevancia": 69,
+     "orcidVistoEm": "2026-11-17T18:39:11.849Z"
+    },
+    {
+     "id": "A5055657704",
+     "nome": "Micael Andrade Dias",
+     "orcid": "0000-0001-6394-9174",
+     "trabalhos": 2,
+     "ultimoAno": 2024,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture",
+      "Wireless Communication Security Techniques"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Shemesh Theorem and Its Relation With the Zero-Error Quantum Information Theory",
+      "ano": 2024,
+      "url": "https://doi.org/10.1109/access.2024.3514518",
+      "quantico": true
+     },
+     "relevancia": 68,
+     "orcidVistoEm": "2026-11-17T18:39:12.340Z"
+    },
+    {
+     "id": "A5064416784",
+     "nome": "Marciel Medeiros de Oliveira",
+     "orcid": "0009-0009-4225-562X",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Shemesh Theorem and Its Relation With the Zero-Error Quantum Information Theory",
+      "ano": 2024,
+      "url": "https://doi.org/10.1109/access.2024.3514518",
+      "quantico": true
+     },
+     "relevancia": 65,
+     "cargo": "Mathematics",
+     "orcidVistoEm": "2026-11-17T18:39:12.767Z"
+    },
+    {
+     "id": "A5080770231",
+     "nome": "Andresso da Silva",
+     "orcid": "0000-0002-2920-3659",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Shemesh Theorem and Its Relation With the Zero-Error Quantum Information Theory",
+      "ano": 2024,
+      "url": "https://doi.org/10.1109/access.2024.3514518",
+      "quantico": true
+     },
+     "relevancia": 65,
+     "orcidVistoEm": "2026-11-17T18:39:13.196Z"
+    },
+    {
+     "id": "A5056005637",
+     "nome": "Bertúlio de Lima Bernardo",
+     "orcid": "0000-0001-5351-9090",
+     "trabalhos": 4,
+     "ultimoAno": 2020,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Mechanics and Applications",
+      "Orbital Angular Momentum in Optics"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Quantifying interference in multipartite quantum systems",
+      "ano": 2020,
+      "url": "https://doi.org/10.1016/j.physleta.2020.126611",
+      "quantico": true
+     },
+     "relevancia": 64,
+     "orcidVistoEm": "2026-11-17T18:39:13.616Z"
+    },
+    {
+     "id": "A5009206292",
+     "nome": "Elloá B. Guedes",
+     "orcid": "0000-0002-7264-701X",
+     "trabalhos": 4,
+     "ultimoAno": 2013,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Simulating the Quantum Fourier Transform",
+      "ano": 2013,
+      "url": "https://doi.org/10.1109/weit.2013.10",
+      "quantico": true
+     },
+     "relevancia": 64,
+     "orcidVistoEm": "2026-11-17T18:39:14.037Z"
+    },
+    {
+     "id": "A5059875443",
+     "nome": "Bernardo Lula",
+     "orcid": "",
+     "trabalhos": 3,
+     "ultimoAno": 2012,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography",
+      "Quantum Mechanics and Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Quantum attacks on pseudorandom generators",
+      "ano": 2012,
+      "url": "https://doi.org/10.1017/s0960129512000825",
+      "quantico": true
+     },
+     "relevancia": 61
+    },
+    {
+     "id": "A5087467651",
+     "nome": "Gustavo Eulalio M. Cabral",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2005,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography",
+      "Quantum Mechanics and Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "ZENO: a new graphical tool for design and simulation of quantum circuits",
+      "ano": 2005,
+      "url": "https://doi.org/10.1117/12.601467",
+      "quantico": true
+     },
+     "relevancia": 58
+    },
+    {
+     "id": "A5100841003",
+     "nome": "Aércio Ferreira de Lima",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2005,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography",
+      "Quantum Mechanics and Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "ZENO: a new graphical tool for design and simulation of quantum circuits",
+      "ano": 2005,
+      "url": "https://doi.org/10.1117/12.601467",
+      "quantico": true
+     },
+     "relevancia": 58
+    },
+    {
+     "id": "A5030975247",
+     "nome": "Varun  Boehm Verma",
+     "orcid": "0000-0001-6541-1837",
+     "trabalhos": 1,
+     "ultimoAno": 2017,
+     "temas": [
+      "Photonic and Optical Devices",
+      "Semiconductor Quantum Structures and Devices"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "A heterogeneous III-V / Si3N4 quantum photonic integration platform",
+      "ano": 2017,
+      "url": "https://doi.org/10.1364/qim.2017.qw2c.3",
+      "quantico": true
+     },
+     "relevancia": 55,
+     "orcidVistoEm": "2026-11-17T18:39:14.445Z"
+    },
+    {
+     "id": "A5040198678",
+     "nome": "Richard P. Mirin",
+     "orcid": "0000-0002-4472-4655",
+     "trabalhos": 1,
+     "ultimoAno": 2017,
+     "temas": [
+      "Photonic and Optical Devices",
+      "Semiconductor Quantum Structures and Devices"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "A heterogeneous III-V / Si3N4 quantum photonic integration platform",
+      "ano": 2017,
+      "url": "https://doi.org/10.1364/qim.2017.qw2c.3",
+      "quantico": true
+     },
+     "relevancia": 55,
+     "orcidVistoEm": "2026-11-17T18:39:14.888Z"
+    },
+    {
+     "id": "A5030866806",
+     "nome": "Sae Woo Nam",
+     "orcid": "0000-0002-7589-6935",
+     "trabalhos": 1,
+     "ultimoAno": 2017,
+     "temas": [
+      "Photonic and Optical Devices",
+      "Semiconductor Quantum Structures and Devices"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "A heterogeneous III-V / Si3N4 quantum photonic integration platform",
+      "ano": 2017,
+      "url": "https://doi.org/10.1364/qim.2017.qw2c.3",
+      "quantico": true
+     },
+     "relevancia": 55,
+     "orcidVistoEm": "2026-11-17T18:39:15.293Z"
+    },
+    {
+     "id": "A5030605260",
+     "nome": "Francisco Revson F. Pereira",
+     "orcid": "0000-0001-5638-6334",
+     "trabalhos": 1,
+     "ultimoAno": 2013,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Simulating the Quantum Fourier Transform",
+      "ano": 2013,
+      "url": "https://doi.org/10.1109/weit.2013.10",
+      "quantico": true
+     },
+     "relevancia": 55,
+     "orcidVistoEm": "2026-11-17T18:39:15.751Z"
+    }
+   ]
+  },
+  "ref-finep": {
+   "instituicao": {
+    "id": "I2803087665",
+    "nome": "Financiadora de Estudos e Projetos",
+    "tipo": "government",
+    "trabalhos": 266
+   },
+   "buscadoEm": "2026-11-17T18:39:16.600Z",
+   "pessoas": [
+    {
+     "id": "A5024758421",
+     "nome": "Erick Meira",
+     "orcid": "0000-0002-8555-3880",
+     "trabalhos": 12,
+     "ultimoAno": 2026,
+     "temas": [
+      "Forecasting Techniques and Applications",
+      "Sustainable Finance and Green Bonds",
+      "Energy Load and Power Forecasting"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Hierarchical forecasting of air traffic demand in Brazil: Evidence from forecast reconciliation",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.jairtraman.2026.103091",
+      "quantico": false
+     },
+     "relevancia": 60,
+     "orcidVistoEm": "2026-11-17T18:39:17.390Z"
+    },
+    {
+     "id": "A5034183716",
+     "nome": "Ima Célia Guimarães Vieira",
+     "orcid": "0000-0003-1233-318X",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Conservation, Biodiversity, and Resource Management",
+      "Climate Change Policy and Economics",
+      "Climate Change and Sustainable Development"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "O Brasil Pós-COP 30: Entre a ciência e o retrocesso, futuro climático do Brasil está em jogo",
+      "ano": 2026,
+      "url": "https://doi.org/10.64628/ade.jq4tpqxug",
+      "quantico": false
+     },
+     "relevancia": 30,
+     "orcidVistoEm": "2026-11-17T18:39:17.812Z"
+    },
+    {
+     "id": "A5137949017",
+     "nome": "Ima Vieira",
+     "orcid": "",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Environmental Movements and Political Ecology",
+      "Populism, Right-Wing Movements",
+      "International Science and Diplomacy"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Clima, floresta e democracia sob a égide do extremismo",
+      "ano": 2026,
+      "url": "https://doi.org/10.64628/ade.uce9yp6q5",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5059025042",
+     "nome": "Leonir Terezinha Uhde",
+     "orcid": "0000-0002-7500-4714",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Soil Management and Crop Yield",
+      "Environmental and biological studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "CARACTERIZAÇÃO DAS CONDIÇÕES INICIAIS DA QUALIDADE QUÍMICA DO SOLO EM SISTEMA SILVIPASTORIL COM TIFTON 85.",
+      "ano": 2026,
+      "url": "https://openalex.org/W7222912423",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5072868830",
+     "nome": "Osório Antônio Lucchese",
+     "orcid": "0000-0003-2696-4863",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Soil Management and Crop Yield",
+      "Environmental and biological studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "CARACTERIZAÇÃO DAS CONDIÇÕES INICIAIS DA QUALIDADE QUÍMICA DO SOLO EM SISTEMA SILVIPASTORIL COM TIFTON 85.",
+      "ano": 2026,
+      "url": "https://openalex.org/W7222912423",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5063865401",
+     "nome": "Jordana Schiavo",
+     "orcid": "0000-0002-3363-6166",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Soil Management and Crop Yield",
+      "Environmental and biological studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "CARACTERIZAÇÃO DAS CONDIÇÕES INICIAIS DA QUALIDADE QUÍMICA DO SOLO EM SISTEMA SILVIPASTORIL COM TIFTON 85.",
+      "ano": 2026,
+      "url": "https://openalex.org/W7222912423",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5159016338",
+     "nome": "ALBERTO KONZEN REISDORFER",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Soil Management and Crop Yield",
+      "Environmental and biological studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "CARACTERIZAÇÃO DAS CONDIÇÕES INICIAIS DA QUALIDADE QUÍMICA DO SOLO EM SISTEMA SILVIPASTORIL COM TIFTON 85.",
+      "ano": 2026,
+      "url": "https://openalex.org/W7222912423",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5159014057",
+     "nome": "ARTHUR COLVERO PANAZOLLO",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Soil Management and Crop Yield",
+      "Environmental and biological studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "CARACTERIZAÇÃO DAS CONDIÇÕES INICIAIS DA QUALIDADE QUÍMICA DO SOLO EM SISTEMA SILVIPASTORIL COM TIFTON 85.",
+      "ano": 2026,
+      "url": "https://openalex.org/W7222912423",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5159023480",
+     "nome": "GABRIEL FORTES HEDLUND",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Soil Management and Crop Yield",
+      "Environmental and biological studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "CARACTERIZAÇÃO DAS CONDIÇÕES INICIAIS DA QUALIDADE QUÍMICA DO SOLO EM SISTEMA SILVIPASTORIL COM TIFTON 85.",
+      "ano": 2026,
+      "url": "https://openalex.org/W7222912423",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5074182491",
+     "nome": "Luiz Elías",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "International Science and Diplomacy",
+      "Climate Change and Sustainable Development"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Rumo à COP31: Por que a soberania climática brasileira depende da nossa própria soberania científica",
+      "ano": 2026,
+      "url": "https://doi.org/10.64628/ade.yepp7cf9v",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5008206079",
+     "nome": "Charles Correa Schramm",
+     "orcid": "0009-0007-9434-8874",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Water Governance and Infrastructure",
+      "Public-Private Partnership Projects"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Making Water Investible : Development Banking, Regulatory Governance, and the Institutional Production of Sanitation Infrastructure in Brazil",
+      "ano": 2026,
+      "url": "https://doi.org/10.1111/rego.70206",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5031137071",
+     "nome": "Claudia Cristina Sanchez Moore",
+     "orcid": "0000-0003-4648-2028",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Environmental Impact and Sustainability",
+      "Bioeconomy and Sustainability Development"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "RenovaCalc: calculadora para estimar a intensidade de Carbono e a nota de eficiência energético-ambiental de biocombustíveis no RenovaBio.",
+      "ano": 2026,
+      "url": "https://doi.org/10.48432/04u20z",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5048045635",
+     "nome": "Gabriela Ciribelli Santos Pompêu",
+     "orcid": "0000-0003-2154-8123",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Environmental Impact and Sustainability",
+      "Bioeconomy and Sustainability Development"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "RenovaCalc: calculadora para estimar a intensidade de Carbono e a nota de eficiência energético-ambiental de biocombustíveis no RenovaBio.",
+      "ano": 2026,
+      "url": "https://doi.org/10.48432/04u20z",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5040769544",
+     "nome": "Giulia Cruz Lamas",
+     "orcid": "0000-0002-4083-5462",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Environmental Impact and Sustainability",
+      "Bioeconomy and Sustainability Development"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "RenovaCalc: calculadora para estimar a intensidade de Carbono e a nota de eficiência energético-ambiental de biocombustíveis no RenovaBio.",
+      "ano": 2026,
+      "url": "https://doi.org/10.48432/04u20z",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5002259651",
+     "nome": "J. F. Picoli",
+     "orcid": "0000-0002-2931-122X",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Environmental Impact and Sustainability",
+      "Bioeconomy and Sustainability Development"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "RenovaCalc: calculadora para estimar a intensidade de Carbono e a nota de eficiência energético-ambiental de biocombustíveis no RenovaBio.",
+      "ano": 2026,
+      "url": "https://doi.org/10.48432/04u20z",
+      "quantico": false
+     },
+     "relevancia": 21
+    }
+   ]
+  },
+  "ref-embrapii": {
+   "instituicao": {
+    "id": "I4405269415",
+    "nome": "Empresa Brasileira de Pesquisa e Inovação Industrial",
+    "tipo": "nonprofit",
+    "trabalhos": 29
+   },
+   "buscadoEm": "2026-11-17T18:39:18.473Z",
+   "pessoas": [
+    {
+     "id": "A5110763872",
+     "nome": "Adriano Maia",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Privacy-Preserving Technologies in Data",
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "SCOPE: Segurança Quântica Sensível ao Contexto para Aprendizado Federado, Além do Superdimensionamento na Alocação de Chaves QKD",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sbrc.2026.19925",
+      "quantico": true
+     },
+     "relevancia": 76
+    },
+    {
+     "id": "A5117756003",
+     "nome": "Isys Sant’Anna",
+     "orcid": "0009-0002-5195-5811",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Privacy-Preserving Technologies in Data",
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "SCOPE: Segurança Quântica Sensível ao Contexto para Aprendizado Federado, Além do Superdimensionamento na Alocação de Chaves QKD",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sbrc.2026.19925",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "orcidVistoEm": "2026-11-17T18:39:20.743Z"
+    },
+    {
+     "id": "A5138694477",
+     "nome": "Marcus Freire",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Privacy-Preserving Technologies in Data",
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "SCOPE: Segurança Quântica Sensível ao Contexto para Aprendizado Federado, Além do Superdimensionamento na Alocação de Chaves QKD",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sbrc.2026.19925",
+      "quantico": true
+     },
+     "relevancia": 76
+    },
+    {
+     "id": "A5138706929",
+     "nome": "Thiago L. M. Mello",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Privacy-Preserving Technologies in Data",
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "SCOPE: Segurança Quântica Sensível ao Contexto para Aprendizado Federado, Além do Superdimensionamento na Alocação de Chaves QKD",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sbrc.2026.19925",
+      "quantico": true
+     },
+     "relevancia": 76
+    },
+    {
+     "id": "A5126782504",
+     "nome": "Joás J.M. Lacerda",
+     "orcid": "0009-0000-9119-4960",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Realistic Non-Gaussian Receivers for Long Distance Continuous-Variable Quantum Key Distribution",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/wqunets.2026.23806",
+      "quantico": true
+     },
+     "relevancia": 73,
+     "orcidVistoEm": "2026-11-17T18:39:21.188Z"
+    },
+    {
+     "id": "A5054467282",
+     "nome": "L. F. Melo",
+     "orcid": "0009-0001-5415-8212",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Realistic Non-Gaussian Receivers for Long Distance Continuous-Variable Quantum Key Distribution",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/wqunets.2026.23806",
+      "quantico": true
+     },
+     "relevancia": 73,
+     "orcidVistoEm": "2026-11-17T18:39:21.581Z"
+    },
+    {
+     "id": "A5044680894",
+     "nome": "Alexandre B. Tacla",
+     "orcid": "0009-0003-5784-3762",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Realistic Non-Gaussian Receivers for Long Distance Continuous-Variable Quantum Key Distribution",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/wqunets.2026.23806",
+      "quantico": true
+     },
+     "relevancia": 73,
+     "orcidVistoEm": "2026-11-17T18:39:21.992Z"
+    },
+    {
+     "id": "A5014256844",
+     "nome": "K. D. R. Assis",
+     "orcid": "0000-0002-9424-8810",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Cybersecurity and Information Systems"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Particionamento Não-Uniforme de Tráfego Sensível à Vulnerabilidade em Redes QKD",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/wqunets.2026.22971",
+      "quantico": true
+     },
+     "relevancia": 73,
+     "orcidVistoEm": "2026-11-17T18:39:22.407Z"
+    },
+    {
+     "id": "A5065878995",
+     "nome": "Dionisio Leite",
+     "orcid": "0000-0003-1180-8710",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Privacy-Preserving Technologies in Data"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "SCOPE: Segurança Quântica Sensível ao Contexto para Aprendizado Federado, Além do Superdimensionamento na Alocação de Chaves QKD",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sbrc.2026.19925",
+      "quantico": true
+     },
+     "relevancia": 73,
+     "orcidVistoEm": "2026-11-17T18:39:22.808Z"
+    },
+    {
+     "id": "A5119592401",
+     "nome": "Anderson A. Tomkelski",
+     "orcid": "0009-0002-8906-0925",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Privacy-Preserving Technologies in Data",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "HALO: Uma Abordagem Quântica para Privacidade Diferencial com Robustez Geométrica e Alta Utilidade",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sbrc.2026.19640",
+      "quantico": true
+     },
+     "relevancia": 73,
+     "orcidVistoEm": "2026-11-17T18:39:23.241Z"
+    },
+    {
+     "id": "A5138739485",
+     "nome": "João Marcelo",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Privacy-Preserving Technologies in Data",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "HALO: Uma Abordagem Quântica para Privacidade Diferencial com Robustez Geométrica e Alta Utilidade",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sbrc.2026.19640",
+      "quantico": true
+     },
+     "relevancia": 73
+    },
+    {
+     "id": "A5138751892",
+     "nome": "Caroline S. M. Alves",
+     "orcid": "0009-0006-0806-1045",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Wireless Communication Security Techniques"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Modulação Gaussiana versus PCS-64-QAM em CV-QKD: Demanda por Bits Aleatórios e Desempenho em SKR",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/wqunets.2026.22995",
+      "quantico": true
+     },
+     "relevancia": 73,
+     "orcidVistoEm": "2026-11-17T18:39:23.674Z"
+    },
+    {
+     "id": "A5078104091",
+     "nome": "Nelson Alves Ferreira Neto",
+     "orcid": "0000-0003-2278-1082",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Wireless Communication Security Techniques"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Modulação Gaussiana versus PCS-64-QAM em CV-QKD: Demanda por Bits Aleatórios e Desempenho em SKR",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/wqunets.2026.22995",
+      "quantico": true
+     },
+     "relevancia": 73,
+     "orcidVistoEm": "2026-11-17T18:39:24.089Z"
+    },
+    {
+     "id": "A5024591528",
+     "nome": "Alvaro José Abackerli",
+     "orcid": "0000-0002-7906-6365",
+     "trabalhos": 5,
+     "ultimoAno": 2025,
+     "temas": [
+      "Multi-Criteria Decision Making",
+      "Research, Science, and Academia",
+      "Game Theory and Voting Systems"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Marco Legal de CT&I: oportunidade para a excelência em prestações de conta",
+      "ano": 2025,
+      "url": "https://doi.org/10.20397/2177-6652/2025.v25i3.3087",
+      "quantico": false
+     },
+     "relevancia": 41,
+     "orcidVistoEm": "2026-11-17T18:39:24.503Z"
+    },
+    {
+     "id": "A5089624703",
+     "nome": "Taciano Ares Rodolfo",
+     "orcid": "0009-0001-9100-5194",
+     "trabalhos": 1,
+     "ultimoAno": 2025,
+     "temas": [
+      "Embedded Systems Design Techniques",
+      "Advanced Neural Network Applications"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Advances in AI Hardware Design in the Continuum: A Survey on Frameworks, Optimization, and Integration in Heterogeneous Systems",
+      "ano": 2025,
+      "url": "https://doi.org/10.1109/lciot64881.2025.11118528",
+      "quantico": false
+     },
+     "relevancia": 29,
+     "orcidVistoEm": "2026-11-17T18:39:24.922Z"
+    }
+   ]
+  },
+  "ref-fapesq": {
+   "instituicao": {
+    "id": "I4210116433",
+    "nome": "Fundação de Apoio à Pesquisa do Estado da Paraíba",
+    "tipo": "government",
+    "trabalhos": 99
+   },
+   "buscadoEm": "2026-11-17T18:39:25.704Z",
+   "pessoas": [
+    {
+     "id": "A5054767627",
+     "nome": "Ernane Nogueira Nunes",
+     "orcid": "0000-0002-0464-0879",
+     "trabalhos": 51,
+     "ultimoAno": 2023,
+     "temas": [
+      "Ethnobotanical and Medicinal Plants Studies",
+      "Botany and Plant Ecology Studies",
+      "Plant Names and Ethnobotany"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Tarenaya spinosa (Jacq.) Raf. Cleomaceae",
+      "ano": 2023,
+      "url": "https://doi.org/10.1007/978-3-030-87251-9_103",
+      "quantico": false
+     },
+     "relevancia": 36,
+     "orcidVistoEm": "2026-11-17T18:39:26.666Z"
+    },
+    {
+     "id": "A5077744221",
+     "nome": "Danielle Figueiredo Patrício",
+     "orcid": "0000-0002-2886-1772",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Health Education and Validation",
+      "Assistive Technology in Communication and Mobility",
+      "Educational Technology in Learning"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Tecnologías educativas en salud para personas con discapacidad: revisión del alcance",
+      "ano": 2026,
+      "url": "https://doi.org/10.1590/1518-8345.8054.4860",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5003843593",
+     "nome": "Neila Lidiany Ribeiro",
+     "orcid": "0000-0002-6410-244X",
+     "trabalhos": 3,
+     "ultimoAno": 2024,
+     "temas": [
+      "Effects of Environmental Stressors on Livestock",
+      "Thermoregulation and physiological responses",
+      "Veterinary Equine Medical Research"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Thermoneutral temperature and thermal stress of sheep creole: physiological and ingestive behaviour",
+      "ano": 2024,
+      "url": "https://doi.org/10.1080/09712119.2024.2404113",
+      "quantico": false
+     },
+     "relevancia": 19
+    },
+    {
+     "id": "A5006023620",
+     "nome": "Joan Bruno Silva",
+     "orcid": "0000-0001-6983-575X",
+     "trabalhos": 3,
+     "ultimoAno": 2024,
+     "temas": [
+      "Bryophyte Studies and Records",
+      "Lichen and fungal ecology"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Bryofloristic diversity and conservation value of a protected area in the Brazilian semi-arid region",
+      "ano": 2024,
+      "url": "https://doi.org/10.11646/phytotaxa.647.2.3",
+      "quantico": false
+     },
+     "relevancia": 19
+    },
+    {
+     "id": "A5045710640",
+     "nome": "Ane Polline Lacerda Protásio",
+     "orcid": "0000-0003-2895-436X",
+     "trabalhos": 1,
+     "ultimoAno": 2025,
+     "temas": [
+      "Advanced Measurement and Detection Methods",
+      "Infection Control and Ventilation"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Measuring Far-UVC Radiation using Off-the-Shelf Sensors and Spectrometer: a Comparative Study",
+      "ano": 2025,
+      "url": "https://doi.org/10.1109/iemcon67450.2025.11381194",
+      "quantico": false
+     },
+     "relevancia": 17
+    },
+    {
+     "id": "A5099044884",
+     "nome": "José Antonio Assad e Faria Júnior",
+     "orcid": "0009-0003-8835-5489",
+     "trabalhos": 2,
+     "ultimoAno": 2024,
+     "temas": [
+      "Administrative Law and Governance",
+      "Brazilian Legal Issues"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "RESPONSABILIDADE EXTRACONTRATUAL DO ESTADO POR MOVIMENTOS MULTITUDINÁRIOS",
+      "ano": 2024,
+      "url": "https://doi.org/10.25110/akropolis.v32i1.2024-11349",
+      "quantico": false
+     },
+     "relevancia": 16
+    },
+    {
+     "id": "A5088382996",
+     "nome": "Priscylla Vital Barboza Silva",
+     "orcid": "0000-0002-5195-9073",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Food Drying and Modeling",
+      "Agricultural Engineering and Mechanization"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Secagem do Resíduo do Pseudofruto do Cajueiro para Produção de Farinhas",
+      "ano": 2024,
+      "url": "https://doi.org/10.26848/rbgf.v17.1.p413-427",
+      "quantico": false
+     },
+     "relevancia": 13
+    },
+    {
+     "id": "A5055926966",
+     "nome": "Josivanda Palmeira Gomes",
+     "orcid": "0000-0002-2047-986X",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Food Drying and Modeling",
+      "Agricultural Engineering and Mechanization"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Secagem do Resíduo do Pseudofruto do Cajueiro para Produção de Farinhas",
+      "ano": 2024,
+      "url": "https://doi.org/10.26848/rbgf.v17.1.p413-427",
+      "quantico": false
+     },
+     "relevancia": 13
+    },
+    {
+     "id": "A5056831402",
+     "nome": "Karoline Thays Andrade Araújo",
+     "orcid": "0000-0002-9356-3288",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Food Drying and Modeling",
+      "Agricultural Engineering and Mechanization"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Secagem do Resíduo do Pseudofruto do Cajueiro para Produção de Farinhas",
+      "ano": 2024,
+      "url": "https://doi.org/10.26848/rbgf.v17.1.p413-427",
+      "quantico": false
+     },
+     "relevancia": 13
+    },
+    {
+     "id": "A5026152260",
+     "nome": "Weliton Carlos de Andrade",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2023,
+     "temas": [
+      "Insect and Arachnid Ecology and Behavior",
+      "Insect and Pesticide Research"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "PREFERENCE OF JANDAÍRAS BEES FOR DIFFERENT TYPES OF WAX AND EXTERNAL FORAGING, IN THE HISTORY OF PARAIBA",
+      "ano": 2023,
+      "url": "https://doi.org/10.51249/jid.v4i04.1730",
+      "quantico": false
+     },
+     "relevancia": 9
+    },
+    {
+     "id": "A5080838042",
+     "nome": "Sérgio de Faria Lopes",
+     "orcid": "0000-0001-6472-6765",
+     "trabalhos": 1,
+     "ultimoAno": 2023,
+     "temas": [
+      "Bryophyte Studies and Records",
+      "Lichen and fungal ecology"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "New national and regional bryophyte records, 74",
+      "ano": 2023,
+      "url": "https://doi.org/10.1080/03736687.2023.2276605",
+      "quantico": false
+     },
+     "relevancia": 9
+    },
+    {
+     "id": "A5010041143",
+     "nome": "Ester Estevão da Silva",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2023,
+     "temas": [
+      "Race, Identity, and Education in Brazil",
+      "Literature, Culture, and Criticism"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Representação Histórica: uma análise do registro memorial de Xica da Silva na obra documental de Joaquim Felício Dos Santos",
+      "ano": 2023,
+      "url": "https://doi.org/10.48075/ri.v25i2.31055",
+      "quantico": false
+     },
+     "relevancia": 9
+    },
+    {
+     "id": "A5021811841",
+     "nome": "Maxwell Aires da Silva",
+     "orcid": "0000-0002-4213-3798",
+     "trabalhos": 1,
+     "ultimoAno": 2023,
+     "temas": [
+      "Mathematics and Applications",
+      "Advanced Combinatorial Mathematics"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Dualidade: construção do tetraedro triakis a partir do tetraedro truncado via mediatrizes",
+      "ano": 2023,
+      "url": "https://doi.org/10.21711/2319023x2023/pmo1130",
+      "quantico": false
+     },
+     "relevancia": 9
+    },
+    {
+     "id": "A5083542347",
+     "nome": "Gustavo Araújo",
+     "orcid": "0000-0002-8026-9039",
+     "trabalhos": 1,
+     "ultimoAno": 2023,
+     "temas": [
+      "Mathematics and Applications",
+      "Advanced Combinatorial Mathematics"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Dualidade: construção do tetraedro triakis a partir do tetraedro truncado via mediatrizes",
+      "ano": 2023,
+      "url": "https://doi.org/10.21711/2319023x2023/pmo1130",
+      "quantico": false
+     },
+     "relevancia": 9
+    },
+    {
+     "id": "A5092683231",
+     "nome": "Allisson Cabral",
+     "orcid": "0009-0006-5976-6408",
+     "trabalhos": 1,
+     "ultimoAno": 2023,
+     "temas": [
+      "Mathematics and Applications",
+      "Advanced Combinatorial Mathematics"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Dualidade: construção do tetraedro triakis a partir do tetraedro truncado via mediatrizes",
+      "ano": 2023,
+      "url": "https://doi.org/10.21711/2319023x2023/pmo1130",
+      "quantico": false
+     },
+     "relevancia": 9
+    }
+   ]
+  },
+  "ref-cni-confederacao-nacional-da-industria": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-17T18:39:27.352Z",
+   "pessoas": []
+  },
+  "ref-anpei": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-17T18:39:27.683Z",
+   "pessoas": []
+  },
+  "ref-virtus-ufcg": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-17T18:39:28.040Z",
+   "pessoas": []
+  },
+  "ref-fundacao-parque-tecnologico-da-paraiba-p": {
+   "instituicao": {
+    "id": "I4210157614",
+    "nome": "Fundação Parque Tecnológico da Paraíba",
+    "tipo": "nonprofit",
+    "trabalhos": 4
+   },
+   "buscadoEm": "2026-11-17T18:39:28.384Z",
+   "pessoas": [
+    {
+     "id": "A5051308600",
+     "nome": "Nadja Maria da Silva Oliveira",
+     "orcid": "0000-0002-4464-9237",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Anatomy and Medical Technology",
+      "Simulation-Based Education in Healthcare"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Development of software for use of dental mannequins in virtual environments or virtual reality and the metaverse",
+      "ano": 2026,
+      "url": "https://doi.org/10.20435/multi.vol31iss78.5232",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5067368385",
+     "nome": "José Nilton Silva",
+     "orcid": "0000-0001-7128-8396",
+     "trabalhos": 1,
+     "ultimoAno": 2021,
+     "temas": [
+      "Coagulation and Flocculation Studies",
+      "Water and Wastewater Treatment"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "PROPOSTA DE OTIMIZAÇÃO DO PROCESSO DE ELETROFLOCULAÇÃO DE UMA SUBUNIDADE DE TRATAMENTO DE EFLUENTE DA PRODUÇÃO DE BIODIESEL/ PROPOSAL FOR THE OPTIMIZATION OF THE ELECTROFLOCCULATION PROCESS OF A SUBUNIT FOR THE TREATMENT OF EFFLUENT FROM BIODIESEL PRODUCTION",
+      "ano": 2021,
+      "url": "https://doi.org/10.34117/bjdv7n2-412",
+      "quantico": false
+     },
+     "relevancia": 15,
+     "orcidVistoEm": "2026-11-17T18:39:30.355Z"
+    },
+    {
+     "id": "A5007642964",
+     "nome": "Cristiano dos Santos Sousa",
+     "orcid": "0000-0001-8804-6545",
+     "trabalhos": 1,
+     "ultimoAno": 2021,
+     "temas": [
+      "Irrigation Practices and Water Management",
+      "Plant Stress Responses and Tolerance"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Yield of prickly pear cactus irrigated with saline water in soils of the semi-arid region",
+      "ano": 2021,
+      "url": "https://doi.org/10.5433/1679-0359.2022v43n1p37",
+      "quantico": false
+     },
+     "relevancia": 3
+    },
+    {
+     "id": "A5050059553",
+     "nome": "Vanessa dos Santos Gomes",
+     "orcid": "0000-0002-9639-6286",
+     "trabalhos": 1,
+     "ultimoAno": 2021,
+     "temas": [
+      "Irrigation Practices and Water Management",
+      "Plant Stress Responses and Tolerance"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Yield of prickly pear cactus irrigated with saline water in soils of the semi-arid region",
+      "ano": 2021,
+      "url": "https://doi.org/10.5433/1679-0359.2022v43n1p37",
+      "quantico": false
+     },
+     "relevancia": 3
+    }
+   ]
+  },
+  "ref-inmetro": {
+   "instituicao": {
+    "id": "I40891861",
+    "nome": "Instituto Nacional de Metrologia, Qualidade e Tecnologia",
+    "tipo": "government",
+    "trabalhos": 3433
+   },
+   "buscadoEm": "2026-11-17T18:39:31.006Z",
+   "pessoas": [
+    {
+     "id": "A5054871267",
+     "nome": "Luiz Vicente Gomes Tarelho",
+     "orcid": "0000-0003-0189-9145",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture",
+      "Scientific Measurement and Uncertainty Evaluation"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Quantum random number generation using Quandela photonic quantum computer",
+      "ano": 2024,
+      "url": "https://doi.org/10.1007/s11128-024-04593-6",
+      "quantico": true
+     },
+     "relevancia": 79,
+     "orcidVistoEm": "2026-11-17T18:39:31.883Z"
+    },
+    {
+     "id": "A5110156165",
+     "nome": "Thiago Ferreira da Silva",
+     "orcid": "",
+     "trabalhos": 7,
+     "ultimoAno": 2019,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Wireless Communication Security Techniques",
+      "graph theory and CDMA systems"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Embedding Quantum Key Distribution into Optical Telecom Communication Systems",
+      "ano": 2019,
+      "url": "https://doi.org/10.1109/icton.2019.8840512",
+      "quantico": true
+     },
+     "relevancia": 73
+    },
+    {
+     "id": "A5063685351",
+     "nome": "F. P. Agostini",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2024,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Quantum random number generation using Quandela photonic quantum computer",
+      "ano": 2024,
+      "url": "https://doi.org/10.1007/s11128-024-04593-6",
+      "quantico": true
+     },
+     "relevancia": 68
+    },
+    {
+     "id": "A5102762149",
+     "nome": "Muriel A. de Souza",
+     "orcid": "0000-0003-2049-9577",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Quantum random number generation using Quandela photonic quantum computer",
+      "ano": 2024,
+      "url": "https://doi.org/10.1007/s11128-024-04593-6",
+      "quantico": true
+     },
+     "relevancia": 65,
+     "orcidVistoEm": "2026-11-17T18:39:32.365Z"
+    },
+    {
+     "id": "A5107243163",
+     "nome": "Thiago Ferreira da Silva",
+     "orcid": "0000-0003-3802-0878",
+     "trabalhos": 2,
+     "ultimoAno": 2020,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Optical Network Technologies"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Telecommunication Compatibility Evaluation for Co-existing Quantum Key Distribution in Homogenous Multicore Fiber",
+      "ano": 2020,
+      "url": "https://doi.org/10.1109/access.2020.2990186",
+      "quantico": true
+     },
+     "relevancia": 58,
+     "orcidVistoEm": "2026-11-17T18:39:32.764Z"
+    },
+    {
+     "id": "A5057140359",
+     "nome": "Braulio Soares Archanjo",
+     "orcid": "0000-0001-8145-7712",
+     "trabalhos": 13,
+     "ultimoAno": 2026,
+     "temas": [
+      "Electrochemical sensors and biosensors",
+      "Electrochemical Analysis and Applications",
+      "Advanced Semiconductor Detectors and Materials"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Spatially Resolved Bound and Free Trion Dynamics in Defect-Engineered WS2 Heterojunctions",
+      "ano": 2026,
+      "url": "https://doi.org/10.1021/acsaelm.6c01734",
+      "quantico": false
+     },
+     "relevancia": 48,
+     "orcidVistoEm": "2026-11-17T18:39:33.169Z"
+    },
+    {
+     "id": "A5002718524",
+     "nome": "José Mauro Granjeiro",
+     "orcid": "0000-0002-8027-8293",
+     "trabalhos": 10,
+     "ultimoAno": 2026,
+     "temas": [
+      "Orthopaedic implants and arthroplasty",
+      "Bone Tissue Engineering Materials",
+      "Dental Implant Techniques and Outcomes"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Comparative analysis of experimental torque behavior and physicochemical properties of commercial and in‑house orthodontic aligners",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.ejwf.2026.08.004",
+      "quantico": false
+     },
+     "relevancia": 48,
+     "orcidVistoEm": "2026-11-17T18:39:33.623Z"
+    },
+    {
+     "id": "A5007654901",
+     "nome": "Humberto Siqueira Brandi",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2005,
+     "temas": [
+      "Semiconductor Quantum Structures and Devices",
+      "Quantum optics and atomic interactions",
+      "Quantum and electron transport phenomena"
+     ],
+     "quantico": true,
+     "afim": false,
+     "destaque": {
+      "titulo": "Rabi oscillations, coherent properties, and model qubits in two-level donor systems under terahertz radiation",
+      "ano": 2003,
+      "url": "https://doi.org/10.1103/physrevb.68.233206",
+      "quantico": true
+     },
+     "relevancia": 46
+    },
+    {
+     "id": "A5064143915",
+     "nome": "Anderson Beatrici",
+     "orcid": "0009-0000-5169-0046",
+     "trabalhos": 8,
+     "ultimoAno": 2026,
+     "temas": [
+      "Relativity and Gravitational Theory",
+      "Quantum and Classical Electrodynamics",
+      "Orthodontics and Dentofacial Orthopedics"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Comparative analysis of experimental torque behavior and physicochemical properties of commercial and in‑house orthodontic aligners",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.ejwf.2026.08.004",
+      "quantico": false
+     },
+     "relevancia": 42,
+     "cargo": "Researcher, DIMCI",
+     "orcidVistoEm": "2026-11-17T18:39:34.091Z"
+    },
+    {
+     "id": "A5034828758",
+     "nome": "Wilson S. Melo",
+     "orcid": "0000-0002-7710-7995",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Handwritten Text Recognition Techniques",
+      "Advanced Neural Network Applications",
+      "Software Testing and Debugging Techniques"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Enhancing table detection and recognition in legacy calibration certificates for metrological digitalization",
+      "ano": 2026,
+      "url": "https://doi.org/10.1088/1361-6501/ae8875",
+      "quantico": false
+     },
+     "relevancia": 42,
+     "orcidVistoEm": "2026-11-17T18:39:34.522Z"
+    },
+    {
+     "id": "A5079451098",
+     "nome": "Rodrigo David",
+     "orcid": "0000-0001-9218-8191",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Handwritten Text Recognition Techniques",
+      "Advanced Neural Network Applications",
+      "Software Testing and Debugging Techniques"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Enhancing table detection and recognition in legacy calibration certificates for metrological digitalization",
+      "ano": 2026,
+      "url": "https://doi.org/10.1088/1361-6501/ae8875",
+      "quantico": false
+     },
+     "relevancia": 39,
+     "orcidVistoEm": "2026-11-17T18:39:34.928Z"
+    },
+    {
+     "id": "A5133497244",
+     "nome": "Adriana M. Silva",
+     "orcid": "0000-0002-5022-2758",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Adsorption and biosorption for pollutant removal",
+      "Advanced oxidation water treatment",
+      "Glass properties and applications"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Design and optimization of TiO2–activated carbon composites for efficient sulfamethoxazole removal: A techno-economic perspective",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.matchemphys.2026.132669",
+      "quantico": false
+     },
+     "relevancia": 36,
+     "orcidVistoEm": "2026-11-17T18:39:35.419Z"
+    },
+    {
+     "id": "A5001814459",
+     "nome": "Rodrigo P.B. Costa-Felix",
+     "orcid": "0000-0002-0488-8479",
+     "trabalhos": 5,
+     "ultimoAno": 2026,
+     "temas": [
+      "Ultrasonics and Acoustic Wave Propagation",
+      "Scientific Measurement and Uncertainty Evaluation",
+      "Fire effects on concrete materials"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "A Statistically Based Method for Assessing Calibration Curves for the Frequency Dependence of Glycerol's Ultrasonic Attenuation",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/s12647-026-00967-6",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "orcidVistoEm": "2026-11-17T18:39:35.826Z"
+    },
+    {
+     "id": "A5049564325",
+     "nome": "Sara Gemini Piperni",
+     "orcid": "0000-0002-7724-9491",
+     "trabalhos": 5,
+     "ultimoAno": 2026,
+     "temas": [
+      "Effects and risks of endocrine disrupting chemicals",
+      "Microplastics and Plastic Pollution",
+      "Pesticide Exposure and Toxicity"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Predictive endocrine remodeling and regulatory intelligence: From Nanoremediation to digital–twin toxicology and adaptive environmental governance",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.enmm.2026.101193",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "orcidVistoEm": "2026-11-17T18:39:36.249Z"
+    },
+    {
+     "id": "A5040883473",
+     "nome": "Luiz Octávio Vieira Pereira",
+     "orcid": "0000-0002-1435-2299",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Flow Measurement and Analysis",
+      "Sensor Technology and Measurement Systems"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Machine learning-based prediction of gas and liquid flow rates in wet gas using single and dual cone meter configurations",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.flowmeasinst.2026.103453",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "orcidVistoEm": "2026-11-17T18:39:36.661Z"
+    }
+   ]
+  },
+  "ref-ifsc-usp": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-17T18:39:37.475Z",
+   "pessoas": []
+  },
+  "ref-ifgw-unicamp": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-17T18:39:37.799Z",
+   "pessoas": []
+  },
+  "ref-fi-group-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-17T18:39:38.210Z",
+   "pessoas": []
+  },
+  "ref-abgi-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-17T18:39:38.529Z",
+   "pessoas": []
+  },
+  "ref-quantuloop": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-17T18:39:38.878Z",
+   "pessoas": []
+  },
+  "ref-quera-computing": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-17T18:39:39.250Z",
+   "pessoas": []
+  },
+  "ref-ufrj": {
+   "instituicao": {
+    "id": "I122140584",
+    "nome": "Universidade Federal do Rio de Janeiro",
+    "tipo": "education",
+    "trabalhos": 192347
+   },
+   "buscadoEm": "2026-11-17T18:39:39.613Z",
+   "pessoas": [
+    {
+     "id": "A5066767589",
+     "nome": "Franklin de Lima Marquezino",
+     "orcid": "0000-0001-9712-1930",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography",
+      "Quantum many-body systems"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Noise-resilient spatial search with lackadaisical quantum walks",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/s11128-026-05205-1",
+      "quantico": true
+     },
+     "relevancia": 82,
+     "orcidVistoEm": "2026-11-17T18:39:41.006Z"
+    },
+    {
+     "id": "A5028789107",
+     "nome": "Renato M. S. Farias",
+     "orcid": "0000-0002-2671-1754",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum many-body systems",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Double-bracket quantum algorithms for high-fidelity ground-state preparation",
+      "ano": 2026,
+      "url": "https://doi.org/10.1103/jz88-32rb",
+      "quantico": true
+     },
+     "relevancia": 79,
+     "orcidVistoEm": "2026-11-17T18:39:41.346Z"
+    },
+    {
+     "id": "A5044496285",
+     "nome": "Tomoi Koide C",
+     "orcid": "0000-0003-0380-5974",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Mechanics and Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Information-geometric quantum process tomography in unital open single-qubit dynamics",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.physleta.2026.132074",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "orcidVistoEm": "2026-11-17T18:39:41.691Z"
+    },
+    {
+     "id": "A5109396747",
+     "nome": "Pedro Maciel Xavier",
+     "orcid": "0000-0002-4678-4942",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Advanced Optimization Algorithms Research",
+      "Metaheuristic Optimization Algorithms Research"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "QUBO.jl : a Julia ecosystem for quadratic unconstrained binary optimization",
+      "ano": 2026,
+      "url": "https://doi.org/10.1080/10556788.2026.2702926",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "orcidVistoEm": "2026-11-17T18:39:42.019Z"
+    },
+    {
+     "id": "A5091887230",
+     "nome": "Nelson Maculan",
+     "orcid": "0000-0002-3897-3356",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Advanced Optimization Algorithms Research",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "QUBO.jl : a Julia ecosystem for quadratic unconstrained binary optimization",
+      "ano": 2026,
+      "url": "https://doi.org/10.1080/10556788.2026.2702926",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "orcidVistoEm": "2026-11-17T18:39:42.347Z"
+    },
+    {
+     "id": "A5026829001",
+     "nome": "Fabricio Toscano",
+     "orcid": "0000-0001-8398-8541",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Orbital Angular Momentum in Optics",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Twisted Gaussian Schell States in Quantum Optics: Twist-Assisted Nonclassicality and Entanglement",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2607.00837",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "orcidVistoEm": "2026-11-17T18:39:42.684Z"
+    },
+    {
+     "id": "A5002852852",
+     "nome": "Marcelo França Santos",
+     "orcid": "0000-0001-5667-3376",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Conferences and Exhibitions Management",
+      "Quantum optics and atomic interactions"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Paraty Quantum Information: How a Conference Helped Foster a Research Field in Brazil",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/s13538-026-02021-x",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "orcidVistoEm": "2026-11-17T18:39:43.029Z"
+    },
+    {
+     "id": "A5003151858",
+     "nome": "Leandro Aolita",
+     "orcid": "",
+     "trabalhos": 6,
+     "ultimoAno": 2023,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography",
+      "Quantum many-body systems"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Fragmented imaginary-time evolution for early-stage quantum signal processors",
+      "ano": 2023,
+      "url": "https://doi.org/10.1038/s41598-023-45540-2",
+      "quantico": true
+     },
+     "relevancia": 76
+    },
+    {
+     "id": "A5040278072",
+     "nome": "L. Davidovich",
+     "orcid": "0000-0002-4418-3086",
+     "trabalhos": 3,
+     "ultimoAno": 2025,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Mechanics and Applications",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "2025, O Ano Quântico",
+      "ano": 2025,
+      "url": "https://doi.org/10.48207/2317-6660.20250022",
+      "quantico": true
+     },
+     "relevancia": 75,
+     "email": "ldavid@if.ufrj.br",
+     "orcidVistoEm": "2026-11-17T18:39:43.371Z"
+    },
+    {
+     "id": "A5063613028",
+     "nome": "L. J. Pereira",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Wireless Communication Security Techniques"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Security bounds for unidimensional discrete-modulated CV-QKD: a Gaussian extremality approach",
+      "ano": 2026,
+      "url": "https://doi.org/10.1088/2058-9565/aeadc7",
+      "quantico": true
+     },
+     "relevancia": 73
+    },
+    {
+     "id": "A5104800066",
+     "nome": "Gabriel Mauricio Oswald Vieira",
+     "orcid": "0009-0004-0341-1929",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Noise-resilient spatial search with lackadaisical quantum walks",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/s11128-026-05205-1",
+      "quantico": true
+     },
+     "relevancia": 73,
+     "orcidVistoEm": "2026-11-17T18:39:43.701Z"
+    },
+    {
+     "id": "A5058641028",
+     "nome": "L. G. Lutterbach",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Conferences and Exhibitions Management"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Paraty Quantum Information: How a Conference Helped Foster a Research Field in Brazil",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/s13538-026-02021-x",
+      "quantico": true
+     },
+     "relevancia": 73
+    },
+    {
+     "id": "A5093774891",
+     "nome": "Guilherme Adamatti Bridi",
+     "orcid": "0009-0000-8226-8286",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum many-body systems"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Expressivity limits in quantum walk-based optimization",
+      "ano": 2026,
+      "url": "https://doi.org/10.1103/8l54-9g97",
+      "quantico": true
+     },
+     "relevancia": 73,
+     "orcidVistoEm": "2026-11-17T18:39:44.039Z"
+    },
+    {
+     "id": "A5076484566",
+     "nome": "J. S. Araújo",
+     "orcid": "0000-0002-6086-7189",
+     "trabalhos": 2,
+     "ultimoAno": 2025,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture",
+      "Advanced Thermodynamics and Statistical Mechanics"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Programmable interferometer: An application in quantum channels",
+      "ano": 2025,
+      "url": "https://doi.org/10.1103/x2px-wvcr",
+      "quantico": true
+     },
+     "relevancia": 72,
+     "orcidVistoEm": "2026-11-17T18:39:44.383Z"
+    },
+    {
+     "id": "A5074526695",
+     "nome": "K. Khan",
+     "orcid": "0000-0001-7914-5488",
+     "trabalhos": 2,
+     "ultimoAno": 2025,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture",
+      "Advanced Thermodynamics and Statistical Mechanics"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Programmable interferometer: An application in quantum channels",
+      "ano": 2025,
+      "url": "https://doi.org/10.1103/x2px-wvcr",
+      "quantico": true
+     },
+     "relevancia": 72,
+     "email": "khalilkhan@if.ufrj.br",
+     "orcidVistoEm": "2026-11-17T18:39:44.706Z"
+    }
+   ]
+  },
+  "ref-uff": {
+   "instituicao": {
+    "id": "I161127581",
+    "nome": "Universidade Federal Fluminense",
+    "tipo": "education",
+    "trabalhos": 87715
+   },
+   "buscadoEm": "2026-11-17T18:39:45.468Z",
+   "pessoas": [
+    {
+     "id": "A5027811333",
+     "nome": "Ernesto F. Galvão",
+     "orcid": "0000-0003-2582-9918",
+     "trabalhos": 9,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Mechanics and Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Commutativity from a single Bargmann invariant equality",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2605.07405",
+      "quantico": true
+     },
+     "relevancia": 97,
+     "orcidVistoEm": "2026-11-17T18:39:46.984Z"
+    },
+    {
+     "id": "A5058909013",
+     "nome": "M. S. Sarandy",
+     "orcid": "0000-0003-0910-4407",
+     "trabalhos": 6,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Advanced Thermodynamics and Statistical Mechanics",
+      "Quantum many-body systems"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Many-Body Localization Induced by Correlated Disorder in Interacting Superconducting Qubits",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2608.07149",
+      "quantico": true
+     },
+     "relevancia": 88,
+     "orcidVistoEm": "2026-11-17T18:39:47.318Z"
+    },
+    {
+     "id": "A5079165817",
+     "nome": "Antonio Zelaquett Khoury",
+     "orcid": "0000-0002-7487-5067",
+     "trabalhos": 6,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Orbital Angular Momentum in Optics",
+      "Wireless Communication Security Techniques"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Twisted Gaussian Schell States in Quantum Optics: Twist-Assisted Nonclassicality and Entanglement",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2607.00837",
+      "quantico": true
+     },
+     "relevancia": 88,
+     "orcidVistoEm": "2026-11-17T18:39:47.652Z"
+    },
+    {
+     "id": "A5058396196",
+     "nome": "J. A. O. Huguenin",
+     "orcid": "0000-0001-7410-4281",
+     "trabalhos": 7,
+     "ultimoAno": 2025,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Orbital Angular Momentum in Optics",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Simulation of depolarizing channel exploring maximally non separable spin-orbit mode",
+      "ano": 2025,
+      "url": "https://doi.org/10.48550/arxiv.2512.18065",
+      "quantico": true
+     },
+     "relevancia": 87,
+     "email": "jose_huguenin@id.uff.br",
+     "orcidVistoEm": "2026-11-17T18:39:47.987Z"
+    },
+    {
+     "id": "A5028635547",
+     "nome": "A. Saguia",
+     "orcid": "0000-0003-0403-4358",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum many-body systems",
+      "Quantum Information and Cryptography",
+      "Advanced Thermodynamics and Statistical Mechanics"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Many-Body Localization Induced by Correlated Disorder in Interacting Superconducting Qubits",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2608.07149",
+      "quantico": true
+     },
+     "relevancia": 79,
+     "orcidVistoEm": "2026-11-17T18:39:48.333Z"
+    },
+    {
+     "id": "A5058323025",
+     "nome": "J. M. Z. Choquehuanca",
+     "orcid": "0009-0000-1567-2932",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Advanced Thermodynamics and Statistical Mechanics",
+      "Quantum Information and Cryptography",
+      "Quantum many-body systems"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Ergotropy-based quantum thermodynamics",
+      "ano": 2025,
+      "url": "https://doi.org/10.1103/3vt1-m8z2",
+      "quantico": true
+     },
+     "relevancia": 79,
+     "orcidVistoEm": "2026-11-17T18:39:48.679Z"
+    },
+    {
+     "id": "A5027179237",
+     "nome": "Daniel J. Brod",
+     "orcid": "0000-0002-5925-4158",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography",
+      "Quantum Mechanics and Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Two-particle scattering on general graphs",
+      "ano": 2026,
+      "url": "https://doi.org/10.22331/q-2026-03-23-2038",
+      "quantico": true
+     },
+     "relevancia": 79,
+     "orcidVistoEm": "2026-11-17T18:39:49.018Z"
+    },
+    {
+     "id": "A5051257538",
+     "nome": "Alan Duriez",
+     "orcid": "0000-0001-5196-0827",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Advanced Chemical Physics Studies",
+      "Quantum many-body systems"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Computing band gaps of periodic materials via sample-based quantum diagonalization",
+      "ano": 2026,
+      "url": "https://doi.org/10.1038/s41524-026-02059-0",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "orcidVistoEm": "2026-11-17T18:39:49.335Z"
+    },
+    {
+     "id": "A5071928824",
+     "nome": "André L. S. Santos",
+     "orcid": "0000-0002-2664-0781",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Orbital Angular Momentum in Optics",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Coherence and dimensionality witnesses for fractional orbital angular momentum modes",
+      "ano": 2026,
+      "url": "https://doi.org/10.1103/v17y-w1lm",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "email": "juniorandre@id.uff.br",
+     "orcidVistoEm": "2026-11-17T18:39:49.672Z"
+    },
+    {
+     "id": "A5024346121",
+     "nome": "M. Gil de Oliveira",
+     "orcid": "0009-0006-4225-8706",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Orbital Angular Momentum in Optics",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Coherence and dimensionality witnesses for fractional orbital angular momentum modes",
+      "ano": 2026,
+      "url": "https://doi.org/10.1103/v17y-w1lm",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "orcidVistoEm": "2026-11-17T18:39:50.009Z"
+    },
+    {
+     "id": "A5003843980",
+     "nome": "Altilano Cristino Barbosa",
+     "orcid": "0000-0003-1971-0451",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Orbital Angular Momentum in Optics",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Coherence and dimensionality witnesses for fractional orbital angular momentum modes",
+      "ano": 2026,
+      "url": "https://doi.org/10.1103/v17y-w1lm",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "orcidVistoEm": "2026-11-17T18:39:50.338Z"
+    },
+    {
+     "id": "A5018968752",
+     "nome": "B. Pinheiro da Silva",
+     "orcid": "0000-0002-8945-7917",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Orbital Angular Momentum in Optics",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Coherence and dimensionality witnesses for fractional orbital angular momentum modes",
+      "ano": 2026,
+      "url": "https://doi.org/10.1103/v17y-w1lm",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "orcidVistoEm": "2026-11-17T18:39:50.697Z"
+    },
+    {
+     "id": "A5001891647",
+     "nome": "Fernando Iemini",
+     "orcid": "0000-0003-1645-9492",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Mechanics and Applications",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Stochastic Quantum Information Geometry and Speed Limits at the Trajectory Level",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2601.12475",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "orcidVistoEm": "2026-11-17T18:39:51.036Z"
+    },
+    {
+     "id": "A5061658963",
+     "nome": "Luis Antônio Brasil Kowada",
+     "orcid": "0000-0002-7975-0060",
+     "trabalhos": 3,
+     "ultimoAno": 2025,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography",
+      "Quantum-Dot Cellular Automata"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "LS-SVM generation using an optimized HHL quantum algorithm",
+      "ano": 2025,
+      "url": "https://doi.org/10.21203/rs.3.rs-7466525/v1",
+      "quantico": true
+     },
+     "relevancia": 75,
+     "orcidVistoEm": "2026-11-17T18:39:51.367Z"
+    },
+    {
+     "id": "A5017745157",
+     "nome": "M. A. Rajabpour",
+     "orcid": "0000-0001-7291-7166",
+     "trabalhos": 3,
+     "ultimoAno": 2025,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum many-body systems"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Matrix Elements of Fermionic Gaussian Operators in Arbitrary Pauli Bases: A Pfaffian Formula",
+      "ano": 2025,
+      "url": "https://doi.org/10.48550/arxiv.2506.02809",
+      "quantico": true
+     },
+     "relevancia": 75,
+     "orcidVistoEm": "2026-11-17T18:39:51.690Z"
+    }
+   ]
+  },
+  "ref-puc-rio": {
+   "instituicao": {
+    "id": "I2699952",
+    "nome": "Pontifícia Universidade Católica do Rio de Janeiro",
+    "tipo": "education",
+    "trabalhos": 43610
+   },
+   "buscadoEm": "2026-11-17T18:39:52.551Z",
+   "pessoas": [
+    {
+     "id": "A5018278966",
+     "nome": "Guilherme P. Temporão",
+     "orcid": "0000-0002-5244-3394",
+     "trabalhos": 23,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Wireless Communication Security Techniques",
+      "Optical Network Technologies"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Implementation of a 1D Gaussian-modulated CV-QKD under finite-size parameter estimation",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2611.17250",
+      "quantico": true
+     },
+     "relevancia": 100,
+     "cargo": "Associate Professor, Department of Electrical Engineering",
+     "orcidVistoEm": "2026-11-17T18:39:53.518Z"
+    },
+    {
+     "id": "A5090542944",
+     "nome": "Gustavo Castro do Amaral",
+     "orcid": "0000-0001-6071-7458",
+     "trabalhos": 6,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Wireless Communication Security Techniques",
+      "Quantum optics and atomic interactions"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Dual-Pilot-Assisted Frequency and Phase Recovery in Experimental CV-QKD",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2608.07277",
+      "quantico": true
+     },
+     "relevancia": 88,
+     "orcidVistoEm": "2026-11-17T18:39:53.847Z"
+    },
+    {
+     "id": "A5022644980",
+     "nome": "Thiago Guerreiro",
+     "orcid": "0000-0001-5055-8481",
+     "trabalhos": 5,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography",
+      "Mechanical and Optical Resonators"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Evolving quantum circuits",
+      "ano": 2024,
+      "url": "https://doi.org/10.1007/s11128-024-04317-w",
+      "quantico": true
+     },
+     "relevancia": 85,
+     "cargo": "Assistant Professor, Physics",
+     "orcidVistoEm": "2026-11-17T18:39:54.188Z"
+    },
+    {
+     "id": "A5121247899",
+     "nome": "Christiano M. S. Nascimento",
+     "orcid": "",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Wireless Communication Security Techniques"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Implementation of a 1D Gaussian-modulated CV-QKD under finite-size parameter estimation",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2611.17250",
+      "quantico": true
+     },
+     "relevancia": 79
+    },
+    {
+     "id": "A5133084909",
+     "nome": "Pedro Ripper",
+     "orcid": "0000-0002-2227-3689",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Advanced Optimization Algorithms Research",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "QUBO.jl : a Julia ecosystem for quadratic unconstrained binary optimization",
+      "ano": 2026,
+      "url": "https://doi.org/10.1080/10556788.2026.2702926",
+      "quantico": true
+     },
+     "relevancia": 79,
+     "orcidVistoEm": "2026-11-17T18:39:54.511Z"
+    },
+    {
+     "id": "A5058350427",
+     "nome": "Pedro V. Paraguassú",
+     "orcid": "0000-0003-2334-5688",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Mechanics and Applications",
+      "Mechanical and Optical Resonators",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Stochastic Quantum Information Geometry and Speed Limits at the Trajectory Level",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2601.12475",
+      "quantico": true
+     },
+     "relevancia": 79,
+     "email": "paraguassu@esp.puc-rio.br",
+     "cargo": "PostDoc, Physics",
+     "orcidVistoEm": "2026-11-17T18:39:54.861Z"
+    },
+    {
+     "id": "A5002290153",
+     "nome": "Felipe Calliari",
+     "orcid": "0000-0002-9365-5481",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Optical Network Technologies",
+      "Quantum optics and atomic interactions"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Field Demonstration of a Passive Phase and Polarization Stabilization Architecture for Sagnac Twin-Field QKD",
+      "ano": 2026,
+      "url": "https://doi.org/10.1109/tqe.2026.3728701",
+      "quantico": true
+     },
+     "relevancia": 79,
+     "cargo": "Professor, Electrical Engineering",
+     "orcidVistoEm": "2026-11-17T18:39:55.194Z"
+    },
+    {
+     "id": "A5058629731",
+     "nome": "DANIEL RIBAS TANDEITNIK",
+     "orcid": "0000-0003-3276-9335",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Evolutionary Algorithms and Applications",
+      "Mechanical and Optical Resonators"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Evolving quantum circuits",
+      "ano": 2024,
+      "url": "https://doi.org/10.1007/s11128-024-04317-w",
+      "quantico": true
+     },
+     "relevancia": 79,
+     "orcidVistoEm": "2026-11-17T18:39:55.526Z"
+    },
+    {
+     "id": "A5083510721",
+     "nome": "Jean Pierre von der Weid",
+     "orcid": "0000-0002-8317-1205",
+     "trabalhos": 9,
+     "ultimoAno": 2014,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Optical Network Technologies",
+      "Wireless Communication Security Techniques"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Safeguarding Quantum Key Distribution Through Detection Randomization",
+      "ano": 2014,
+      "url": "https://doi.org/10.1109/jstqe.2014.2361793",
+      "quantico": true
+     },
+     "relevancia": 79,
+     "cargo": "Professor, Center for Telecommunications Studies",
+     "orcidVistoEm": "2026-11-17T18:39:55.861Z"
+    },
+    {
+     "id": "A5123504829",
+     "nome": "Pedro B. Melo",
+     "orcid": "0000-0002-3726-761X",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Mechanics and Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Pointwise mutual information bounded by stochastic Fisher information",
+      "ano": 2026,
+      "url": "https://doi.org/10.1103/r71y-m4ml",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "email": "pedrobmelo@aluno.puc-rio.br",
+     "orcidVistoEm": "2026-11-17T18:39:56.193Z"
+    },
+    {
+     "id": "A5039876304",
+     "nome": "Lorenzo Saraiva",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography",
+      "Logic, programming, and type systems"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Quantum Verification of Compressed Proofs through DLDS-to-Circuit Compilation",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sbccq.2026.21925",
+      "quantico": true
+     },
+     "relevancia": 76
+    },
+    {
+     "id": "A5091129860",
+     "nome": "Edward Hermann Hæusler",
+     "orcid": "0000-0002-4999-7476",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography",
+      "Logic, programming, and type systems"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Quantum Verification of Compressed Proofs through DLDS-to-Circuit Compilation",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sbccq.2026.21925",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "cargo": "Associate Professor, Informática",
+     "orcidVistoEm": "2026-11-17T18:39:56.523Z"
+    },
+    {
+     "id": "A5059298981",
+     "nome": "Welles A. M. Morgado",
+     "orcid": "0000-0002-9690-6258",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Mechanics and Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Stochastic Quantum Information Geometry and Speed Limits at the Trajectory Level",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2601.12475",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "cargo": "Professor Associado I, Departamento de Física",
+     "orcidVistoEm": "2026-11-17T18:39:56.851Z"
+    },
+    {
+     "id": "A5153688154",
+     "nome": "Pedro B. Melo",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Thermodynamics of Ahn--Doherty--Landahl Continuous Quantum Error Correction",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2609.39597",
+      "quantico": true
+     },
+     "relevancia": 73
+    },
+    {
+     "id": "A5139965923",
+     "nome": "Alexandre Wanick",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Partially-Blind Single-Qubit Classification over a Prototype Hybrid Quantum Network",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2607.01998",
+      "quantico": true
+     },
+     "relevancia": 73
+    }
+   ]
+  },
+  "ref-fine-instrument-technology-fit": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-17T18:39:57.678Z",
+   "pessoas": []
+  },
+  "ref-cesar": {
+   "instituicao": {
+    "id": "I4210123235",
+    "nome": "Centro de Estudos e Sistemas Avançados do Recife",
+    "tipo": "other",
+    "trabalhos": 618
+   },
+   "buscadoEm": "2026-11-17T18:39:58.080Z",
+   "pessoas": [
+    {
+     "id": "A5080208427",
+     "nome": "Erico S. Teixeira",
+     "orcid": "0000-0003-0520-5075",
+     "trabalhos": 3,
+     "ultimoAno": 2025,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Reliability and Maintenance Optimization",
+      "Teaching and Learning Programming"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Quantum-based optimization methods for the linear redundancy allocation problem: A comparative analysis",
+      "ano": 2025,
+      "url": "https://doi.org/10.1016/j.ress.2025.111153",
+      "quantico": true
+     },
+     "relevancia": 75,
+     "orcidVistoEm": "2026-11-17T18:39:58.975Z"
+    },
+    {
+     "id": "A5153046868",
+     "nome": "Matheus V. P. Santos",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Cybersecurity and Information Systems",
+      "Cybersecurity and Cyber Warfare Studies"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Avaliação Exploratória da Prontidão da Infraestrutura de Rede para Criptografia Pós-Quântica em DNSSEC na América Latina e Caribe",
+      "ano": 2026,
+      "url": "https://doi.org/10.5281/zenodo.22986094",
+      "quantico": true
+     },
+     "relevancia": 73
+    },
+    {
+     "id": "A5126363060",
+     "nome": "Edgard Lima",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Cryptographic Implementations and Security",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Supplementary Material for: A SLR of Modern AI-Driven SCA on NIST's PQC Standards",
+      "ano": 2026,
+      "url": "https://doi.org/10.5281/zenodo.18697379",
+      "quantico": true
+     },
+     "relevancia": 73
+    },
+    {
+     "id": "A5053692620",
+     "nome": "Fabio Wladimir M Maia",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Cryptographic Implementations and Security",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Supplementary Material for: A SLR of Modern AI-Driven SCA on NIST's PQC Standards",
+      "ano": 2026,
+      "url": "https://doi.org/10.5281/zenodo.18697379",
+      "quantico": true
+     },
+     "relevancia": 73
+    },
+    {
+     "id": "A5048736911",
+     "nome": "Pâmela Thays Lins Bezerra",
+     "orcid": "0000-0002-5067-1617",
+     "trabalhos": 2,
+     "ultimoAno": 2025,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Reliability and Maintenance Optimization",
+      "Teaching and Learning Programming"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Quantum-based optimization methods for the linear redundancy allocation problem: A comparative analysis",
+      "ano": 2025,
+      "url": "https://doi.org/10.1016/j.ress.2025.111153",
+      "quantico": true
+     },
+     "relevancia": 72,
+     "orcidVistoEm": "2026-11-17T18:39:59.300Z"
+    },
+    {
+     "id": "A5101843160",
+     "nome": "Danilo Monteiro Ribeiro",
+     "orcid": "0000-0001-7393-729X",
+     "trabalhos": 10,
+     "ultimoAno": 2026,
+     "temas": [
+      "Software Engineering Techniques and Practices",
+      "Human Resource Development and Performance Evaluation",
+      "Innovative Education and Learning Practices"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "A SLR of Modern AI-Driven SCA on NIST’s PQC Standards",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/978-3-032-25149-7_16",
+      "quantico": false
+     },
+     "relevancia": 60,
+     "cargo": "Professor, Computer Science",
+     "orcidVistoEm": "2026-11-17T18:39:59.634Z"
+    },
+    {
+     "id": "A5129739128",
+     "nome": "Rodrigo Siqueira",
+     "orcid": "",
+     "trabalhos": 9,
+     "ultimoAno": 2026,
+     "temas": [
+      "Human Resource Development and Performance Evaluation",
+      "Software Engineering Techniques and Practices",
+      "Artificial Intelligence in Education"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "What Does It Take to Research with AI? A Rapid Review of Competencies to Train LLM-Literate Researchers",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sbie.2026.28206",
+      "quantico": false
+     },
+     "relevancia": 45
+    },
+    {
+     "id": "A5000683692",
+     "nome": "Luciano Barbosa",
+     "orcid": "0000-0002-6858-4773",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Information Retrieval and Search Behavior",
+      "Topic Modeling",
+      "Spam and Phishing Detection"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Lightweight SPIT Detection Under Adversarial Mimicry",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/kdmile.2026.32002",
+      "quantico": false
+     },
+     "relevancia": 42,
+     "orcidVistoEm": "2026-11-17T18:39:59.964Z"
+    },
+    {
+     "id": "A5025630415",
+     "nome": "Rafael Ferreira Mello",
+     "orcid": "0000-0003-3548-9670",
+     "trabalhos": 8,
+     "ultimoAno": 2026,
+     "temas": [
+      "Artificial Intelligence in Education",
+      "Intelligent Tutoring Systems and Adaptive Learning",
+      "Online Learning and Analytics"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Feedback Personalizado em Escala no Ensino Superior: Relato de Experiência com a Plataforma Tutoria em Múltiplas Turmas",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/wie.2026.27822",
+      "quantico": false
+     },
+     "relevancia": 42,
+     "cargo": "Professor, Cesar School",
+     "orcidVistoEm": "2026-11-17T18:40:00.313Z"
+    },
+    {
+     "id": "A5128287001",
+     "nome": "Gilberto Sussumu Hida",
+     "orcid": "0009-0003-2310-5323",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Meta-analysis and systematic reviews",
+      "Artificial Intelligence in Education",
+      "Ethics and Social Impacts of AI"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "What Does It Take to Research with AI? A Rapid Review of Competencies to Train LLM-Literate Researchers",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sbie.2026.28206",
+      "quantico": false
+     },
+     "relevancia": 39,
+     "orcidVistoEm": "2026-11-17T18:40:00.636Z"
+    },
+    {
+     "id": "A5079875528",
+     "nome": "José Augusto Suruagy Monteiro",
+     "orcid": "0000-0001-7157-5045",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Access Control and Trust",
+      "Blockchain Technology Applications and Security",
+      "Software-Defined Networks and 5G"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Supporting Data for \"Revocation in Distributed Identity and Authorization Systems: A Systematic Review with Implications for Autonomous Agents\"",
+      "ano": 2026,
+      "url": "https://doi.org/10.5281/zenodo.22120845",
+      "quantico": false
+     },
+     "relevancia": 39,
+     "cargo": "Consultant, Graduate Program in Software Engineering",
+     "orcidVistoEm": "2026-11-17T18:40:00.971Z"
+    },
+    {
+     "id": "A5101779942",
+     "nome": "Calebe P. Bianchini",
+     "orcid": "0000-0001-7683-3437",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Parallel Computing and Optimization Techniques",
+      "Advanced Neural Network Applications",
+      "Embedded Systems Design Techniques"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Deep-Learning Inference Performance Across Heterogeneous HPC CPU Systems",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sscad.2026.34958",
+      "quantico": false
+     },
+     "relevancia": 36,
+     "cargo": "Senior Software Engineering",
+     "orcidVistoEm": "2026-11-17T18:40:01.305Z"
+    },
+    {
+     "id": "A5161421038",
+     "nome": "Evaldo Costa",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Parallel Computing and Optimization Techniques",
+      "Advanced Neural Network Applications",
+      "Embedded Systems Design Techniques"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Deep-Learning Inference Performance Across Heterogeneous HPC CPU Systems",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sscad.2026.34958",
+      "quantico": false
+     },
+     "relevancia": 36
+    },
+    {
+     "id": "A5006984221",
+     "nome": "Gabriel Freytag",
+     "orcid": "0000-0001-6081-5904",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Parallel Computing and Optimization Techniques",
+      "Advanced Neural Network Applications",
+      "Embedded Systems Design Techniques"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Deep-Learning Inference Performance Across Heterogeneous HPC CPU Systems",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sscad.2026.34958",
+      "quantico": false
+     },
+     "relevancia": 36,
+     "orcidVistoEm": "2026-11-17T18:40:01.639Z"
+    },
+    {
+     "id": "A5127790370",
+     "nome": "Leon Barboza",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Parallel Computing and Optimization Techniques",
+      "Advanced Neural Network Applications",
+      "Embedded Systems Design Techniques"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Deep-Learning Inference Performance Across Heterogeneous HPC CPU Systems",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sscad.2026.34958",
+      "quantico": false
+     },
+     "relevancia": 36
+    }
+   ]
+  },
+  "ref-btg-pactual": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-17T18:40:02.270Z",
+   "pessoas": []
+  },
+  "ref-xp-inc": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-17T18:40:02.599Z",
+   "pessoas": []
   }
  },
- "atualizadoEm": "2026-11-17T11:25:37.547Z",
+ "atualizadoEm": "2026-11-17T18:40:02.599Z",
  "fonte": "OpenAlex (produção científica e técnica) e ORCID (dados tornados públicos pelos próprios pesquisadores)",
  "versao": 3
 }

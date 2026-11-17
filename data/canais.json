@@ -1,12 +1,13 @@
 {
- "aviso": "Somente canais institucionais publicados nos sites oficiais. E-mails pessoais são descartados.",
+ "aviso": "Somente caixas institucionais publicadas pelas próprias organizações. E-mails pessoais são descartados.",
  "porOrg": {
   "ref-itau-unibanco": {
    "verificadoEm": "2026-11-16T22:32:19.359Z",
    "status": "ok",
    "emails": [],
    "cnpj": "60872504000123",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-17T18:40:02.862Z"
   },
   "ref-bndes": {
    "verificadoEm": "2026-11-16T22:32:34.462Z",
@@ -54,7 +55,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-17T18:40:03.046Z"
   },
   "ref-santander-brasil": {
    "verificadoEm": "2026-11-17T00:14:51.481Z",
@@ -68,7 +70,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/bradesco"
+   "linkedin": "https://www.linkedin.com/company/bradesco",
+   "buscaWebEm": "2026-11-17T18:40:02.954Z"
   },
   "ref-banco-safra": {
    "verificadoEm": "2026-11-17T00:14:53.748Z",
@@ -205,7 +208,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "00068353000123",
-   "linkedin": "https://www.linkedin.com/company/502389"
+   "linkedin": "https://www.linkedin.com/company/502389",
+   "buscaWebEm": "2026-11-17T18:40:03.130Z"
   },
   "ref-mapfre-brasil": {
    "verificadoEm": "2026-11-17T00:15:25.031Z",
@@ -227,7 +231,8 @@
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-17T18:40:03.211Z"
   },
   "ref-caixa-seguridade": {
    "verificadoEm": "2026-11-17T00:15:27.142Z",
@@ -440,7 +445,8 @@
     }
    ],
    "cnpj": "",
-   "linkedin": "https://br.linkedin.com/company/embrapa"
+   "linkedin": "https://br.linkedin.com/company/embrapa",
+   "buscaWebEm": "2026-11-17T18:40:03.309Z"
   },
   "ref-uniao-quimica": {
    "verificadoEm": "2026-11-17T00:16:10.418Z",
@@ -608,7 +614,829 @@
    "emails": [],
    "cnpj": "",
    "linkedin": ""
+  },
+  "ref-instituto-tecnologico-vale-itv": {
+   "verificadoEm": "2026-11-17T18:35:20.778Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "itvds@itv.org",
+     "papel": "Inovação e P&D",
+     "url": "https://www.itv.org/"
+    },
+    {
+     "email": "itvmi@itv.org",
+     "papel": "Inovação e P&D",
+     "url": "https://www.itv.org/comunicacao/itv-reforca-contribuicao-a-ciencia-e-inovacao-no-relatorio-pdi-2025-da-vale/"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-climatempo": {
+   "verificadoEm": "2026-11-17T18:35:21.821Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/climatempo"
+  },
+  "ref-sao-martinho": {
+   "verificadoEm": "2026-11-17T18:35:26.304Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/saomartinho"
+  },
+  "ref-re-green": {
+   "verificadoEm": "2026-11-17T18:35:26.994Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "fetch failed",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-inpe": {
+   "verificadoEm": "2026-11-17T18:35:27.356Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/inpe_2"
+  },
+  "ref-moss": {
+   "verificadoEm": "2026-11-17T18:35:27.494Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "HTTP 403",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-cemaden": {
+   "verificadoEm": "2026-11-17T18:35:29.870Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/cemaden"
+  },
+  "ref-eletrobras": {
+   "verificadoEm": "2026-11-17T18:35:31.487Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-inmet": {
+   "verificadoEm": "2026-11-17T18:35:35.250Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "acs@inmet.gov.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://portal.inmet.gov.br/fale-conosco"
+    },
+    {
+     "email": "inmet@inmet.gov.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://portal.inmet.gov.br/fale-conosco"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://linkedin.com/company/mapa-brasil"
+  },
+  "ref-chesf": {
+   "verificadoEm": "2026-11-17T18:35:35.748Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/axia-energia"
+  },
+  "ref-ons": {
+   "verificadoEm": "2026-11-17T18:35:36.154Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/ons-operador-nacional-do-sistema-el"
+  },
+  "ref-mombak": {
+   "verificadoEm": "2026-11-17T18:35:36.714Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "info@mombak.com",
+     "papel": "Contato geral",
+     "url": "https://mombak.com/contact/"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/mombak1"
+  },
+  "ref-neoenergia": {
+   "verificadoEm": "2026-11-17T18:35:43.529Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/neoenergia"
+  },
+  "ref-ambipar": {
+   "verificadoEm": "2026-11-17T18:35:45.468Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/grupoambipar"
+  },
+  "ref-itaipu-binacional": {
+   "verificadoEm": "2026-11-17T18:35:48.161Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "imprensa@itaipu.gov.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.itaipu.gov.br/contatos/imprensa/"
+    },
+    {
+     "email": "imagem@itaipu.gov.br",
+     "papel": "Contato geral",
+     "url": "https://www.itaipu.gov.br/institucional/comunicacao-social/logomarcas"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/itaipu-binacional"
+  },
+  "ref-ccee": {
+   "verificadoEm": "2026-11-17T18:35:51.868Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "03034433000156",
+   "linkedin": "https://pt.linkedin.com/company/c-mara-de-comercializa-o-de-energia-el-trica"
+  },
+  "ref-energisa": {
+   "verificadoEm": "2026-11-17T18:35:52.100Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "inovacao@energisa.com.br",
+     "papel": "Inovação e P&D",
+     "url": "https://www.energisa.com.br/sobre-nos/inovacao/inovacao/desafios-de-inovacao-aberta"
+    },
+    {
+     "email": "comunicacao.acre@energisa.com.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.energisa.com.br/institucional/sala-de-imprensa"
+    },
+    {
+     "email": "comunicacao.mt@energisa.com.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.energisa.com.br/institucional/sala-de-imprensa"
+    },
+    {
+     "email": "comunicacao.ese@energisa.com.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.energisa.com.br/institucional/sala-de-imprensa"
+    },
+    {
+     "email": "comunicacaoms@energisa.com.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.energisa.com.br/institucional/sala-de-imprensa"
+    },
+    {
+     "email": "comunicacaopb@energisa.com.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.energisa.com.br/institucional/sala-de-imprensa"
+    },
+    {
+     "email": "comunicacao.eto@energisa.com.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.energisa.com.br/institucional/sala-de-imprensa"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://br.linkedin.com/company/energisa"
+  },
+  "ref-equatorial": {
+   "verificadoEm": "2026-11-17T18:35:52.416Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "HTTP 403",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-energisa-paraiba": {
+   "verificadoEm": "2026-11-17T18:35:52.921Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "inovacao@energisa.com.br",
+     "papel": "Inovação e P&D",
+     "url": "https://www.energisa.com.br/sobre-nos/inovacao/inovacao/desafios-de-inovacao-aberta"
+    },
+    {
+     "email": "comunicacao.acre@energisa.com.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.energisa.com.br/institucional/sala-de-imprensa"
+    },
+    {
+     "email": "comunicacao.mt@energisa.com.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.energisa.com.br/institucional/sala-de-imprensa"
+    },
+    {
+     "email": "comunicacao.ese@energisa.com.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.energisa.com.br/institucional/sala-de-imprensa"
+    },
+    {
+     "email": "comunicacaoms@energisa.com.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.energisa.com.br/institucional/sala-de-imprensa"
+    },
+    {
+     "email": "comunicacaopb@energisa.com.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.energisa.com.br/institucional/sala-de-imprensa"
+    },
+    {
+     "email": "comunicacao.eto@energisa.com.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.energisa.com.br/institucional/sala-de-imprensa"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://br.linkedin.com/company/energisa"
+  },
+  "ref-enel-brasil": {
+   "verificadoEm": "2026-11-17T18:35:59.830Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/enel-brasil"
+  },
+  "ref-cpfl-energia": {
+   "verificadoEm": "2026-11-17T18:36:00.220Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/cpfl"
+  },
+  "ref-cemig": {
+   "verificadoEm": "2026-11-17T18:36:02.074Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-copel": {
+   "verificadoEm": "2026-11-17T18:36:06.177Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://br.linkedin.com/company/copel"
+  },
+  "ref-epe": {
+   "verificadoEm": "2026-11-17T18:36:09.753Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "This operation was aborted",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-light": {
+   "verificadoEm": "2026-11-17T18:36:11.961Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "pesquisa.desenvolvimento@light.com.br",
+     "papel": "Inovação e P&D",
+     "url": "https://www.light.com.br/SitePages/page-pesquisa-e-desenvolvimento.aspx"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/light"
+  },
+  "ref-engie-brasil": {
+   "verificadoEm": "2026-11-17T18:36:13.055Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/engie-brasil"
+  },
+  "ref-auren-energia": {
+   "verificadoEm": "2026-11-17T18:36:13.282Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "HTTP 403",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-casa-dos-ventos": {
+   "verificadoEm": "2026-11-17T18:36:17.669Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "http://linkedin.com/company/casa-dos-ventos-energias-renov-veis"
+  },
+  "ref-petrobras": {
+   "verificadoEm": "2026-11-17T18:36:18.288Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "HTTP 403",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-isa-energia-brasil": {
+   "verificadoEm": "2026-11-17T18:36:20.599Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/isaenergiabrasil"
+  },
+  "ref-shell-brasil": {
+   "verificadoEm": "2026-11-17T18:36:25.193Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-cepel": {
+   "verificadoEm": "2026-11-17T18:36:28.682Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "comunicacao@cepel.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.cepel.br/fale-conosco/visita/"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/cepel"
+  },
+  "ref-equinor-brasil": {
+   "verificadoEm": "2026-11-17T18:36:28.725Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/equinor"
+  },
+  "ref-taesa": {
+   "verificadoEm": "2026-11-17T18:36:31.358Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "fetch failed",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-prio": {
+   "verificadoEm": "2026-11-17T18:36:32.013Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "HTTP 403",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-totalenergies-brasil": {
+   "verificadoEm": "2026-11-17T18:36:35.772Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/totalenergies"
+  },
+  "ref-acelen": {
+   "verificadoEm": "2026-11-17T18:36:35.974Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "HTTP 403",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-repsol-sinopec-brasil": {
+   "verificadoEm": "2026-11-17T18:36:38.460Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/3007028"
+  },
+  "ref-raizen": {
+   "verificadoEm": "2026-11-17T18:36:41.047Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "33453598000123",
+   "linkedin": "https://www.linkedin.com/company/raizenoficial"
+  },
+  "ref-ibp-instituto-brasileiro-de-petroleo-e-g": {
+   "verificadoEm": "2026-11-17T18:36:41.441Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "HTTP 403",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-edp-brasil": {
+   "verificadoEm": "2026-11-17T18:36:45.779Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-galp-brasil": {
+   "verificadoEm": "2026-11-17T18:36:45.944Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "galp@galp.com",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.galp.com/corp/pt/sobre-nos/a-galp/a-galp-no-mundo"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/galp"
+  },
+  "ref-gerdau": {
+   "verificadoEm": "2026-11-17T18:36:46.468Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "HTTP 403",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-vibra-energia": {
+   "verificadoEm": "2026-11-17T18:36:50.249Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/vibra-energia"
+  },
+  "ref-transpetro": {
+   "verificadoEm": "2026-11-17T18:36:50.646Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "imprensa.transpetro@transpetro.com.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://transpetro.com.br/transpetro-institucional/quem-somos/nossos-contatos.htm"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://br.linkedin.com/company/transpetro-petrobras-transporte"
+  },
+  "ref-cbmm": {
+   "verificadoEm": "2026-11-17T18:36:53.562Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/cbmm"
+  },
+  "ref-nexa-resources": {
+   "verificadoEm": "2026-11-17T18:36:53.662Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "HTTP 403",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-vale": {
+   "verificadoEm": "2026-11-17T18:36:54.167Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "vale.ri@vale.com",
+     "papel": "Relações com investidores",
+     "url": "https://vale.com/contacts"
+    },
+    {
+     "email": "imprensa@vale.com",
+     "papel": "Comunicação e imprensa",
+     "url": "https://vale.com/press-releases"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/vale"
+  },
+  "ref-arcelormittal-brasil": {
+   "verificadoEm": "2026-11-17T18:36:55.336Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://linkedin.com/company/arcelormittal-brasil"
+  },
+  "ref-unigel": {
+   "verificadoEm": "2026-11-17T18:36:59.620Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/unigel"
+  },
+  "ref-csn": {
+   "verificadoEm": "2026-11-17T18:37:00.948Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "inovacsn@csn.com.br",
+     "papel": "Inovação e P&D",
+     "url": "https://www.csn.com.br/quem-somos/inovacao/plano-estrategico-de-inovacao/"
+    },
+    {
+     "email": "inova@csn.com.br",
+     "papel": "Inovação e P&D",
+     "url": "https://www.csn.com.br/quem-somos/inovacao/csn-inova/"
+    },
+    {
+     "email": "imprensa@csn.com.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.csn.com.br/pt-br/fale-conosco/"
+    },
+    {
+     "email": "rhfacil@csn.com.br",
+     "papel": "Contato geral",
+     "url": "https://www.csn.com.br/pt-br/fale-conosco/"
+    },
+    {
+     "email": "atendimento@csn.com.br",
+     "papel": "Contato geral",
+     "url": "https://www.csn.com.br/pt-br/fale-conosco/"
+    },
+    {
+     "email": "comercialacoslongos@csn.com.br",
+     "papel": "Contato geral",
+     "url": "https://www.csn.com.br/pt-br/fale-conosco/"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/companhiasiderurgicanacional"
+  },
+  "ref-alcoa-brasil": {
+   "verificadoEm": "2026-11-17T18:37:02.856Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "alcoadpo@alcoa.com",
+     "papel": "Contato geral",
+     "url": "https://www.alcoa.com/brasil/pt/contact"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "http://www.linkedin.com/company/alcoa"
+  },
+  "ref-dow-brasil": {
+   "verificadoEm": "2026-11-17T18:37:04.727Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/2562"
+  },
+  "ref-grupo-boticario": {
+   "verificadoEm": "2026-11-17T18:37:07.129Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "15026092529297",
+   "linkedin": "https://www.linkedin.com/company/grupo-boticario"
+  },
+  "ref-suzano": {
+   "verificadoEm": "2026-11-17T18:37:08.537Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "sustentabilidade@suzano.com.br",
+     "papel": "Sustentabilidade",
+     "url": "https://www.suzano.com.br/fale-conosco"
+    },
+    {
+     "email": "contatoprofessional@suzano.com.br",
+     "papel": "Contato geral",
+     "url": "https://www.suzano.com.br/fale-conosco"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/suzano-international"
+  },
+  "ref-weg": {
+   "verificadoEm": "2026-11-17T18:37:08.847Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "HTTP 403",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-usiminas": {
+   "verificadoEm": "2026-11-17T18:37:11.058Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://br.linkedin.com/company/usiminas-s"
+  },
+  "ref-klabin": {
+   "verificadoEm": "2026-11-17T18:37:16.147Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/klabin"
+  },
+  "ref-natura": {
+   "verificadoEm": "2026-11-17T18:37:16.160Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-ambev": {
+   "verificadoEm": "2026-11-17T18:37:16.184Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "HTTP 403",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-alpargatas": {
+   "verificadoEm": "2026-11-17T18:37:16.393Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "HTTP 403",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-siemens-brasil": {
+   "verificadoEm": "2026-11-17T18:37:18.186Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-tupy": {
+   "verificadoEm": "2026-11-17T18:37:19.580Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "tech@tupy.com.br",
+     "papel": "Inovação e P&D",
+     "url": "https://www.tupy.com.br/inovacao-e-tecnologia/"
+    },
+    {
+     "email": "inova@tupy.com.br",
+     "papel": "Inovação e P&D",
+     "url": "https://www.tupy.com.br/inovacao-aberta/"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/tupy"
+  },
+  "ref-grupo-moura": {
+   "verificadoEm": "2026-11-17T18:37:20.765Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "09811654000170",
+   "linkedin": "https://www.linkedin.com/company/grupo-moura"
+  },
+  "ref-braskem": {
+   "verificadoEm": "2026-11-17T18:37:25.024Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/braskem"
+  },
+  "ref-romi": {
+   "verificadoEm": "2026-11-17T18:37:25.438Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "contato@romi.com",
+     "papel": "Contato geral",
+     "url": "https://www.romi.com/"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/romi-sa"
+  },
+  "ref-positivo-tecnologia": {
+   "verificadoEm": "2026-11-17T18:37:28.031Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/25950"
+  },
+  "ref-samsung-brasil": {
+   "verificadoEm": "2026-11-17T18:37:28.186Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "00280273000137",
+   "linkedin": ""
+  },
+  "ref-ht-micron": {
+   "verificadoEm": "2026-11-17T18:37:42.299Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "htmicron@htmicron.com.br",
+     "papel": "Sustentabilidade",
+     "url": "https://www.htmicron.com.br/"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/ht-micron-semicondutores-sa"
+  },
+  "ref-eneva": {
+   "verificadoEm": "2026-11-17T18:38:07.617Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/eneva"
+  },
+  "ref-quati": {
+   "emails": [],
+   "status": "ok",
+   "buscaWebEm": "2026-11-17T18:40:03.399Z"
+  },
+  "ref-ime-instituto-militar-de-engenharia": {
+   "emails": [],
+   "status": "ok",
+   "buscaWebEm": "2026-11-17T18:40:03.488Z"
+  },
+  "ref-cpqd": {
+   "emails": [],
+   "status": "ok",
+   "buscaWebEm": "2026-11-17T18:40:03.579Z"
+  },
+  "ref-rnp-rede-nacional-de-ensino-e-pesquisa": {
+   "emails": [],
+   "status": "ok",
+   "buscaWebEm": "2026-11-17T18:40:03.669Z"
+  },
+  "ref-valid": {
+   "emails": [],
+   "status": "ok",
+   "buscaWebEm": "2026-11-17T18:40:03.755Z"
+  },
+  "ref-ibm-brasil": {
+   "emails": [],
+   "status": "ok",
+   "buscaWebEm": "2026-11-17T18:40:03.839Z"
   }
  },
- "atualizadoEm": "2026-11-17T00:17:21.244Z"
+ "atualizadoEm": "2026-11-17T18:40:03.926Z"
 }
