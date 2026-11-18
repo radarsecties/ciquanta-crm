@@ -15859,9 +15859,1488 @@
    "instituicao": null,
    "buscadoEm": "2026-11-18T01:24:08.033Z",
    "pessoas": []
+  },
+  "ref-galp-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:07:47.168Z",
+   "pessoas": []
+  },
+  "ref-repsol-sinopec-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:07:47.437Z",
+   "pessoas": []
+  },
+  "ref-prio": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:07:47.718Z",
+   "pessoas": []
+  },
+  "ref-exxonmobil-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:07:47.985Z",
+   "pessoas": []
+  },
+  "ref-bp-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:07:48.228Z",
+   "pessoas": []
+  },
+  "ref-raizen": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:07:48.491Z",
+   "pessoas": []
+  },
+  "ref-acelen": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:07:49.148Z",
+   "pessoas": []
+  },
+  "ref-transpetro": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:07:49.436Z",
+   "pessoas": []
+  },
+  "ref-ibp-instituto-brasileiro-de-petroleo-e-g": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:07:50.042Z",
+   "pessoas": []
+  },
+  "ref-gerdau": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:07:51.488Z",
+   "pessoas": []
+  },
+  "ref-csn": {
+   "instituicao": {
+    "id": "I4210097748",
+    "nome": "Companhia Siderúrgica Nacional (Brazil)",
+    "tipo": "company",
+    "trabalhos": 291
+   },
+   "buscadoEm": "2026-11-18T18:07:53.261Z",
+   "pessoas": [
+    {
+     "id": "A5114273916",
+     "nome": "Erik de Souza Couto",
+     "orcid": "0009-0008-8775-4484",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Industrial Vision Systems and Defect Detection",
+      "Non-Destructive Testing Techniques",
+      "Fault Detection and Control Systems"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Optimization of the sheet metal inspection process using artificial intelligence",
+      "ano": 2026,
+      "url": "https://doi.org/10.4322/2176-1523.20263323",
+      "quantico": false
+     },
+     "relevancia": 36,
+     "orcidVistoEm": "2026-11-18T18:07:55.545Z"
+    },
+    {
+     "id": "A5114273875",
+     "nome": "Wesley Rossi Pimenta",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Industrial Vision Systems and Defect Detection",
+      "Non-Destructive Testing Techniques",
+      "Fault Detection and Control Systems"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Optimization of the sheet metal inspection process using artificial intelligence",
+      "ano": 2026,
+      "url": "https://doi.org/10.4322/2176-1523.20263323",
+      "quantico": false
+     },
+     "relevancia": 36
+    },
+    {
+     "id": "A5114273874",
+     "nome": "Daniel Costa Trocades",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Industrial Vision Systems and Defect Detection",
+      "Non-Destructive Testing Techniques"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Optimization of the sheet metal inspection process using artificial intelligence",
+      "ano": 2026,
+      "url": "https://doi.org/10.4322/2176-1523.20263323",
+      "quantico": false
+     },
+     "relevancia": 33
+    },
+    {
+     "id": "A5114273909",
+     "nome": "Regis Fonseca de Oliveira",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Industrial Vision Systems and Defect Detection",
+      "Non-Destructive Testing Techniques"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Optimization of the sheet metal inspection process using artificial intelligence",
+      "ano": 2026,
+      "url": "https://doi.org/10.4322/2176-1523.20263323",
+      "quantico": false
+     },
+     "relevancia": 33
+    },
+    {
+     "id": "A5114273645",
+     "nome": "Yuri Lucas de Souza Paropat",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Industrial Vision Systems and Defect Detection",
+      "Non-Destructive Testing Techniques"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Optimization of the sheet metal inspection process using artificial intelligence",
+      "ano": 2026,
+      "url": "https://doi.org/10.4322/2176-1523.20263323",
+      "quantico": false
+     },
+     "relevancia": 33
+    },
+    {
+     "id": "A5114273877",
+     "nome": "Sílvio de Carvalho Sabença",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Industrial Vision Systems and Defect Detection",
+      "Non-Destructive Testing Techniques"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Optimization of the sheet metal inspection process using artificial intelligence",
+      "ano": 2026,
+      "url": "https://doi.org/10.4322/2176-1523.20263323",
+      "quantico": false
+     },
+     "relevancia": 33
+    },
+    {
+     "id": "A5036032786",
+     "nome": "Daniel Alexandre da Costa Ximenes",
+     "orcid": "",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Microstructure and Mechanical Properties of Steels",
+      "High Temperature Alloys and Creep",
+      "Corrosion Behavior and Inhibition"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Processing, microstructural characterization and mechanical properties of an experimental boron-free Mn-Cr-Si-Nb press-hardening steel",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.jmrt.2026.08.154",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5111346271",
+     "nome": "Thalles César Teixeira Barbosa",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Mining Techniques and Economics",
+      "Scheduling and Optimization Algorithms"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "New Model for the Integrated Production Scheduling and Preventive Maintenance Programming Problem in an Open-Pit Iron Ore Mine: A Case Study",
+      "ano": 2024,
+      "url": "https://doi.org/10.1007/s42461-024-01082-3",
+      "quantico": false
+     },
+     "relevancia": 25
+    },
+    {
+     "id": "A5016492245",
+     "nome": "Bruno Fernandes Mudesto",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Microstructure and Mechanical Properties of Steels",
+      "High Temperature Alloys and Creep",
+      "Mechanical Failure Analysis and Simulation"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Processing, microstructural characterization and mechanical properties of an experimental boron-free Mn-Cr-Si-Nb press-hardening steel",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.jmrt.2026.08.154",
+      "quantico": false
+     },
+     "relevancia": 24
+    },
+    {
+     "id": "A5134577049",
+     "nome": "Millena Otogalli de Freitas",
+     "orcid": "0009-0003-0722-8673",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Electric Vehicles and Infrastructure",
+      "Complex Network Analysis Techniques",
+      "Advanced Neural Network Applications"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Analysis of Electric Vehicle Charging Networks",
+      "ano": 2026,
+      "url": "https://doi.org/10.5281/zenodo.19770452",
+      "quantico": false
+     },
+     "relevancia": 24
+    },
+    {
+     "id": "A5005131897",
+     "nome": "Alessandro D. Oliveira",
+     "orcid": "",
+     "trabalhos": 3,
+     "ultimoAno": 2025,
+     "temas": [
+      "Corrosion Behavior and Inhibition",
+      "Hydrogen embrittlement and corrosion behaviors in metals",
+      "Synthesis and pharmacology of benzodiazepine derivatives"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Novel 1,3-Diazepines as Nontoxic Corrosion Inhibitors",
+      "ano": 2025,
+      "url": "https://doi.org/10.1021/acsomega.5c07989",
+      "quantico": false
+     },
+     "relevancia": 23
+    },
+    {
+     "id": "A5147555162",
+     "nome": "J.P.G. Coelho",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Microstructure and Mechanical Properties of Steels",
+      "High Temperature Alloys and Creep"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Processing, microstructural characterization and mechanical properties of an experimental boron-free Mn-Cr-Si-Nb press-hardening steel",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.jmrt.2026.08.154",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5136676327",
+     "nome": "Adla Bredovv Vermeulen",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Corrosion Behavior and Inhibition",
+      "Structural Integrity and Reliability Analysis"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Aplicação de eletrodos de sacrifício para proteção catódica em estruturas de aço na mineração brasileira: eficiência, dimensionamento e sustentabilidade",
+      "ano": 2026,
+      "url": "https://doi.org/10.4322/2176-1523.20263311",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5114273938",
+     "nome": "Márcio Pedroso Bastos",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Fault Detection and Control Systems",
+      "Engineering and Materials Science Studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Development and implementation of a mathematical model for predicting zinc coating mass in continuous hot-dip galvanizing plants",
+      "ano": 2026,
+      "url": "https://doi.org/10.4322/2176-1523.20263405",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5114273939",
+     "nome": "Rodrigo Carvalho de Paula",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Fault Detection and Control Systems",
+      "Engineering and Materials Science Studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Development and implementation of a mathematical model for predicting zinc coating mass in continuous hot-dip galvanizing plants",
+      "ano": 2026,
+      "url": "https://doi.org/10.4322/2176-1523.20263405",
+      "quantico": false
+     },
+     "relevancia": 21
+    }
+   ]
+  },
+  "ref-usiminas": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:07:56.114Z",
+   "pessoas": []
+  },
+  "ref-arcelormittal-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:07:56.365Z",
+   "pessoas": []
+  },
+  "ref-unigel": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:07:56.596Z",
+   "pessoas": []
+  },
+  "ref-dow-brasil": {
+   "instituicao": {
+    "id": "I4210145213",
+    "nome": "Dow Chemical (Brasil)",
+    "tipo": "company",
+    "trabalhos": 114
+   },
+   "buscadoEm": "2026-11-18T18:07:57.712Z",
+   "pessoas": [
+    {
+     "id": "A5115894499",
+     "nome": "Luiz Cláudio Santos",
+     "orcid": "0009-0000-8114-6834",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Electric Motor Design and Analysis",
+      "Electric Power Systems and Control"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "SYNC or ASYNC – How to Start a Synchronous Motor Driving a Reciprocating Compressor",
+      "ano": 2024,
+      "url": "https://doi.org/10.1109/pcic47799.2024.10832355",
+      "quantico": false
+     },
+     "relevancia": 25,
+     "orcidVistoEm": "2026-11-18T18:07:59.178Z"
+    },
+    {
+     "id": "A5144286371",
+     "nome": "Alex Salvoni",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Dental Implant Techniques and Outcomes",
+      "Dental materials and restorations"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "A Novel 2-Piece Zygoma Extension System for Optimizing Prosthetic Emergence in the Atrophic Maxilla: A 3-Case Clinical Series",
+      "ano": 2026,
+      "url": "https://doi.org/10.1563/aaid-joi-d-25-00268",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5089762893",
+     "nome": "S. Arruda",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Hair Growth and Disorders",
+      "Nail Diseases and Treatments"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "0402 Trichoscopic interpretation of perifollicular pigmented network patterns is essential for diagnosing lymphocytic cicatricial alopecias",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.jid.2026.06.433",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5070680272",
+     "nome": "Carolina Carvalho Silva",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Chemotherapy-induced cardiotoxicity and mitigation",
+      "Innovations in Medical Education"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Global disparities and future directions in cardio-oncology training: an international survey of cardiology trainees from the international cardio-oncology society",
+      "ano": 2026,
+      "url": "https://doi.org/10.1186/s40959-025-00419-1",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5005543779",
+     "nome": "Hebert Silva",
+     "orcid": "0000-0002-0186-5925",
+     "trabalhos": 1,
+     "ultimoAno": 2025,
+     "temas": [
+      "Digital and Cyber Forensics",
+      "Network Security and Intrusion Detection"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "FIRM-OT: A Methodology for Cybersecurity Forensics and Incident Response in OT",
+      "ano": 2025,
+      "url": "https://doi.org/10.1109/isdfs65363.2025.11012047",
+      "quantico": false
+     },
+     "relevancia": 17
+    },
+    {
+     "id": "A5026286171",
+     "nome": "Arthur Cukiert",
+     "orcid": "0000-0002-6563-4149",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Global Health and Surgery",
+      "Epilepsy research and treatment"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Fellowship education in epilepsy in Latin America and Africa: Results of a survey",
+      "ano": 2024,
+      "url": "https://doi.org/10.1016/j.yebeh.2024.110161",
+      "quantico": false
+     },
+     "relevancia": 13
+    },
+    {
+     "id": "A5021964790",
+     "nome": "Catello Di Martino",
+     "orcid": "0000-0003-4460-516X",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Software System Performance and Reliability",
+      "Distributed systems and fault tolerance"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Mutiny! How Does Kubernetes Fail, and What Can We Do About It?",
+      "ano": 2024,
+      "url": "https://doi.org/10.1109/dsn58291.2024.00016",
+      "quantico": false
+     },
+     "relevancia": 13
+    },
+    {
+     "id": "A5103125798",
+     "nome": "Marjorie Costa ARGOLLO",
+     "orcid": "0000-0001-9867-8861",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Inflammatory Bowel Disease",
+      "Ocular Diseases and Behçet’s Syndrome"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "P74 Improvement in inflammatory biomarkers through week-12 in guselkumab-treated patients with moderately-to-severely active ulcerative colitis: results from phase-3 QUASAR induction study",
+      "ano": 2024,
+      "url": "https://doi.org/10.1136/gutjnl-2024-bsg.156",
+      "quantico": false
+     },
+     "relevancia": 13
+    },
+    {
+     "id": "A5041796542",
+     "nome": "Anna Moraes de Luna Freire Vargas",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Spinal Dysraphism and Malformations",
+      "Congenital Anomalies and Fetal Surgery"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Length of hysterotomy for fetal spina bifida repair is associated with prematurity risk",
+      "ano": 2024,
+      "url": "https://doi.org/10.1002/pd.6547",
+      "quantico": false
+     },
+     "relevancia": 13
+    },
+    {
+     "id": "A5101320064",
+     "nome": "Marcelo O. L. Filippo",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Spinal Dysraphism and Malformations",
+      "Congenital Anomalies and Fetal Surgery"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Length of hysterotomy for fetal spina bifida repair is associated with prematurity risk",
+      "ano": 2024,
+      "url": "https://doi.org/10.1002/pd.6547",
+      "quantico": false
+     },
+     "relevancia": 13
+    },
+    {
+     "id": "A5022785409",
+     "nome": "Cleisson Fábio Andrioli Peralta",
+     "orcid": "0000-0002-7279-5311",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Spinal Dysraphism and Malformations",
+      "Congenital Anomalies and Fetal Surgery"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Length of hysterotomy for fetal spina bifida repair is associated with prematurity risk",
+      "ano": 2024,
+      "url": "https://doi.org/10.1002/pd.6547",
+      "quantico": false
+     },
+     "relevancia": 13
+    },
+    {
+     "id": "A5088672794",
+     "nome": "Ricardo Vagner Luiz",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2022,
+     "temas": [
+      "Innovative concrete reinforcement materials",
+      "Fiber-reinforced polymer composites",
+      "Microencapsulation and Drying Processes"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "New method for graphitizing polyurethane (PU) prepolymers over cellulose fiber surface and physical properties assessment on cementitious composites",
+      "ano": 2022,
+      "url": "https://doi.org/10.1016/j.conbuildmat.2022.129935",
+      "quantico": false
+     },
+     "relevancia": 8
+    },
+    {
+     "id": "A5047668250",
+     "nome": "Camila Campos Flôres",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2022,
+     "temas": [
+      "Lignin and Wood Chemistry",
+      "Polymer Foaming and Composites"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Viscoelastic polyurethane foams from unmodified kraft lignin dispersed into methoxy polyethylene glycol and palm kernel oil as partial substitutes of petroleum-based polyols",
+      "ano": 2022,
+      "url": "https://doi.org/10.21203/rs.3.rs-1171841/v1",
+      "quantico": false
+     },
+     "relevancia": 8
+    },
+    {
+     "id": "A5046965941",
+     "nome": "Patrícia Mitsue Saruhashi Shimabukuro",
+     "orcid": "0000-0002-1431-0611",
+     "trabalhos": 1,
+     "ultimoAno": 2022,
+     "temas": [
+      "Influenza Virus Research Studies",
+      "Respiratory viral infections research"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Factors associated with death due to severe acute respiratory syndrome caused by influenza: Brazilian population study",
+      "ano": 2022,
+      "url": "https://doi.org/10.1016/j.jiph.2022.10.016",
+      "quantico": false
+     },
+     "relevancia": 5
+    },
+    {
+     "id": "A5101031739",
+     "nome": "Jorge Gomes",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2022,
+     "temas": [
+      "Rheology and Fluid Dynamics Studies",
+      "Polymer crystallization and properties"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Rheology modifier additive for enhanced processability of polyethylene for blown‐Film applications",
+      "ano": 2022,
+      "url": "https://doi.org/10.1002/vnl.21953",
+      "quantico": false
+     },
+     "relevancia": 5
+    }
+   ]
+  },
+  "ref-natura": {
+   "instituicao": {
+    "id": "I4210130207",
+    "nome": "Natura (Brazil)",
+    "tipo": "company",
+    "trabalhos": 154
+   },
+   "buscadoEm": "2026-11-18T18:08:00.388Z",
+   "pessoas": [
+    {
+     "id": "A5026685228",
+     "nome": "Débora Cristina Castellani",
+     "orcid": "",
+     "trabalhos": 7,
+     "ultimoAno": 2026,
+     "temas": [
+      "Oil Palm Production and Sustainability",
+      "Soil Carbon and Nitrogen Dynamics",
+      "Precipitation Measurement and Analysis"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Validation of Satellite-based and Gridded Precipitation Products for Gap-filling in Precipitation Series in the Eastern Amazon",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/s41976-026-00278-z",
+      "quantico": false
+     },
+     "relevancia": 39
+    },
+    {
+     "id": "A5013269209",
+     "nome": "Amiris de Paula Serdeira",
+     "orcid": "",
+     "trabalhos": 13,
+     "ultimoAno": 2023,
+     "temas": [
+      "Public Policy and Administration Research",
+      "Decision-Making and Behavioral Economics",
+      "Complex Systems and Decision Making"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Best Practices in Testing Behavioral Mechanisms",
+      "ano": 2023,
+      "url": "https://doi.org/10.1007/978-3-031-33034-6_9",
+      "quantico": false
+     },
+     "relevancia": 36
+    },
+    {
+     "id": "A5001381524",
+     "nome": "Pedro Paulo Soldati",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "melanin and skin pigmentation",
+      "Dermatologic Treatments and Research"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "77103 Efficacy of a High-SPF Sunscreen in Improving Facial Hyperpigmentation and Skin Tone Homogenization in a Diverse Phototype Population",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.jaad.2026.04.768",
+      "quantico": false
+     },
+     "relevancia": 24
+    },
+    {
+     "id": "A5066794775",
+     "nome": "Laís Brito Silva",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "melanin and skin pigmentation",
+      "Dermatologic Treatments and Research"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "77103 Efficacy of a High-SPF Sunscreen in Improving Facial Hyperpigmentation and Skin Tone Homogenization in a Diverse Phototype Population",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.jaad.2026.04.768",
+      "quantico": false
+     },
+     "relevancia": 24
+    },
+    {
+     "id": "A5034909432",
+     "nome": "Fabiana Paes",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "melanin and skin pigmentation",
+      "Dermatologic Treatments and Research"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "77103 Efficacy of a High-SPF Sunscreen in Improving Facial Hyperpigmentation and Skin Tone Homogenization in a Diverse Phototype Population",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.jaad.2026.04.768",
+      "quantico": false
+     },
+     "relevancia": 24
+    },
+    {
+     "id": "A5035637665",
+     "nome": "Camila Valpaços",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "melanin and skin pigmentation",
+      "Dermatologic Treatments and Research"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "77103 Efficacy of a High-SPF Sunscreen in Improving Facial Hyperpigmentation and Skin Tone Homogenization in a Diverse Phototype Population",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.jaad.2026.04.768",
+      "quantico": false
+     },
+     "relevancia": 24
+    },
+    {
+     "id": "A5049481024",
+     "nome": "Paula Andrea Moncayo",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "melanin and skin pigmentation",
+      "Dermatologic Treatments and Research"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "77103 Efficacy of a High-SPF Sunscreen in Improving Facial Hyperpigmentation and Skin Tone Homogenization in a Diverse Phototype Population",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.jaad.2026.04.768",
+      "quantico": false
+     },
+     "relevancia": 24
+    },
+    {
+     "id": "A5037745190",
+     "nome": "Silas Arandas Monteiro e Silva",
+     "orcid": "0000-0002-1584-747X",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "melanin and skin pigmentation",
+      "Dermatologic Treatments and Research"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "77103 Efficacy of a High-SPF Sunscreen in Improving Facial Hyperpigmentation and Skin Tone Homogenization in a Diverse Phototype Population",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.jaad.2026.04.768",
+      "quantico": false
+     },
+     "relevancia": 24
+    },
+    {
+     "id": "A5104750053",
+     "nome": "J.C. Lago-Nold",
+     "orcid": "",
+     "trabalhos": 3,
+     "ultimoAno": 2025,
+     "temas": [
+      "Skin Protection and Aging",
+      "Phytochemicals and Antioxidant Activities",
+      "Telomeres, Telomerase, and Senescence"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "0938 Casearia sylvestris extract and hymenaea courbaril extract (Jatobá) suppresses UVB inducted premature cellular senescence in human dermal fibroblasts",
+      "ano": 2025,
+      "url": "https://doi.org/10.1016/j.jid.2025.06.954",
+      "quantico": false
+     },
+     "relevancia": 23
+    },
+    {
+     "id": "A5005881356",
+     "nome": "Kélen Fabíola Arroteia",
+     "orcid": "",
+     "trabalhos": 3,
+     "ultimoAno": 2025,
+     "temas": [
+      "3D Printing in Biomedical Research",
+      "Skin Protection and Aging",
+      "Phytochemicals and Antioxidant Activities"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "0938 Casearia sylvestris extract and hymenaea courbaril extract (Jatobá) suppresses UVB inducted premature cellular senescence in human dermal fibroblasts",
+      "ano": 2025,
+      "url": "https://doi.org/10.1016/j.jid.2025.06.954",
+      "quantico": false
+     },
+     "relevancia": 23
+    },
+    {
+     "id": "A5058630871",
+     "nome": "Bianca Aparecida Mangerona",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Psychometric Methodologies and Testing",
+      "Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Validation of the Brief Solastalgia Scale ( BSS ‐Br): Psychometric evidence of environmental distress in the Brazilian population",
+      "ano": 2026,
+      "url": "https://doi.org/10.1002/epr2.70011",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5140124042",
+     "nome": "Mayara Santos Santana",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "melanin and skin pigmentation",
+      "Dermatologic Treatments and Research"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "77103 Efficacy of a High-SPF Sunscreen in Improving Facial Hyperpigmentation and Skin Tone Homogenization in a Diverse Phototype Population",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.jaad.2026.04.768",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5027405546",
+     "nome": "Flávia Alvim Sant’Anna Addor",
+     "orcid": "0000-0003-1851-7342",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "melanin and skin pigmentation",
+      "Dermatologic Treatments and Research"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "75399 Translational Efficacy of a Novel Depigmenting Formulation compared to Hydroquinone: From Melanogenesis Inhibition to Clinical Improvement Across Diverse Skin Phototypes",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.jaad.2026.04.1810",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5056733404",
+     "nome": "Patrícia Renovato Tobo",
+     "orcid": "0000-0002-8798-0747",
+     "trabalhos": 5,
+     "ultimoAno": 2023,
+     "temas": [
+      "Olfactory and Sensory Function Studies",
+      "Mindfulness and Compassion Interventions",
+      "Sensory Analysis and Statistical Methods"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "NEOS : An odour‐induced affect scale for use in the cosmetic industry",
+      "ano": 2023,
+      "url": "https://doi.org/10.1111/ics.12894",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5104800540",
+     "nome": "M.D. Ganzerla",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2025,
+     "temas": [
+      "Skin Protection and Aging",
+      "Phytochemicals and Antioxidant Activities",
+      "Telomeres, Telomerase, and Senescence"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "0938 Casearia sylvestris extract and hymenaea courbaril extract (Jatobá) suppresses UVB inducted premature cellular senescence in human dermal fibroblasts",
+      "ano": 2025,
+      "url": "https://doi.org/10.1016/j.jid.2025.06.954",
+      "quantico": false
+     },
+     "relevancia": 20
+    }
+   ]
+  },
+  "ref-grupo-boticario": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:08:02.452Z",
+   "pessoas": []
+  },
+  "ref-klabin": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:08:02.719Z",
+   "pessoas": []
+  },
+  "ref-siemens-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:08:03.171Z",
+   "pessoas": []
+  },
+  "ref-ambev": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:08:03.908Z",
+   "pessoas": []
+  },
+  "ref-grupo-moura": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:08:04.133Z",
+   "pessoas": []
+  },
+  "ref-ceitec": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:08:04.416Z",
+   "pessoas": []
+  },
+  "ref-positivo-tecnologia": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:08:05.187Z",
+   "pessoas": []
+  },
+  "ref-lg-electronics-do-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:08:05.840Z",
+   "pessoas": []
+  },
+  "ref-motorola-mobility": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:08:06.198Z",
+   "pessoas": []
+  },
+  "ref-hp-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:08:06.733Z",
+   "pessoas": []
+  },
+  "ref-cti-renato-archer": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:08:07.044Z",
+   "pessoas": []
+  },
+  "ref-vli": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:08:07.991Z",
+   "pessoas": []
+  },
+  "ref-mrs-logistica": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:08:08.671Z",
+   "pessoas": []
+  },
+  "ref-localiza": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:08:09.365Z",
+   "pessoas": []
+  },
+  "ref-correios": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:08:09.651Z",
+   "pessoas": []
+  },
+  "ref-azul-linhas-aereas": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:08:09.880Z",
+   "pessoas": []
+  },
+  "ref-latam-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:08:10.396Z",
+   "pessoas": []
+  },
+  "ref-general-motors-do-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:08:10.791Z",
+   "pessoas": []
+  },
+  "ref-toyota-do-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:08:11.037Z",
+   "pessoas": []
+  },
+  "ref-bosch-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:08:11.329Z",
+   "pessoas": []
+  },
+  "ref-magazine-luiza": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:08:11.574Z",
+   "pessoas": []
+  },
+  "ref-ifood": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:08:11.814Z",
+   "pessoas": []
+  },
+  "ref-atech": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:08:12.102Z",
+   "pessoas": []
+  },
+  "ref-ita-instituto-tecnologico-de-aeronautica": {
+   "instituicao": {
+    "id": "I4405276895",
+    "nome": "Instituto Tecnológico de Aeronáutica - Campus de Fortaleza",
+    "tipo": "education",
+    "trabalhos": 22
+   },
+   "buscadoEm": "2026-11-18T18:08:12.447Z",
+   "pessoas": [
+    {
+     "id": "A5073576593",
+     "nome": "Thiago Alves Lima",
+     "orcid": "0000-0001-9883-5775",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Stability and Control of Uncertain Systems",
+      "Advanced Control Systems Optimization"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Feedback stabilization of switched systems under arbitrary switching: A convex characterization",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.automatica.2026.113218",
+      "quantico": false
+     },
+     "relevancia": 42,
+     "email": "thiago.lima@gp.ita.br",
+     "cargo": "Professor",
+     "orcidVistoEm": "2026-11-18T18:08:13.290Z"
+    },
+    {
+     "id": "A5061940303",
+     "nome": "Walquiria N. Silva",
+     "orcid": "0000-0002-5178-6344",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Electric Power System Optimization",
+      "Privacy-Preserving Technologies in Data",
+      "Energy Load and Power Forecasting"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Federated electricity demand forecasting: A client selection mechanism based on TimeVAE latent representations",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.apenergy.2026.128064",
+      "quantico": false
+     },
+     "relevancia": 39,
+     "cargo": "Assistant Professor, Energy Engineering Division",
+     "orcidVistoEm": "2026-11-18T18:08:13.591Z"
+    },
+    {
+     "id": "A5056473594",
+     "nome": "Felipe S. Frutuoso",
+     "orcid": "0000-0001-5077-722X",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Vehicle emissions and performance",
+      "Engine and Fuel Emissions"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Predicting vehicular emissions in downsized ethanol fueled flex-fuel vehicles using machine learning and real-world driving data",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.nxener.2026.100935",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "cargo": "Professor, Gestão e Planejamento Energético - Engenharia de Energia",
+     "orcidVistoEm": "2026-11-18T18:08:13.891Z"
+    },
+    {
+     "id": "A5141016838",
+     "nome": "João R. Muniz",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Optimal Power Flow Distribution",
+      "Electric Power System Optimization"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Planning of Active Distribution Systems: Assessing the Impact of PV Inverter Volt-VAR Control on Reinforcement Strategies",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/s40313-026-01305-6",
+      "quantico": false
+     },
+     "relevancia": 33
+    },
+    {
+     "id": "A5091830468",
+     "nome": "Walquíria N. Silva",
+     "orcid": "0000-0002-5178-6344",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Electric Vehicles and Infrastructure",
+      "Optimal Power Flow Distribution"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Ultra-Fast EV Charging Stations in Distribution Grids: Impacts and Hosting Capacity Assessment",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/978-981-95-7302-8_27",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "cargo": "Assistant Professor, Energy Engineering Division",
+     "orcidVistoEm": "2026-11-18T18:08:14.186Z"
+    },
+    {
+     "id": "A5136573096",
+     "nome": "Luiz Gustavo Antonio de Souza",
+     "orcid": "0000-0002-6937-8576",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Electric Power System Optimization",
+      "Integrated Energy Systems Optimization"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "A data-driven framework to assess flexibility requirements under rising net-load ramps",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.segan.2026.102325",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "cargo": "Professor Assistente, Gestão e Planejamento Energético",
+     "orcidVistoEm": "2026-11-18T18:08:14.495Z"
+    },
+    {
+     "id": "A5010843135",
+     "nome": "Hugo Gajardoni de Lemos",
+     "orcid": "0000-0003-4525-9967",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "MXene and MAX Phase Materials",
+      "Supercapacitor Materials and Fabrication",
+      "Perovskite Materials and Applications"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "A Critical Study of the Electrochemical Performance of MXenes for Energy Storage",
+      "ano": 2026,
+      "url": "https://doi.org/10.1021/acsaem.6c01656",
+      "quantico": false
+     },
+     "relevancia": 24
+    },
+    {
+     "id": "A5032218357",
+     "nome": "Vanja Fontenele Nunes",
+     "orcid": "0000-0003-2458-5616",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "TiO2 Photocatalysis and Solar Cells",
+      "ZnO doping and properties",
+      "Advanced Photocatalysis Techniques"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Synthesis of ZnO/SnO2 composite films for solar cells",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/s11082-026-09131-5",
+      "quantico": false
+     },
+     "relevancia": 24
+    },
+    {
+     "id": "A5027532135",
+     "nome": "Samanta Gadelha Barbosa",
+     "orcid": "0000-0003-3511-9872",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Advanced DC-DC Converters",
+      "Multilevel Inverters and Converters"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "An M-BDS-Based Three-Phase Single-Stage Isolated Gan Converter for Bidirectional EV OBC Applications",
+      "ano": 2026,
+      "url": "https://doi.org/10.1109/ecceeurope67962.2026.11738069",
+      "quantico": false
+     },
+     "relevancia": 24
+    },
+    {
+     "id": "A5049212496",
+     "nome": "Gabriela Fontes Mayrinck Cupertino",
+     "orcid": "0000-0002-8562-6154",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Natural Fiber Reinforced Composites",
+      "Polymer Science and Applications",
+      "Energy and Environment Impacts"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Evaluation of the Effects of Biochar Pyrolysis Temperature and Loading on the Polyester Biocomposite Properties",
+      "ano": 2026,
+      "url": "https://doi.org/10.3390/fib14050049",
+      "quantico": false
+     },
+     "relevancia": 24
+    },
+    {
+     "id": "A5090999980",
+     "nome": "Francisco Erivaldo Fernandes",
+     "orcid": "0000-0003-2301-8820",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Data Visualization and Analytics",
+      "Innovative Human-Technology Interaction"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Integrating Multi-Source Feedback in Computational Design",
+      "ano": 2026,
+      "url": "https://doi.org/10.1145/3848025",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5149360006",
+     "nome": "Hirdan Katarina de Medeiros Costa",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Carbon Dioxide Capture Technologies",
+      "Agricultural economics and policies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Assessing the Feasibility of Carbon Capture-Based Fertilizers in Brazil: Implications for Advancing Sustainable Agriculture",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/978-3-032-16581-7_172",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5063339266",
+     "nome": "Leandro Lima Evangelista",
+     "orcid": "0000-0002-8375-2659",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Polymer Nanocomposites and Properties",
+      "Polymer Science and Applications"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Antibacterial and self-cleaning polypropylene/ZnO nanocomposites engineered via solution combustion synthesis and interface design",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.polymer.2026.130551",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5070667153",
+     "nome": "Hirdan Katarina de Medeiros Costa",
+     "orcid": "0000-0001-5106-6251",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "CO2 Sequestration and Geologic Interactions",
+      "Carbon Dioxide Capture Technologies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Cost Analysis Insights for Offshore CCS Hubs: A Case Study of the Santos Basin, Brazil",
+      "ano": 2026,
+      "url": "https://doi.org/10.1002/ghg.70022",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5022146768",
+     "nome": "Clayson S. F. de S. Celes",
+     "orcid": "0000-0003-4999-183X",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Vehicular Ad Hoc Networks (VANETs)",
+      "Opportunistic and Delay-Tolerant Networks"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Data-Driven Design of Bus-VANETs: Mobility Generation and Data Dissemination",
+      "ano": 2026,
+      "url": "https://doi.org/10.1109/tvt.2026.3728182",
+      "quantico": false
+     },
+     "relevancia": 21
+    }
+   ]
+  },
+  "ref-algar-telecom": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:08:15.056Z",
+   "pessoas": []
+  },
+  "ref-brisanet": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:08:15.676Z",
+   "pessoas": []
+  },
+  "ref-v-tal": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:08:15.947Z",
+   "pessoas": []
+  },
+  "ref-telebras": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:08:16.403Z",
+   "pessoas": []
+  },
+  "ref-furukawa-electric-latam": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T18:08:16.619Z",
+   "pessoas": []
   }
  },
- "atualizadoEm": "2026-11-18T01:24:08.033Z",
+ "atualizadoEm": "2026-11-18T18:08:16.619Z",
  "fonte": "OpenAlex (produção científica e técnica) e ORCID (dados tornados públicos pelos próprios pesquisadores)",
  "versao": 3
 }

@@ -1,7 +1,135 @@
 {
- "atualizadoEm": "2026-11-18T01:19:43.276Z",
+ "atualizadoEm": "2026-11-18T18:04:45.884Z",
  "aviso": "Títulos e links de notícias públicas; o conteúdo pertence a cada veículo.",
  "itens": [
+  {
+   "id": "3661759cf063",
+   "titulo": "BASF investe R$ 20 milhões em inovação em São Bernardo",
+   "fonte": "Portal ABC do ABC",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UQWVMWTJFVWh6eks2MlozNmVxRlNkRWVjNmt4NzJvcVhESHhFc2FPWGo3MGQ1dk5kVDY4bFdnNFNNbUdOZTRlYWZxTzdUM1R5LXA5WHNHeHdqQUxlRlN1SHIzeGo5RXdJYnRSVkVnRy01d0ZCbkdPazhZblYxZw?oc=5",
+   "data": "2026-11-18T17:19:35.000Z",
+   "temas": [
+    "pdi"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "BASF investe R$ 20 milhões em inovação em São Bernardo Portal ABC do ABC",
+   "coletadoEm": "2026-11-18T18:04:31.836Z"
+  },
+  {
+   "id": "d0d4582e3efe",
+   "titulo": "Ciquanta abrirá computadores quânticos para empresas da Paraíba e negocia parcerias com bancos",
+   "fonte": "Paraíba Business",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQM1Z4dXlRNmFtYVdlTjAyc25rcHd4ZlFBZ2FoR3lvNVM2MmVyZmJpWnlnSGs3aFg0a3VwcXB5bzV1LWVENDFNYWwxOUNYLWhEV1hLWEgwRENodUN4Vm5fYU9ZS2VRS3RRZkozajVxNzMyc1hsOXRvdEFvSGQxME0yUGdFaGJuOFlhOHYxVkVRSmY1bHBPUmZiWW1QZUJxWDFUOHY5ZWtLYWgxLVJLTTFndVNOV1lJVzdqZ2pfN0c5a0lGUzR2?oc=5",
+   "data": "2026-11-18T16:00:00.000Z",
+   "temas": [
+    "ciquanta",
+    "financeiro"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Ciquanta abrirá computadores quânticos para empresas da Paraíba e negocia parcerias com bancos Paraíba Business",
+   "coletadoEm": "2026-11-18T18:04:18.741Z"
+  },
+  {
+   "id": "c64a8f3516f7",
+   "titulo": "BRASIL ENTRA NA ERA DA COMPUTAÇÃO QUÂNTICA COM NOVAS MÁQUINAS",
+   "fonte": "Bahia Econômica",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONHRVSTRkSDBtSDI5YmVmTElWbUtMVWJjOFNhdFJOUmphazVPY2dLVlJZaTNfRGxFeW9MWVM1Y29KT0EtNkN3eTJ4b0lDektCR3hDdW9KNG53TEhscFE4ZnFOV3cwMFdXMUVvNjAzaElYM21uYlBLY3hLY0VON2VBb3RhdzBWdVo2N2t5R1lsNVo1VnJDNFh2QjlfaWtQeTI5TnVrVHZzcDF3WlpzSVpGU2tjZWU?oc=5",
+   "data": "2026-11-18T14:59:32.000Z",
+   "temas": [
+    "quantica",
+    "saude"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "BRASIL ENTRA NA ERA DA COMPUTAÇÃO QUÂNTICA COM NOVAS MÁQUINAS Bahia Econômica",
+   "coletadoEm": "2026-11-18T18:04:13.161Z"
+  },
+  {
+   "id": "7440ca300167",
+   "titulo": "Tecnologias de comunicações quânticas baseadas no espaço passam para o laboratório",
+   "fonte": "Astronomia no Zênite",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdXF6bDY5YlFXbU1OT2g1dk5oUG9aaHM1WnhTclhQZjVMd1ZrLXNqTFlGZ05ZOVpXcVBPVnZDa1ZkM2NtWEZDN3JPU3R3ZGU4YV9RNkxYSlA5RHBqVnVfdUJ6TkFVZXV4aGlyMGpUX1g5UnRvaDVYdXpIanRJY0RZSHhjVWVxT1ZuRWgxN2dSVmZhdzlZYmhrWHZnSzZTTGw1cE1CMC03Q1hwQjRJ?oc=5",
+   "data": "2026-11-18T14:55:51.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Tecnologias de comunicações quânticas baseadas no espaço passam para o laboratório Astronomia no Zênite",
+   "coletadoEm": "2026-11-18T18:04:15.103Z"
+  },
+  {
+   "id": "f2f776cc8bce",
+   "titulo": "66% das farmacêuticas planejam investir em P&D nos próximos 3 anos",
+   "fonte": "Guia da Farmácia",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ0k5aUVQRUFBZDFHbGd3aWZnem9LaXJTRW04N3NTZXZGd3hjSWd4Z282Z0xjTDJFb2w4WmpsU1ZIT0lWYnN0YS1leUIyODJBcHpyckhkNHc0UjNTUmJJWi1UbVVIdWsxMFkzNUN3VnNJSjBWdHI0VTFydnludHVrajZKRmptZzFYMGdMV0RGNnVyLW9uUmtsVXFxZw?oc=5",
+   "data": "2026-11-18T13:00:14.000Z",
+   "temas": [
+    "pdi"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "66% das farmacêuticas planejam investir em P&D nos próximos 3 anos Guia da Farmácia",
+   "coletadoEm": "2026-11-18T18:04:31.835Z"
+  },
+  {
+   "id": "710b4444bc7b",
+   "titulo": "Israel alerta que a tecnologia quântica pode alterar o equilíbrio militar global.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWWlUcUNLbDNuV28wcUhTaHFwYm9VNlhETlQwVF9VU0ZCTWRvN3hlWkl4WjJ4cmZ2aFVZeXpUeHRqVjRRYXZrZTcxZmljbmtUaVdWVzZfYkl1LUhZampzemp1bFBPdS14WG5pUXBHQUUyaFJ5djVTVDFkRTZ5SjZqWjdWa212NDgtM1RHS2NBYy1YMTVBTTkzRFlB?oc=5",
+   "data": "2026-11-18T09:28:46.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Israel alerta que a tecnologia quântica pode alterar o equilíbrio militar global. Vietnam.vn",
+   "coletadoEm": "2026-11-18T18:04:15.103Z"
+  },
+  {
+   "id": "c4ded2cf560b",
+   "titulo": "Brasil recebe da China os primeiros computadores quânticos da América Latina, avaliados em R$ 83 milhões e capazes de acelerar pesquisas em medicina e inteligência artificial",
+   "fonte": "Portal 6",
+   "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQeG1wR0wxemF0by1UOTRrOVJpNWw4ZE9VdUZVZWRJUmxiYnNaWUNlM0lYdXBDR3ptQ2RfMUppNkpNdlJLWXZuem01VmktR0FpeXJGUVQ3WGxocEdXR1J1M1VBS2lmb0NrMTJ1bmNiMDVoSzd4elNvZ1NCT1pXcVhxQU1BTmdSbjItd0x0ZFRNTlpHX2F3cEZTWTdialI3TzhYY0hta3B2MWp2QWF4VzdRWEpMZ0NfMXZMLWQxUHloX3FZVjFPYmQ4a3g4WW5ucjJNX3Z1VkRBX3BaeWc5dUpLV29qOHE5VW9OTmxJcFVlR1RkeEdURllsVEc0N3ZRUUNsRUUwRE1jTk5kYzN1SThzbVhjdmxwWEpTekVkZmNaaDJUZ18xUy16aUFZWU9rUTg3?oc=5",
+   "data": "2026-11-18T06:00:00.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Brasil recebe da China os primeiros computadores quânticos da América Latina, avaliados em R$ 83 milhões e capazes de acelerar pesquisas em medicina e inteligência artificial Portal 6",
+   "coletadoEm": "2026-11-18T18:04:15.104Z"
+  },
+  {
+   "id": "5243f57fbcf9",
+   "titulo": "NVIDIA Revela Ferramentas de IA e Quantum na SC26 para Avançar a Pesquisa Científica",
+   "fonte": "blockchain.news",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05YXdWaV9mSGNYdkhJTTBpajBweU1MMWRwby1TTXE1ODZQVThMakh6Zmp0TXB6MW9TRk02N21IcC1mSzZXSXEza2xLU2RKWXVyUUJSaEc5Sm1TbUdpX3dIODhtZ2EteXNKbVNNSVM0VnY?oc=5",
+   "data": "2026-11-18T02:43:20.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "NVIDIA Revela Ferramentas de IA e Quantum na SC26 para Avançar a Pesquisa Científica blockchain.news",
+   "coletadoEm": "2026-11-18T18:04:13.161Z"
+  },
+  {
+   "id": "3ea40e10c3cc",
+   "titulo": "OCDE: orçamentos públicos de P&D caem 2,7% em 2025 enquanto o P&D corporativo acelera - Notícias e Estatísticas",
+   "fonte": "IndexBox",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVnJkQTFNNEFVcWFzajV1ZUFkYUxWaWllMnZFZFlNQTNEUG1UbW51YmZrODlhNGFYSVpiWFNLS0x6ZjF6X243dm1rWHlWMlhVZV9LZUF2M0p0b2J0dkM1dHV2bGxHQnZNUmRKRkdnRmh3VEVtUVNFdTZ1U3ROcjJqWGdJeWtkTXYxdHo0ZU9VR1RFS0hUdHJKSXMwZ2lxN1g3R2NUWU9R?oc=5",
+   "data": "2026-11-18T00:30:46.000Z",
+   "temas": [
+    "pdi"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "OCDE: orçamentos públicos de P&D caem 2,7% em 2025 enquanto o P&D corporativo acelera - Notícias e Estatísticas IndexBox",
+   "coletadoEm": "2026-11-18T18:04:31.835Z"
+  },
   {
    "id": "593afa124870",
    "titulo": "O processo de ascensão da China como potência científica e sua experiência para o Vietnã.",
@@ -158,6 +286,20 @@
    "edital": false,
    "resumo": "Secretário diz que computadores quânticos terão impacto direto nas universidades Cariri em Ação",
    "coletadoEm": "2026-11-18T01:19:13.249Z"
+  },
+  {
+   "id": "8d8768a37726",
+   "titulo": "Paraíba dá salto tecnológico e recebe primeiros computadores quânticos da América Latina",
+   "fonte": "Plantão Brasil",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaXJMYkc4cWhsZkJyMVFvM2F6aG1VLUFwZFZPbFNMNGpIQjNWeFg3V3o1TWJMbHI1cnk3azhwdTJvb3U0V2UwYXF2Z0lvX01CSi1RaEd2eU4wblhLemFsM1JYMUNzdTZHZkJrV3c2M2tJWDB4cGFwS2szM2c4UjluMmhOamtvM3NUQ2RQbGktRHQ5X0ZQU1ByejU4RkxwVTl4TnBwZEpEYUJvUUthQmpHS3FITW13QWN2WS1NaFdpSVI3Nzh2MTlIM2dMTUtRYzA?oc=5",
+   "data": "2026-11-17T10:19:29.000Z",
+   "temas": [
+    "saude"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Paraíba dá salto tecnológico e recebe primeiros computadores quânticos da América Latina Plantão Brasil",
+   "coletadoEm": "2026-11-18T18:04:24.385Z"
   },
   {
    "id": "eaf8f70b2a48",
@@ -593,6 +735,20 @@
    "coletadoEm": "2026-11-16T22:20:11.693Z"
   },
   {
+   "id": "18f3026a2aad",
+   "titulo": "\"Acreditamos que isso poderá acontecer em 2028\": EUA acabam de tornar a computação quântica uma prioridade nacional",
+   "fonte": "Terra",
+   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOVjBYeVdUOVh2emw1b1YxUTdRNGxmOE1qMmd1NDlUYzQ2MWNTVTZlNEZ4MmJ0S1RUUVNvTXV5eV9ORmZXRlJpT19sRVp6QjFxT09HQXRMV2R1dURBWTI4QzVDcEFtYVJRMi1PclhOX0JydTYxMzgwaUxOWFUxSXhObHcxMkRaYU8yYlEwZlptMVFIRnpMTi02ejhZeTJidFg0OE9NeDFUWmk5SHo2TWdxQ19ObDhvOWt0am92bWx0ZUdxZW1fZzkyR1JUdU13WnZhenZrMmhVX3RSblZEckdrVm9uVW9EYVdDNkV4TlUxM3ktbHVUcUlla0VVeVZDTThJaEw2MmR1VF9mV3N2bXVHR3BZUmZBWUNUTHZUOE0tSHNnZw?oc=5",
+   "data": "2026-11-16T08:00:00.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "\"Acreditamos que isso poderá acontecer em 2028\": EUA acabam de tornar a computação quântica uma prioridade nacional Terra",
+   "coletadoEm": "2026-11-18T18:04:13.161Z"
+  },
+  {
    "id": "9b5a1f181c38",
    "titulo": "Abrindo caminho para que os jovens trabalhem com tecnologia quântica em Gia Lai.",
    "fonte": "Vietnam.vn",
@@ -956,6 +1112,22 @@
    "coletadoEm": "2026-11-16T22:20:17.403Z"
   },
   {
+   "id": "a9945a31129b",
+   "titulo": "Lei do Bem é tema de palestra na VIII do SiUFPI",
+   "fonte": "UFPI",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNmREREc4TjFwVGs3QTJQa0pTR1huQ3UySlVTeHJRQm9aWjlQUzFmNmtURjRNaUtYYkkzbGg3cDdxUnE4LXFycmdXWTNNRWhleUlqV2ZNX09ObmNSMTZLMHNFbTkycDR5Q2ZwS3NaOVU5Qy1fLUk2SnB6NTJIVWhSSld3R0F2aUppUVNQLVg1TmQ5R2paUFE?oc=5",
+   "data": "2026-11-13T14:57:00.000Z",
+   "temas": [
+    "pdi"
+   ],
+   "orgs": [
+    "ref-ufpi"
+   ],
+   "edital": false,
+   "resumo": "Lei do Bem é tema de palestra na VIII do SiUFPI UFPI",
+   "coletadoEm": "2026-11-18T18:04:31.835Z"
+  },
+  {
    "id": "c4a2e5e3bdc8",
    "titulo": "Projetos da UFSC são selecionados na Chamada Pop Ciência do CNPq",
    "fonte": "Proifes",
@@ -1106,6 +1278,23 @@
    "coletadoEm": "2026-11-16T22:20:17.406Z"
   },
   {
+   "id": "f58b2058f807",
+   "titulo": "BNDES e MEC lançam chamada de R$ 80 mi para instituições do Rio Doce",
+   "fonte": "Brasil 247",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUC1qSlgtdVk2Q0t4TExpNmc3NGJSbUQ0Wm5wRDhLMUpudFN4YlFESmhWY0lKLVdzd1pPUGdjTFRJaVo1a2xfTHFvLUtZdER4ZF9uZWNqbEl6MW1jckVvOENfbUp2T0N4RHo1Q0YybXFMWkhpNnFhMkxfYUFERTFQOEM2M29FUlh0NHdsZ2k3bjNydkJiTWExcnJfOUJyaTVkc3c?oc=5",
+   "data": "2026-11-12T23:00:57.000Z",
+   "temas": [
+    "edital"
+   ],
+   "orgs": [
+    "ref-bndes",
+    "ref-criatec-bndes"
+   ],
+   "edital": true,
+   "resumo": "BNDES e MEC lançam chamada de R$ 80 mi para instituições do Rio Doce Brasil 247",
+   "coletadoEm": "2026-11-18T18:04:35.928Z"
+  },
+  {
    "id": "f7f2a3949385",
    "titulo": "Projeto aprovado no Senado permite ampliar incentivos da Lei do Bem a empresas do Simples Nacional e startups",
    "fonte": "TAGD Advogados",
@@ -1165,6 +1354,20 @@
    "edital": false,
    "resumo": "Ethlabs propõe antecipar meta pós-quântica da Ethereum para 2027, citando risco da IA CoinMarketCap",
    "coletadoEm": "2026-11-16T22:20:09.666Z"
+  },
+  {
+   "id": "ba67b48736a6",
+   "titulo": "ML-KEM vs HQC vs McEliece: criptografia pós-quântica [2026]",
+   "fonte": "shattered.io",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOXhTZzE2cmhmY2xvcGl2eWF3dVVRWWMwdzVfQVpZdlBWa2RHcTdtZkVHQU5tRm14TEg1WE9aTkVsVm5PVjd5eFZyVHlvbV9LemRXQ2pURU9NS1Y5YkxydjJjaHRBSDJGNXZzc3FDREF2YWdsbndJUEkwUWxWSWJDbg?oc=5",
+   "data": "2026-11-12T14:35:50.000Z",
+   "temas": [
+    "seguranca"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "ML-KEM vs HQC vs McEliece: criptografia pós-quântica [2026] shattered.io",
+   "coletadoEm": "2026-11-18T18:04:20.560Z"
   },
   {
    "id": "ade6fce2a4f5",
@@ -1408,6 +1611,21 @@
    "coletadoEm": "2026-11-16T22:20:05.903Z"
   },
   {
+   "id": "19f57a09a8c5",
+   "titulo": "Primeiro computador quântico da América Latina ganha réplica na Paraíba",
+   "fonte": "Portal Sertão da Paraíba",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOekNZWUFlX2l2THR6LV9FbHJHazNmN05NSDdQYkd1UjBoeXl4LUh3SzNVMFc1bTFIdDg4bDRpRXlnYkNmTHdZeXZULXFBa20xdFA0eno5Z2xYX3BMa3dEQ3hkc1o5YUEzNkpQQ3V6WlFTanJESzNWRnIxNW9hNXBlWjRjZnRtc041b1ctalZQTTBhdVVrSVdyQnFNSkpRMV9IUUsyLWtPOUJqejk2dzBUNU9jbXo?oc=5",
+   "data": "2026-11-10T15:47:00.000Z",
+   "temas": [
+    "ciquanta",
+    "agro"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Primeiro computador quântico da América Latina ganha réplica na Paraíba Portal Sertão da Paraíba",
+   "coletadoEm": "2026-11-18T18:04:18.741Z"
+  },
+  {
    "id": "1087b673048e",
    "titulo": "Primeiro computador quântico da América Latina vai ser instalado na Paraíba; conheça os detalhes",
    "fonte": "G1",
@@ -1449,6 +1667,20 @@
    "edital": false,
    "resumo": "Curso de computação quântica do IFSULDEMINAS abre 100 vagas EaD PEBSP",
    "coletadoEm": "2026-11-16T22:20:05.902Z"
+  },
+  {
+   "id": "d85b9b85a969",
+   "titulo": "Cloudflare prepara autoridade certificadora pública para certificados pós-quânticos",
+   "fonte": "CryptoID",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb25VQ2tvUHFiXzhOOFZPOFZJTURZOWFnbWJIU2t6V0c1TDdGWWtSTk9hLU15Q3ZBRVZMZHh0bklHNDRKempLM3FXbmJHbi1DUHBvVS0wZ3BVUmVxbjBxV3ZFdFpPcFVudHFLQXl0dXJGSWpIZjZrM0huck5NZTRNR3VXd01BQzVaZWdGRktBUUV3QnZMRGZLWU9SVU5Rc2tZbGlTVnIwU2VLaUV4SXhIWVdCMU9tT1FQ?oc=5",
+   "data": "2026-11-10T11:10:01.000Z",
+   "temas": [
+    "seguranca"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Cloudflare prepara autoridade certificadora pública para certificados pós-quânticos CryptoID",
+   "coletadoEm": "2026-11-18T18:04:20.561Z"
   },
   {
    "id": "5ffbb9815987",
@@ -2303,6 +2535,20 @@
    "edital": true,
    "resumo": "PB abre edital de apoio à realização de eventos científicos, tecnológicos e de inovação Paraíba Já",
    "coletadoEm": "2026-11-16T22:20:22.170Z"
+  },
+  {
+   "id": "bacad663a345",
+   "titulo": "Computação quântica no Brasil: acessar, comprar ou construir?",
+   "fonte": "Fast Company Brasil",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWF9vWG43Qi0yRjVYNm5ibkhHaURpWW5idFpLYmxXbjc2N21pcG4tMkM3cjFGNEFBRjZyYndRMEk2TTVScG5nc0wxcUpNMFczZDNjUGVkdjNBUVhsVk9jRy13NHJxamVpQ3VacmZwenlPelo1MjBxTE1odVMwN1RZM1lFdVJaejBZLVJCTExXVzd4bFVEc1IxOWhB?oc=5",
+   "data": "2026-10-22T07:00:00.000Z",
+   "temas": [
+    "saude"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Computação quântica no Brasil: acessar, comprar ou construir? Fast Company Brasil",
+   "coletadoEm": "2026-11-18T18:04:24.385Z"
   },
   {
    "id": "7b4ea7b64b00",

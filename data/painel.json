@@ -1,27 +1,27 @@
 {
- "coletadoEm": "2026-11-18T01:19:10.986Z",
+ "coletadoEm": "2026-11-18T18:04:12.739Z",
  "fonte": "Painel CIQUANTA (painelciquanta.secties.pb.gov.br)",
  "dados": {
   "ok": true,
-  "atualizado": "2026-11-17T22:19",
-  "total": 67,
-  "pessoas": 59,
+  "atualizado": "2026-11-18T15:04",
+  "total": 70,
+  "pessoas": 62,
   "instituicoes": 8,
   "ufs": 12,
-  "cidades": 29,
-  "fora": 0.5970149253731343,
+  "cidades": 30,
+  "fora": 0.5857142857142857,
   "porUf": [
    {
     "uf": "PB",
-    "pessoas": 25,
+    "pessoas": 27,
     "insts": 2,
-    "total": 27
+    "total": 29
    },
    {
     "uf": "SP",
-    "pessoas": 11,
+    "pessoas": 12,
     "insts": 2,
-    "total": 13
+    "total": 14
    },
    {
     "uf": "PE",
@@ -87,11 +87,11 @@
   "regioes": [
    {
     "r": "Nordeste",
-    "n": 42
+    "n": 44
    },
    {
     "r": "Sudeste",
-    "n": 15
+    "n": 16
    },
    {
     "r": "Sul",
@@ -176,38 +176,19 @@
     "dia": "2026-11-17",
     "n": 9,
     "acum": 67
+   },
+   {
+    "dia": "2026-11-18",
+    "n": 3,
+    "acum": 70
    }
   ],
   "cad7": 38,
-  "prev": 234,
-  "rec": 74,
-  "img": 0.8426966292134831,
-  "not": 0.7415730337078652,
+  "prev": 202,
+  "rec": 114,
+  "img": 0.8494623655913979,
+  "not": 0.7419354838709677,
   "sessoes": [
-   {
-    "data": "2026-11-17",
-    "hora": "09:00",
-    "conf": 1,
-    "pend": 0
-   },
-   {
-    "data": "2026-11-17",
-    "hora": "10:30",
-    "conf": 1,
-    "pend": 0
-   },
-   {
-    "data": "2026-11-17",
-    "hora": "14:00",
-    "conf": 25,
-    "pend": 0
-   },
-   {
-    "data": "2026-11-17",
-    "hora": "15:30",
-    "conf": 13,
-    "pend": 0
-   },
    {
     "data": "2026-11-18",
     "hora": "09:00",
@@ -223,14 +204,14 @@
    {
     "data": "2026-11-18",
     "hora": "14:00",
-    "conf": 0,
-    "pend": 25
+    "conf": 25,
+    "pend": 0
    },
    {
     "data": "2026-11-18",
     "hora": "15:30",
-    "conf": 0,
-    "pend": 5
+    "conf": 5,
+    "pend": 0
    },
    {
     "data": "2026-11-19",
@@ -257,6 +238,12 @@
     "pend": 7
    },
    {
+    "data": "2026-11-23",
+    "hora": "10:30",
+    "conf": 5,
+    "pend": 0
+   },
+   {
     "data": "2026-11-24",
     "hora": "15:30",
     "conf": 0,
@@ -265,14 +252,14 @@
    {
     "data": "2026-11-25",
     "hora": "09:00",
-    "conf": 0,
-    "pend": 2
+    "conf": 2,
+    "pend": 0
    },
    {
     "data": "2026-11-25",
     "hora": "14:00",
-    "conf": 0,
-    "pend": 5
+    "conf": 5,
+    "pend": 0
    },
    {
     "data": "2026-11-26",
@@ -301,13 +288,13 @@
    {
     "data": "2026-11-27",
     "hora": "14:00",
-    "conf": 0,
+    "conf": 2,
     "pend": 2
    },
    {
     "data": "2026-11-27",
     "hora": "15:30",
-    "conf": 0,
+    "conf": 1,
     "pend": 9
    },
    {
@@ -355,14 +342,14 @@
    {
     "data": "2027-01-25",
     "hora": "10:30",
-    "conf": 0,
-    "pend": 3
+    "conf": 3,
+    "pend": 0
    }
   ],
   "exp": [
    18,
-   19,
-   19
+   20,
+   21
   ],
   "atuantesUf": [
    {
@@ -397,32 +384,32 @@
   "temas": [
    {
     "r": "Computação quântica",
-    "n": 47,
+    "n": 49,
     "b": 7
    },
    {
     "r": "Algoritmos e software quântico",
-    "n": 44,
+    "n": 47,
     "b": 7
    },
    {
     "r": "IA e computação quântica",
-    "n": 41,
+    "n": 43,
     "b": 7
    },
    {
     "r": "Otimização",
-    "n": 33,
+    "n": 34,
     "b": 7
    },
    {
     "r": "Comunicação quântica",
-    "n": 23,
+    "n": 24,
     "b": 4
    },
    {
     "r": "Criptografia pós-quântica",
-    "n": 21,
+    "n": 22,
     "b": 3
    },
    {
@@ -449,11 +436,11 @@
   "categorias": [
    {
     "r": "Empreendedor(a)",
-    "n": 12
+    "n": 13
    },
    {
     "r": "Estudante de graduação",
-    "n": 11
+    "n": 12
    },
    {
     "r": "Pesquisador(a)",
@@ -465,7 +452,7 @@
    },
    {
     "r": "Profissional da indústria",
-    "n": 9
+    "n": 10
    },
    {
     "r": "Mestrando(a) ou doutorando(a)",
@@ -487,11 +474,11 @@
    },
    {
     "r": "Graduação",
-    "n": 31
+    "n": 32
    },
    {
     "r": "Especialização ou MBA",
-    "n": 13
+    "n": 15
    },
    {
     "r": "Mestrado",
@@ -499,7 +486,7 @@
    },
    {
     "r": "Doutorado ou pós-doutorado",
-    "n": 18
+    "n": 19
    }
   ],
   "parceiras": []
@@ -525,12 +512,12 @@
   },
   {
    "dia": "2026-11-18",
-   "cadastros": 67,
-   "pessoas": 59,
+   "cadastros": 70,
+   "pessoas": 62,
    "instituicoes": 8,
    "ufs": 12,
-   "previstos": 234,
-   "recebidos": 74
+   "previstos": 202,
+   "recebidos": 114
   }
  ]
 }

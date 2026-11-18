@@ -2,48 +2,53 @@
  "aviso": "Somente caixas institucionais publicadas pelas próprias organizações. E-mails pessoais são descartados.",
  "porOrg": {
   "ref-itau-unibanco": {
-   "verificadoEm": "2026-11-16T22:32:19.359Z",
+   "verificadoEm": "2026-11-18T18:06:28.948Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "60872504000123",
    "linkedin": "",
-   "buscaWebEm": "2026-11-17T18:40:02.862Z"
+   "buscaWebEm": "2026-11-18T18:08:16.808Z"
   },
   "ref-bndes": {
-   "verificadoEm": "2026-11-16T22:32:34.462Z",
+   "verificadoEm": "2026-11-18T18:07:21.120Z",
+   "versao": 2,
    "status": "ok",
    "emails": [
     {
      "email": "imprensa@bndes.gov.br",
      "papel": "Comunicação e imprensa",
-     "url": "https://www.bndes.gov.br/imprensa"
+     "url": "https://www.bndes.gov.br/wps/portal/site/home/imprensa/"
     }
    ],
    "cnpj": "",
    "linkedin": "https://br.linkedin.com/company/bndes"
   },
   "ref-nubank": {
-   "verificadoEm": "2026-11-17T00:14:45.852Z",
+   "verificadoEm": "2026-11-18T18:06:32.723Z",
+   "versao": 2,
    "status": "ok",
-   "emails": [
-    {
-     "email": "press@nubank.com.br",
-     "papel": "Comunicação e imprensa",
-     "url": "https://nubank.com.br/imprensa"
-    }
-   ],
+   "emails": [],
    "cnpj": "18236120000158",
    "linkedin": "https://www.linkedin.com/company/nubank"
   },
   "ref-btg-pactual": {
-   "verificadoEm": "2026-11-17T00:14:46.209Z",
+   "verificadoEm": "2026-11-18T18:06:35.742Z",
+   "versao": 2,
    "status": "ok",
-   "emails": [],
-   "cnpj": "",
-   "linkedin": ""
+   "emails": [
+    {
+     "email": "sac@btgpactual.com",
+     "papel": "Contato geral",
+     "url": "https://www.btgpactual.com/institucional"
+    }
+   ],
+   "cnpj": "30306294000226",
+   "linkedin": "https://www.linkedin.com/company/btgpactual"
   },
   "ref-banco-inter": {
-   "verificadoEm": "2026-11-17T00:14:47.236Z",
+   "verificadoEm": "2026-11-18T18:06:31.676Z",
+   "versao": 2,
    "status": "erro",
    "erro": "HTTP 404",
    "emails": [],
@@ -51,27 +56,31 @@
    "linkedin": ""
   },
   "ref-banco-do-brasil": {
-   "verificadoEm": "2026-11-17T00:14:48.284Z",
+   "verificadoEm": "2026-11-18T18:06:38.516Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
-   "cnpj": "",
+   "cnpj": "00000000000191",
    "linkedin": "",
-   "buscaWebEm": "2026-11-17T18:40:03.046Z"
+   "buscaWebEm": "2026-11-18T18:08:16.968Z"
   },
   "ref-santander-brasil": {
-   "verificadoEm": "2026-11-17T00:14:51.481Z",
+   "verificadoEm": "2026-11-18T18:06:45.269Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "90400888000142",
-   "linkedin": "https://www.linkedin.com/company/grupo-santander-brasil"
+   "linkedin": "https://www.linkedin.com/company/grupo-santander-brasil",
+   "buscaWebEm": "2026-11-18T18:08:17.407Z"
   },
   "ref-bradesco": {
-   "verificadoEm": "2026-11-17T00:14:53.646Z",
+   "verificadoEm": "2026-11-18T18:06:38.281Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "",
    "linkedin": "https://www.linkedin.com/company/bradesco",
-   "buscaWebEm": "2026-11-17T18:40:02.954Z"
+   "buscaWebEm": "2026-11-18T18:08:16.901Z"
   },
   "ref-banco-safra": {
    "verificadoEm": "2026-11-17T00:14:53.748Z",
@@ -183,7 +192,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-18T18:08:17.493Z"
   },
   "ref-banco-do-nordeste": {
    "verificadoEm": "2026-11-17T00:15:18.958Z",
@@ -466,7 +476,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "18459628000115",
-   "linkedin": "https://br.linkedin.com/company/bayer"
+   "linkedin": "https://br.linkedin.com/company/bayer",
+   "buscaWebEm": "2026-11-18T18:08:17.556Z"
   },
   "ref-cargill-brasil": {
    "verificadoEm": "2026-11-17T00:16:14.946Z",
@@ -968,7 +979,8 @@
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-18T18:08:17.633Z"
   },
   "ref-isa-energia-brasil": {
    "verificadoEm": "2026-11-17T18:36:20.599Z",
@@ -2190,7 +2202,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-18T18:08:17.038Z"
   },
   "ref-ufpb": {
    "verificadoEm": "2026-11-18T01:21:40.303Z",
@@ -2345,7 +2358,891 @@
    "emails": [],
    "status": "ok",
    "buscaWebEm": "2026-11-18T01:24:09.048Z"
+  },
+  "ref-puc-rio": {
+   "verificadoEm": "2026-11-18T18:04:52.990Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "institucional@iag.puc-rio.br",
+     "papel": "Relações institucionais",
+     "url": "https://www.puc-rio.br/atendimento/"
+    },
+    {
+     "email": "dar@puc-rio.br",
+     "papel": "Contato geral",
+     "url": "https://www.puc-rio.br/atendimento/"
+    },
+    {
+     "email": "vest@puc-rio.br",
+     "papel": "Contato geral",
+     "url": "https://www.puc-rio.br/atendimento/"
+    },
+    {
+     "email": "ccg@puc-rio.br",
+     "papel": "Contato geral",
+     "url": "https://www.puc-rio.br/atendimento/"
+    },
+    {
+     "email": "ccpg@puc-rio.br",
+     "papel": "Contato geral",
+     "url": "https://www.puc-rio.br/atendimento/"
+    },
+    {
+     "email": "noapedu@puc-rio.br",
+     "papel": "Contato geral",
+     "url": "https://www.puc-rio.br/atendimento/"
+    },
+    {
+     "email": "psicom@puc-rio.br",
+     "papel": "Contato geral",
+     "url": "https://www.puc-rio.br/atendimento/"
+    },
+    {
+     "email": "nau@puc-rio.br",
+     "papel": "Contato geral",
+     "url": "https://www.puc-rio.br/atendimento/"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-ufrj": {
+   "verificadoEm": "2026-11-18T18:04:53.380Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "imprensa@sgcom.ufrj.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://ufrj.br/comunicacao/sgcom/fale-com-a-sgcom/"
+    },
+    {
+     "email": "portal@sgcom.ufrj.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://ufrj.br/comunicacao/sgcom/fale-com-a-sgcom/"
+    },
+    {
+     "email": "design@sgcom.ufrj.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://ufrj.br/comunicacao/sgcom/fale-com-a-sgcom/"
+    },
+    {
+     "email": "comunicacao@sgcom.ufrj.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://ufrj.br/comunicacao/sgcom/fale-com-a-sgcom/"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-ufsc": {
+   "verificadoEm": "2026-11-18T18:04:55.231Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-unicamp": {
+   "verificadoEm": "2026-11-18T18:04:57.889Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "secexec@unicamp.br",
+     "papel": "Diretoria",
+     "url": "https://www.unicamp.br/"
+    },
+    {
+     "email": "secpress@unicamp.br",
+     "papel": "Diretoria",
+     "url": "https://www.unicamp.br/comunicacao/"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-uff": {
+   "verificadoEm": "2026-11-18T18:04:58.383Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "reitor@id.uff.br",
+     "papel": "Reitoria",
+     "url": "https://www.uff.br/sobre/comites-e-comissoes/"
+    },
+    {
+     "email": "pdi@id.uff.br",
+     "papel": "Inovação e P&D",
+     "url": "https://www.uff.br/sobre/comites-e-comissoes/"
+    },
+    {
+     "email": "sei.atendimento@id.uff.br",
+     "papel": "Contato geral",
+     "url": "https://www.uff.br/sobre/comites-e-comissoes/"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-ufrn": {
+   "verificadoEm": "2026-11-18T18:04:59.869Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "sgi@reitoria.ufrn.br",
+     "papel": "Reitoria",
+     "url": "https://www.ufrn.br/institucional/unidades-institucionais"
+    },
+    {
+     "email": "contato@sebtt.ufrn.br",
+     "papel": "Contato geral",
+     "url": "https://www.ufrn.br/institucional/unidades-institucionais"
+    }
+   ],
+   "cnpj": "24365710000183",
+   "linkedin": ""
+  },
+  "ref-ufmg": {
+   "verificadoEm": "2026-11-18T18:05:00.762Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-ufba": {
+   "verificadoEm": "2026-11-18T18:05:03.173Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "fetch failed",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-unb": {
+   "verificadoEm": "2026-11-18T18:05:03.486Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-ufc": {
+   "verificadoEm": "2026-11-18T18:05:04.373Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "gabinete@prograd.ufc.br",
+     "papel": "Gabinete",
+     "url": "https://www.ufc.br/pt/contatos"
+    },
+    {
+     "email": "procult@ufc.br",
+     "papel": "Reitoria",
+     "url": "https://www.ufc.br/pt/contatos"
+    },
+    {
+     "email": "progep@ufc.br",
+     "papel": "Reitoria",
+     "url": "https://www.ufc.br/pt/contatos"
+    },
+    {
+     "email": "prposufc@ufc.br",
+     "papel": "Reitoria",
+     "url": "https://www.ufc.br/pt/contatos"
+    },
+    {
+     "email": "proplad@proplad.ufc.br",
+     "papel": "Reitoria",
+     "url": "https://www.ufc.br/pt/contatos"
+    },
+    {
+     "email": "bu@ufc.br",
+     "papel": "Diretoria",
+     "url": "https://www.ufc.br/pt/contatos"
+    },
+    {
+     "email": "diretoria@crateus.ufc.br",
+     "papel": "Diretoria",
+     "url": "https://www.ufc.br/pt/contatos"
+    },
+    {
+     "email": "secretaria@crateus.ufc.br",
+     "papel": "Diretoria",
+     "url": "https://www.ufc.br/pt/contatos"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-abdi": {
+   "verificadoEm": "2026-11-18T18:05:04.612Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "HTTP 403",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-cnpq": {
+   "verificadoEm": "2026-11-18T18:05:06.715Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-finep": {
+   "verificadoEm": "2026-11-18T18:05:09.942Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/finep"
+  },
+  "ref-embrapii": {
+   "verificadoEm": "2026-11-18T18:05:10.102Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "imprensa@embrapii.org.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://embrapii.org.br/comunicacao/"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/embrapii"
+  },
+  "ref-capes": {
+   "verificadoEm": "2026-11-18T18:05:10.235Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "imprensa@capes.gov.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.gov.br/capes/pt-br/canais_atendimento/comunicacao"
+    },
+    {
+     "email": "ascom@capes.gov.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.gov.br/capes/pt-br/canais_atendimento/comunicacao"
+    },
+    {
+     "email": "faleconosco@capes.gov.br",
+     "papel": "Contato geral",
+     "url": "https://www.gov.br/capes/pt-br/assuntos/noticias/comunicado-sobre-incidente-de-seguranca-na-plataforma-meus-dados"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-ministerio-das-comunicacoes": {
+   "verificadoEm": "2026-11-18T18:05:15.226Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "ascom@mcom.gov.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.gov.br/mcom/pt-br/composicao/assessorias-especiais/comunicacao-social-novo"
+    },
+    {
+     "email": "imprensa@mcom.gov.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.gov.br/mcom/pt-br/composicao/assessorias-especiais/comunicacao-social-novo"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/mincomunicacoes"
+  },
+  "ref-ministerio-da-saude": {
+   "verificadoEm": "2026-11-18T18:05:15.433Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "imprensa@saude.gov.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.gov.br/saude/pt-br/canais-de-atendimento/sala-de-imprensa"
+    },
+    {
+     "email": "inaep@saude.gov.br",
+     "papel": "Contato geral",
+     "url": "https://www.gov.br/saude/pt-br/composicao/orgaos-colegiados/inaep"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://linkedin.com/company/ministeriodasaude"
+  },
+  "ref-mdic": {
+   "verificadoEm": "2026-11-18T18:05:20.529Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "imprensa.mdic@mdic.gov.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.gov.br/mdic/pt-br/canais_atendimento/imprensa"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/mdic-oficial"
+  },
+  "ref-sebrae-nacional": {
+   "verificadoEm": "2026-11-18T18:05:21.116Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-aneel": {
+   "verificadoEm": "2026-11-18T18:05:22.940Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "imprensa@aneel.gov.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.gov.br/aneel/pt-br/canais_atendimento/imprensa"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-softex": {
+   "verificadoEm": "2026-11-18T18:05:27.448Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/softexnacional",
+   "buscaWebEm": "2026-11-18T18:08:17.108Z"
+  },
+  "ref-bid-banco-interamericano-de-desenvolvime": {
+   "verificadoEm": "2026-11-18T18:05:27.517Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "HTTP 403",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-suframa": {
+   "verificadoEm": "2026-11-18T18:05:29.234Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "sdi@suframa.gov.br",
+     "papel": "Inovação e P&D",
+     "url": "https://www.gov.br/suframa/pt-br/composicao/superintendencias-adjuntas/sdi"
+    },
+    {
+     "email": "imprensa@suframa.gov.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.gov.br/suframa/pt-br/canais_atendimento/area-de-imprensa"
+    }
+   ],
+   "cnpj": "04407029000143",
+   "linkedin": "https://linkedin.com/company/pd-i-suframa"
+  },
+  "ref-anatel": {
+   "verificadoEm": "2026-11-18T18:05:29.358Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "apc@anatel.gov.br",
+     "papel": "Relações institucionais",
+     "url": "https://www.gov.br/anatel/pt-br/canais_atendimento/apoio-institucional"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-sudene": {
+   "verificadoEm": "2026-11-18T18:05:30.442Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "ascom@sudene.gov.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.gov.br/sudene/pt-br/canais-de-atendimento/imprensa"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-banco-mundial": {
+   "verificadoEm": "2026-11-18T18:05:31.779Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "press@worldbank.org",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.worldbank.org/pt/news/press-release/2026/brazil-world-bank-group-helps-modernize-sao-paulo-water-crossings"
+    },
+    {
+     "email": "imprensa@worldbank.org",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.worldbank.org/pt/news/press-release/2026/brazil-world-bank-group-helps-modernize-sao-paulo-water-crossings"
+    },
+    {
+     "email": "informacao@worldbank.org",
+     "papel": "Contato geral",
+     "url": "https://www.worldbank.org/pt/country/brazil/"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-anp": {
+   "verificadoEm": "2026-11-18T18:05:33.620Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "imprensa@anp.gov.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://linkedin.com/company/anpgovbr-periodoeleitoral"
+  },
+  "ref-fiep-federacao-das-industrias-da-paraiba": {
+   "verificadoEm": "2026-11-18T18:05:38.285Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/fiepb"
+  },
+  "ref-anpei": {
+   "verificadoEm": "2026-11-18T18:05:42.553Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "contato@anpei.org.br",
+     "papel": "Contato geral",
+     "url": "https://anpei.org.br/"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/anpei"
+  },
+  "ref-mcti": {
+   "verificadoEm": "2026-11-18T18:05:42.979Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "cgti@mcti.gov.br",
+     "papel": "Inovação e P&D",
+     "url": "https://www.gov.br/mcti/pt-br/acesso-a-informacao/institucional/horario-de-atendimento"
+    },
+    {
+     "email": "ascom@mcti.gov.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.gov.br/mcti/pt-br/composicao/gm/ascom"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://linkedin.com/company/https"
+  },
+  "ref-unesco-brasil": {
+   "verificadoEm": "2026-11-18T18:05:44.912Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "brasilia@unesco.org",
+     "papel": "Gabinete",
+     "url": "https://www.unesco.org/pt/fieldoffice/brasilia/about"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/unesco"
+  },
+  "ref-abinee": {
+   "verificadoEm": "2026-11-18T18:05:45.828Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/abinee"
+  },
+  "ref-anfavea": {
+   "verificadoEm": "2026-11-18T18:05:47.673Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-brasscom": {
+   "verificadoEm": "2026-11-18T18:05:48.538Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "secretaria@brasscom.org.br",
+     "papel": "Diretoria",
+     "url": "https://brasscom.org.br/"
+    },
+    {
+     "email": "secretaria.bsb@brasscom.org.br",
+     "papel": "Diretoria",
+     "url": "https://brasscom.org.br/contato/"
+    },
+    {
+     "email": "comunicacao@brasscom.org.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://brasscom.org.br/"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/brasscom"
+  },
+  "ref-kryptus": {
+   "verificadoEm": "2026-11-18T18:05:49.487Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "",
+   "buscaWebEm": "2026-11-18T18:08:17.244Z"
+  },
+  "ref-confap": {
+   "verificadoEm": "2026-11-18T18:05:51.327Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://pt.linkedin.com/company/confapbr"
+  },
+  "ref-pasqal": {
+   "verificadoEm": "2026-11-18T18:05:56.972Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/pasqal"
+  },
+  "ref-dinamo-networks": {
+   "verificadoEm": "2026-11-18T18:05:57.741Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/dinamo-cybersecurity"
+  },
+  "ref-emerge": {
+   "verificadoEm": "2026-11-18T18:05:58.865Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "contato@emergebrasil.in",
+     "papel": "Contato geral",
+     "url": "https://emergebrasil.in/"
+    }
+   ],
+   "cnpj": "38456796000164",
+   "linkedin": "https://www.linkedin.com/company/emergebrasil",
+   "buscaWebEm": "2026-11-18T18:08:17.337Z"
+  },
+  "ref-cubo-itau": {
+   "verificadoEm": "2026-11-18T18:05:59.207Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "42267898000109",
+   "linkedin": "https://www.linkedin.com/company/cubo-network"
+  },
+  "ref-ionq": {
+   "verificadoEm": "2026-11-18T18:06:01.490Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "media@ionq.com",
+     "papel": "Comunicação e imprensa",
+     "url": "https://ionq.com/contact"
+    },
+    {
+     "email": "press@ionq.com",
+     "papel": "Comunicação e imprensa",
+     "url": "https://ionq.com/news"
+    },
+    {
+     "email": "info@ionq.com",
+     "papel": "Contato geral",
+     "url": "https://ionq.com/contact"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/ionq-co"
+  },
+  "ref-quantinuum": {
+   "verificadoEm": "2026-11-18T18:06:03.394Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "investors@quantinuum.com",
+     "papel": "Relações com investidores",
+     "url": "https://www.quantinuum.com/press-releases/quantinuum-and-bmw-group-expand-landmark-quantum-computing-collaboration-with-new-multi-year-partnership"
+    },
+    {
+     "email": "press@quantinuum.com",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.quantinuum.com/press-releases/quantinuum-and-bmw-group-expand-landmark-quantum-computing-collaboration-with-new-multi-year-partnership"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/quantinuumqc"
+  },
+  "ref-d-wave": {
+   "verificadoEm": "2026-11-18T18:06:04.237Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/d-wave-quantum"
+  },
+  "ref-xanadu": {
+   "verificadoEm": "2026-11-18T18:06:05.248Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "investors@xanadu.ai",
+     "papel": "Relações com investidores",
+     "url": "https://www.xanadu.ai/press/xanadu-and-hyperlight-achieve-breakthrough-reduction-in-optical-switch-loss"
+    },
+    {
+     "email": "press@xanadu.ai",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.xanadu.ai/press/xanadu-and-hyperlight-achieve-breakthrough-reduction-in-optical-switch-loss"
+    },
+    {
+     "email": "hello@xanadu.ai",
+     "papel": "Contato geral",
+     "url": "https://www.xanadu.ai/"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/xanaduai"
+  },
+  "ref-q-ctrl": {
+   "verificadoEm": "2026-11-18T18:06:07.753Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/q-ctrl"
+  },
+  "ref-rigetti-computing": {
+   "verificadoEm": "2026-11-18T18:06:08.220Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/rigetti-computing"
+  },
+  "ref-classiq": {
+   "verificadoEm": "2026-11-18T18:06:09.259Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/classiq-technologies"
+  },
+  "ref-multiverse-computing": {
+   "verificadoEm": "2026-11-18T18:06:09.948Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "ir@multiversecomputing.com",
+     "papel": "Relações com investidores",
+     "url": "https://multiversecomputing.com/resources/multiverse-computing-cierra-una-ronda-de-financiacion-con-sobredemanda-de-25-millones-de-euros"
+    },
+    {
+     "email": "contact@multiversecomputing.com",
+     "papel": "Contato geral",
+     "url": "https://multiversecomputing.com/contact"
+    },
+    {
+     "email": "contact.canada@multiversecomputing.com",
+     "papel": "Contato geral",
+     "url": "https://multiversecomputing.com/contact"
+    },
+    {
+     "email": "contact-france@multiversecomputing.com",
+     "papel": "Contato geral",
+     "url": "https://multiversecomputing.com/contact"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/multiversecomputing"
+  },
+  "ref-qc-ware": {
+   "verificadoEm": "2026-11-18T18:06:14.521Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "info@qcware.com",
+     "papel": "Contato geral",
+     "url": "https://www.qcware.com/contact"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/qcware"
+  },
+  "ref-terra-quantum": {
+   "verificadoEm": "2026-11-18T18:06:14.562Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "info@terraquantum.swiss",
+     "papel": "Contato geral",
+     "url": "https://terraquantum.swiss/"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/terra-quantum-ag"
+  },
+  "ref-sandboxaq": {
+   "verificadoEm": "2026-11-18T18:06:16.525Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/sandboxaq"
+  },
+  "ref-origin-quantum": {
+   "verificadoEm": "2026-11-18T18:06:18.872Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-quantum-machines": {
+   "verificadoEm": "2026-11-18T18:06:19.093Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "HTTP 403",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-alice-bob": {
+   "verificadoEm": "2026-11-18T18:06:21.425Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-oxford-quantum-circuits": {
+   "verificadoEm": "2026-11-18T18:06:21.887Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/oqc"
+  },
+  "ref-keysight-technologies": {
+   "verificadoEm": "2026-11-18T18:06:22.006Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "HTTP 403",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-iqm-quantum-computers": {
+   "verificadoEm": "2026-11-18T18:06:24.341Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/iqm-quantum-computers"
+  },
+  "ref-bluefors": {
+   "verificadoEm": "2026-11-18T18:06:26.369Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/bluefors"
+  },
+  "ref-zurich-instruments": {
+   "verificadoEm": "2026-11-18T18:06:27.166Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "info@zhinst.com",
+     "papel": "Contato geral",
+     "url": "https://www.zhinst.com/en/contact/?message=Support%20request%3A%20please%20indicate%20your%20instrument%20type%20and%20serial"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/zurich-instruments-ag"
+  },
+  "ref-id-quantique": {
+   "verificadoEm": "2026-11-18T18:06:30.536Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "info@idquantique.com",
+     "papel": "Contato geral",
+     "url": "https://www.idquantique.com/"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/id-quantique-sa"
+  },
+  "ref-quantumctek": {
+   "verificadoEm": "2026-11-18T18:06:31.047Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-cni-confederacao-nacional-da-industria": {
+   "verificadoEm": "2026-11-18T18:07:33.646Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/cnibr"
+  },
+  "ref-secties-pb": {
+   "emails": [],
+   "status": "ok",
+   "buscaWebEm": "2026-11-18T18:08:17.172Z"
   }
  },
- "atualizadoEm": "2026-11-18T01:24:09.260Z"
+ "atualizadoEm": "2026-11-18T18:08:17.717Z"
 }

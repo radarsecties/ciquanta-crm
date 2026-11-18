@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-18T01:19:43.278Z",
+ "atualizadoEm": "2026-11-18T18:04:45.885Z",
  "aviso": "Chamadas identificadas automaticamente em notícias; confirme prazo e regras na página oficial.",
  "itens": [
   {
@@ -31,6 +31,16 @@
    "prazo": "",
    "fonte": "Google Notícias",
    "coletadoEm": "2026-11-16T22:20:17.404Z"
+  },
+  {
+   "id": "ed-f58b2058f807",
+   "titulo": "BNDES e MEC lançam chamada de R$ 80 mi para instituições do Rio Doce",
+   "orgao": "Brasil 247",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUC1qSlgtdVk2Q0t4TExpNmc3NGJSbUQ0Wm5wRDhLMUpudFN4YlFESmhWY0lKLVdzd1pPUGdjTFRJaVo1a2xfTHFvLUtZdER4ZF9uZWNqbEl6MW1jckVvOENfbUp2T0N4RHo1Q0YybXFMWkhpNnFhMkxfYUFERTFQOEM2M29FUlh0NHdsZ2k3bjNydkJiTWExcnJfOUJyaTVkc3c?oc=5",
+   "publicado": "2026-11-12T23:00:57.000Z",
+   "prazo": "",
+   "fonte": "Google Notícias",
+   "coletadoEm": "2026-11-18T18:04:35.928Z"
   },
   {
    "id": "ed-20a12e94c3a0",
