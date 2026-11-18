@@ -1413,19 +1413,43 @@
    "buscaWebEm": "2026-11-17T18:40:03.399Z"
   },
   "ref-ime-instituto-militar-de-engenharia": {
+   "verificadoEm": "2026-11-18T01:20:30.712Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "fetch failed",
    "emails": [],
-   "status": "ok",
-   "buscaWebEm": "2026-11-17T18:40:03.488Z"
+   "cnpj": "",
+   "linkedin": "",
+   "buscaWebEm": "2026-11-18T01:24:08.332Z"
   },
   "ref-cpqd": {
-   "emails": [],
+   "verificadoEm": "2026-11-18T01:20:38.015Z",
+   "versao": 2,
    "status": "ok",
-   "buscaWebEm": "2026-11-17T18:40:03.579Z"
+   "emails": [],
+   "cnpj": "02641663000110",
+   "linkedin": "https://www.linkedin.com/company/cpqd",
+   "buscaWebEm": "2026-11-18T01:24:08.449Z"
   },
   "ref-rnp-rede-nacional-de-ensino-e-pesquisa": {
-   "emails": [],
+   "verificadoEm": "2026-11-18T01:20:43.232Z",
+   "versao": 2,
    "status": "ok",
-   "buscaWebEm": "2026-11-17T18:40:03.669Z"
+   "emails": [
+    {
+     "email": "atendimento@rnp.br",
+     "papel": "Contato geral",
+     "url": "https://www.rnp.br/pesquisa-e-desenvolvimento/infraestrutura-para-experimentacao/"
+    },
+    {
+     "email": "rnpmais@rnp.br",
+     "papel": "Contato geral",
+     "url": "https://www.rnp.br/contato/"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/rnp",
+   "buscaWebEm": "2026-11-18T01:24:08.525Z"
   },
   "ref-valid": {
    "emails": [],
@@ -1433,10 +1457,895 @@
    "buscaWebEm": "2026-11-17T18:40:03.755Z"
   },
   "ref-ibm-brasil": {
+   "verificadoEm": "2026-11-18T01:21:17.726Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/ibm",
+   "buscaWebEm": "2026-11-18T01:24:08.603Z"
+  },
+  "ref-dell-technologies-brasil": {
+   "verificadoEm": "2026-11-18T01:19:50.924Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "72381189000110",
+   "linkedin": ""
+  },
+  "ref-hp-brasil": {
+   "verificadoEm": "2026-11-18T01:19:51.675Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "22086683000184",
+   "linkedin": ""
+  },
+  "ref-cti-renato-archer": {
+   "verificadoEm": "2026-11-18T01:19:53.977Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "dirin@cti.gov.br",
+     "papel": "Relações institucionais",
+     "url": "https://www.gov.br/cti/pt-br/canais_atendimento/atendimento"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-lg-electronics-do-brasil": {
+   "verificadoEm": "2026-11-18T01:19:56.726Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "01166372000155",
+   "linkedin": ""
+  },
+  "ref-lenovo-brasil": {
+   "verificadoEm": "2026-11-18T01:20:00.435Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "07275920000161",
+   "linkedin": "https://www.linkedin.com/company/lenovo"
+  },
+  "ref-movida": {
+   "verificadoEm": "2026-11-18T01:20:00.684Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "HTTP 403",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-motorola-mobility": {
+   "verificadoEm": "2026-11-18T01:20:02.900Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "01472720000384",
+   "linkedin": ""
+  },
+  "ref-localiza": {
+   "verificadoEm": "2026-11-18T01:20:02.904Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "parcerias@localiza.com",
+     "papel": "Relações institucionais",
+     "url": "https://www.localiza.com/brasil/pt-br/sala-imprensa"
+    }
+   ],
+   "cnpj": "16670085000155",
+   "linkedin": "https://www.linkedin.com/company/localiza"
+  },
+  "ref-rumo": {
+   "verificadoEm": "2026-11-18T01:20:03.088Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "parceriaemmovimento@rumolog.com",
+     "papel": "Relações institucionais",
+     "url": "https://www.rumolog.com/programa-parceria-em-movimento"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/rumologistica"
+  },
+  "ref-azul-linhas-aereas": {
+   "verificadoEm": "2026-11-18T01:20:03.183Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "HTTP 403",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-latam-brasil": {
+   "verificadoEm": "2026-11-18T01:20:08.627Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "02012862000160",
+   "linkedin": ""
+  },
+  "ref-vli": {
+   "verificadoEm": "2026-11-18T01:20:08.842Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "ri@vli-logistica.com.br",
+     "papel": "Relações com investidores",
+     "url": "https://www.vli-logistica.com.br/relacoes-com-investidores/fale-com-ri/"
+    },
+    {
+     "email": "atendimentocliente.graos@vli-logistica.com.br",
+     "papel": "Contato geral",
+     "url": "https://www.vli-logistica.com.br/"
+    },
+    {
+     "email": "atendimentocliente.combustiveis@vli-logistica.com.br",
+     "papel": "Contato geral",
+     "url": "https://www.vli-logistica.com.br/"
+    },
+    {
+     "email": "atendimentocliente.acucar@vli-logistica.com.br",
+     "papel": "Contato geral",
+     "url": "https://www.vli-logistica.com.br/"
+    },
+    {
+     "email": "atendimentocliente.florestais@vli-logistica.com.br",
+     "papel": "Contato geral",
+     "url": "https://www.vli-logistica.com.br/"
+    },
+    {
+     "email": "atendimentocliente.siderurgia@vli-logistica.com.br",
+     "papel": "Contato geral",
+     "url": "https://www.vli-logistica.com.br/"
+    },
+    {
+     "email": "atendimentocliente.industriaeminerais@vli-logistica.com.br",
+     "papel": "Contato geral",
+     "url": "https://www.vli-logistica.com.br/"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/2401836"
+  },
+  "ref-gol": {
+   "verificadoEm": "2026-11-18T01:20:10.513Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "comunicacaovoegol@voegol.com.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.voegol.com.br/atendimento/outras-formas-de-contato"
+    },
+    {
+     "email": "comunicacaovoegol@acomodacao.voegol.com.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.voegol.com.br/atendimento/outras-formas-de-contato"
+    },
+    {
+     "email": "memoria@voegol.com.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.voegol.com.br/sobre-a-gol/nossa-historia"
+    },
+    {
+     "email": "news@voegol.com.br",
+     "papel": "Contato geral",
+     "url": "https://www.voegol.com.br/atendimento/outras-formas-de-contato"
+    },
+    {
+     "email": "voegol@news.voegol.com.br",
+     "papel": "Contato geral",
+     "url": "https://www.voegol.com.br/atendimento/outras-formas-de-contato"
+    },
+    {
+     "email": "avisogol@contato.voegol.com.br",
+     "papel": "Contato geral",
+     "url": "https://www.voegol.com.br/atendimento/outras-formas-de-contato"
+    },
+    {
+     "email": "confirme@voegol.com.br",
+     "papel": "Contato geral",
+     "url": "https://www.voegol.com.br/atendimento/outras-formas-de-contato"
+    },
+    {
+     "email": "atendimento.gol@voegol.com.br",
+     "papel": "Contato geral",
+     "url": "https://www.voegol.com.br/atendimento/outras-formas-de-contato"
+    }
+   ],
+   "cnpj": "07575651000159",
+   "linkedin": "https://www.linkedin.com/company/gol"
+  },
+  "ref-jsl": {
+   "verificadoEm": "2026-11-18T01:20:11.883Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/jsl-s"
+  },
+  "ref-santos-brasil": {
+   "verificadoEm": "2026-11-18T01:20:14.390Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "02762121000953",
+   "linkedin": "https://www.linkedin.com/company/santos-brasil"
+  },
+  "ref-stellantis": {
+   "verificadoEm": "2026-11-18T01:20:16.697Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "investor.relations@stellantis.com",
+     "papel": "Relações com investidores",
+     "url": "https://www.stellantis.com/en/investors/investor-relations-contacts"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/stellantis"
+  },
+  "ref-toyota-do-brasil": {
+   "verificadoEm": "2026-11-18T01:20:16.974Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "HTTP 403",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-correios": {
+   "verificadoEm": "2026-11-18T01:20:23.680Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "34028316000103",
+   "linkedin": "https://br.linkedin.com/company/correios"
+  },
+  "ref-marcopolo": {
+   "verificadoEm": "2026-11-18T01:20:23.933Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "HTTP 403",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-bosch-brasil": {
+   "verificadoEm": "2026-11-18T01:20:24.014Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://pt.linkedin.com/company/boschbrasil"
+  },
+  "ref-magazine-luiza": {
+   "verificadoEm": "2026-11-18T01:20:24.372Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "HTTP 403",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-volkswagen-do-brasil": {
+   "verificadoEm": "2026-11-18T01:20:24.512Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/volkswagen-do-brasil"
+  },
+  "ref-ifood": {
+   "verificadoEm": "2026-11-18T01:20:24.631Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "HTTP 403",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-porto-de-suape": {
+   "verificadoEm": "2026-11-18T01:20:25.496Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://pt.linkedin.com/company/complexo-industrial-portu"
+  },
+  "ref-ita-instituto-tecnologico-de-aeronautica": {
+   "verificadoEm": "2026-11-18T01:20:25.890Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "HTTP 403",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-embraer": {
+   "verificadoEm": "2026-11-18T01:20:29.311Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://br.linkedin.com/company/embraer"
+  },
+  "ref-mrs-logistica": {
+   "verificadoEm": "2026-11-18T01:20:31.666Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/mrs-logistica"
+  },
+  "ref-mercado-livre": {
+   "verificadoEm": "2026-11-18T01:20:33.260Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "03007331000141",
+   "linkedin": ""
+  },
+  "ref-vivo-telefonica-brasil": {
+   "verificadoEm": "2026-11-18T01:20:35.297Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "HTTP 403",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-loggi": {
+   "verificadoEm": "2026-11-18T01:20:36.509Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "imprensa@loggi.com",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.loggi.com/imprensa"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/loggi"
+  },
+  "ref-ministerio-da-defesa": {
+   "verificadoEm": "2026-11-18T01:20:38.129Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "ascom@defesa.gov.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.gov.br/defesa/pt-br/acesso-a-informacao/institucional-2/horario-de-atendimento"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-gsi-gabinete-de-seguranca-institucional": {
+   "verificadoEm": "2026-11-18T01:20:41.142Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://linkedin.com/company/ctirgov"
+  },
+  "ref-brisanet": {
+   "verificadoEm": "2026-11-18T01:20:43.874Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "04601397000128",
+   "linkedin": "https://www.linkedin.com/company/brisanettelecom"
+  },
+  "ref-ericsson-brasil": {
+   "verificadoEm": "2026-11-18T01:20:44.055Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "HTTP 403",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-tim-brasil": {
+   "verificadoEm": "2026-11-18T01:20:44.570Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "02421421000111",
+   "linkedin": ""
+  },
+  "ref-claro-brasil": {
+   "verificadoEm": "2026-11-18T01:20:47.698Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "40432544000147",
+   "linkedin": "https://www.linkedin.com/company/clarobrasil"
+  },
+  "ref-intelbras": {
+   "verificadoEm": "2026-11-18T01:20:47.894Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "HTTP 403",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-nokia-brasil": {
+   "verificadoEm": "2026-11-18T01:20:51.043Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "investor.relations@nokia.com",
+     "papel": "Relações com investidores",
+     "url": "https://www.nokia.com/contact-us/"
+    },
+    {
+     "email": "press.services@nokia.com",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.nokia.com/contact-us/"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/nokia"
+  },
+  "ref-huawei-do-brasil": {
+   "verificadoEm": "2026-11-18T01:20:56.164Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-iti-instituto-nacional-de-tecnologia-da-": {
+   "verificadoEm": "2026-11-18T01:20:58.840Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "comunicacao@iti.gov.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.gov.br/iti/pt-br/canais_atendimento/imprensa"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/1105316"
+  },
+  "ref-telebras": {
+   "verificadoEm": "2026-11-18T01:21:00.096Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "presidencia@telebras.com.br",
+     "papel": "Presidência",
+     "url": "https://www.telebras.com.br/acesso-a-informacao/institucional/quem-e-quem/"
+    },
+    {
+     "email": "investidores@telebras.com.br",
+     "papel": "Relações com investidores",
+     "url": "https://www.telebras.com.br/investidores/"
+    },
+    {
+     "email": "cipa@telebras.com.br",
+     "papel": "Contato geral",
+     "url": "https://www.telebras.com.br/acesso-a-informacao/institucional/quem-e-quem/"
+    },
+    {
+     "email": "faleconosco@telebras.com.br",
+     "papel": "Contato geral",
+     "url": "https://www.telebras.com.br/acesso-a-informacao/institucional/quem-e-quem/"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/telebras"
+  },
+  "ref-certisign": {
+   "verificadoEm": "2026-11-18T01:21:03.854Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "http://www.linkedin.com/company/certisign"
+  },
+  "ref-padtec": {
+   "verificadoEm": "2026-11-18T01:21:03.944Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "sac@padtec.com.br",
+     "papel": "Contato geral",
+     "url": "https://www.padtec.com.br/"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "http://linkedin.com/company/padtec-sa"
+  },
+  "ref-venturus": {
+   "verificadoEm": "2026-11-18T01:21:04.660Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "96499728000189",
+   "linkedin": "https://www.linkedin.com/company/venturus",
+   "buscaWebEm": "2026-11-18T01:24:08.749Z"
+  },
+  "ref-algar-telecom": {
+   "verificadoEm": "2026-11-18T01:21:05.352Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "71208516000174",
+   "linkedin": "https://br.linkedin.com/company/algar-oficial"
+  },
+  "ref-amazon-web-services-brasil": {
+   "verificadoEm": "2026-11-18T01:21:09.247Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/amazon-web-services"
+  },
+  "ref-microsoft-brasil": {
+   "verificadoEm": "2026-11-18T01:21:09.910Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "04712500000107",
+   "linkedin": "https://www.linkedin.com/company/microsoft"
+  },
+  "ref-totvs": {
+   "verificadoEm": "2026-11-18T01:21:15.286Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "53113791000122",
+   "linkedin": "https://www.linkedin.com/company/totvs"
+  },
+  "ref-stefanini": {
+   "verificadoEm": "2026-11-18T01:21:15.582Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "press@stefanini.com",
+     "papel": "Comunicação e imprensa",
+     "url": "https://stefanini.com/en/newsroom/"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/stefanini"
+  },
+  "ref-instituto-eldorado": {
+   "verificadoEm": "2026-11-18T01:21:22.528Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "comunicacao@eldorado.org.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.eldorado.org.br/contato"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/instituto-de-pesquisas-eldorado",
+   "buscaWebEm": "2026-11-18T01:24:08.826Z"
+  },
+  "ref-ci-t": {
+   "verificadoEm": "2026-11-18T01:21:22.949Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/ciandt"
+  },
+  "ref-serpro": {
+   "verificadoEm": "2026-11-18T01:21:25.117Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/serpro"
+  },
+  "ref-cesar": {
+   "verificadoEm": "2026-11-18T01:21:25.457Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "contato@cesar.org.br",
+     "papel": "Contato geral",
+     "url": "https://www.cesar.org.br/"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/cesar"
+  },
+  "ref-dataprev": {
+   "verificadoEm": "2026-11-18T01:21:25.711Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "institucional@dataprev.gov.br",
+     "papel": "Relações institucionais",
+     "url": "https://www.dataprev.gov.br/etica/ouvidoria"
+    },
+    {
+     "email": "imprensa@dataprev.gov.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.dataprev.gov.br/acompanhe-dataprev/atendimento-imprensa"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://linkedin.com/company/dataprev-tecnologia"
+  },
+  "ref-quera-computing": {
+   "verificadoEm": "2026-11-18T01:21:26.194Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "info@quera.com",
+     "papel": "Contato geral",
+     "url": "https://www.quera.com/"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/quera-computing-inc"
+  },
+  "ref-lncc": {
+   "verificadoEm": "2026-11-18T01:21:31.685Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-cbpf": {
+   "verificadoEm": "2026-11-18T01:21:31.688Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "",
+   "buscaWebEm": "2026-11-18T01:24:09.118Z"
+  },
+  "ref-cnpem": {
+   "verificadoEm": "2026-11-18T01:21:31.784Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "diretoriageral@cnpem.br",
+     "papel": "Diretoria",
+     "url": "https://cnpem.br/cnpem/governanca/"
+    },
+    {
+     "email": "dat.dir@cnpem.br",
+     "papel": "Diretoria",
+     "url": "https://cnpem.br/cnpem/governanca/"
+    },
+    {
+     "email": "dai.dir@cnpem.br",
+     "papel": "Diretoria",
+     "url": "https://cnpem.br/cnpem/governanca/"
+    },
+    {
+     "email": "dsc.dir@cnpem.br",
+     "papel": "Diretoria",
+     "url": "https://cnpem.br/cnpem/governanca/"
+    },
+    {
+     "email": "lnbr.dir@lnbr.cnpem.br",
+     "papel": "Diretoria",
+     "url": "https://cnpem.br/cnpem/governanca/"
+    },
+    {
+     "email": "lnnano.dir@lnnano.cnpem.br",
+     "papel": "Diretoria",
+     "url": "https://cnpem.br/cnpem/governanca/"
+    },
+    {
+     "email": "inovacao@cnpem.br",
+     "papel": "Inovação e P&D",
+     "url": "https://cnpem.br/inovacao/"
+    },
+    {
+     "email": "atendimento@ilum.cnpem.br",
+     "papel": "Contato geral",
+     "url": "https://cnpem.br/cnpem/governanca/"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/1326641"
+  },
+  "ref-senai-cimatec": {
+   "verificadoEm": "2026-11-18T01:21:35.940Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "https://www.linkedin.com/company/senaicimatec",
+   "buscaWebEm": "2026-11-18T01:24:08.896Z"
+  },
+  "ref-fapesp": {
+   "verificadoEm": "2026-11-18T01:21:38.386Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-ufpb": {
+   "verificadoEm": "2026-11-18T01:21:40.303Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "inova@reitoria.ufpb.br",
+     "papel": "Inovação e P&D",
+     "url": "https://www.ufpb.br/ciencia/pesquisadores-da-ufpb-desenvolvem-iogurte-grego-com-leite-caprino-e-extrato-de-inhame/"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": "http://br.linkedin.com/company/inovaufpb"
+  },
+  "ref-uepb": {
+   "verificadoEm": "2026-11-18T01:21:46.125Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "prograd@uepb.edu.br",
+     "papel": "Gabinete",
+     "url": "https://uepb.edu.br/institucional/pro-reitorias/"
+    },
+    {
+     "email": "gabineteprogep@uepb.edu.br",
+     "papel": "Gabinete",
+     "url": "https://uepb.edu.br/institucional/pro-reitorias/"
+    },
+    {
+     "email": "proest@uepb.edu.br",
+     "papel": "Gabinete",
+     "url": "https://uepb.edu.br/institucional/pro-reitorias/"
+    },
+    {
+     "email": "prpgp@uepb.edu.br",
+     "papel": "Reitoria",
+     "url": "https://uepb.edu.br/institucional/pro-reitorias/"
+    },
+    {
+     "email": "proex@uepb.edu.br",
+     "papel": "Reitoria",
+     "url": "https://uepb.edu.br/institucional/pro-reitorias/"
+    },
+    {
+     "email": "proplan@uepb.edu.br",
+     "papel": "Reitoria",
+     "url": "https://uepb.edu.br/institucional/pro-reitorias/"
+    },
+    {
+     "email": "proad@uepb.edu.br",
+     "papel": "Reitoria",
+     "url": "https://uepb.edu.br/institucional/pro-reitorias/"
+    },
+    {
+     "email": "profin@uepb.edu.br",
+     "papel": "Reitoria",
+     "url": "https://uepb.edu.br/institucional/pro-reitorias/"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-ifpb": {
+   "verificadoEm": "2026-11-18T01:21:47.673Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "dti@ifpb.edu.br",
+     "papel": "Gabinete",
+     "url": "https://www.ifpb.edu.br/institucional/contato"
+    },
+    {
+     "email": "gabinete.reitoria@ifpb.edu.br",
+     "papel": "Gabinete",
+     "url": "https://www.ifpb.edu.br/institucional/contato"
+    },
+    {
+     "email": "cppd@ifpb.edu.br",
+     "papel": "Reitoria",
+     "url": "https://www.ifpb.edu.br/institucional/contato"
+    },
+    {
+     "email": "dgep.reitoria@ifpb.edu.br",
+     "papel": "Reitoria",
+     "url": "https://www.ifpb.edu.br/institucional/contato"
+    },
+    {
+     "email": "coinova@ifpb.edu.br",
+     "papel": "Reitoria",
+     "url": "https://www.ifpb.edu.br/institucional/contato"
+    },
+    {
+     "email": "pre@ifpb.edu.br",
+     "papel": "Reitoria",
+     "url": "https://www.ifpb.edu.br/institucional/contato"
+    },
+    {
+     "email": "estagio.reitoria@ifpb.edu.br",
+     "papel": "Reitoria",
+     "url": "https://www.ifpb.edu.br/institucional/contato"
+    },
+    {
+     "email": "dep@ifpb.edu.br",
+     "papel": "Reitoria",
+     "url": "https://www.ifpb.edu.br/institucional/contato"
+    }
+   ],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-ufpe": {
+   "verificadoEm": "2026-11-18T01:21:51.111Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "fetch failed",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": "",
+   "buscaWebEm": "2026-11-18T01:24:09.188Z"
+  },
+  "ref-usp": {
+   "verificadoEm": "2026-11-18T01:21:54.865Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-ufcg": {
+   "verificadoEm": "2026-11-18T01:21:57.107Z",
+   "versao": 2,
+   "status": "erro",
+   "erro": "fetch failed",
+   "emails": [],
+   "cnpj": "",
+   "linkedin": ""
+  },
+  "ref-eviden-atos": {
    "emails": [],
    "status": "ok",
-   "buscaWebEm": "2026-11-17T18:40:03.839Z"
+   "buscaWebEm": "2026-11-18T01:24:08.678Z"
+  },
+  "ref-dobslit": {
+   "emails": [],
+   "status": "ok",
+   "buscaWebEm": "2026-11-18T01:24:08.978Z"
+  },
+  "ref-cetc-suzhou-quantum-center": {
+   "emails": [],
+   "status": "ok",
+   "buscaWebEm": "2026-11-18T01:24:09.048Z"
   }
  },
- "atualizadoEm": "2026-11-17T18:40:03.926Z"
+ "atualizadoEm": "2026-11-18T01:24:09.260Z"
 }

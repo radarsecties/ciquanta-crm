@@ -1,7 +1,66 @@
 {
- "atualizadoEm": "2026-11-17T18:35:15.480Z",
+ "atualizadoEm": "2026-11-18T01:19:43.276Z",
  "aviso": "Títulos e links de notícias públicas; o conteúdo pertence a cada veículo.",
  "itens": [
+  {
+   "id": "593afa124870",
+   "titulo": "O processo de ascensão da China como potência científica e sua experiência para o Vietnã.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWTJldUt5LThmUnpLWTlyMUZha0xWM2RSSFphb0xmTVM0X2N5RENiVGppSjJzUGRRZFRrNTRHQXktLVNYTExDc1BZUE8wQUMzZFR3S2ZucFJ5QmJFbkZFMWRYdWd6OXRwZ1czeGFyWUk2M3htX1ZUUTlCWUk3Qncwb011dHp6UUhEZXJfYUhHWHVCNzV3QUZ6OHRCemE4S0ktSmpvNDd6TTY1QmlSY1E?oc=5",
+   "data": "2026-11-17T20:01:00.000Z",
+   "temas": [
+    "pdi"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "O processo de ascensão da China como potência científica e sua experiência para o Vietnã. Vietnam.vn",
+   "coletadoEm": "2026-11-18T01:19:29.621Z"
+  },
+  {
+   "id": "5856b8ba48a8",
+   "titulo": "Nordeste recebe 2 computadores quânticos e terá supercomputador de IA",
+   "fonte": "TVT News",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81bmhxOGYzRE9kdXV5QUwxTE8xVFZ6cEtGVFJ2dGQzemd5QlEwbkViU210bVNwUFk3bTdGZFpaVWlMVVgwbzdDVmJ2ZVJCOEV6R2RFUWs3d0c2QVNBVERTZ1RndHBkS29ndEpnWWhjMTd5anUwMmhTRE13?oc=5",
+   "data": "2026-11-17T19:18:28.000Z",
+   "temas": [
+    "ciquanta"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Nordeste recebe 2 computadores quânticos e terá supercomputador de IA TVT News",
+   "coletadoEm": "2026-11-18T01:19:16.899Z"
+  },
+  {
+   "id": "813bdc62c861",
+   "titulo": "Embrapii inaugura Unidade Inovação Einstein em Saúde Digital",
+   "fonte": "EMBRAPII",
+   "link": "https://embrapii.org.br/embrapii-inaugura-unidade-inovacao-einstein-em-saude-digital/",
+   "data": "2026-11-17T18:41:21.000Z",
+   "temas": [
+    "pdi"
+   ],
+   "orgs": [
+    "ref-embrapii",
+    "ref-ministerio-da-saude"
+   ],
+   "edital": false,
+   "resumo": "Iniciativa integra estratégia nacional do Ministério da Saúde e da Embrapii para fortalecer a pesquisa aplicada O Einstein Hospital Israelita foi credenciado como Unidade da Empresa Brasileira de Pesquisa e Inovação Industrial (Embrapii) na área de Saúde Digital. Desta forma, pas",
+   "coletadoEm": "2026-11-18T01:19:41.251Z"
+  },
+  {
+   "id": "f9fe55161fdc",
+   "titulo": "Ministra destaca investimentos de R$ 37 bilhões em ciência e tecnologia com lei do setor",
+   "fonte": "mtagora.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMmkzX1I3cENMemdvb3VXNFFhX1RKNnNvVE5WWG9YUHAwNTc2RGIwQWxiejljUTNiekpBeENzVjJTQ1RZSWhjSDdFNzFDUVBnRWxPWnhrR21HclB6ZkJMUHpYU3VteFlQRXR0V01tRm8yM0ZNUThlMldLQmZUTlF2YXdDdUR5MWpXQ3B0cUpEa2JrbVl5N2ZwTXhZZW5zZjA1bjU4bVhRMThXUWJFTmxsN3ZEU2lfNjBjUXoyRFhLZ0xaaWJraTJrcg?oc=5",
+   "data": "2026-11-17T17:58:00.000Z",
+   "temas": [
+    "pdi"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Ministra destaca investimentos de R$ 37 bilhões em ciência e tecnologia com lei do setor mtagora.com.br",
+   "coletadoEm": "2026-11-18T01:19:29.621Z"
+  },
   {
    "id": "5582d2d0e7d9",
    "titulo": "Entidades científicas propõem elevar investimento em pesquisa a 3% do PIB até 2040",
@@ -87,6 +146,20 @@
    "coletadoEm": "2026-11-17T18:34:42.549Z"
   },
   {
+   "id": "9ebaac1cab5d",
+   "titulo": "Secretário diz que computadores quânticos terão impacto direto nas universidades",
+   "fonte": "Cariri em Ação",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOXIzaUZTRXpMaHNQamcwVGFGbnBJRXcxTk5QLTF3NGJEYVFlazFGenNWTmRCcWVQZGwwTUZJWW5HVjhhZXQ2SG5qeUpqZGZkdXYtYjdZTkpHTmFweGdmb0U2Slp0eFZwcWU5TDR1blJWTERDbjdGNkczWHVveW9NNmNBS3ljU084ckNyOFYzeVJNRGlzY1ozWVo5UWk3QjBWUTdYYmNrcUZmeWZyRGxfR0Z1NnltNHRLZURBRUVOLWs?oc=5",
+   "data": "2026-11-17T10:43:16.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Secretário diz que computadores quânticos terão impacto direto nas universidades Cariri em Ação",
+   "coletadoEm": "2026-11-18T01:19:13.249Z"
+  },
+  {
    "id": "eaf8f70b2a48",
    "titulo": "Estudo aponta lacunas no planejamento quântico da defesa brasileira",
    "fonte": "Defesa em Foco",
@@ -114,6 +187,20 @@
    "edital": false,
    "resumo": "BBVA se posiciona como o segundo banco europeu mais avançado em computação quântica Demócrata",
    "coletadoEm": "2026-11-17T18:34:42.549Z"
+  },
+  {
+   "id": "a9e33df9ccfb",
+   "titulo": "Paraíba recebe os primeiros computadores quânticos da América Latina",
+   "fonte": "Vitrine do Cariri",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbThfSTN3Um9ON3E1NE1MZ1RuVlNvN1FtV2haM0QxSUZpRFJybnhYV3NUQnlZWGM4Q2o3S2xhckl0ckpkUVprbWRSVi1UVk9aU3VfWlFNa1Q2M1d2X3FDSVBUTi1rUFJteUFnWUFEVC1HRjVybFctc19aRnJLMGdEYTE2a0Nxb3ZlQ3l6R296OHNXSzkxVGpHZV9JckpKNEgtQzJJMzJyVnR2NFc2UVdwTnpQUGdZQQ?oc=5",
+   "data": "2026-11-17T09:03:06.000Z",
+   "temas": [
+    "saude"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Paraíba recebe os primeiros computadores quânticos da América Latina Vitrine do Cariri",
+   "coletadoEm": "2026-11-18T01:19:22.439Z"
   },
   {
    "id": "d5a187d74c1d",
@@ -274,6 +361,34 @@
    "coletadoEm": "2026-11-16T22:20:06.865Z"
   },
   {
+   "id": "c5ca1386d99f",
+   "titulo": "Primeiros computadores quânticos da América Latina chegam à PB nesta segunda (16)",
+   "fonte": "Jornal da Paraíba",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR0hiWS1PQktsUDRCUDZ5T0Q5TFpjSkVybHliMU4zQ05GNHVpNHlNbzFiNkRYUFozM3M5QklLYzlJNXFsYUNzVF9VSTFJdzJOVlIyRUxfQjNDZnZ6dkhBQkYweE5jYlA0SFZhVF9IYkxZRXNoWHVzUl9OSHEtdFZOQjNmRlUxODdwUFB5U3NnNTJvZVRKUVE3MTR5blJ1bmFBU1dNNFZwaURhWnZtcEV1U01uNjRJd0dmRU5PdWNLd9IBxwFBVV95cUxPcjZzamctdnFhZkdudUJOdDF3bjhpNElOUnduSC00bzFSeDRPUHplSk1GamE1bGh5UXExZ2J3UlFHMk50alYzT0ljb041ME9yVnFOX05lTEtnWEM4UDJGeTBZNHEwWW0xQ3EzVVFxTWUxUDFkMXl5clIxYmJzUTVKQVlIWEFsZDhkc0tMU3JlSm1TQjlEYVVKWkZfbDhoMkc1aU8wZlJCSUFEVmZ1SldTSEZScWNkckx5YWFvSDBiNXhET2JtNmRj?oc=5",
+   "data": "2026-11-16T20:08:52.000Z",
+   "temas": [
+    "ciquanta"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Primeiros computadores quânticos da América Latina chegam à PB nesta segunda (16) Jornal da Paraíba",
+   "coletadoEm": "2026-11-18T01:19:16.899Z"
+  },
+  {
+   "id": "107c5a71b5f3",
+   "titulo": "Primeiros computadores quânticos da América Latina chegam na PB nesta segunda (16)",
+   "fonte": "Jornal da Paraíba",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcjZzamctdnFhZkdudUJOdDF3bjhpNElOUnduSC00bzFSeDRPUHplSk1GamE1bGh5UXExZ2J3UlFHMk50alYzT0ljb041ME9yVnFOX05lTEtnWEM4UDJGeTBZNHEwWW0xQ3EzVVFxTWUxUDFkMXl5clIxYmJzUTVKQVlIWEFsZDhkc0tMU3JlSm1TQjlEYVVKWkZfbDhoMkc1aU8wZlJCSUFEVmZ1SldTSEZScWNkckx5YWFvSDBiNXhET2JtNmRj0gHHAUFVX3lxTE9yNnNqZy12cWFmR251Qk50MXduOGk0SU5Sd25ILTRvMVJ4NE9QemVKTUZqYTVsaHlRcTFnYndSUUcyTnRqVjNPSWNvTjUwT3JWcU5fTmVMS2dYQzhQMkZ5MFk0cTBZbTFDcTNVUXFNZTFQMWQxeXlyUjFiYnNRNUpBWUhYQWxkOGRzS0xTcmVKbVNCOURhVUpaRl9sOGgyRzVpTzBmUkJJQURWZnVKV1NIRlJxY2RyTHlhYW9IMGI1eERPYm02ZGM?oc=5",
+   "data": "2026-11-16T20:08:52.000Z",
+   "temas": [
+    "saude"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Primeiros computadores quânticos da América Latina chegam na PB nesta segunda (16) Jornal da Paraíba",
+   "coletadoEm": "2026-11-18T01:19:22.438Z"
+  },
+  {
    "id": "609df86e9c36",
    "titulo": "Primeiro computador quântico da América Latina chega à Paraíba nesta segunda-feira",
    "fonte": "Portal Sertão da Paraíba",
@@ -406,6 +521,20 @@
    "coletadoEm": "2026-11-17T18:34:42.548Z"
   },
   {
+   "id": "80724e311d7c",
+   "titulo": "IBM, NVIDIA e Fermilab planejam plataforma de computação quântica",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVlFNNVR4dkhNTElBeUh5cWdTMmIzbTRYc1lPcXhtbk5WRHZwblFuUVY1VTI3aF9CamVXcVBwU2t4a0RsZ3lFYlVCcTNDdzRodnRlcC02bHhZUFpreXRsWUpfX3VMTjdsWVo1U3BkMEFnZHNZWFNHUWNuLTQ4R0I0b2s3V0dHZzFNQ2FYM2VSTGZOcjFVRXlFNUhKOVRhVXpldU5pd1FrMndmZ1MxXzBTbEFhSXN6eG1OUG5yTg?oc=5",
+   "data": "2026-11-16T16:05:00.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "IBM, NVIDIA e Fermilab planejam plataforma de computação quântica Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "coletadoEm": "2026-11-18T01:19:11.310Z"
+  },
+  {
    "id": "7044897dd7b8",
    "titulo": "Chamada Asas para o Futuro concederá 3.440 bolsas para jovens negras, indígenas e quilombolas; confira o resultado final",
    "fonte": "Governo Federal",
@@ -441,7 +570,8 @@
    "data": "2026-11-16T11:17:47.000Z",
    "temas": [
     "quantica",
-    "energia"
+    "energia",
+    "saude"
    ],
    "orgs": [],
    "edital": false,
@@ -1618,6 +1748,22 @@
    "coletadoEm": "2026-11-16T22:20:19.305Z"
   },
   {
+   "id": "da349404718c",
+   "titulo": "PD&I | Finep amplia para R$ 500 milhões chamada de transformação mineral, com inscrições até 30/11",
+   "fonte": "Brasil Mineral",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ19XU1hveFNHTzlwd2VxOGtNVDI3TzlLMXRlcWFJUzJBTmlrVkZrS2wwdXMwUG4zZy1tcFhPcFRkQk9yNmVrbDZoTFhPd2FiN0tUOTlyMGdXRTdkUGlmMEx6MnBUMDJ4b3IzbVM1MDhibXJNMFdOZFNQakJTc3MtSzdiOU1JWXNhZVpSSlhtSXVHRVpKNWNqUlNqdVQ0dUt1YXNjaGFvdjAyTmNiY1pqd3ZlRlFhS3BndnI1QzNPdlZxT0I3?oc=5",
+   "data": "2026-11-05T08:00:00.000Z",
+   "temas": [
+    "edital"
+   ],
+   "orgs": [
+    "ref-finep"
+   ],
+   "edital": true,
+   "resumo": "PD&I | Finep amplia para R$ 500 milhões chamada de transformação mineral, com inscrições até 30/11 Brasil Mineral",
+   "coletadoEm": "2026-11-18T01:19:33.347Z"
+  },
+  {
    "id": "7120a14b8045",
    "titulo": "Paraíba terá 30 startups no Web Summit Lisboa e lança edital para o Web Summit Doha",
    "fonte": "ClickPB",
@@ -2157,6 +2303,20 @@
    "edital": true,
    "resumo": "PB abre edital de apoio à realização de eventos científicos, tecnológicos e de inovação Paraíba Já",
    "coletadoEm": "2026-11-16T22:20:22.170Z"
+  },
+  {
+   "id": "7b4ea7b64b00",
+   "titulo": "Google avança na computação quântica e reacende alerta sobre segurança do Bitcoin",
+   "fonte": "SINDPD",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vdVNtUFZxY0YzUU00UUlOSWhZdmVSc2otRWVQZmVKc00ycW5uSHNkbFlNVUZwd3BQSkJDdzFsUXd0R21LU0NueXJLSEhIUWFDbFRLbnZQMkhZbzJqanFmQ0FNNU1jemhEU0NVTW5tWVN1YkR1T19n?oc=5",
+   "data": "2026-10-21T07:00:00.000Z",
+   "temas": [
+    "saude"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Google avança na computação quântica e reacende alerta sobre segurança do Bitcoin SINDPD",
+   "coletadoEm": "2026-11-18T01:19:22.439Z"
   },
   {
    "id": "2e1aec4936fc",

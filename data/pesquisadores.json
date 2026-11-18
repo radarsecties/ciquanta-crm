@@ -12378,9 +12378,3490 @@
    "instituicao": null,
    "buscadoEm": "2026-11-17T18:40:02.599Z",
    "pessoas": []
+  },
+  "ref-banco-inter": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:22:26.221Z",
+   "pessoas": []
+  },
+  "ref-banco-safra": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:22:26.465Z",
+   "pessoas": []
+  },
+  "ref-banco-bv": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:22:26.722Z",
+   "pessoas": []
+  },
+  "ref-sicredi": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:22:26.927Z",
+   "pessoas": []
+  },
+  "ref-sicoob": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:22:27.129Z",
+   "pessoas": []
+  },
+  "ref-stone": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:22:27.469Z",
+   "pessoas": []
+  },
+  "ref-pagbank": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:22:27.699Z",
+   "pessoas": []
+  },
+  "ref-mercado-pago": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:22:27.910Z",
+   "pessoas": []
+  },
+  "ref-cielo": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:22:28.117Z",
+   "pessoas": []
+  },
+  "ref-anbima": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:22:28.384Z",
+   "pessoas": []
+  },
+  "ref-instituto-butantan": {
+   "instituicao": {
+    "id": "I2800423888",
+    "nome": "Instituto Butantan",
+    "tipo": "facility",
+    "trabalhos": 12590
+   },
+   "buscadoEm": "2026-11-18T01:22:28.625Z",
+   "pessoas": [
+    {
+     "id": "A5023504408",
+     "nome": "ANTONIO DOMINGOS BRESCOVIT",
+     "orcid": "0000-0002-1511-5324",
+     "trabalhos": 7,
+     "ultimoAno": 2026,
+     "temas": [
+      "Spider Taxonomy and Behavior Studies",
+      "Study of Mite Species",
+      "Freshwater macroinvertebrate diversity and ecology"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Aquatic subsidies increase the resilience of riparian spider communities after pulse disturbance",
+      "ano": 2026,
+      "url": "https://doi.org/10.1038/s41598-026-80209-6",
+      "quantico": false
+     },
+     "relevancia": 39,
+     "orcidVistoEm": "2026-11-18T01:22:29.414Z"
+    },
+    {
+     "id": "A5054994151",
+     "nome": "Caroline Serino-Silva",
+     "orcid": "0000-0001-9363-3752",
+     "trabalhos": 5,
+     "ultimoAno": 2026,
+     "temas": [
+      "Venomous Animal Envenomation and Studies",
+      "Amphibian and Reptile Biology"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Evaluation of the variability of Bothrops jararaca venom batches and their in vitro neutralization by pentavalent antibothropic antivenom batches.",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.toxicon.2026.109360",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "orcidVistoEm": "2026-11-18T01:22:29.737Z"
+    },
+    {
+     "id": "A5031397500",
+     "nome": "Hernan Hermes Monteiro da Costa",
+     "orcid": "0000-0001-8972-749X",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Vector-borne infectious diseases",
+      "Bartonella species infections research"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Novel Rickettsia rickettsii Proteins with Potential Use for Serological Detection of Wild Natural Reservoirs",
+      "ano": 2026,
+      "url": "https://doi.org/10.3390/pathogens15090994",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "cargo": "Biotecnologista, Laboratório Multipropósito",
+     "orcidVistoEm": "2026-11-18T01:22:30.076Z"
+    },
+    {
+     "id": "A5022574379",
+     "nome": "Carlos Roberto Prudêncio",
+     "orcid": "0000-0001-7701-0707",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Vector-borne infectious diseases",
+      "Bartonella species infections research"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Novel Rickettsia rickettsii Proteins with Potential Use for Serological Detection of Wild Natural Reservoirs",
+      "ano": 2026,
+      "url": "https://doi.org/10.3390/pathogens15090994",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "email": "carlos.prudencio@butantan.gov.br",
+     "cargo": "Research Scientist, Center for Development and Innovation (CDI), Multipurpose Laboratory",
+     "orcidVistoEm": "2026-11-18T01:22:30.424Z"
+    },
+    {
+     "id": "A5031235087",
+     "nome": "Ricardo Bassini Silva",
+     "orcid": "0000-0002-9568-4120",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Study of Mite Species",
+      "Dermatological diseases and infestations",
+      "Vector-borne infectious diseases"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Otitis externa associated with Otodectes cynotis and Malassezia sp. co-infection in a free- ranging maned wolf, Chrysocyon brachyurus (Illiger, 1815), from southeastern Brazil",
+      "ano": 2026,
+      "url": "https://doi.org/10.21203/rs.3.rs-11460830/v1",
+      "quantico": false
+     },
+     "relevancia": 30,
+     "cargo": "Researcher, Laboratório de Coleções Zoológicas",
+     "orcidVistoEm": "2026-11-18T01:22:30.745Z"
+    },
+    {
+     "id": "A5027533013",
+     "nome": "Anita Mitico Tanaka-Azevedo",
+     "orcid": "0000-0002-4254-1716",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Venomous Animal Envenomation and Studies",
+      "Amphibian and Reptile Biology",
+      "Advanced Proteomics Techniques and Applications"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Evaluation of the variability of Bothrops jararaca venom batches and their in vitro neutralization by pentavalent antibothropic antivenom batches.",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.toxicon.2026.109360",
+      "quantico": false
+     },
+     "relevancia": 30,
+     "orcidVistoEm": "2026-11-18T01:22:31.088Z"
+    },
+    {
+     "id": "A5071863125",
+     "nome": "Cristiane Schilbach Pizzutto",
+     "orcid": "0000-0002-4357-5133",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Animal Behavior and Welfare Studies",
+      "Human-Animal Interaction Studies",
+      "Amphibian and Reptile Biology"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Substrate Use in Juvenile Rattlesnakes, Crotalus durissus, Assessed Through Body Contact and Dwelling Time",
+      "ano": 2026,
+      "url": "https://doi.org/10.3390/jzbg7040042",
+      "quantico": false
+     },
+     "relevancia": 30,
+     "cargo": "Pesquisadora Sênior/Veterinária/Responsável Técnica, Laboratório de Ecologia e Evolução",
+     "orcidVistoEm": "2026-11-18T01:22:31.419Z"
+    },
+    {
+     "id": "A5010809600",
+     "nome": "Solange M.T. Serrano",
+     "orcid": "0000-0001-8994-1904",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Advanced Proteomics Techniques and Applications",
+      "Mass Spectrometry Techniques and Applications",
+      "Research on Leishmaniasis Studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Characterization of Extracellular Vesicles from Attenuated and Virulent Leishmania amazonensis Promastigotes Reveals Distinct Proteomic Signatures",
+      "ano": 2026,
+      "url": "https://doi.org/10.1021/acsomega.6c07695",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5084926319",
+     "nome": "Alison Felipe Alencar Chaves",
+     "orcid": "0000-0001-6017-6671",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Advanced Proteomics Techniques and Applications",
+      "Mass Spectrometry Techniques and Applications",
+      "Venomous Animal Envenomation and Studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Ontogenetic Shift in a Snake Venom Proteome Drives Distinct Proteomic Responses in Mouse Renal Mesangial Cells",
+      "ano": 2026,
+      "url": "https://doi.org/10.1021/acs.jproteome.6c00503",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5003229897",
+     "nome": "Enéas Carvalho",
+     "orcid": "0000-0002-8052-0975",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Antibiotic Resistance in Bacteria",
+      "Salmonella and Campylobacter epidemiology",
+      "Antimicrobial Peptides and Activities"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "PLGA nanoparticles for the delivery of antimicrobial peptides in a polymicrobial sepsis model",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.biopha.2026.119927",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5030176423",
+     "nome": "Sarah Natalie Cirilo Gimenes",
+     "orcid": "0000-0002-1951-6205",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Venomous Animal Envenomation and Studies",
+      "Blood Coagulation and Thrombosis Mechanisms",
+      "Inflammatory Bowel Disease"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Pertinaxin, a salivary Kunitz-type protease inhibitor from Simulium pertinax, inhibits factor Xa and impairs plasma coagulation",
+      "ano": 2026,
+      "url": "https://doi.org/10.21203/rs.3.rs-11473845/v1",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5081395880",
+     "nome": "Thaissa Consoni Bernardino",
+     "orcid": "0000-0001-8173-1793",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Viral Infectious Diseases and Gene Expression in Insects",
+      "Mosquito-borne diseases and control",
+      "Microbial Metabolic Engineering and Bioproduction"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Impact of partial oxygen pressure on Zika-VLP production using Sf-9 rhabdovirus negative (Sf-RVN®) insect cell line",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.virol.2026.111139",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5046142910",
+     "nome": "Ana L. T. O. Nascimento",
+     "orcid": "0000-0003-4851-0870",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Leptospirosis research and findings",
+      "vaccines and immunoinformatics approaches",
+      "Research on Leishmaniasis Studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "In silico mapping of Leptospira interrogans putative carboxypeptidases: functional domains, predicted virulence signatures, and epitope identification for potential subunit vaccine candidates",
+      "ano": 2026,
+      "url": "https://doi.org/10.3389/fbinf.2026.1992423",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5012523972",
+     "nome": "Aline F. Teixeira",
+     "orcid": "0000-0002-1171-8312",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Leptospirosis research and findings",
+      "vaccines and immunoinformatics approaches",
+      "Research on Leishmaniasis Studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "In silico mapping of Leptospira interrogans putative carboxypeptidases: functional domains, predicted virulence signatures, and epitope identification for potential subunit vaccine candidates",
+      "ano": 2026,
+      "url": "https://doi.org/10.3389/fbinf.2026.1992423",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5051400480",
+     "nome": "Esper Georges Kallas",
+     "orcid": "0000-0003-2026-6925",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Influenza Virus Research Studies",
+      "SARS-CoV-2 and COVID-19 Research",
+      "Animal Virus Infections Studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Phase II randomized non-inferiority trial comparing the humoral immunogenicity of NDV-HXP-S and BNT162b2 vaccines in Brazil",
+      "ano": 2026,
+      "url": "https://doi.org/10.1038/s41598-026-74408-4",
+      "quantico": false
+     },
+     "relevancia": 27
+    }
+   ]
+  },
+  "ref-hospital-sirio-libanes": {
+   "instituicao": {
+    "id": "I4210149843",
+    "nome": "Hospital Sírio-Libanês",
+    "tipo": "healthcare",
+    "trabalhos": 7137
+   },
+   "buscadoEm": "2026-11-18T01:22:31.957Z",
+   "pessoas": [
+    {
+     "id": "A5006211635",
+     "nome": "Juliana Martins Giorgi",
+     "orcid": "0009-0007-7271-4845",
+     "trabalhos": 8,
+     "ultimoAno": 2026,
+     "temas": [
+      "Atrial Fibrillation Management and Outcomes",
+      "Coronary Interventions and Diagnostics",
+      "Acute Ischemic Stroke Management"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Abstract 12652: Timing-Dependent Safety of Oral Anticoagulation Discontinuation After Atrial Fibrillation Ablation: A Bayesian Systematic Review and Meta-Analysis",
+      "ano": 2026,
+      "url": "https://doi.org/10.1161/circ.154.suppl_1.12652",
+      "quantico": false
+     },
+     "relevancia": 42,
+     "orcidVistoEm": "2026-11-18T01:22:47.655Z"
+    },
+    {
+     "id": "A5109383283",
+     "nome": "Gustavo Nader Marta",
+     "orcid": "0000-0002-3298-3684",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Glioma Diagnosis and Treatment",
+      "Cancer survivorship and care",
+      "Radiation Therapy and Dosimetry"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "NCOG-32 Early Functional, Cognitive, and Quality-of-Life Changes Before and Immediately After Adjuvant Chemoradiotherapy in Postoperative High-Grade Glioma Patients: Interim Analysis of an Ongoing Prospective Study",
+      "ano": 2026,
+      "url": "https://doi.org/10.1093/neuonc/noag189.925",
+      "quantico": false
+     },
+     "relevancia": 42,
+     "orcidVistoEm": "2026-11-18T01:22:47.957Z"
+    },
+    {
+     "id": "A5071166698",
+     "nome": "Daniele Xavier Assad",
+     "orcid": "0000-0001-9722-0904",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Cancer survivorship and care",
+      "Breast Cancer Treatment Studies",
+      "BRCA gene mutations in cancer"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Interpretable machine learning models for oncotypedDX® prediction using clinicopathologic data: a brazilian cohort study",
+      "ano": 2026,
+      "url": "https://doi.org/10.1038/s41523-026-01065-1",
+      "quantico": false
+     },
+     "relevancia": 42,
+     "cargo": "Medical Oncologist, Clinical Oncology",
+     "orcidVistoEm": "2026-11-18T01:22:48.272Z"
+    },
+    {
+     "id": "A5019455860",
+     "nome": "Samir Abdallah Hanna",
+     "orcid": "0000-0002-1976-0662",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Glioma Diagnosis and Treatment",
+      "Cancer survivorship and care",
+      "Radiation Therapy and Dosimetry"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "NCOG-32 Early Functional, Cognitive, and Quality-of-Life Changes Before and Immediately After Adjuvant Chemoradiotherapy in Postoperative High-Grade Glioma Patients: Interim Analysis of an Ongoing Prospective Study",
+      "ano": 2026,
+      "url": "https://doi.org/10.1093/neuonc/noag189.925",
+      "quantico": false
+     },
+     "relevancia": 39,
+     "cargo": "Attending Physician, Medical Residency Coordinator, Radiation Oncology",
+     "orcidVistoEm": "2026-11-18T01:22:48.587Z"
+    },
+    {
+     "id": "A5076977196",
+     "nome": "Andrea Kazumi Shimada",
+     "orcid": "0000-0001-7221-3054",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Breast Cancer Treatment Studies",
+      "BRCA gene mutations in cancer",
+      "Cancer Genomics and Diagnostics"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Interpretable machine learning models for oncotypedDX® prediction using clinicopathologic data: a brazilian cohort study",
+      "ano": 2026,
+      "url": "https://doi.org/10.1038/s41523-026-01065-1",
+      "quantico": false
+     },
+     "relevancia": 39,
+     "orcidVistoEm": "2026-11-18T01:22:48.886Z"
+    },
+    {
+     "id": "A5159220938",
+     "nome": "Guilherme Harada",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Radiomics and Machine Learning in Medical Imaging",
+      "AI in cancer detection",
+      "Lung Cancer Treatments and Mutations"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Toward a unified computational representation of lung cancer: from radiomics and pathomics to multimodal AI",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.clinimag.2026.110982",
+      "quantico": false
+     },
+     "relevancia": 36
+    },
+    {
+     "id": "A5161953966",
+     "nome": "Monica D’Alma Costa Santos",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Glioma Diagnosis and Treatment",
+      "Cancer survivorship and care",
+      "Radiation Therapy and Dosimetry"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "NCOG-32 Early Functional, Cognitive, and Quality-of-Life Changes Before and Immediately After Adjuvant Chemoradiotherapy in Postoperative High-Grade Glioma Patients: Interim Analysis of an Ongoing Prospective Study",
+      "ano": 2026,
+      "url": "https://doi.org/10.1093/neuonc/noag189.925",
+      "quantico": false
+     },
+     "relevancia": 36
+    },
+    {
+     "id": "A5046474452",
+     "nome": "VICTOR CARVALHO ALVES",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Glioma Diagnosis and Treatment",
+      "Cancer survivorship and care",
+      "Radiation Therapy and Dosimetry"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "NCOG-32 Early Functional, Cognitive, and Quality-of-Life Changes Before and Immediately After Adjuvant Chemoradiotherapy in Postoperative High-Grade Glioma Patients: Interim Analysis of an Ongoing Prospective Study",
+      "ano": 2026,
+      "url": "https://doi.org/10.1093/neuonc/noag189.925",
+      "quantico": false
+     },
+     "relevancia": 36
+    },
+    {
+     "id": "A5043368261",
+     "nome": "Ana Carolina Pinheiro Campos",
+     "orcid": "0000-0003-2901-5823",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Glioma Diagnosis and Treatment",
+      "Radiation Therapy and Dosimetry",
+      "Neuroscience and Neuropharmacology Research"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "NCMP-01 Molecular and Dosimetric Factors Associated with Treatment-Related Effects Following Radiotherapy in High-Grade Gliomas",
+      "ano": 2026,
+      "url": "https://doi.org/10.1093/neuonc/noag189.867",
+      "quantico": false
+     },
+     "relevancia": 36,
+     "cargo": "Post-doctoral fellow, Instituto de Ensino e Pesquisa",
+     "orcidVistoEm": "2026-11-18T01:22:49.205Z"
+    },
+    {
+     "id": "A5030091305",
+     "nome": "Artur Katz",
+     "orcid": "0000-0002-1811-1169",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Breast Cancer Treatment Studies",
+      "BRCA gene mutations in cancer",
+      "Cancer Genomics and Diagnostics"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Interpretable machine learning models for oncotypedDX® prediction using clinicopathologic data: a brazilian cohort study",
+      "ano": 2026,
+      "url": "https://doi.org/10.1038/s41523-026-01065-1",
+      "quantico": false
+     },
+     "relevancia": 36,
+     "orcidVistoEm": "2026-11-18T01:22:49.506Z"
+    },
+    {
+     "id": "A5058161377",
+     "nome": "Rudinei Diogo Marques Linck",
+     "orcid": "0000-0003-2433-7911",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Breast Cancer Treatment Studies",
+      "BRCA gene mutations in cancer",
+      "Cancer Genomics and Diagnostics"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Interpretable machine learning models for oncotypedDX® prediction using clinicopathologic data: a brazilian cohort study",
+      "ano": 2026,
+      "url": "https://doi.org/10.1038/s41523-026-01065-1",
+      "quantico": false
+     },
+     "relevancia": 36,
+     "orcidVistoEm": "2026-11-18T01:22:49.811Z"
+    },
+    {
+     "id": "A5088735051",
+     "nome": "Cibele Masotti",
+     "orcid": "0000-0003-4462-0941",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Colorectal Cancer Surgical Treatments",
+      "Radiomics and Machine Learning in Medical Imaging",
+      "Cancer Genomics and Diagnostics"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Molecular, spatial, and AI ‐enabled technologies for predicting neoadjuvant therapy response in locally advanced rectal cancer",
+      "ano": 2026,
+      "url": "https://doi.org/10.1002/path.70127",
+      "quantico": false
+     },
+     "relevancia": 36,
+     "cargo": "RESEARCHER , Molecular Oncology Center",
+     "orcidVistoEm": "2026-11-18T01:22:50.118Z"
+    },
+    {
+     "id": "A5160515506",
+     "nome": "José de Arimatéia B. Araujo-Filho",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Radiomics and Machine Learning in Medical Imaging",
+      "AI in cancer detection"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Toward a unified computational representation of lung cancer: from radiomics and pathomics to multimodal AI",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.clinimag.2026.110982",
+      "quantico": false
+     },
+     "relevancia": 33
+    },
+    {
+     "id": "A5083525663",
+     "nome": "Alice Roxo Nobre de Souza e Silva",
+     "orcid": "0000-0003-3252-3511",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Glioma Diagnosis and Treatment",
+      "Radiation Therapy and Dosimetry"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "NCMP-01 Molecular and Dosimetric Factors Associated with Treatment-Related Effects Following Radiotherapy in High-Grade Gliomas",
+      "ano": 2026,
+      "url": "https://doi.org/10.1093/neuonc/noag189.867",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "orcidVistoEm": "2026-11-18T01:22:50.416Z"
+    },
+    {
+     "id": "A5102701788",
+     "nome": "Raquel Solares Soares",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Glioma Diagnosis and Treatment",
+      "Radiation Therapy and Dosimetry"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "NCMP-01 Molecular and Dosimetric Factors Associated with Treatment-Related Effects Following Radiotherapy in High-Grade Gliomas",
+      "ano": 2026,
+      "url": "https://doi.org/10.1093/neuonc/noag189.867",
+      "quantico": false
+     },
+     "relevancia": 33
+    }
+   ]
+  },
+  "ref-rede-d-or": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:22:50.983Z",
+   "pessoas": []
+  },
+  "ref-dasa": {
+   "instituicao": {
+    "id": "I4387156159",
+    "nome": "DASA (Brazil)",
+    "tipo": "company",
+    "trabalhos": 793
+   },
+   "buscadoEm": "2026-11-18T01:22:51.214Z",
+   "pessoas": [
+    {
+     "id": "A5081653524",
+     "nome": "Márcio Luís Duarte",
+     "orcid": "0000-0002-7874-9332",
+     "trabalhos": 13,
+     "ultimoAno": 2026,
+     "temas": [
+      "Ear and Head Tumors",
+      "Musculoskeletal synovial abnormalities and treatments",
+      "Radiology practices and education"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Hair-Covered Clues: Scalp Vascular Anomalies in a Patient with Klippel–Trenaunay Syndrome",
+      "ano": 2026,
+      "url": "https://doi.org/10.1017/cjn.2026.10693",
+      "quantico": false
+     },
+     "relevancia": 60,
+     "orcidVistoEm": "2026-11-18T01:22:52.053Z"
+    },
+    {
+     "id": "A5082485951",
+     "nome": "Felipe Kitamura",
+     "orcid": "0000-0002-9992-5630",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Artificial Intelligence in Healthcare and Education",
+      "Radiology practices and education"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "AI for Radiology: A Primer Part II. Interacting with AI Results",
+      "ano": 2026,
+      "url": "https://doi.org/10.1148/radiol.252702",
+      "quantico": false
+     },
+     "relevancia": 36,
+     "cargo": "Applied Innovation and AI",
+     "orcidVistoEm": "2026-11-18T01:22:52.368Z"
+    },
+    {
+     "id": "A5095776779",
+     "nome": "Daisy Terumi Kase",
+     "orcid": "0000-0002-6019-2580",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Medical Imaging and Analysis",
+      "Bone health and osteoporosis research",
+      "Hip disorders and treatments"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Routine MRI for opportunistic osteoporosis screening: diagnostic accuracy of vertebral bone quality and a novel femoral bone quality score compared with DXA",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/s00256-026-05330-z",
+      "quantico": false
+     },
+     "relevancia": 30,
+     "orcidVistoEm": "2026-11-18T01:22:52.666Z"
+    },
+    {
+     "id": "A5033441274",
+     "nome": "André Yui Aihara",
+     "orcid": "0000-0002-3194-9409",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Medical Imaging and Analysis",
+      "Bone health and osteoporosis research",
+      "Hip disorders and treatments"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Routine MRI for opportunistic osteoporosis screening: diagnostic accuracy of vertebral bone quality and a novel femoral bone quality score compared with DXA",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/s00256-026-05330-z",
+      "quantico": false
+     },
+     "relevancia": 30,
+     "cargo": "Médico, Diagnostic Imaging",
+     "orcidVistoEm": "2026-11-18T01:22:52.980Z"
+    },
+    {
+     "id": "A5046704431",
+     "nome": "Marly Maria Uellendahl",
+     "orcid": "0000-0001-7302-7448",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Lysosomal Storage Disorders Research",
+      "Cardiomyopathy and Myosin Studies",
+      "Systemic Sclerosis and Related Diseases"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Primary heart involvement assessed by cardiac magnetic resonance is associated with capillaroscopy abnormalities in systemic sclerosis",
+      "ano": 2026,
+      "url": "https://doi.org/10.1186/s42358-026-00549-9",
+      "quantico": false
+     },
+     "relevancia": 30,
+     "orcidVistoEm": "2026-11-18T01:22:53.287Z"
+    },
+    {
+     "id": "A5000074320",
+     "nome": "Thaís Nogueira Dantas Gastaldi",
+     "orcid": "0000-0002-1086-7893",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Diverticular Disease and Complications",
+      "Gastrointestinal disorders and treatments",
+      "Sexual Differentiation and Disorders"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Jejunal Diverticulitis: A Diagnostic and Therapeutic Overview",
+      "ano": 2026,
+      "url": "https://doi.org/10.14712/23362936.2026.8",
+      "quantico": false
+     },
+     "relevancia": 30,
+     "orcidVistoEm": "2026-11-18T01:22:53.591Z"
+    },
+    {
+     "id": "A5070485928",
+     "nome": "Raphael Federicci Haddad",
+     "orcid": "0000-0003-1647-5257",
+     "trabalhos": 1,
+     "ultimoAno": 2025,
+     "temas": [
+      "Artificial Intelligence in Healthcare and Education",
+      "Artificial Intelligence in Healthcare"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Data-Driven Medicine and Artificial Intelligence in Healthcare: Real-World Evidence, Opportunities, and Safeguards",
+      "ano": 2025,
+      "url": "https://doi.org/10.1007/s00192-025-06442-1",
+      "quantico": false
+     },
+     "relevancia": 29,
+     "orcidVistoEm": "2026-11-18T01:22:53.900Z"
+    },
+    {
+     "id": "A5005877208",
+     "nome": "Gustavo Andreis",
+     "orcid": "0000-0002-9946-6366",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Pelvic and Acetabular Injuries",
+      "Spinal Fractures and Fixation Techniques",
+      "Musculoskeletal synovial abnormalities and treatments"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Intrathecal fat dissemination after sacral fracture detected on computed tomography",
+      "ano": 2026,
+      "url": "https://doi.org/10.26635/6965.7437",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5051658809",
+     "nome": "Ana Carolina de Lima Augusto",
+     "orcid": "0000-0002-5400-3077",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Hip disorders and treatments",
+      "Spondyloarthritis Studies and Treatments",
+      "MRI in cancer diagnosis"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Pediatric Sacroiliac Joint: Normal Development and Pathologic Disorders",
+      "ano": 2026,
+      "url": "https://doi.org/10.1148/rg.250091",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5085244550",
+     "nome": "Alex dos Santos Félix",
+     "orcid": "0000-0001-7046-8707",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Cardiovascular Function and Risk Factors",
+      "Cardiac Imaging and Diagnostics",
+      "Trypanosoma species research and implications"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Diretriz sobre Ecocardiografia de Estresse – 2026",
+      "ano": 2026,
+      "url": "https://doi.org/10.36660/abc.20260223",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5124139866",
+     "nome": "Marcia de Paula Cardinali",
+     "orcid": "0009-0006-9309-0026",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Lysosomal Storage Disorders Research",
+      "Cardiomyopathy and Myosin Studies",
+      "Vascular anomalies and interventions"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Intracardiac Migration of a Right Common Iliac Vein Stent: A Silent Complication Detected by Multimodality Cardiac Imaging",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.jocmr.2025.102094",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5086001522",
+     "nome": "Maria Helane Costa Gurgel Castelo",
+     "orcid": "0000-0003-3816-5612",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Thyroid Disorders and Treatments",
+      "Diabetes, Cardiovascular Risks, and Lipoproteins",
+      "Lipid metabolism and disorders"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "A-141 Is TSH level associated with insulin resistance in euthyroid subjects?",
+      "ano": 2026,
+      "url": "https://doi.org/10.1093/clinchem/hvag086.112",
+      "quantico": false
+     },
+     "relevancia": 24
+    },
+    {
+     "id": "A5044920567",
+     "nome": "Luciano Henrique Gazoni Scremin",
+     "orcid": "0000-0001-6387-0829",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Heterotopic Ossification and Related Conditions",
+      "Cervical and Thoracic Myelopathy",
+      "Bone Metabolism and Diseases"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "DISH on chest radiographs: A skeletal clue to hidden cardiovascular risk",
+      "ano": 2026,
+      "url": "https://doi.org/10.21203/rs.3.rs-10183494/v1",
+      "quantico": false
+     },
+     "relevancia": 24
+    },
+    {
+     "id": "A5118586823",
+     "nome": "Leonardo Kazunori Tsuji",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Medical Imaging and Analysis",
+      "Bone health and osteoporosis research",
+      "Artificial Intelligence in Healthcare and Education"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Routine MRI for opportunistic osteoporosis screening: diagnostic accuracy of vertebral bone quality and a novel femoral bone quality score compared with DXA",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/s00256-026-05330-z",
+      "quantico": false
+     },
+     "relevancia": 24
+    },
+    {
+     "id": "A5015445989",
+     "nome": "Lucas Kenzo Miyahara",
+     "orcid": "0000-0003-1022-7981",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Bone health and osteoporosis research",
+      "Medical Imaging and Analysis",
+      "Hip disorders and treatments"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Routine MRI for opportunistic osteoporosis screening: diagnostic accuracy of vertebral bone quality and a novel femoral bone quality score compared with DXA",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/s00256-026-05330-z",
+      "quantico": false
+     },
+     "relevancia": 24
+    }
+   ]
+  },
+  "ref-grupo-fleury": {
+   "instituicao": {
+    "id": "I4210148096",
+    "nome": "Fleury S.A. (Brazil)",
+    "tipo": "company",
+    "trabalhos": 1635
+   },
+   "buscadoEm": "2026-11-18T01:22:54.411Z",
+   "pessoas": [
+    {
+     "id": "A5137233530",
+     "nome": "Flavia Helena da Silva",
+     "orcid": "",
+     "trabalhos": 5,
+     "ultimoAno": 2026,
+     "temas": [
+      "Lung Cancer Diagnosis and Treatment",
+      "Inflammatory Biomarkers in Disease Prognosis",
+      "Genomics and Rare Diseases"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Active Reclassification of Genetic Variants in Hereditary Cancer Panels: Clinical Impacts and Experience from a Brazilian Reference Laboratory",
+      "ano": 2026,
+      "url": "https://doi.org/10.21203/rs.3.rs-11527170/v1",
+      "quantico": false
+     },
+     "relevancia": 45
+    },
+    {
+     "id": "A5069948023",
+     "nome": "Maria Carolina Tostes Pintão",
+     "orcid": "0000-0002-6452-7931",
+     "trabalhos": 5,
+     "ultimoAno": 2026,
+     "temas": [
+      "Inflammatory Biomarkers in Disease Prognosis",
+      "Lung Cancer Diagnosis and Treatment",
+      "Genomics and Rare Diseases"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Active Reclassification of Genetic Variants in Hereditary Cancer Panels: Clinical Impacts and Experience from a Brazilian Reference Laboratory",
+      "ano": 2026,
+      "url": "https://doi.org/10.21203/rs.3.rs-11527170/v1",
+      "quantico": false
+     },
+     "relevancia": 45,
+     "orcidVistoEm": "2026-11-18T01:22:55.212Z"
+    },
+    {
+     "id": "A5091308946",
+     "nome": "Otavio Jose Eulalio Pereira",
+     "orcid": "",
+     "trabalhos": 5,
+     "ultimoAno": 2026,
+     "temas": [
+      "Inflammatory Biomarkers in Disease Prognosis",
+      "Lung Cancer Diagnosis and Treatment",
+      "Genomics and Rare Diseases"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Active Reclassification of Genetic Variants in Hereditary Cancer Panels: Clinical Impacts and Experience from a Brazilian Reference Laboratory",
+      "ano": 2026,
+      "url": "https://doi.org/10.21203/rs.3.rs-11527170/v1",
+      "quantico": false
+     },
+     "relevancia": 45
+    },
+    {
+     "id": "A5027839609",
+     "nome": "Bruno Aragão Rocha",
+     "orcid": "0000-0001-5288-8150",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Inflammatory Biomarkers in Disease Prognosis",
+      "Lung Cancer Diagnosis and Treatment",
+      "Prostate Cancer Diagnosis and Treatment"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Complete blood count–based risk stratification to support lung cancer screening in resource-limited settings: a retrospective cohort analysis",
+      "ano": 2026,
+      "url": "https://doi.org/10.1038/s41598-026-76289-z",
+      "quantico": false
+     },
+     "relevancia": 42,
+     "cargo": "MD, Radiology",
+     "orcidVistoEm": "2026-11-18T01:22:55.528Z"
+    },
+    {
+     "id": "A5010953874",
+     "nome": "João V. M. Malvezzi",
+     "orcid": "0000-0001-9345-6338",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Inflammatory Biomarkers in Disease Prognosis",
+      "Lung Cancer Diagnosis and Treatment",
+      "Prostate Cancer Diagnosis and Treatment"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Complete blood count–based risk stratification to support lung cancer screening in resource-limited settings: a retrospective cohort analysis",
+      "ano": 2026,
+      "url": "https://doi.org/10.1038/s41598-026-76289-z",
+      "quantico": false
+     },
+     "relevancia": 42,
+     "orcidVistoEm": "2026-11-18T01:22:55.823Z"
+    },
+    {
+     "id": "A5082054869",
+     "nome": "Alex Freire Sandes",
+     "orcid": "0000-0002-2502-4493",
+     "trabalhos": 6,
+     "ultimoAno": 2026,
+     "temas": [
+      "Lymphoma Diagnosis and Treatment",
+      "Chronic Lymphocytic Leukemia Research",
+      "Acute Myeloid Leukemia Research"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "EXPANSÃO CLONAL DE LINFÓCITOS T CD8+ CITOTÓXICOS EM ADOLESCENTE COM FEBRE PERSISTENTE: UM DESAFIO DIAGNÓSTICO NO ESPECTRO ENTRE RESPOSTA IMUNE REACIONAL E LEUCEMIA DE LINFÓCITOS GRANDES GRANULARES",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.htct.2026.107421",
+      "quantico": false
+     },
+     "relevancia": 36,
+     "orcidVistoEm": "2026-11-18T01:22:56.124Z"
+    },
+    {
+     "id": "A5160515506",
+     "nome": "José de Arimatéia B. Araujo-Filho",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Radiomics and Machine Learning in Medical Imaging",
+      "AI in cancer detection"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Toward a unified computational representation of lung cancer: from radiomics and pathomics to multimodal AI",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.clinimag.2026.110982",
+      "quantico": false
+     },
+     "relevancia": 33
+    },
+    {
+     "id": "A5106732418",
+     "nome": "Matheus Vescovi Gonçalves",
+     "orcid": "0000-0002-8813-2221",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Lymphoma Diagnosis and Treatment",
+      "Chronic Lymphocytic Leukemia Research",
+      "Platelet Disorders and Treatments"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Hungry neutrophils: platelet phagocytosis in EDTA-dependent pseudothrombocytopenia",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.htct.2026.108553",
+      "quantico": false
+     },
+     "relevancia": 30,
+     "orcidVistoEm": "2026-11-18T01:22:56.425Z"
+    },
+    {
+     "id": "A5085740988",
+     "nome": "Viviane Tiemi Hotta",
+     "orcid": "0000-0002-9236-3815",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Cardiomyopathy and Myosin Studies",
+      "Viral Infections and Immunology Research",
+      "Cardiac Imaging and Diagnostics"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Endomyocardial fibrosis in adults: multimodality imaging phenotype and independent predictors of mortality",
+      "ano": 2026,
+      "url": "https://doi.org/10.63807/j.ijcard.2026.137641",
+      "quantico": false
+     },
+     "relevancia": 30,
+     "orcidVistoEm": "2026-11-18T01:22:56.737Z"
+    },
+    {
+     "id": "A5050496089",
+     "nome": "Alípio Gomes Ormond Filho",
+     "orcid": "0000-0002-6458-3642",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Scoliosis diagnosis and treatment",
+      "Spine and Intervertebral Disc Pathology",
+      "Osteomyelitis and Bone Disorders Research"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Whole-Body MRI of Inflammatory and Infectious Musculoskeletal Diseases: Emphasis on Chronic Nonbacterial Osteomyelitis and Systemic Inflammatory Disorders",
+      "ano": 2026,
+      "url": "https://doi.org/10.1097/rct.0000000000001932",
+      "quantico": false
+     },
+     "relevancia": 30,
+     "orcidVistoEm": "2026-11-18T01:22:57.036Z"
+    },
+    {
+     "id": "A5005592677",
+     "nome": "ADSB Perazzio",
+     "orcid": "0000-0001-8546-7117",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Cancer Genomics and Diagnostics",
+      "Acute Myeloid Leukemia Research",
+      "Myeloproliferative Neoplasms: Diagnosis and Treatment"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "AVALIAÇÃO DO PERFIL MUTACIONAL DO GENE DDX41 NA ROTINA DIAGNÓSTICA DE LABORATÓRIO DE ANÁLISES GENÔMICAS",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.htct.2026.107948",
+      "quantico": false
+     },
+     "relevancia": 30,
+     "orcidVistoEm": "2026-11-18T01:22:57.340Z"
+    },
+    {
+     "id": "A5159164864",
+     "nome": "Ana Gabrielly Lira DA SILVA",
+     "orcid": "",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "T-cell and B-cell Immunology",
+      "Acute Lymphoblastic Leukemia research",
+      "Lymphoma Diagnosis and Treatment"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "EXPANSÃO CLONAL DE LINFÓCITOS T CD8+ CITOTÓXICOS EM ADOLESCENTE COM FEBRE PERSISTENTE: UM DESAFIO DIAGNÓSTICO NO ESPECTRO ENTRE RESPOSTA IMUNE REACIONAL E LEUCEMIA DE LINFÓCITOS GRANDES GRANULARES",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.htct.2026.107421",
+      "quantico": false
+     },
+     "relevancia": 30
+    },
+    {
+     "id": "A5055184520",
+     "nome": "Valdemir Melechco Carvalho",
+     "orcid": "0000-0002-9816-8615",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Amyloidosis: Diagnosis, Treatment, Outcomes",
+      "Renal Diseases and Glomerulopathies",
+      "Pluripotent Stem Cells Research"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Proteomic Profiling Reveals Complement Activation and Extracellular Matrix Remodeling in Renal Amyloidosis",
+      "ano": 2026,
+      "url": "https://doi.org/10.1681/asn.20267beqdxkn",
+      "quantico": false
+     },
+     "relevancia": 30,
+     "cargo": "Senior Scientific Consultant, R&D",
+     "orcidVistoEm": "2026-11-18T01:22:57.655Z"
+    },
+    {
+     "id": "A5040693049",
+     "nome": "Paola Cappellano",
+     "orcid": "0000-0001-5984-2120",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Antifungal resistance and susceptibility",
+      "Fungal Infections and Studies",
+      "Bacterial Identification and Susceptibility Testing"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Blood culture bottle shortage and diagnostic yield: A 5-year interrupted time-series analysis",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.mimet.2026.107626",
+      "quantico": false
+     },
+     "relevancia": 30,
+     "cargo": "Médica",
+     "orcidVistoEm": "2026-11-18T01:22:57.963Z"
+    },
+    {
+     "id": "A5050093901",
+     "nome": "E.Q. Barreto",
+     "orcid": "",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Spinal Dysraphism and Malformations",
+      "Congenital Anomalies and Fetal Surgery",
+      "Fetal and Pediatric Neurological Disorders"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "EP09.43: Myelomeningocele fetal surgery by mini‐hysterotomy at a maternity school in São Paulo: case series and obstetric, maternal‐fetal and neonatal outcomes",
+      "ano": 2026,
+      "url": "https://doi.org/10.1002/uog.70305_748",
+      "quantico": false
+     },
+     "relevancia": 30
+    }
+   ]
+  },
+  "ref-hapvida-notredame-intermedica": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:22:58.517Z",
+   "pessoas": []
+  },
+  "ref-hospital-moinhos-de-vento": {
+   "instituicao": {
+    "id": "I4210085984",
+    "nome": "Hospital Moinhos de Vento",
+    "tipo": "healthcare",
+    "trabalhos": 3101
+   },
+   "buscadoEm": "2026-11-18T01:22:58.762Z",
+   "pessoas": [
+    {
+     "id": "A5001746590",
+     "nome": "Jonas Michel Wolf",
+     "orcid": "0000-0001-7577-464X",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Respiratory viral infections research",
+      "Influenza Virus Research Studies",
+      "Machine Learning in Healthcare"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Temporal Patterns and Distribution of Laboratory-Confirmed Respiratory Pathogen Detections in a Tertiary Hospital in Southern Brazil (2023–2026)",
+      "ano": 2026,
+      "url": "https://doi.org/10.3390/idr18060130",
+      "quantico": false
+     },
+     "relevancia": 42,
+     "cargo": "Professor of undergraduate courses in Biomedicine, Medicine, Nursing and MBA in Health Management., Faculdade de Ciências da Saúde Moinhos de Vento",
+     "orcidVistoEm": "2026-11-18T01:23:20.281Z"
+    },
+    {
+     "id": "A5087038117",
+     "nome": "Leonardo Augusto Carbonera",
+     "orcid": "0000-0002-9313-7967",
+     "trabalhos": 7,
+     "ultimoAno": 2026,
+     "temas": [
+      "Acute Ischemic Stroke Management",
+      "Telemedicine and Telehealth Implementation",
+      "Blood Pressure and Hypertension Studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Intensive Blood-Pressure Control in Patients with Previous Ischemic Stroke",
+      "ano": 2026,
+      "url": "https://doi.org/10.1056/nejmoa2612924",
+      "quantico": false
+     },
+     "relevancia": 39,
+     "cargo": "Neurologist, Neurology and Neurosurgery",
+     "orcidVistoEm": "2026-11-18T01:23:20.588Z"
+    },
+    {
+     "id": "A5017574801",
+     "nome": "Eduardo Rigon Zimmer",
+     "orcid": "0000-0002-5349-0053",
+     "trabalhos": 7,
+     "ultimoAno": 2026,
+     "temas": [
+      "Dementia and Cognitive Impairment Research",
+      "Alzheimer's disease research and treatments",
+      "Mental Health Treatment and Access"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Prevalence and Profile of Undiagnosed Dementia in Brazil: A 5-Year Nationally Representative Analysis From the ELSI-Brazil",
+      "ano": 2026,
+      "url": "https://doi.org/10.1212/wnl.0000000000218735",
+      "quantico": false
+     },
+     "relevancia": 39,
+     "cargo": "Head, Neuroscience Unit",
+     "orcidVistoEm": "2026-11-18T01:23:20.903Z"
+    },
+    {
+     "id": "A5066324526",
+     "nome": "Régis Goulart Rosa",
+     "orcid": "0000-0001-7881-9866",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Emergency and Acute Care Studies",
+      "Healthcare Operations and Scheduling Optimization",
+      "Telemedicine and Telehealth Implementation"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Strategic solutions for the daily challenges of qualified intensive care unit beds and team shortages in hospitals",
+      "ano": 2026,
+      "url": "https://doi.org/10.62675/2965-2774.20260091",
+      "quantico": false
+     },
+     "relevancia": 39,
+     "cargo": "Intensivist",
+     "orcidVistoEm": "2026-11-18T01:23:21.276Z"
+    },
+    {
+     "id": "A5111187057",
+     "nome": "Daniela D. Rosa",
+     "orcid": "0000-0002-6196-1919",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Breast Cancer Treatment Studies",
+      "BRCA gene mutations in cancer",
+      "Cancer Immunotherapy and Biomarkers"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Interpretable machine learning models for oncotypedDX® prediction using clinicopathologic data: a brazilian cohort study",
+      "ano": 2026,
+      "url": "https://doi.org/10.1038/s41523-026-01065-1",
+      "quantico": false
+     },
+     "relevancia": 39,
+     "orcidVistoEm": "2026-11-18T01:23:21.626Z"
+    },
+    {
+     "id": "A5083969153",
+     "nome": "André Zimerman",
+     "orcid": "0000-0001-8977-6929",
+     "trabalhos": 6,
+     "ultimoAno": 2026,
+     "temas": [
+      "Lipoproteins and Cardiovascular Health",
+      "Lipid metabolism and disorders",
+      "Antiplatelet Therapy and Cardiovascular Diseases"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Abstract 18011: Implementation of Current Dyslipidemia Guidelines in Atherothrombotic Disease: A Nationwide Simulation Based on the NEAT Registry",
+      "ano": 2026,
+      "url": "https://doi.org/10.1161/circ.154.suppl_1.18011",
+      "quantico": false
+     },
+     "relevancia": 36,
+     "cargo": "Director, MOVE Academic Research Organization",
+     "orcidVistoEm": "2026-11-18T01:23:21.944Z"
+    },
+    {
+     "id": "A5043193466",
+     "nome": "Cassiano Teixeira",
+     "orcid": "0000-0002-7651-3799",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Emergency and Acute Care Studies",
+      "Healthcare Operations and Scheduling Optimization",
+      "Healthcare professionals’ stress and burnout"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Strategic solutions for the daily challenges of qualified intensive care unit beds and team shortages in hospitals",
+      "ano": 2026,
+      "url": "https://doi.org/10.62675/2965-2774.20260091",
+      "quantico": false
+     },
+     "relevancia": 36,
+     "orcidVistoEm": "2026-11-18T01:23:22.248Z"
+    },
+    {
+     "id": "A5057323280",
+     "nome": "Arthur Felipe Feuchard Linhares Ceraso",
+     "orcid": "0009-0004-8863-6747",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Emergency and Acute Care Studies",
+      "Healthcare Operations and Scheduling Optimization"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "The epidemiology of emergency department crowding and boarding in Brazil: a nationwide multicenter study",
+      "ano": 2026,
+      "url": "https://doi.org/10.21203/rs.3.rs-11164824/v1",
+      "quantico": false
+     },
+     "relevancia": 36,
+     "cargo": "Consultor Técnico , PROADI ",
+     "orcidVistoEm": "2026-11-18T01:23:22.567Z"
+    },
+    {
+     "id": "A5113272161",
+     "nome": "Marcelo Kern",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Emergency and Acute Care Studies",
+      "Healthcare Operations and Scheduling Optimization"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Strategic solutions for the daily challenges of qualified intensive care unit beds and team shortages in hospitals",
+      "ano": 2026,
+      "url": "https://doi.org/10.62675/2965-2774.20260091",
+      "quantico": false
+     },
+     "relevancia": 33
+    },
+    {
+     "id": "A5159995384",
+     "nome": "Cláudio da Silva Zachia Alan",
+     "orcid": "0000-0003-0352-8882",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Emergency and Acute Care Studies",
+      "Healthcare Operations and Scheduling Optimization"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Strategic solutions for the daily challenges of qualified intensive care unit beds and team shortages in hospitals",
+      "ano": 2026,
+      "url": "https://doi.org/10.62675/2965-2774.20260091",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "orcidVistoEm": "2026-11-18T01:23:22.865Z"
+    },
+    {
+     "id": "A5086657414",
+     "nome": "Mario Machado Lopes",
+     "orcid": "0009-0003-1514-3629",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Breast Cancer Treatment Studies",
+      "BRCA gene mutations in cancer"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Interpretable machine learning models for oncotypedDX® prediction using clinicopathologic data: a brazilian cohort study",
+      "ano": 2026,
+      "url": "https://doi.org/10.1038/s41523-026-01065-1",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "cargo": "",
+     "orcidVistoEm": "2026-11-18T01:23:23.176Z"
+    },
+    {
+     "id": "A5030311856",
+     "nome": "Arthur Pille",
+     "orcid": "0009-0007-6274-2420",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Machine Learning in Healthcare",
+      "Artificial Intelligence in Healthcare"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Improving patient triage classification in the emergency department using natural language processing and machine learning algorithms: a retrospective cohort study",
+      "ano": 2026,
+      "url": "https://doi.org/10.1186/s12913-026-15912-1",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "orcidVistoEm": "2026-11-18T01:23:23.489Z"
+    },
+    {
+     "id": "A5159395672",
+     "nome": "Paulo Sergio Kroeff Schmitz",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Machine Learning in Healthcare",
+      "Artificial Intelligence in Healthcare"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Improving patient triage classification in the emergency department using natural language processing and machine learning algorithms: a retrospective cohort study",
+      "ano": 2026,
+      "url": "https://doi.org/10.1186/s12913-026-15912-1",
+      "quantico": false
+     },
+     "relevancia": 33
+    },
+    {
+     "id": "A5108747197",
+     "nome": "Eduarda Bordini Ferro",
+     "orcid": "0000-0002-2624-2564",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Emergency and Acute Care Studies",
+      "Healthcare Operations and Scheduling Optimization"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "The epidemiology of emergency department crowding and boarding in Brazil: a nationwide multicenter study",
+      "ano": 2026,
+      "url": "https://doi.org/10.21203/rs.3.rs-11164824/v1",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "orcidVistoEm": "2026-11-18T01:23:23.785Z"
+    },
+    {
+     "id": "A5064338263",
+     "nome": "Marcelo Antonio Donizetti Martinho",
+     "orcid": "0000-0001-8790-1183",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Emergency and Acute Care Studies",
+      "Healthcare Operations and Scheduling Optimization"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "The epidemiology of emergency department crowding and boarding in Brazil: a nationwide multicenter study",
+      "ano": 2026,
+      "url": "https://doi.org/10.21203/rs.3.rs-11164824/v1",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "orcidVistoEm": "2026-11-18T01:23:24.081Z"
+    }
+   ]
+  },
+  "ref-bp-a-beneficencia-portuguesa-de-sao-paul": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:23:24.687Z",
+   "pessoas": []
+  },
+  "ref-hcor": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:23:24.886Z",
+   "pessoas": []
+  },
+  "ref-sabin-diagnostico-e-saude": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:23:25.162Z",
+   "pessoas": []
+  },
+  "ref-hypera-pharma": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:23:25.374Z",
+   "pessoas": []
+  },
+  "ref-libbs": {
+   "instituicao": {
+    "id": "I4210154588",
+    "nome": "Libbs (Brazil)",
+    "tipo": "company",
+    "trabalhos": 55
+   },
+   "buscadoEm": "2026-11-18T01:23:25.581Z",
+   "pessoas": [
+    {
+     "id": "A5042797902",
+     "nome": "Vivienne Carduz Castilho",
+     "orcid": "0000-0003-0784-6642",
+     "trabalhos": 21,
+     "ultimoAno": 2025,
+     "temas": [
+      "Biosimilars and Bioanalytical Methods",
+      "HER2/EGFR in Cancer Research",
+      "Lymphoma Diagnosis and Treatment"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "62359 Clinical evaluation of the impact of a skincare soap on clinical signs and skin microbiota modulation in pediatric patients with atopic dermatitis",
+      "ano": 2025,
+      "url": "https://doi.org/10.1016/j.jaad.2025.05.593",
+      "quantico": false
+     },
+     "relevancia": 44,
+     "cargo": "Gerente Ciências Médicas, Médico",
+     "orcidVistoEm": "2026-11-18T01:23:30.557Z"
+    },
+    {
+     "id": "A5053129190",
+     "nome": "Maura Gonzaga Lapa",
+     "orcid": "0000-0003-3940-5278",
+     "trabalhos": 9,
+     "ultimoAno": 2025,
+     "temas": [
+      "Biosimilars and Bioanalytical Methods",
+      "Blood Pressure and Hypertension Studies",
+      "Menstrual Health and Disorders"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "62359 Clinical evaluation of the impact of a skincare soap on clinical signs and skin microbiota modulation in pediatric patients with atopic dermatitis",
+      "ano": 2025,
+      "url": "https://doi.org/10.1016/j.jaad.2025.05.593",
+      "quantico": false
+     },
+     "relevancia": 41,
+     "cargo": "Biostatisitcian, Clinical Research",
+     "orcidVistoEm": "2026-11-18T01:23:30.875Z"
+    },
+    {
+     "id": "A5035087173",
+     "nome": "Lara Lopes Facó",
+     "orcid": "",
+     "trabalhos": 7,
+     "ultimoAno": 2025,
+     "temas": [
+      "Cardiovascular Health and Risk Factors",
+      "Biosimilars and Bioanalytical Methods",
+      "Blood Pressure and Hypertension Studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Abstract FR439: Discrepancies Between Office and Home Blood Pressure Measurement: Insights from a Prospective, Real World-Evidence Study in Cardiovascular Practices in Brazil",
+      "ano": 2025,
+      "url": "https://doi.org/10.1161/hyp.82.suppl_1.fr439",
+      "quantico": false
+     },
+     "relevancia": 35
+    },
+    {
+     "id": "A5005326550",
+     "nome": "Ana Carolina Ferreira Cardoso",
+     "orcid": "0000-0002-9612-2285",
+     "trabalhos": 7,
+     "ultimoAno": 2024,
+     "temas": [
+      "Biosimilars and Bioanalytical Methods",
+      "HER2/EGFR in Cancer Research",
+      "Lymphoma Diagnosis and Treatment"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Real-World Study of Adjuvant Biosimilar Trastuzumab-dkst for HER2-Positive Breast Cancer Treatment in a Brazilian Population",
+      "ano": 2024,
+      "url": "https://doi.org/10.1007/s40487-024-00284-5",
+      "quantico": false
+     },
+     "relevancia": 31,
+     "orcidVistoEm": "2026-11-18T01:23:31.185Z"
+    },
+    {
+     "id": "A5053195291",
+     "nome": "Érida Magaton",
+     "orcid": "0000-0001-7256-2828",
+     "trabalhos": 5,
+     "ultimoAno": 2025,
+     "temas": [
+      "HER2/EGFR in Cancer Research",
+      "Biosimilars and Bioanalytical Methods",
+      "Blood Pressure and Hypertension Studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Efficacy and Safety of a Novel Triple Single-Pill for Uncontrolled Hypertension",
+      "ano": 2025,
+      "url": "https://doi.org/10.1016/j.jacadv.2025.102175",
+      "quantico": false
+     },
+     "relevancia": 29
+    },
+    {
+     "id": "A5159699725",
+     "nome": "E Magaton",
+     "orcid": "",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Blood Pressure and Hypertension Studies",
+      "Sodium Intake and Health",
+      "Cardiovascular Health and Disease Prevention"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Sex differences in response to triple single-pill combinations for hypertension: a secondary analysis of the OPTION TREAT Trial",
+      "ano": 2026,
+      "url": "https://doi.org/10.1093/eurheartj/ehag785.3051",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5159657015",
+     "nome": "P Bonilha",
+     "orcid": "",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Blood Pressure and Hypertension Studies",
+      "Sodium Intake and Health",
+      "Cardiovascular Health and Disease Prevention"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Sex differences in response to triple single-pill combinations for hypertension: a secondary analysis of the OPTION TREAT Trial",
+      "ano": 2026,
+      "url": "https://doi.org/10.1093/eurheartj/ehag785.3051",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5069666849",
+     "nome": "Juliana Dinéia Perez",
+     "orcid": "0000-0003-2482-1412",
+     "trabalhos": 4,
+     "ultimoAno": 2025,
+     "temas": [
+      "Menstrual Health and Disorders",
+      "Endometriosis Research and Treatment",
+      "Menopause: Health Impacts and Treatments"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Premenstrual Dysphoric Disorder Prevalence and Symptoms Across Age Groups: A Cross‐Sectional Study",
+      "ano": 2025,
+      "url": "https://doi.org/10.1111/1471-0528.18261",
+      "quantico": false
+     },
+     "relevancia": 26
+    },
+    {
+     "id": "A5159642823",
+     "nome": "A Theodoro de Figueiredo",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Blood Pressure and Hypertension Studies",
+      "Sodium Intake and Health"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Sex differences in response to triple single-pill combinations for hypertension: a secondary analysis of the OPTION TREAT Trial",
+      "ano": 2026,
+      "url": "https://doi.org/10.1093/eurheartj/ehag785.3051",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5159657240",
+     "nome": "M Soares de Almeida",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Blood Pressure and Hypertension Studies",
+      "Sodium Intake and Health"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Sex differences in response to triple single-pill combinations for hypertension: a secondary analysis of the OPTION TREAT Trial",
+      "ano": 2026,
+      "url": "https://doi.org/10.1093/eurheartj/ehag785.3051",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5111842217",
+     "nome": "Maria de Fatima Magalhaes Gonzaga",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Blood Pressure and Hypertension Studies",
+      "Sodium Intake and Health"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Sex differences in response to triple single-pill combinations for hypertension: a secondary analysis of the OPTION TREAT Trial",
+      "ano": 2026,
+      "url": "https://doi.org/10.1093/eurheartj/ehag785.3051",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5159588122",
+     "nome": "A Petrolini Mateus",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Blood Pressure and Hypertension Studies",
+      "Sodium Intake and Health"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Sex differences in response to triple single-pill combinations for hypertension: a secondary analysis of the OPTION TREAT Trial",
+      "ano": 2026,
+      "url": "https://doi.org/10.1093/eurheartj/ehag785.3051",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5159641983",
+     "nome": "E Regina Sousa",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Blood Pressure and Hypertension Studies",
+      "Sodium Intake and Health"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Racial differences on treatment response to triple single-pill combinations for hypertension: a secondary analysis of the OPTION TREAT Trial",
+      "ano": 2026,
+      "url": "https://doi.org/10.1093/eurheartj/ehag785.3052",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5159718989",
+     "nome": "L Januse de Arruda Cordeiro Matos",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Blood Pressure and Hypertension Studies",
+      "Sodium Intake and Health"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Racial differences on treatment response to triple single-pill combinations for hypertension: a secondary analysis of the OPTION TREAT Trial",
+      "ano": 2026,
+      "url": "https://doi.org/10.1093/eurheartj/ehag785.3052",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5159716726",
+     "nome": "M Gonzaga",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Blood Pressure and Hypertension Studies",
+      "Sodium Intake and Health"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Racial differences on treatment response to triple single-pill combinations for hypertension: a secondary analysis of the OPTION TREAT Trial",
+      "ano": 2026,
+      "url": "https://doi.org/10.1093/eurheartj/ehag785.3052",
+      "quantico": false
+     },
+     "relevancia": 21
+    }
+   ]
+  },
+  "ref-cristalia": {
+   "instituicao": {
+    "id": "I4210152748",
+    "nome": "Cristalia (Brazil)",
+    "tipo": "company",
+    "trabalhos": 31
+   },
+   "buscadoEm": "2026-11-18T01:23:31.688Z",
+   "pessoas": [
+    {
+     "id": "A5029493233",
+     "nome": "Isabella Fernanda Dantas Pinto",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Analytical Methods in Pharmaceuticals",
+      "Healthcare Regulation"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "FRAMEWORK FOR EXTRACTABLE AND LEACHABLE STUDIES IN DRUG PRODUCT DEVELOPMENT: A CASE STUDY",
+      "ano": 2026,
+      "url": "https://doi.org/10.1590/s2175-97902026e24861",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5060636032",
+     "nome": "Daniele Oshita",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Analytical Methods in Pharmaceuticals",
+      "Healthcare Regulation"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "FRAMEWORK FOR EXTRACTABLE AND LEACHABLE STUDIES IN DRUG PRODUCT DEVELOPMENT: A CASE STUDY",
+      "ano": 2026,
+      "url": "https://doi.org/10.1590/s2175-97902026e24861",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5123016655",
+     "nome": "Carina Alexandra Rodrigues dos Reis",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Analytical Methods in Pharmaceuticals",
+      "Healthcare Regulation"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "FRAMEWORK FOR EXTRACTABLE AND LEACHABLE STUDIES IN DRUG PRODUCT DEVELOPMENT: A CASE STUDY",
+      "ano": 2026,
+      "url": "https://doi.org/10.1590/s2175-97902026e24861",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5077003971",
+     "nome": "Alexandre Fernandes Pinto",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Analytical Methods in Pharmaceuticals",
+      "Healthcare Regulation"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "FRAMEWORK FOR EXTRACTABLE AND LEACHABLE STUDIES IN DRUG PRODUCT DEVELOPMENT: A CASE STUDY",
+      "ano": 2026,
+      "url": "https://doi.org/10.1590/s2175-97902026e24861",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5077210224",
+     "nome": "Vanderson S. Bispo",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Analytical Methods in Pharmaceuticals",
+      "Healthcare Regulation"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "FRAMEWORK FOR EXTRACTABLE AND LEACHABLE STUDIES IN DRUG PRODUCT DEVELOPMENT: A CASE STUDY",
+      "ano": 2026,
+      "url": "https://doi.org/10.1590/s2175-97902026e24861",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5015479693",
+     "nome": "Aline Hunger",
+     "orcid": "0000-0001-7615-2391",
+     "trabalhos": 4,
+     "ultimoAno": 2022,
+     "temas": [
+      "Virus-based gene therapy research",
+      "Immunotherapy and Immune Responses",
+      "MicroRNA in disease regulation"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Potentiation of combined p19Arf and interferon-beta cancer gene therapy through its association with doxorubicin chemotherapy",
+      "ano": 2022,
+      "url": "https://doi.org/10.1038/s41598-022-17775-y",
+      "quantico": false
+     },
+     "relevancia": 14
+    },
+    {
+     "id": "A5088384125",
+     "nome": "Malabika Banerjee",
+     "orcid": "0000-0002-3921-4781",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Crystal structures of chemical compounds",
+      "Bacterial biofilms and quorum sensing"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Unraveling Multicopper [Cu3] and [Cu6] Clusters with Rare μ3-Sulfato and Linear μ2-Oxido-Bridges as Potent Antibiofilm Agents against Multidrug-Resistant Staphylococcus aureus",
+      "ano": 2024,
+      "url": "https://doi.org/10.1021/acsabm.4c00075",
+      "quantico": false
+     },
+     "relevancia": 13
+    },
+    {
+     "id": "A5085930313",
+     "nome": "Marcelo Secatto",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Analytical Methods in Pharmaceuticals",
+      "Pharmaceutical Quality and Counterfeiting"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Risk Assessment Study of Nitrosamines for the API Temozolomide Industrial Process",
+      "ano": 2024,
+      "url": "https://doi.org/10.1021/acs.oprd.3c00487",
+      "quantico": false
+     },
+     "relevancia": 13
+    },
+    {
+     "id": "A5016750781",
+     "nome": "Murilo Massoni",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Analytical Methods in Pharmaceuticals",
+      "Pharmaceutical Quality and Counterfeiting"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Risk Assessment Study of Nitrosamines for the API Temozolomide Industrial Process",
+      "ano": 2024,
+      "url": "https://doi.org/10.1021/acs.oprd.3c00487",
+      "quantico": false
+     },
+     "relevancia": 13
+    },
+    {
+     "id": "A5002195173",
+     "nome": "Vincenzo De Sio",
+     "orcid": "0009-0001-1609-4684",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Analytical Methods in Pharmaceuticals",
+      "Pharmaceutical Quality and Counterfeiting"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Risk Assessment Study of Nitrosamines for the API Temozolomide Industrial Process",
+      "ano": 2024,
+      "url": "https://doi.org/10.1021/acs.oprd.3c00487",
+      "quantico": false
+     },
+     "relevancia": 13
+    },
+    {
+     "id": "A5043938372",
+     "nome": "Debora Garcia Rodrigues",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2021,
+     "temas": [
+      "Pain Management and Opioid Use",
+      "Opioid Use Disorder Treatment",
+      "Biosimilars and Bioanalytical Methods"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Use of methadone as an alternative to morphine for chronic pain management: a noninferiority retrospective observational study",
+      "ano": 2021,
+      "url": "https://doi.org/10.1097/pr9.0000000000000979",
+      "quantico": false
+     },
+     "relevancia": 6
+    },
+    {
+     "id": "A5113784419",
+     "nome": "Jorge Barros Afiune",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2021,
+     "temas": [
+      "Pain Management and Opioid Use",
+      "Opioid Use Disorder Treatment",
+      "Biosimilars and Bioanalytical Methods"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Use of methadone as an alternative to morphine for chronic pain management: a noninferiority retrospective observational study",
+      "ano": 2021,
+      "url": "https://doi.org/10.1097/pr9.0000000000000979",
+      "quantico": false
+     },
+     "relevancia": 6
+    },
+    {
+     "id": "A5048101721",
+     "nome": "G.E. Wassermann",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2020,
+     "temas": [
+      "Biosimilars and Bioanalytical Methods",
+      "Growth Hormone and Insulin-like Growth Factors"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Switching from originator recombinant growth hormone (Genotropin™) to biosimilar (CRISCY™): Results from a 6-month, multicentric, non-inferiority, extension trial.",
+      "ano": 2020,
+      "url": "https://doi.org/10.1016/j.ghir.2020.101372",
+      "quantico": false
+     },
+     "relevancia": 3
+    },
+    {
+     "id": "A5010493460",
+     "nome": "Marcos C. Alegria",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2020,
+     "temas": [
+      "Biosimilars and Bioanalytical Methods",
+      "Growth Hormone and Insulin-like Growth Factors"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Switching from originator recombinant growth hormone (Genotropin™) to biosimilar (CRISCY™): Results from a 6-month, multicentric, non-inferiority, extension trial.",
+      "ano": 2020,
+      "url": "https://doi.org/10.1016/j.ghir.2020.101372",
+      "quantico": false
+     },
+     "relevancia": 3
+    },
+    {
+     "id": "A5048111759",
+     "nome": "Odaly Toffoletto",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2020,
+     "temas": [
+      "Biosimilars and Bioanalytical Methods",
+      "Growth Hormone and Insulin-like Growth Factors"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Switching from originator recombinant growth hormone (Genotropin™) to biosimilar (CRISCY™): Results from a 6-month, multicentric, non-inferiority, extension trial.",
+      "ano": 2020,
+      "url": "https://doi.org/10.1016/j.ghir.2020.101372",
+      "quantico": false
+     },
+     "relevancia": 3
+    }
+   ]
+  },
+  "ref-biomm": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:23:33.757Z",
+   "pessoas": []
+  },
+  "ref-uniao-quimica": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:23:33.992Z",
+   "pessoas": []
+  },
+  "ref-blau-farmaceutica": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:23:34.278Z",
+   "pessoas": []
+  },
+  "ref-jbs": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:23:34.485Z",
+   "pessoas": []
+  },
+  "ref-brf": {
+   "instituicao": {
+    "id": "I3111280877",
+    "nome": "Brf (Brazil)",
+    "tipo": "company",
+    "trabalhos": 74
+   },
+   "buscadoEm": "2026-11-18T01:23:35.079Z",
+   "pessoas": [
+    {
+     "id": "A5059896943",
+     "nome": "Cristiano Trindade De Angelis",
+     "orcid": "0000-0002-8025-7871",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "LGBTQ Health, Identity, and Policy",
+      "HIV/AIDS Research and Interventions",
+      "Environmental and sustainability education"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "The Impact of harm on illnesses acquired by homosexuals: A Case Study in Río de Janeiro, Brazil",
+      "ano": 2026,
+      "url": "https://doi.org/10.67735/scms.2026.03-0182",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5111430012",
+     "nome": "Elisandro Rafael Dias",
+     "orcid": "0009-0003-2776-2224",
+     "trabalhos": 1,
+     "ultimoAno": 2025,
+     "temas": [
+      "Animal Behavior and Welfare Studies",
+      "Animal Nutrition and Physiology"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Environmental enrichment using low walls and perches improves broiler welfare, without compromising productivity",
+      "ano": 2025,
+      "url": "https://doi.org/10.17268/sci.agropecu.2025.015",
+      "quantico": false
+     },
+     "relevancia": 17
+    },
+    {
+     "id": "A5002211591",
+     "nome": "Bruna Neves Pereira da Silva",
+     "orcid": "0000-0001-8582-7282",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Seed Germination and Physiology",
+      "Sunflower and Safflower Cultivation"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Safflower seeds development: physical changes and the role of gibberellic acid, light, and temperature",
+      "ano": 2024,
+      "url": "https://doi.org/10.1590/1678-992x-2023-0162",
+      "quantico": false
+     },
+     "relevancia": 13
+    },
+    {
+     "id": "A5013610078",
+     "nome": "Franco Maria Lajolo",
+     "orcid": "0000-0003-3958-5934",
+     "trabalhos": 2,
+     "ultimoAno": 2023,
+     "temas": [
+      "Innovation in Digital Healthcare Systems",
+      "Dietetics, Nutrition, and Education",
+      "Food Nutrient Composition and Product Development"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "NutriPersona: Conception of a computational tool for elaboration of personalized menu from a Brazilian food composition database",
+      "ano": 2023,
+      "url": "https://doi.org/10.1016/j.jfca.2023.105582",
+      "quantico": false
+     },
+     "relevancia": 12
+    },
+    {
+     "id": "A5023653354",
+     "nome": "Thaís Carla Dal Bello",
+     "orcid": "0000-0003-4326-5140",
+     "trabalhos": 1,
+     "ultimoAno": 2023,
+     "temas": [
+      "Essential Oils and Antimicrobial Activity",
+      "Antimicrobial agents and applications"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Antibacterial activity of the essential oil of Thymus vulgaris and thymol in the control of Curtobacterium flaccumfaciens",
+      "ano": 2023,
+      "url": "https://doi.org/10.55905/oelv21n12-242",
+      "quantico": false
+     },
+     "relevancia": 9
+    },
+    {
+     "id": "A5048155283",
+     "nome": "Tiago da Silva Tibolla",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2023,
+     "temas": [
+      "Essential Oils and Antimicrobial Activity",
+      "Antimicrobial agents and applications"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Antibacterial activity of the essential oil of Thymus vulgaris and thymol in the control of Curtobacterium flaccumfaciens",
+      "ano": 2023,
+      "url": "https://doi.org/10.55905/oelv21n12-242",
+      "quantico": false
+     },
+     "relevancia": 9
+    },
+    {
+     "id": "A5113084942",
+     "nome": "Gabriela Cristina Zucchi Da Rosa",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2023,
+     "temas": [
+      "Essential Oils and Antimicrobial Activity",
+      "Antimicrobial agents and applications"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Antibacterial activity of the essential oil of Thymus vulgaris and thymol in the control of Curtobacterium flaccumfaciens",
+      "ano": 2023,
+      "url": "https://doi.org/10.55905/oelv21n12-242",
+      "quantico": false
+     },
+     "relevancia": 9
+    },
+    {
+     "id": "A5081066828",
+     "nome": "Jhônatan Sperandio",
+     "orcid": "0000-0003-2358-7425",
+     "trabalhos": 1,
+     "ultimoAno": 2023,
+     "temas": [
+      "Essential Oils and Antimicrobial Activity",
+      "Antimicrobial agents and applications"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Antibacterial activity of the essential oil of Thymus vulgaris and thymol in the control of Curtobacterium flaccumfaciens",
+      "ano": 2023,
+      "url": "https://doi.org/10.55905/oelv21n12-242",
+      "quantico": false
+     },
+     "relevancia": 9
+    },
+    {
+     "id": "A5081754514",
+     "nome": "Alessandra Farias Millezi",
+     "orcid": "0000-0003-1485-1773",
+     "trabalhos": 1,
+     "ultimoAno": 2023,
+     "temas": [
+      "Essential Oils and Antimicrobial Activity",
+      "Antimicrobial agents and applications"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Antibacterial activity of the essential oil of Thymus vulgaris and thymol in the control of Curtobacterium flaccumfaciens",
+      "ano": 2023,
+      "url": "https://doi.org/10.55905/oelv21n12-242",
+      "quantico": false
+     },
+     "relevancia": 9
+    },
+    {
+     "id": "A5022694747",
+     "nome": "Sandra Heidtmann",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2023,
+     "temas": [
+      "Listeria monocytogenes in Food Safety",
+      "Probiotics and Fermented Foods"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Prior freezing impact on the growth kinetics of Listeria monocytogenes in hot dog sausages",
+      "ano": 2023,
+      "url": "https://doi.org/10.1016/j.foodcont.2023.110186",
+      "quantico": false
+     },
+     "relevancia": 9
+    },
+    {
+     "id": "A5048393328",
+     "nome": "Daniela T. Mengarda Buosi",
+     "orcid": "0000-0003-4612-8483",
+     "trabalhos": 1,
+     "ultimoAno": 2023,
+     "temas": [
+      "Listeria monocytogenes in Food Safety",
+      "Probiotics and Fermented Foods"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Prior freezing impact on the growth kinetics of Listeria monocytogenes in hot dog sausages",
+      "ano": 2023,
+      "url": "https://doi.org/10.1016/j.foodcont.2023.110186",
+      "quantico": false
+     },
+     "relevancia": 9
+    },
+    {
+     "id": "A5043301931",
+     "nome": "Carlos Júnior Kippert",
+     "orcid": "0000-0003-4888-491X",
+     "trabalhos": 1,
+     "ultimoAno": 2023,
+     "temas": [
+      "Animal Nutrition and Physiology",
+      "Animal health and immunology"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "PSIV-19 Understanding Intestinal Health in Nursery Pigs Through Potential Non-Invasive Biomarkers",
+      "ano": 2023,
+      "url": "https://doi.org/10.1093/jas/skad341.357",
+      "quantico": false
+     },
+     "relevancia": 9
+    },
+    {
+     "id": "A5092642416",
+     "nome": "Diego Bernard Wanderlindem Brasileiro",
+     "orcid": "0009-0003-3962-5729",
+     "trabalhos": 1,
+     "ultimoAno": 2023,
+     "temas": [
+      "Occupational Health and Burnout",
+      "Healthcare professionals’ stress and burnout"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "QUALIDADE DE VIDA E SÍNDROME DE BURNOUT NOS PROFISSIONAIS DE SAÚDE DA ATENÇÃO BÁSICA DE SERRA TALHADA - PE",
+      "ano": 2023,
+      "url": "https://doi.org/10.54751/revistafoco.v16n8-079",
+      "quantico": false
+     },
+     "relevancia": 9
+    },
+    {
+     "id": "A5006910365",
+     "nome": "Eduardo Purgatto",
+     "orcid": "0000-0002-7372-1197",
+     "trabalhos": 1,
+     "ultimoAno": 2023,
+     "temas": [
+      "Innovation in Digital Healthcare Systems",
+      "Dietetics, Nutrition, and Education"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "NutriPersona: Conception of a computational tool for elaboration of personalized menu from a Brazilian food composition database",
+      "ano": 2023,
+      "url": "https://doi.org/10.1016/j.jfca.2023.105582",
+      "quantico": false
+     },
+     "relevancia": 9
+    },
+    {
+     "id": "A5057854377",
+     "nome": "Alexandre Ambrósio",
+     "orcid": "0000-0003-2914-2611",
+     "trabalhos": 1,
+     "ultimoAno": 2023,
+     "temas": [
+      "Animal Nutrition and Physiology",
+      "Aquaculture Nutrition and Growth"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Whole and ground sorghum replacing corn on the performance of carcass parts and relative weight of 28-day-old turkey offal",
+      "ano": 2023,
+      "url": "https://doi.org/10.1590/0103-8478cr20210466",
+      "quantico": false
+     },
+     "relevancia": 9
+    }
+   ]
+  },
+  "ref-cargill-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:23:56.845Z",
+   "pessoas": []
+  },
+  "ref-bunge-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:23:57.141Z",
+   "pessoas": []
+  },
+  "ref-amaggi": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:23:57.451Z",
+   "pessoas": []
+  },
+  "ref-slc-agricola": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:23:57.701Z",
+   "pessoas": []
+  },
+  "ref-corteva-agriscience-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:23:57.965Z",
+   "pessoas": []
+  },
+  "ref-jacto": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:23:58.170Z",
+   "pessoas": []
+  },
+  "ref-john-deere-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:23:58.404Z",
+   "pessoas": []
+  },
+  "ref-cnh-industrial-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:23:58.708Z",
+   "pessoas": []
+  },
+  "ref-solinftec": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:23:58.926Z",
+   "pessoas": []
+  },
+  "ref-cemaden": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:23:59.223Z",
+   "pessoas": []
+  },
+  "ref-instituto-tecnologico-vale-itv": {
+   "instituicao": {
+    "id": "I4210161302",
+    "nome": "Vale Technological Institute",
+    "tipo": "education",
+    "trabalhos": 2856
+   },
+   "buscadoEm": "2026-11-18T01:23:59.482Z",
+   "pessoas": [
+    {
+     "id": "A5029337220",
+     "nome": "Markus Gastauer",
+     "orcid": "0000-0002-9599-0902",
+     "trabalhos": 7,
+     "ultimoAno": 2026,
+     "temas": [
+      "Botany and Plant Ecology Studies",
+      "Plant Stress Responses and Tolerance",
+      "Fern and Epiphyte Biology"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Metabolic acclimation enables Dyckia rariflora (Bromeliaceae) to tolerate combined heat and drought stress",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.envexpbot.2026.106505",
+      "quantico": false
+     },
+     "relevancia": 39,
+     "orcidVistoEm": "2026-11-18T01:24:00.371Z"
+    },
+    {
+     "id": "A5030048706",
+     "nome": "Tereza Cristina Giannini",
+     "orcid": "0000-0001-9830-1204",
+     "trabalhos": 7,
+     "ultimoAno": 2026,
+     "temas": [
+      "Plant and animal studies",
+      "Species Distribution and Climate Change",
+      "Insect and Arachnid Ecology and Behavior"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Suitability maps: functional traits and climate vulnerability of Amazonian bees",
+      "ano": 2026,
+      "url": "https://doi.org/10.5281/zenodo.23935164",
+      "quantico": false
+     },
+     "relevancia": 39,
+     "cargo": "",
+     "orcidVistoEm": "2026-11-18T01:24:00.690Z"
+    },
+    {
+     "id": "A5052609445",
+     "nome": "Alexandre Luis Padovan Aleixo",
+     "orcid": "0000-0002-7816-9725",
+     "trabalhos": 6,
+     "ultimoAno": 2026,
+     "temas": [
+      "Genomics and Phylogenetic Studies",
+      "Environmental DNA in Biodiversity Studies",
+      "Subterranean biodiversity and taxonomy"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Active Filtration of Airborne eDNA for Vertebrate Surveys in Tropical Caves",
+      "ano": 2026,
+      "url": "https://doi.org/10.1111/1755-0998.70218",
+      "quantico": false
+     },
+     "relevancia": 36,
+     "email": "alexandre.aleixo@itv.org",
+     "cargo": "",
+     "orcidVistoEm": "2026-11-18T01:24:01.011Z"
+    },
+    {
+     "id": "A5082212068",
+     "nome": "Valéria da Cunha Tavares",
+     "orcid": "0000-0003-0966-0139",
+     "trabalhos": 6,
+     "ultimoAno": 2026,
+     "temas": [
+      "Subterranean biodiversity and taxonomy",
+      "Bat Biology and Ecology Studies",
+      "Genetic diversity and population structure"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Active Filtration of Airborne eDNA for Vertebrate Surveys in Tropical Caves",
+      "ano": 2026,
+      "url": "https://doi.org/10.1111/1755-0998.70218",
+      "quantico": false
+     },
+     "relevancia": 36,
+     "orcidVistoEm": "2026-11-18T01:24:01.321Z"
+    },
+    {
+     "id": "A5055443268",
+     "nome": "Lucas Donizetti Vieira",
+     "orcid": "0000-0002-5112-5802",
+     "trabalhos": 6,
+     "ultimoAno": 2026,
+     "temas": [
+      "Meta-analysis and systematic reviews",
+      "scientometrics and bibliometrics research",
+      "Data Visualization and Analytics"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Annual and Cumulative Scientific Production for Reviews",
+      "ano": 2026,
+      "url": "https://doi.org/10.5281/zenodo.22753080",
+      "quantico": false
+     },
+     "relevancia": 36,
+     "orcidVistoEm": "2026-11-18T01:24:01.626Z"
+    },
+    {
+     "id": "A5055770820",
+     "nome": "Mariane B. Sobreiro",
+     "orcid": "0000-0002-9459-1459",
+     "trabalhos": 6,
+     "ultimoAno": 2026,
+     "temas": [
+      "Meta-analysis and systematic reviews",
+      "scientometrics and bibliometrics research",
+      "Data Visualization and Analytics"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Annual and Cumulative Scientific Production for Reviews",
+      "ano": 2026,
+      "url": "https://doi.org/10.5281/zenodo.22753080",
+      "quantico": false
+     },
+     "relevancia": 36,
+     "orcidVistoEm": "2026-11-18T01:24:01.932Z"
+    },
+    {
+     "id": "A5039270736",
+     "nome": "Leonardo Carreira Trevelin",
+     "orcid": "0000-0002-1041-6902",
+     "trabalhos": 5,
+     "ultimoAno": 2026,
+     "temas": [
+      "Subterranean biodiversity and taxonomy",
+      "Bat Biology and Ecology Studies",
+      "Amphibian and Reptile Biology"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Active Filtration of Airborne eDNA for Vertebrate Surveys in Tropical Caves",
+      "ano": 2026,
+      "url": "https://doi.org/10.1111/1755-0998.70218",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "cargo": "Assistant researcher",
+     "orcidVistoEm": "2026-11-18T01:24:02.242Z"
+    },
+    {
+     "id": "A5004486151",
+     "nome": "Vanessa Guimarães Lopes",
+     "orcid": "0000-0001-7109-4911",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Aquatic Ecosystems and Phytoplankton Dynamics",
+      "Fish Ecology and Management Studies"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Temporal and vertical persistence of the non-native rotifer Kellicottia bostoniensis (Rousselet, 1908) during water stratification and mixing of a deep tropical reservoir",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/s10750-026-06374-x",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "orcidVistoEm": "2026-11-18T01:24:02.560Z"
+    },
+    {
+     "id": "A5000457683",
+     "nome": "Ronnie Cley de Oliveira Alves",
+     "orcid": "0000-0003-4139-0562",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Topic Modeling",
+      "Information Retrieval and Search Behavior"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Beyond Vector Search: Comparing Classical RAG with Hybrid GraphRAG for Climate Science Q\\&A",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2608.28766",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "cargo": "Principal Researcher, Environmental Intelligence",
+     "orcidVistoEm": "2026-11-18T01:24:02.866Z"
+    },
+    {
+     "id": "A5064728771",
+     "nome": "Sílvio Júnio Ramos",
+     "orcid": "0000-0001-5909-8418",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Heavy metals in environment",
+      "Plant Stress Responses and Tolerance",
+      "Fern and Epiphyte Biology"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Metabolic acclimation enables Dyckia rariflora (Bromeliaceae) to tolerate combined heat and drought stress",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.envexpbot.2026.106505",
+      "quantico": false
+     },
+     "relevancia": 30,
+     "email": "silvio.ramos@itv.org",
+     "cargo": "Pesquisador Associado, Desenvolvimento Sustentável",
+     "orcidVistoEm": "2026-11-18T01:24:03.178Z"
+    },
+    {
+     "id": "A5086403992",
+     "nome": "Giulliana Appel",
+     "orcid": "0000-0003-3073-1149",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Bat Biology and Ecology Studies",
+      "Wildlife Ecology and Conservation",
+      "melanin and skin pigmentation"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "First record of albinism for the hairy-legged vampire bat, Diphylla ecaudata Spix, 1823 (Mammalia, Chiroptera, Phyllostomidae),and a review of cases of albinism in the Neotropics",
+      "ano": 2026,
+      "url": "https://doi.org/10.46357/bcnaturais.v21i2.1082",
+      "quantico": false
+     },
+     "relevancia": 30,
+     "orcidVistoEm": "2026-11-18T01:24:03.478Z"
+    },
+    {
+     "id": "A5034201726",
+     "nome": "Sibelle Torres Vilaça",
+     "orcid": "0000-0002-6887-4703",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Genomics and Phylogenetic Studies",
+      "Chromosomal and Genetic Variations",
+      "Fish Biology and Ecology Studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Generating eukaryotic reference genome assemblies: Earth BioGenome Project quality standards and recommendations",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2610.03075",
+      "quantico": false
+     },
+     "relevancia": 30,
+     "cargo": "Researcher, Environmental Genomics",
+     "orcidVistoEm": "2026-11-18T01:24:03.792Z"
+    },
+    {
+     "id": "A5030284237",
+     "nome": "Bárbara Simões Santos Leal",
+     "orcid": "0000-0003-4401-3252",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Genetic diversity and population structure",
+      "Plant Diversity and Evolution",
+      "Plant Taxonomy and Phylogenetics"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Influence of Mating Systems, Contemporary Niches, and Historical Demography on the Genetic Patterns of Flagship Plants From the Amazonian Cangas",
+      "ano": 2026,
+      "url": "https://doi.org/10.1111/eva.70325",
+      "quantico": false
+     },
+     "relevancia": 30,
+     "cargo": "Biodiversity and Ecosystem Services",
+     "orcidVistoEm": "2026-11-18T01:24:04.111Z"
+    },
+    {
+     "id": "A5047136190",
+     "nome": "Carlos Eduardo de Araújo Batista",
+     "orcid": "0000-0003-4691-4142",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Subterranean biodiversity and taxonomy",
+      "Amphibian and Reptile Biology",
+      "Genetic diversity and population structure"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Influence of Mating Systems, Contemporary Niches, and Historical Demography on the Genetic Patterns of Flagship Plants From the Amazonian Cangas",
+      "ano": 2026,
+      "url": "https://doi.org/10.1111/eva.70325",
+      "quantico": false
+     },
+     "relevancia": 30,
+     "orcidVistoEm": "2026-11-18T01:24:04.422Z"
+    },
+    {
+     "id": "A5057289469",
+     "nome": "Maurício Takashi Coutinho Watanabe",
+     "orcid": "0000-0001-9690-5565",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Genetic diversity and population structure",
+      "Botany and Plant Ecology Studies",
+      "Plant and Fungal Species Descriptions"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Influence of Mating Systems, Contemporary Niches, and Historical Demography on the Genetic Patterns of Flagship Plants From the Amazonian Cangas",
+      "ano": 2026,
+      "url": "https://doi.org/10.1111/eva.70325",
+      "quantico": false
+     },
+     "relevancia": 30,
+     "email": "mauricio.watanabe@itv.org",
+     "cargo": "Pesquisador, Biodiversidade e Serviços de Ecossistema",
+     "orcidVistoEm": "2026-11-18T01:24:04.738Z"
+    }
+   ]
+  },
+  "ref-edp-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:24:05.370Z",
+   "pessoas": []
+  },
+  "ref-engie-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:24:05.620Z",
+   "pessoas": []
+  },
+  "ref-taesa": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:24:05.843Z",
+   "pessoas": []
+  },
+  "ref-isa-energia-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:24:06.050Z",
+   "pessoas": []
+  },
+  "ref-eneva": {
+   "instituicao": {
+    "id": "I4405272194",
+    "nome": "Eneva S.A. (Brazil)",
+    "tipo": "company",
+    "trabalhos": 63
+   },
+   "buscadoEm": "2026-11-18T01:24:06.280Z",
+   "pessoas": [
+    {
+     "id": "A5107904968",
+     "nome": "Roberto Ribeiro",
+     "orcid": "",
+     "trabalhos": 10,
+     "ultimoAno": 2026,
+     "temas": [
+      "Seismic Imaging and Inversion Techniques",
+      "Geological Studies and Exploration",
+      "Geochemistry and Geologic Mapping"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "A Multimodal Deep Learning for Natural Gas Segmentation Using Spatial-Temporal Feature Fusion",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/978-3-032-30805-4_23",
+      "quantico": false
+     },
+     "relevancia": 60
+    },
+    {
+     "id": "A5068334296",
+     "nome": "Diogo Michelon",
+     "orcid": "",
+     "trabalhos": 12,
+     "ultimoAno": 2026,
+     "temas": [
+      "Seismic Imaging and Inversion Techniques",
+      "Geological Studies and Exploration",
+      "Hydrocarbon exploration and reservoir analysis"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Compositional kinetic scheme for the selected organic-rich levels in the Pimenteiras Formation, Devonian of the Parnaíba Basin – Implications for atypical petroleum systems modeling",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.marger.2026.207692",
+      "quantico": false
+     },
+     "relevancia": 60
+    },
+    {
+     "id": "A5085534018",
+     "nome": "Carlos Eduardo Siedschlag",
+     "orcid": "",
+     "trabalhos": 7,
+     "ultimoAno": 2025,
+     "temas": [
+      "Seismic Imaging and Inversion Techniques",
+      "Geological Studies and Exploration",
+      "Geophysical and Geoelectrical Methods"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Basalts of Serra Geral Formation: the main “villain” in seismic imaging of the Paraná Basin?",
+      "ano": 2025,
+      "url": "https://doi.org/10.22564/19cisbgf2025.625",
+      "quantico": false
+     },
+     "relevancia": 47
+    },
+    {
+     "id": "A5109743227",
+     "nome": "Ulisses Daniel Enes de Souza Lebre",
+     "orcid": "",
+     "trabalhos": 12,
+     "ultimoAno": 2025,
+     "temas": [
+      "High voltage insulation and dielectric phenomena",
+      "Advanced Neural Network Applications",
+      "Power Line Inspection Robots"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Statistical Analysis of Insulation Leakage Currents Under Pollution Incidence in a 500 kV Substation",
+      "ano": 2025,
+      "url": "https://doi.org/10.1109/wcnps69127.2025.11295915",
+      "quantico": false
+     },
+     "relevancia": 44
+    },
+    {
+     "id": "A5018507167",
+     "nome": "Eduardo de Mio",
+     "orcid": "0009-0006-8662-5627",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Geological Studies and Exploration",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological Modeling and Analysis"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "The Integration of the Kübler Index and Vitrinite Reflectance as Thermal Calibration Parameters in the Numerical Modelling of the Atypical Petroleum System of the Pimenteiras Formation, Devonian of the Parnaíba Basin, NE—Brazil",
+      "ano": 2026,
+      "url": "https://doi.org/10.1111/bre.70134",
+      "quantico": false
+     },
+     "relevancia": 42,
+     "orcidVistoEm": "2026-11-18T01:24:06.786Z"
+    },
+    {
+     "id": "A5018772344",
+     "nome": "Henrique Araújo Lopes",
+     "orcid": "",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Geological Studies and Exploration",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological Modeling and Analysis"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Compositional kinetic scheme for the selected organic-rich levels in the Pimenteiras Formation, Devonian of the Parnaíba Basin – Implications for atypical petroleum systems modeling",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.marger.2026.207692",
+      "quantico": false
+     },
+     "relevancia": 39
+    },
+    {
+     "id": "A5016820796",
+     "nome": "Fernando Bastos Aragão",
+     "orcid": "",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Geological Studies and Exploration",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological Modeling and Analysis"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Compositional kinetic scheme for the selected organic-rich levels in the Pimenteiras Formation, Devonian of the Parnaíba Basin – Implications for atypical petroleum systems modeling",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.marger.2026.207692",
+      "quantico": false
+     },
+     "relevancia": 39
+    },
+    {
+     "id": "A5145800680",
+     "nome": "Henrique A. Lopes",
+     "orcid": "0000-0003-4947-6846",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological Studies and Exploration",
+      "Analytical Chemistry and Chromatography"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "The Integration of the Kübler Index and Vitrinite Reflectance as Thermal Calibration Parameters in the Numerical Modelling of the Atypical Petroleum System of the Pimenteiras Formation, Devonian of the Parnaíba Basin, NE—Brazil",
+      "ano": 2026,
+      "url": "https://doi.org/10.1111/bre.70134",
+      "quantico": false
+     },
+     "relevancia": 36,
+     "orcidVistoEm": "2026-11-18T01:24:07.097Z"
+    },
+    {
+     "id": "A5068643165",
+     "nome": "Frederico Miranda",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological Studies and Exploration"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Compositional kinetic scheme for the selected organic-rich levels in the Pimenteiras Formation, Devonian of the Parnaíba Basin – Implications for atypical petroleum systems modeling",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.marger.2026.207692",
+      "quantico": false
+     },
+     "relevancia": 36
+    },
+    {
+     "id": "A5114210166",
+     "nome": "Charles A. C. Araujo",
+     "orcid": "",
+     "trabalhos": 7,
+     "ultimoAno": 2025,
+     "temas": [
+      "High voltage insulation and dielectric phenomena",
+      "Advanced Neural Network Applications",
+      "Industrial Vision Systems and Defect Detection"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Correction: Santos et al. Performance Assessment of Object Detection Models Trained with Synthetic Data: A Case Study on Electrical Equipment Detection. Sensors 2024, 24, 4219",
+      "ano": 2025,
+      "url": "https://doi.org/10.3390/s25154801",
+      "quantico": false
+     },
+     "relevancia": 35
+    },
+    {
+     "id": "A5144914323",
+     "nome": "Lilian Souza da Silveira",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological Studies and Exploration"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "The Integration of the Kübler Index and Vitrinite Reflectance as Thermal Calibration Parameters in the Numerical Modelling of the Atypical Petroleum System of the Pimenteiras Formation, Devonian of the Parnaíba Basin, NE—Brazil",
+      "ano": 2026,
+      "url": "https://doi.org/10.1111/bre.70134",
+      "quantico": false
+     },
+     "relevancia": 33
+    },
+    {
+     "id": "A5007222843",
+     "nome": "Larissa da Rocha Santos",
+     "orcid": "0000-0001-9497-7629",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological Studies and Exploration"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "The Integration of the Kübler Index and Vitrinite Reflectance as Thermal Calibration Parameters in the Numerical Modelling of the Atypical Petroleum System of the Pimenteiras Formation, Devonian of the Parnaíba Basin, NE—Brazil",
+      "ano": 2026,
+      "url": "https://doi.org/10.1111/bre.70134",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "orcidVistoEm": "2026-11-18T01:24:07.405Z"
+    },
+    {
+     "id": "A5026485506",
+     "nome": "M. Silva",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological Studies and Exploration"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Compositional kinetic scheme for the selected organic-rich levels in the Pimenteiras Formation, Devonian of the Parnaíba Basin – Implications for atypical petroleum systems modeling",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.marger.2026.207692",
+      "quantico": false
+     },
+     "relevancia": 33
+    },
+    {
+     "id": "A5154265277",
+     "nome": "Rodrigo A.S. Costa",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Microgrid Control and Optimization",
+      "Optimal Power Flow Distribution"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Enhanced Frequency Stability in Real Microgrids Through Three-Phase Droop Control With Dead-Band and Ramp-Rate-Constrained Hydrogen Operation",
+      "ano": 2026,
+      "url": "https://doi.org/10.1109/access.2026.3739181",
+      "quantico": false
+     },
+     "relevancia": 33
+    },
+    {
+     "id": "A5111009097",
+     "nome": "Charles Antony Cordeiro",
+     "orcid": "",
+     "trabalhos": 6,
+     "ultimoAno": 2025,
+     "temas": [
+      "High voltage insulation and dielectric phenomena",
+      "Power Line Inspection Robots",
+      "High-Voltage Power Transmission Systems"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Statistical Analysis of Insulation Leakage Currents Under Pollution Incidence in a 500 kV Substation",
+      "ano": 2025,
+      "url": "https://doi.org/10.1109/wcnps69127.2025.11295915",
+      "quantico": false
+     },
+     "relevancia": 32
+    }
+   ]
+  },
+  "ref-auren-energia": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-18T01:24:08.033Z",
+   "pessoas": []
   }
  },
- "atualizadoEm": "2026-11-17T18:40:02.599Z",
+ "atualizadoEm": "2026-11-18T01:24:08.033Z",
  "fonte": "OpenAlex (produção científica e técnica) e ORCID (dados tornados públicos pelos próprios pesquisadores)",
  "versao": 3
 }

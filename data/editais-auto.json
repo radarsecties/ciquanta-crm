@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-17T18:35:15.482Z",
+ "atualizadoEm": "2026-11-18T01:19:43.278Z",
  "aviso": "Chamadas identificadas automaticamente em notícias; confirme prazo e regras na página oficial.",
  "itens": [
   {
@@ -81,6 +81,16 @@
    "prazo": "",
    "fonte": "Google Notícias",
    "coletadoEm": "2026-11-16T22:20:18.376Z"
+  },
+  {
+   "id": "ed-da349404718c",
+   "titulo": "PD&I | Finep amplia para R$ 500 milhões chamada de transformação mineral, com inscrições até 30/11",
+   "orgao": "Brasil Mineral",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ19XU1hveFNHTzlwd2VxOGtNVDI3TzlLMXRlcWFJUzJBTmlrVkZrS2wwdXMwUG4zZy1tcFhPcFRkQk9yNmVrbDZoTFhPd2FiN0tUOTlyMGdXRTdkUGlmMEx6MnBUMDJ4b3IzbVM1MDhibXJNMFdOZFNQakJTc3MtSzdiOU1JWXNhZVpSSlhtSXVHRVpKNWNqUlNqdVQ0dUt1YXNjaGFvdjAyTmNiY1pqd3ZlRlFhS3BndnI1QzNPdlZxT0I3?oc=5",
+   "publicado": "2026-11-05T08:00:00.000Z",
+   "prazo": "2026-11-30",
+   "fonte": "Google Notícias",
+   "coletadoEm": "2026-11-18T01:19:33.346Z"
   },
   {
    "id": "ed-7120a14b8045",
