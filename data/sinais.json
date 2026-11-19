@@ -1,7 +1,140 @@
 {
- "atualizadoEm": "2026-11-19T00:45:41.503Z",
+ "atualizadoEm": "2026-11-19T18:17:49.421Z",
  "aviso": "Títulos e links de notícias públicas; o conteúdo pertence a cada veículo.",
  "itens": [
+  {
+   "id": "71f1e934a8bf",
+   "titulo": "FAPESP lança segunda rodada da chamada PIPE Jornada Tecnológica",
+   "fonte": "Agência FAPESP",
+   "link": "https://agencia.fapesp.br/fapesp-lanca-segunda-rodada-da-chamada-pipe-jornada-tecnologica/59652",
+   "data": "2026-11-19T18:17:49.383Z",
+   "temas": [
+    "edital"
+   ],
+   "orgs": [
+    "ref-fapesp"
+   ],
+   "edital": true,
+   "resumo": "Edital destina R$ 50 milhões para projetos de pesquisa e inovação em pequenas empresas sediadas no estado de São Paulo",
+   "coletadoEm": "2026-11-19T18:17:49.383Z"
+  },
+  {
+   "id": "0c1e48a80c59",
+   "titulo": "Embrapii lança edital de até R$ 81 milhões para apoiar tecnologias de baixo carbono nos setores de aço e cimento",
+   "fonte": "GOV.BR",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNTkN0RDhVbnVIVWxkTDhqR1lscjhDUUVQdXFFMGJIa2pZZEF3SElCMHhNaWxzbExZT0tUVXlTcWFrbmNSRnVvb1NvaC04dmNEUEIwbURLcnE0bUlNc1Y3dmx6R0ducUd1ZjZaM0syVnBWbzJ5dF9HSU1sYTVaNVlHeTR1MEdIUjVuQ1dMNFEzTUNwNTJTbWxLN0Vrd3BnalRmTlQ4aDNmMWtJM00teG9EcmNaRFhmWUJTN0NnS01LVFNxd3dzaDR6WllhLTByaTJWb1hOQ2dRbGNNSjJVcm1uN3otM0MtOEhkYVZpMlN1M09HUDloR25GdGVLdm5nMzVZcDEtdlVn?oc=5",
+   "data": "2026-11-19T13:38:10.000Z",
+   "temas": [
+    "edital"
+   ],
+   "orgs": [
+    "ref-embrapii"
+   ],
+   "edital": true,
+   "resumo": "Embrapii lança edital de até R$ 81 milhões para apoiar tecnologias de baixo carbono nos setores de aço e cimento GOV.BR",
+   "coletadoEm": "2026-11-19T18:17:39.199Z"
+  },
+  {
+   "id": "5a66396daea0",
+   "titulo": "IOSCO alerta que computação quântica ameaça blockchain e sistemas financeiros - Notícias e Estatísticas",
+   "fonte": "IndexBox",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmF4NVRrdzFJeUJRM19CbnRvQThyV19yZUZjLTYtWk1FMWNiNDFGLUpSY2NjMTdMdjRSSi1oSENOdFlFYmwzMkRhTzM5OWpncWVwNkh0NUdLRUVRVkJ1c1NaTV9KMFR6bkZWS0R4MTd4REVPd0QzdG5tQ3UtTkNsNm8tdFNCaGo4anRoTV93SU5rRmFlNm0tRzJBYWwxUkctOHFSaEdBSE5sU05kRndjZ2Z3?oc=5",
+   "data": "2026-11-19T13:00:51.000Z",
+   "temas": [
+    "quantica",
+    "financeiro"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "IOSCO alerta que computação quântica ameaça blockchain e sistemas financeiros - Notícias e Estatísticas IndexBox",
+   "coletadoEm": "2026-11-19T18:17:16.464Z"
+  },
+  {
+   "id": "e9408d21281b",
+   "titulo": "Ethereum Pós-Quântico: Hegotá Recusa Slots de 10 s",
+   "fonte": "shattered.io",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNDMwSmlmUGNhTEZiNW13SGtyWnlPX094M19iM1NUNy02WnVQMDNJbnd4NllnbnVZSmZMM1NCVk9wM01aeml5Njc1N1BJRThTakJoRGtudWRNN1VSZmQ1ZUt0Vk1wM0pOUGZsZHlBanh2RzQwdFJINEx0SjZxX19GTVZJYnNxT3hHOUVR?oc=5",
+   "data": "2026-11-19T12:22:42.000Z",
+   "temas": [
+    "seguranca"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Ethereum Pós-Quântico: Hegotá Recusa Slots de 10 s shattered.io",
+   "coletadoEm": "2026-11-19T18:17:24.050Z"
+  },
+  {
+   "id": "6dd374f768d2",
+   "titulo": "IOSCO alerta para risco quântico à criptografia financeira",
+   "fonte": "SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVUV4WkZOOWgtbXZMZ0xYbklRQlY3SlF5ejBiajhEWm1aTm1iaFlOYjRuYzZkS1o2Vm8yakM1Q2ktUzR2SXkyczdmNk4tMzFuYWlIWTZzOFlvaWdtTUlMbGFtUHMxTllZNUpOZncxSVVsak1FcWNEX09INFM4MnVtRUlXbGZ6TEVlVm5oSzkyNW85LWM1a3ZiTg?oc=5",
+   "data": "2026-11-19T11:17:41.000Z",
+   "temas": [
+    "quantica",
+    "financeiro"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "IOSCO alerta para risco quântico à criptografia financeira SpaceMoney",
+   "coletadoEm": "2026-11-19T18:17:16.464Z"
+  },
+  {
+   "id": "05f262eaa75c",
+   "titulo": "IOSCO alerta que atualizações quânticas podem desacelerar blockchains e deixar brechas de segurança",
+   "fonte": "Cointelegraph Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb2xqRUs1Q0JKa1ZybEN3VjBpMzJScnZHQWlibTZQdEFYbjdSSmgtcTRfVkhQTm1wV084LWdlaElZaF9BTmNTSEFpNi1rSzZKMTNxbTg1VmRDazN6N0ROTGs1eFhBOC1Wc2g1Rm11elNpbFpMWkk5UTJqWGs4RkRYVTZfV2ZTT2M0eVE?oc=5",
+   "data": "2026-11-19T10:38:08.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "IOSCO alerta que atualizações quânticas podem desacelerar blockchains e deixar brechas de segurança Cointelegraph Brasil",
+   "coletadoEm": "2026-11-19T18:17:16.463Z"
+  },
+  {
+   "id": "33df17f0aed7",
+   "titulo": "ABIN apresenta estratégias para transição segura à criptografia pós-quântica",
+   "fonte": "GOV.BR",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYTUzU21nMmlFaHRhYlh1dTZuTmV3YXVBVk80NlZOSWdtQ09zWTFteXpvZ2kweDIwaEpCUU5fVG93aGZKR2swNWtjQThFN3lpcThSS0k3R1YwMVl6V1h0TkpiOEltZk40M1NCR1liNkRYZHZQWDNQZXhTdlBTeWlQc0p2TmNxY3M4SXRWWFlaMG1VVGgyZi1LNlNzUGJhNFFCRGtZSkRQSlp2WV9OUk94ZktURUs5NDJXM0lDTk41ZFNsajdKa3JOcFFtM05MNURZOVE?oc=5",
+   "data": "2026-11-19T09:15:00.000Z",
+   "temas": [
+    "quantica",
+    "seguranca"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "ABIN apresenta estratégias para transição segura à criptografia pós-quântica GOV.BR",
+   "coletadoEm": "2026-11-19T18:17:16.463Z"
+  },
+  {
+   "id": "0b615a17e751",
+   "titulo": "BASF inaugura Centro de Inovação Poliuretanos: investimento de € 3,4 milhões",
+   "fonte": "Fator Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU3FJbVBpOHNEeUxONkRnSmpYeTRXVW5Gb1dhTHN0Y2Fwc1hrb29RZW8zem92bGFySTE3Z1QxNWNuNHNtWlJVcEhrUGUxbDlRNjdRaF92RzluR3BEcHlIZVpLNkVfQ09yWDRLRzZoVERhcExpUnB6MVRRNUI1V05LNzBFenlEQmlKRkpGcjJxejROdTNVYi1hdU41d1RNNm55cmo5a2ZNdlVGUFVfSHlmOXl4QVlPcExBZmdaZ0dqM2ozUQ?oc=5",
+   "data": "2026-11-19T08:35:55.000Z",
+   "temas": [
+    "pdi"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "BASF inaugura Centro de Inovação Poliuretanos: investimento de € 3,4 milhões Fator Brasil",
+   "coletadoEm": "2026-11-19T18:17:35.429Z"
+  },
+  {
+   "id": "6b61f2dc7bfc",
+   "titulo": "Nordeste na vanguarda: Brasil inaugura era da computação quântica com tecnologia chinesa",
+   "fonte": "Plantão Brasil",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPak40MjlOOW1TVzVsWF9WOUdvcXduYmZMY3RudDNpdDJGT0VKVWZjTi1fUGo3bGozNFJoOEM2elRvQzUxd1IxdUs1Y3NKdExfUHRULTRweXExX2Ricm5jdW1keDhlbW1tcWE4MmZKNVhHeFo5d2YtWVo2RXgxdUpRMUt4bGxLclVmcGpDOWdmd0N6c2IxOUNHcnBHRVRqVV9HNTBBUDZpZGhoLU90eHZCd0RmdzhtVnZ3Ri13U0pkYVk0cGhqejVsZ3VDcHpKQQ?oc=5",
+   "data": "2026-11-19T01:29:36.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Nordeste na vanguarda: Brasil inaugura era da computação quântica com tecnologia chinesa Plantão Brasil",
+   "coletadoEm": "2026-11-19T18:17:16.464Z"
+  },
   {
    "id": "cb5e7ab34f52",
    "titulo": "Primeiro computador quântico da América Latina vai ser instalado na Paraíba",
@@ -647,6 +780,22 @@
    "edital": true,
    "resumo": "Rede CRIOGEN avança com aprovação de projeto no edital de Biotecnologia do CNPq – PPGCV Universidade Estadual do Ceará",
    "coletadoEm": "2026-11-16T22:20:19.309Z"
+  },
+  {
+   "id": "f4eb0b92f7cc",
+   "titulo": "Intel adquirirá a Classiq para transformar a pesquisa quântica em um negócio comercial",
+   "fonte": "news.lavx.hu",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM3RJXzgxY0VfU0R2Y0RvRlJuWkROczhZb2FJVk9BdFNPR2p3UUVXUFlFdXc3WWcyUnlPZXdnYnl0QUVsMndoWFFlOXhMb3FzY2dWM1JrTUs0RWJtc1dOUnJYcGUzS0s5TmsyUXdrRC1oQTZodFZsaTlNa3JBZU5KcWE0RXE0SUo5N2dySEdRS1F5THhaYklHaExYVWdCRHVvYV9pc3ZHNHNlTGZWNm0teFFrb3dqdEVSamdjN2JR?oc=5",
+   "data": "2026-11-16T17:11:59.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [
+    "ref-classiq"
+   ],
+   "edital": false,
+   "resumo": "Intel adquirirá a Classiq para transformar a pesquisa quântica em um negócio comercial news.lavx.hu",
+   "coletadoEm": "2026-11-19T18:17:16.464Z"
   },
   {
    "id": "d3f432e742f1",
@@ -1339,6 +1488,22 @@
    "coletadoEm": "2026-11-18T18:04:35.928Z"
   },
   {
+   "id": "8c02b5994582",
+   "titulo": "Embrapii e GIZ lançam chamada de R$ 81 milhões para descarbonizar aço e cimento",
+   "fonte": "Brasil Mineral",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRHlDZVRFZ3dLVkVBUV9rR2R6TjZnaVd3M3RCQUxYZFNhc05uOWZhaVp0a1VoTEVHeVlpMGRsemJXalJRaW9PRVB5STBGeW5mTkZHT1J2N19GeVJlNmNyZUMxWFdZWkdtTnJEZlpkbVN0bEZjVDh4ZnpKLUxzQUFUalZaYzFPQkRpRWdOU2NaYXpqSGkwTGtPVVlsbF83Y0syZUZHdXdwMHZhZ0k3SDBBNUF5WEVZTGs?oc=5",
+   "data": "2026-11-12T21:05:32.000Z",
+   "temas": [
+    "edital"
+   ],
+   "orgs": [
+    "ref-embrapii"
+   ],
+   "edital": true,
+   "resumo": "Embrapii e GIZ lançam chamada de R$ 81 milhões para descarbonizar aço e cimento Brasil Mineral",
+   "coletadoEm": "2026-11-19T18:17:39.199Z"
+  },
+  {
    "id": "f7f2a3949385",
    "titulo": "Projeto aprovado no Senado permite ampliar incentivos da Lei do Bem a empresas do Simples Nacional e startups",
    "fonte": "TAGD Advogados",
@@ -1512,7 +1677,8 @@
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa1UwR1prZF9aWFZSU3k0c2huV2FId0Iyb0hteThqVWZPd2Y5SVNlX1hZc2R6bzlMZzFIb25OZk92M19tQU5aZ1NEeEZ4aWhEXzRnd0pPNHJqVUluMnhWVmJDM1loNnhJOWVlOXJqR0xPVXdiaG1WeFd0dlplWXc0Nmcyd1p4ODlMdkx3R1g1ZXlJYUlmbVJNOHQ4LWJpZEluVWNZRXVvMzNpVGJCSDJaOWRhanhhM2FuNkZjVnY1eERIQ0tvYVBZ?oc=5",
    "data": "2026-11-12T11:56:00.000Z",
    "temas": [
-    "quantica"
+    "quantica",
+    "financeiro"
    ],
    "orgs": [],
    "edital": false,
@@ -1737,7 +1903,8 @@
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVWdVS2xiOVhWSmJUclBwZ21rUkZVeFJxRjM3MEwxc2lWQXBib3gzcWZ4alpXZkdtcnF0YkwzeG5HMmhmZEtKUVdWYURCRWVJYmg2UVZBYjZ1dHVjYTlxSlNzMUpVdFlISk9fX05zR3JoWm9NdGlCeVdGZDdTVEdzWE9IV3A2SE9ld3lORDZJMA?oc=5",
    "data": "2026-11-10T13:30:45.000Z",
    "temas": [
-    "quantica"
+    "quantica",
+    "saude"
    ],
    "orgs": [],
    "edital": false,
@@ -2070,6 +2237,20 @@
    "edital": true,
    "resumo": "PD&I | Finep amplia para R$ 500 milhões chamada de transformação mineral, com inscrições até 30/11 Brasil Mineral",
    "coletadoEm": "2026-11-18T01:19:33.347Z"
+  },
+  {
+   "id": "fa91a4f97a53",
+   "titulo": "Curso computação quântica do IFSULDEMINAS tem 100 vagas EaD",
+   "fonte": "PEBSP",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTmdYaUhSYTl0cnFPeE8yd3FpZFJ0bTdkbnhIZTM2cFZJdU45RDA2Y1BJTmFrSFFjWUs0a2xHTVhkN2Z6d2U3V0dydlVIeHp0MDBvWS00QkVHZXdHN3NoSmp0NWtGNWNWNFB3REpSMGFUbldrY1prRGsyX3Y5MmVQS2V2LXlTMi15aWc?oc=5",
+   "data": "2026-11-05T08:00:00.000Z",
+   "temas": [
+    "saude"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Curso computação quântica do IFSULDEMINAS tem 100 vagas EaD PEBSP",
+   "coletadoEm": "2026-11-19T18:17:27.892Z"
   },
   {
    "id": "7120a14b8045",
@@ -2409,6 +2590,20 @@
    "edital": false,
    "resumo": "Computação quântica: dados bancários roubados hoje podem ser lidos no futuro Suno - Investimentos Inteligentes",
    "coletadoEm": "2026-11-16T22:20:10.749Z"
+  },
+  {
+   "id": "4925ef789fb3",
+   "titulo": "João Pessoa oferece visitação gratuita a réplica de computador quântico no Centro Histórico",
+   "fonte": "Portal Ponto PB",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQzZ3c1JPU3hoUVBOcy1Va3ZjbWc1WjBFSlo1bjlmZ0o4VmllMG5kdDFXeWd5enZBVUpyLTVfOEQ0dnlmWnNSQnpRTXVNaVFkU1lFVmI5V3RHVC1OVV8wNGFzQzBKb1lVRHJ6MEdlMGpJY0pFQWNFam1HNldSUkxEQy14RUE0dDlqeG04RkFBNG5qSWZYUi1TMHp3XzhKS1FIcy1MNV81Tlpuc24xYVMyYlUzR0NfWVFaSTBxaTZoaXFlWmMzSlp4a09JODJ6NnJBb3ZhNkFaSmRMZFhuVUxYUVROVFlVdkU?oc=5",
+   "data": "2026-10-27T07:00:00.000Z",
+   "temas": [
+    "ciquanta"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "João Pessoa oferece visitação gratuita a réplica de computador quântico no Centro Histórico Portal Ponto PB",
+   "coletadoEm": "2026-11-19T18:17:22.211Z"
   },
   {
    "id": "102ce2d0036f",

@@ -1,7 +1,27 @@
 {
- "atualizadoEm": "2026-11-19T00:45:41.505Z",
+ "atualizadoEm": "2026-11-19T18:17:49.423Z",
  "aviso": "Chamadas identificadas automaticamente em notícias; confirme prazo e regras na página oficial.",
  "itens": [
+  {
+   "id": "ed-71f1e934a8bf",
+   "titulo": "FAPESP lança segunda rodada da chamada PIPE Jornada Tecnológica",
+   "orgao": "Agência FAPESP",
+   "link": "https://agencia.fapesp.br/fapesp-lanca-segunda-rodada-da-chamada-pipe-jornada-tecnologica/59652",
+   "publicado": "2026-11-19T18:17:49.382Z",
+   "prazo": "",
+   "fonte": "Agência FAPESP",
+   "coletadoEm": "2026-11-19T18:17:49.383Z"
+  },
+  {
+   "id": "ed-0c1e48a80c59",
+   "titulo": "Embrapii lança edital de até R$ 81 milhões para apoiar tecnologias de baixo carbono nos setores de aço e cimento",
+   "orgao": "GOV.BR",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNTkN0RDhVbnVIVWxkTDhqR1lscjhDUUVQdXFFMGJIa2pZZEF3SElCMHhNaWxzbExZT0tUVXlTcWFrbmNSRnVvb1NvaC04dmNEUEIwbURLcnE0bUlNc1Y3dmx6R0ducUd1ZjZaM0syVnBWbzJ5dF9HSU1sYTVaNVlHeTR1MEdIUjVuQ1dMNFEzTUNwNTJTbWxLN0Vrd3BnalRmTlQ4aDNmMWtJM00teG9EcmNaRFhmWUJTN0NnS01LVFNxd3dzaDR6WllhLTByaTJWb1hOQ2dRbGNNSjJVcm1uN3otM0MtOEhkYVZpMlN1M09HUDloR25GdGVLdm5nMzVZcDEtdlVn?oc=5",
+   "publicado": "2026-11-19T13:38:10.000Z",
+   "prazo": "",
+   "fonte": "Google Notícias",
+   "coletadoEm": "2026-11-19T18:17:39.199Z"
+  },
   {
    "id": "ed-01ee8399f7c6",
    "titulo": "Chamada aberta para o Deep Tech Indústria, programa de soluções tecnológicas",
@@ -51,6 +71,16 @@
    "prazo": "",
    "fonte": "Google Notícias",
    "coletadoEm": "2026-11-18T18:04:35.928Z"
+  },
+  {
+   "id": "ed-8c02b5994582",
+   "titulo": "Embrapii e GIZ lançam chamada de R$ 81 milhões para descarbonizar aço e cimento",
+   "orgao": "Brasil Mineral",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRHlDZVRFZ3dLVkVBUV9rR2R6TjZnaVd3M3RCQUxYZFNhc05uOWZhaVp0a1VoTEVHeVlpMGRsemJXalJRaW9PRVB5STBGeW5mTkZHT1J2N19GeVJlNmNyZUMxWFdZWkdtTnJEZlpkbVN0bEZjVDh4ZnpKLUxzQUFUalZaYzFPQkRpRWdOU2NaYXpqSGkwTGtPVVlsbF83Y0syZUZHdXdwMHZhZ0k3SDBBNUF5WEVZTGs?oc=5",
+   "publicado": "2026-11-12T21:05:32.000Z",
+   "prazo": "",
+   "fonte": "Google Notícias",
+   "coletadoEm": "2026-11-19T18:17:39.199Z"
   },
   {
    "id": "ed-20a12e94c3a0",

@@ -436,7 +436,8 @@
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-19T18:18:28.349Z"
   },
   "ref-bp-a-beneficencia-portuguesa-de-sao-paul": {
    "verificadoEm": "2026-11-19T00:46:36.799Z",
@@ -459,7 +460,8 @@
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-19T18:18:28.416Z"
   },
   "ref-hypera-pharma": {
    "verificadoEm": "2026-11-19T00:46:35.818Z",
@@ -634,7 +636,8 @@
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-19T18:18:28.476Z"
   },
   "ref-minerva-foods": {
    "verificadoEm": "2026-11-19T00:47:14.028Z",
@@ -705,7 +708,8 @@
     }
    ],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/basf"
+   "linkedin": "https://www.linkedin.com/company/basf",
+   "buscaWebEm": "2026-11-19T18:18:28.547Z"
   },
   "ref-yara-brasil": {
    "verificadoEm": "2026-11-19T00:47:20.039Z",
@@ -713,7 +717,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/yarabroficial"
+   "linkedin": "https://www.linkedin.com/company/yarabroficial",
+   "buscaWebEm": "2026-11-19T18:18:28.664Z"
   },
   "ref-coamo": {
    "verificadoEm": "2026-11-19T00:47:19.611Z",
@@ -768,7 +773,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/mosaicbr"
+   "linkedin": "https://www.linkedin.com/company/mosaicbr",
+   "buscaWebEm": "2026-11-19T18:18:28.725Z"
   },
   "ref-hospital-moinhos-de-vento": {
    "verificadoEm": "2026-11-19T00:47:45.003Z",
@@ -828,7 +834,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/inpe_2"
+   "linkedin": "https://www.linkedin.com/company/inpe_2",
+   "buscaWebEm": "2026-11-19T18:18:28.787Z"
   },
   "ref-moss": {
    "verificadoEm": "2026-11-17T18:35:27.494Z",
@@ -853,7 +860,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-19T18:18:28.848Z"
   },
   "ref-inmet": {
    "verificadoEm": "2026-11-17T18:35:35.250Z",
@@ -880,7 +888,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/axia-energia"
+   "linkedin": "https://www.linkedin.com/company/axia-energia",
+   "buscaWebEm": "2026-11-19T18:18:28.914Z"
   },
   "ref-ons": {
    "verificadoEm": "2026-11-17T18:35:36.154Z",
@@ -888,7 +897,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/ons-operador-nacional-do-sistema-el"
+   "linkedin": "https://www.linkedin.com/company/ons-operador-nacional-do-sistema-el",
+   "buscaWebEm": "2026-11-19T18:18:29.044Z"
   },
   "ref-mombak": {
    "verificadoEm": "2026-11-17T18:35:36.714Z",
@@ -937,7 +947,8 @@
     }
    ],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/itaipu-binacional"
+   "linkedin": "https://www.linkedin.com/company/itaipu-binacional",
+   "buscaWebEm": "2026-11-19T18:18:29.107Z"
   },
   "ref-ccee": {
    "verificadoEm": "2026-11-17T18:35:51.868Z",
@@ -1162,7 +1173,8 @@
     }
    ],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/cepel"
+   "linkedin": "https://www.linkedin.com/company/cepel",
+   "buscaWebEm": "2026-11-19T18:18:28.976Z"
   },
   "ref-equinor-brasil": {
    "verificadoEm": "2026-11-17T18:36:28.725Z",
@@ -3403,5 +3415,5 @@
    "buscaWebEm": "2026-11-19T00:52:01.947Z"
   }
  },
- "atualizadoEm": "2026-11-19T00:52:02.604Z"
+ "atualizadoEm": "2026-11-19T18:18:29.185Z"
 }
