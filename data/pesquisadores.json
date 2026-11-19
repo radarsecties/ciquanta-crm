@@ -17338,9 +17338,5629 @@
    "instituicao": null,
    "buscadoEm": "2026-11-18T18:08:16.619Z",
    "pessoas": []
+  },
+  "ref-ericsson-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-19T00:48:31.030Z",
+   "pessoas": []
+  },
+  "ref-nokia-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-19T00:48:31.383Z",
+   "pessoas": []
+  },
+  "ref-huawei-do-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-19T00:48:31.649Z",
+   "pessoas": []
+  },
+  "ref-intelbras": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-19T00:48:31.946Z",
+   "pessoas": []
+  },
+  "ref-soluti": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-19T00:48:32.202Z",
+   "pessoas": []
+  },
+  "ref-google-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-19T00:48:32.492Z",
+   "pessoas": []
+  },
+  "ref-nvidia-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-19T00:48:32.763Z",
+   "pessoas": []
+  },
+  "ref-totvs": {
+   "instituicao": {
+    "id": "I4210134134",
+    "nome": "TOTVS (Brazil)",
+    "tipo": "company",
+    "trabalhos": 4
+   },
+   "buscadoEm": "2026-11-19T00:48:33.027Z",
+   "pessoas": [
+    {
+     "id": "A5133924455",
+     "nome": "Anderson José Raimundo",
+     "orcid": "0009-0006-4901-4034",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Artificial Intelligence in Healthcare and Education",
+      "Artificial Intelligence in Healthcare"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Respostas de LLMs (ChatGPT, Gemini e Perplexity) sobre relatos de pacientes com Doenças Inflamatórias Intestinais (DII)",
+      "ano": 2026,
+      "url": "https://doi.org/10.5281/zenodo.19635480",
+      "quantico": false
+     },
+     "relevancia": 21
+    }
+   ]
+  },
+  "ref-sidia": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-19T00:48:35.424Z",
+   "pessoas": []
+  },
+  "ref-instituto-atlantico": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-19T00:48:35.700Z",
+   "pessoas": []
+  },
+  "ref-cnpem": {
+   "instituicao": {
+    "id": "I4210152696",
+    "nome": "Brazilian Center for Research in Energy and Materials",
+    "tipo": "other",
+    "trabalhos": 4471
+   },
+   "buscadoEm": "2026-11-19T00:48:35.995Z",
+   "pessoas": [
+    {
+     "id": "A5052942207",
+     "nome": "Alisson Ronieri Cadore",
+     "orcid": "0000-0003-1081-0915",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "2D Materials and Applications",
+      "Advanced Memory and Neural Computing",
+      "Graphene research and applications"
+     ],
+     "quantico": true,
+     "afim": false,
+     "destaque": {
+      "titulo": "Cryogenic graphene-based phase modulators for quantum information processing",
+      "ano": 2026,
+      "url": "https://doi.org/10.1364/josab.606905",
+      "quantico": true
+     },
+     "relevancia": 67,
+     "email": "alisson.cadore@lnnano.cnpem.br",
+     "orcidVistoEm": "2026-11-19T00:48:57.778Z"
+    },
+    {
+     "id": "A5043029603",
+     "nome": "Daniel R. Cassar",
+     "orcid": "0000-0001-6472-2780",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Machine Learning in Materials Science",
+      "Metallic Glasses and Amorphous Alloys",
+      "Glass properties and applications"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Will It Form a Glass? Tackling Glass Formation Using Binary Classification",
+      "ano": 2026,
+      "url": "https://doi.org/10.1111/ijag.70075",
+      "quantico": false
+     },
+     "relevancia": 39,
+     "orcidVistoEm": "2026-11-19T00:48:58.155Z"
+    },
+    {
+     "id": "A5062208541",
+     "nome": "Ariane Nunes‐Alves",
+     "orcid": "0000-0002-5488-4732",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Computational Drug Discovery Methods",
+      "Machine Learning in Materials Science",
+      "Scientific Computing and Data Management"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Lost in Chemical Space: Local Open-Source Large Language Models Display Model-Dependent Adherence to Reference Data in Molecular Generation",
+      "ano": 2026,
+      "url": "https://doi.org/10.26434/chemrxiv.15011763/v2",
+      "quantico": false
+     },
+     "relevancia": 39,
+     "email": "ariane.alves@lnbio.cnpem.br",
+     "orcidVistoEm": "2026-11-19T00:48:58.516Z"
+    },
+    {
+     "id": "A5021468010",
+     "nome": "Vinícius Francisco Wasques",
+     "orcid": "0000-0002-0965-0654",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Fuzzy Systems and Optimization",
+      "Fuzzy Logic and Control Systems",
+      "Advanced Algebra and Logic"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "p-Fuzzy Gradient Descent Method",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/978-3-032-35459-4_17",
+      "quantico": false
+     },
+     "relevancia": 39,
+     "orcidVistoEm": "2026-11-19T00:48:58.875Z"
+    },
+    {
+     "id": "A5019529082",
+     "nome": "Guilherme B. Strapasson",
+     "orcid": "0000-0003-2122-679X",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Advanced Battery Materials and Technologies",
+      "Advancements in Battery Materials",
+      "High Entropy Alloys Studies"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Site-selective cation and orbital engineering in spinel-type materials for lithium–sulfur batteries",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.est.2026.125429",
+      "quantico": false
+     },
+     "relevancia": 36,
+     "orcidVistoEm": "2026-11-19T00:48:59.211Z"
+    },
+    {
+     "id": "A5039775140",
+     "nome": "J. Almeida",
+     "orcid": "0000-0002-3126-7619",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Machine Learning in Materials Science",
+      "Enhanced Oil Recovery Techniques",
+      "Thermodynamic and Structural Properties of Metals and Alloys"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Data-Driven Discovery of High-Performance EOR Surfactants: Coupling Molecular Dynamics with Active Learning",
+      "ano": 2026,
+      "url": "https://doi.org/10.1021/acsomega.6c10914",
+      "quantico": false
+     },
+     "relevancia": 36,
+     "email": "james.almeida@ilum.cnpem.br",
+     "orcidVistoEm": "2026-11-19T00:48:59.558Z"
+    },
+    {
+     "id": "A5054067127",
+     "nome": "Leandro Oliveira Bortot",
+     "orcid": "0000-0002-0915-8205",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Computational Drug Discovery Methods",
+      "Machine Learning in Materials Science"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Lost in Chemical Space: Local Open-Source Large Language Models Display Model-Dependent Adherence to Reference Data in Molecular Generation",
+      "ano": 2026,
+      "url": "https://doi.org/10.26434/chemrxiv.15011763/v2",
+      "quantico": false
+     },
+     "relevancia": 36,
+     "orcidVistoEm": "2026-11-19T00:48:59.916Z"
+    },
+    {
+     "id": "A5161048099",
+     "nome": "Gabriel Filipe Totene",
+     "orcid": "0009-0006-0028-2206",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Computational Drug Discovery Methods",
+      "Machine Learning in Materials Science"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Lost in Chemical Space: Local Open-Source Large Language Models Display Model-Dependent Adherence to Reference Data in Molecular Generation",
+      "ano": 2026,
+      "url": "https://doi.org/10.26434/chemrxiv.15011763/v2",
+      "quantico": false
+     },
+     "relevancia": 36,
+     "email": "gabriel.totene@lnbio.cnpem.br",
+     "orcidVistoEm": "2026-11-19T00:49:00.289Z"
+    },
+    {
+     "id": "A5045507731",
+     "nome": "Diego Stéfani T. Martinez",
+     "orcid": "0000-0002-0086-3055",
+     "trabalhos": 6,
+     "ultimoAno": 2026,
+     "temas": [
+      "Aerosol Filtration and Electrostatic Precipitation",
+      "Nanoparticles: synthesis and applications",
+      "Graphene and Nanomaterials Applications"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Airborne Particulate Matter Removal by Filters Containing Graphene Oxide-Based Materials: A Systematic Review",
+      "ano": 2026,
+      "url": "https://doi.org/10.1021/acsaenm.6c01308",
+      "quantico": false
+     },
+     "relevancia": 36,
+     "orcidVistoEm": "2026-11-19T00:49:00.661Z"
+    },
+    {
+     "id": "A5128723357",
+     "nome": "Diogo Pereira de Lima Carvalho",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Machine Learning in Materials Science",
+      "Metallic Glasses and Amorphous Alloys"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Will It Form a Glass? Tackling Glass Formation Using Binary Classification",
+      "ano": 2026,
+      "url": "https://doi.org/10.1111/ijag.70075",
+      "quantico": false
+     },
+     "relevancia": 33
+    },
+    {
+     "id": "A5129734783",
+     "nome": "Ana C. B. Loponi",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Machine Learning in Materials Science",
+      "Metallic Glasses and Amorphous Alloys"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Will It Form a Glass? Tackling Glass Formation Using Binary Classification",
+      "ano": 2026,
+      "url": "https://doi.org/10.1111/ijag.70075",
+      "quantico": false
+     },
+     "relevancia": 33
+    },
+    {
+     "id": "A5008238830",
+     "nome": "Adriana Franco Paes Leme",
+     "orcid": "0000-0001-7959-147X",
+     "trabalhos": 5,
+     "ultimoAno": 2026,
+     "temas": [
+      "Advanced Proteomics Techniques and Applications",
+      "Single-cell and spatial transcriptomics",
+      "Bioinformatics and Genomic Networks"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "SeekNSee: A Rule-Based Framework for Prioritizing Proteotypic Peptides",
+      "ano": 2026,
+      "url": "https://doi.org/10.64898/2026.11.07.764955",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "orcidVistoEm": "2026-11-19T00:49:01.009Z"
+    },
+    {
+     "id": "A5067316087",
+     "nome": "Nilson Da Rocha Coimbra",
+     "orcid": "0000-0001-9407-4761",
+     "trabalhos": 5,
+     "ultimoAno": 2026,
+     "temas": [
+      "Advanced Proteomics Techniques and Applications",
+      "Bioinformatics and Genomic Networks",
+      "Single-cell and spatial transcriptomics"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "SeekNSee: A Rule-Based Framework for Prioritizing Proteotypic Peptides",
+      "ano": 2026,
+      "url": "https://doi.org/10.64898/2026.11.07.764955",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "email": "nilson.coimbra@lnbio.cnpem.br",
+     "orcidVistoEm": "2026-11-19T00:49:01.363Z"
+    },
+    {
+     "id": "A5023325245",
+     "nome": "Jackson Gabriel Miyamoto",
+     "orcid": "0000-0002-0768-0390",
+     "trabalhos": 5,
+     "ultimoAno": 2026,
+     "temas": [
+      "Advanced Proteomics Techniques and Applications",
+      "Single-cell and spatial transcriptomics",
+      "Bioinformatics and Genomic Networks"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "SeekNSee: A Rule-Based Framework for Prioritizing Proteotypic Peptides",
+      "ano": 2026,
+      "url": "https://doi.org/10.64898/2026.11.07.764955",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "orcidVistoEm": "2026-11-19T00:49:01.714Z"
+    },
+    {
+     "id": "A5161118227",
+     "nome": "Lucas Abner Caixeta de Oliveira",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Computational Drug Discovery Methods",
+      "Machine Learning in Materials Science"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Lost in Chemical Space: Local Open-Source Large Language Models Display Model-Dependent Adherence to Reference Data in Molecular Generation",
+      "ano": 2026,
+      "url": "https://doi.org/10.26434/chemrxiv.15011763/v2",
+      "quantico": false
+     },
+     "relevancia": 33
+    }
+   ]
+  },
+  "ref-uepb": {
+   "instituicao": {
+    "id": "I136754270",
+    "nome": "Universidade Estadual da Paraíba",
+    "tipo": "education",
+    "trabalhos": 15311
+   },
+   "buscadoEm": "2026-11-19T00:49:02.454Z",
+   "pessoas": [
+    {
+     "id": "A5119567505",
+     "nome": "Edson Ferreira Filgueiras",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2022,
+     "temas": [
+      "Graphene research and applications",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": false,
+     "destaque": {
+      "titulo": "UMA ABORDAGEM PARA A UTILIZAÇÃO DE CONES DE GRAFENO NA COMPUTAÇÃO QUÂNTICA",
+      "ano": 2022,
+      "url": "https://doi.org/10.18391/rfc.v2i1.933",
+      "quantico": true
+     },
+     "relevancia": 45
+    },
+    {
+     "id": "A5082105026",
+     "nome": "José Etham de Lucena Barbosa",
+     "orcid": "0000-0002-4951-1763",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Aquatic Ecosystems and Phytoplankton Dynamics",
+      "Botany and Plant Ecology Studies",
+      "Geography and Environmental Studies"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Um olhar para a Bacia do Rio Paraíba e seus biomas",
+      "ano": 2026,
+      "url": "https://doi.org/10.5281/zenodo.24258808",
+      "quantico": false
+     },
+     "relevancia": 42,
+     "orcidVistoEm": "2026-11-19T00:49:07.778Z"
+    },
+    {
+     "id": "A5044919821",
+     "nome": "Dayrla Kelly Gomes Rocha",
+     "orcid": "0000-0001-9064-2311",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Coastal wetland ecosystem dynamics",
+      "Marine Biology and Ecology Research",
+      "Aquatic Ecosystems and Phytoplankton Dynamics"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Hatching Dynamics of Zooplankton Resting Forms under Desalinization Scenarios in a Restoring Mangrove Ecosystem",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/s12237-026-01839-7",
+      "quantico": false
+     },
+     "relevancia": 36,
+     "orcidVistoEm": "2026-11-19T00:49:08.132Z"
+    },
+    {
+     "id": "A5024753294",
+     "nome": "Sílvio Fernando Alves Xavier Júnior",
+     "orcid": "0000-0002-4832-0711",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Energy Load and Power Forecasting",
+      "Wind Energy Research and Development"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "ANÁLISE DO POTENCIAL EÓLICO EM PERNAMBUCO: UMA APLICAÇÃO DE ALGORITMOS DE MACHINE LEARNING E ENSEMBLE LEARNING PARA PREVISÃO DA VELOCIDADE DO VENTO",
+      "ano": 2026,
+      "url": "https://doi.org/10.47820/recima21.v7i11.9605",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "orcidVistoEm": "2026-11-19T00:49:08.509Z"
+    },
+    {
+     "id": "A5162468142",
+     "nome": "Hélio Luiz de Sousa Costa",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Parallel Computing and Optimization Techniques",
+      "Real-Time Systems Scheduling"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Thermal-Crosstalk-Aware Scheduling and Model Predictive Dynamic Voltage and Frequency Scaling for Spaceborne Multi-Chip AI Clusters in Deep Vacuum: Lumped Multiphysics Modeling, Predictive Control, and Numerical Simulation",
+      "ano": 2026,
+      "url": "https://doi.org/10.66104/v13w3915",
+      "quantico": false
+     },
+     "relevancia": 33
+    },
+    {
+     "id": "A5123070245",
+     "nome": "Ana Kerma Araujo Gomes de Sousa",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Water resources management and optimization",
+      "Water Resource Management and Quality"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "PARADIGMAS DA CRISE HÍDRICA E DA ABUNDÂNCIA: EFEITOS DA DISPONIBILIDADE HÍDRICA SOBRE A DINÂMICA ECONÔMICA REGIONAL DO RESERVATÓRIO MÃE D’ÁGUA, COREMAS, PARAÍBA",
+      "ano": 2026,
+      "url": "https://doi.org/10.51891/rease.v12i11.31589",
+      "quantico": false
+     },
+     "relevancia": 33
+    },
+    {
+     "id": "A5114355840",
+     "nome": "Tatiane Medeiros",
+     "orcid": "0009-0005-2789-4360",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Aquatic Ecosystems and Phytoplankton Dynamics",
+      "Spatial and Panel Data Analysis"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "‘Location Matters’: Incorporating Spatial Autocorrelation Into Modelling the Drivers of Cyanobacterial Biomass in Reservoirs of Northeastern Brazil",
+      "ano": 2026,
+      "url": "https://doi.org/10.1002/eco.70285",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "orcidVistoEm": "2026-11-19T00:49:08.824Z"
+    },
+    {
+     "id": "A5078568131",
+     "nome": "Patrícia Silva Cruz",
+     "orcid": "0000-0001-7791-2612",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Aquatic Ecosystems and Phytoplankton Dynamics",
+      "Spatial and Panel Data Analysis"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "‘Location Matters’: Incorporating Spatial Autocorrelation Into Modelling the Drivers of Cyanobacterial Biomass in Reservoirs of Northeastern Brazil",
+      "ano": 2026,
+      "url": "https://doi.org/10.1002/eco.70285",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "orcidVistoEm": "2026-11-19T00:49:09.171Z"
+    },
+    {
+     "id": "A5090497279",
+     "nome": "Maria Eduarda Dantas César",
+     "orcid": "0009-0007-2209-9549",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Aquatic Ecosystems and Phytoplankton Dynamics",
+      "Spatial and Panel Data Analysis"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "‘Location Matters’: Incorporating Spatial Autocorrelation Into Modelling the Drivers of Cyanobacterial Biomass in Reservoirs of Northeastern Brazil",
+      "ano": 2026,
+      "url": "https://doi.org/10.1002/eco.70285",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "orcidVistoEm": "2026-11-19T00:49:09.514Z"
+    },
+    {
+     "id": "A5126236083",
+     "nome": "Laissa Lima do Nascimento",
+     "orcid": "0009-0008-8915-2399",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Aquatic Ecosystems and Phytoplankton Dynamics",
+      "Spatial and Panel Data Analysis"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "‘Location Matters’: Incorporating Spatial Autocorrelation Into Modelling the Drivers of Cyanobacterial Biomass in Reservoirs of Northeastern Brazil",
+      "ano": 2026,
+      "url": "https://doi.org/10.1002/eco.70285",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "orcidVistoEm": "2026-11-19T00:49:09.855Z"
+    },
+    {
+     "id": "A5159248311",
+     "nome": "Felipe Antonio dos Santos",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Aquatic Ecosystems and Phytoplankton Dynamics",
+      "Freshwater macroinvertebrate diversity and ecology"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Deforestation and monoculture expansion restructure zooplankton communities in neotropical reservoirs",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/s00027-026-01377-1",
+      "quantico": false
+     },
+     "relevancia": 33
+    },
+    {
+     "id": "A5065453277",
+     "nome": "Alan S. Felinto",
+     "orcid": "0000-0002-3728-1710",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Power Quality and Harmonics",
+      "Multilevel Inverters and Converters"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Self-Supported Transformerless Series Active Power Filter for Wide-Range Load Voltage Compensation",
+      "ano": 2026,
+      "url": "https://doi.org/10.18618/rep.e202635",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "email": "alan.felinto@servidor.uepb.edu.br",
+     "orcidVistoEm": "2026-11-19T00:49:10.217Z"
+    },
+    {
+     "id": "A5107336163",
+     "nome": "Edvaldo Pereira Santos Júnior",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Renewable energy and sustainable power systems",
+      "Bioeconomy and Sustainability Development"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Spatio-temporal clusters of sugarcane bioelectricity in Brazil: Regional patterns and low-carbon transition pathways",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.spc.2026.10.012",
+      "quantico": false
+     },
+     "relevancia": 33
+    },
+    {
+     "id": "A5072070606",
+     "nome": "Paulo Roberto Megna Francisco",
+     "orcid": "0000-0002-5062-5434",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Remote-Sensing Image Classification",
+      "Remote Sensing and Land Use"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Algoritmos de Aprendizado de Máquina Aplicado na Análise Espaço-Temporal do Uso e Cobertura da Terra do Estado da Paraíba",
+      "ano": 2026,
+      "url": "https://doi.org/10.29150/jhrs.v16i4.271028",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "orcidVistoEm": "2026-11-19T00:49:10.585Z"
+    },
+    {
+     "id": "A5030894396",
+     "nome": "Joseline Molozzi",
+     "orcid": "0000-0002-8256-5739",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Botany and Plant Ecology Studies",
+      "Geography and Environmental Studies",
+      "Coastal wetland ecosystem dynamics"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Um olhar para a Bacia do Rio Paraíba e seus biomas",
+      "ano": 2026,
+      "url": "https://doi.org/10.5281/zenodo.24258808",
+      "quantico": false
+     },
+     "relevancia": 24
+    }
+   ]
+  },
+  "ref-ifpb": {
+   "instituicao": {
+    "id": "I3018006580",
+    "nome": "Instituto Federal de Educação Ciência e Tecnologia da Paraíba",
+    "tipo": "education",
+    "trabalhos": 5353
+   },
+   "buscadoEm": "2026-11-19T00:49:11.201Z",
+   "pessoas": [
+    {
+     "id": "A5033164626",
+     "nome": "José Vinícius do Nascimento Silva",
+     "orcid": "0000-0001-9322-2101",
+     "trabalhos": 1,
+     "ultimoAno": 2013,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Computação quântica: uma abordagem simulacional",
+      "ano": 2013,
+      "url": "https://doi.org/10.18265/1517-03062015v1n23p34-40",
+      "quantico": true
+     },
+     "relevancia": 55,
+     "orcidVistoEm": "2026-11-19T00:49:12.384Z"
+    },
+    {
+     "id": "A5109609867",
+     "nome": "Carlos Alex Souza da Silva",
+     "orcid": "0000-0002-1586-9580",
+     "trabalhos": 1,
+     "ultimoAno": 2013,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Computação quântica: uma abordagem simulacional",
+      "ano": 2013,
+      "url": "https://doi.org/10.18265/1517-03062015v1n23p34-40",
+      "quantico": true
+     },
+     "relevancia": 55,
+     "orcidVistoEm": "2026-11-19T00:49:12.710Z"
+    },
+    {
+     "id": "A5137891386",
+     "nome": "Johann Early Torres de Alcântara",
+     "orcid": "",
+     "trabalhos": 7,
+     "ultimoAno": 2026,
+     "temas": [
+      "Artificial Intelligence in Education",
+      "Artificial Intelligence in Healthcare and Education",
+      "Education Pedagogy and Practices"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "APRENDER COM A INTELIGÊNCIA ARTIFICIAL: ENTRE A AUTONOMIA INTELECTUAL E A DEPENDÊNCIA TECNOLÓGICA",
+      "ano": 2026,
+      "url": "https://doi.org/10.70773/revistatopicos/794181406",
+      "quantico": false
+     },
+     "relevancia": 39
+    },
+    {
+     "id": "A5138248346",
+     "nome": "Pedro Antônio de Andrade da Silva",
+     "orcid": "0009-0009-5042-7823",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Advanced DC-DC Converters",
+      "Electric Power Systems and Control",
+      "Acute Ischemic Stroke Management"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Fonte de alimentação baseada no reaproveitamento de uma fonte ATX: regulação de carga e ruído",
+      "ano": 2026,
+      "url": "https://doi.org/10.5281/zenodo.22997319",
+      "quantico": false
+     },
+     "relevancia": 39,
+     "orcidVistoEm": "2026-11-19T00:49:13.053Z"
+    },
+    {
+     "id": "A5034806384",
+     "nome": "Daiana Correia de Lucena",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Antenna Design and Analysis",
+      "Advanced Antenna and Metasurface Technologies",
+      "Advanced DC-DC Converters"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Antena Vivaldi de Camada Única com Fendas Fractais de Sierpinski para Comunicações UWB",
+      "ano": 2026,
+      "url": "https://doi.org/10.5281/zenodo.22983408",
+      "quantico": false
+     },
+     "relevancia": 36
+    },
+    {
+     "id": "A5000692628",
+     "nome": "Antônio José Ferreira Gadelha",
+     "orcid": "0000-0002-1930-427X",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Phytochemicals and Antioxidant Activities",
+      "Agricultural and Biological Research"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Optimization of the Ultrasound-Assisted Extraction of Anthocyanins from Acerola (Malpighia emarginata) Using Response Surface Methodology",
+      "ano": 2026,
+      "url": "https://doi.org/10.21203/rs.3.rs-11423024/v1",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "orcidVistoEm": "2026-11-19T00:49:13.386Z"
+    },
+    {
+     "id": "A5089749216",
+     "nome": "Clarice Oliveira da Rocha",
+     "orcid": "0000-0002-8582-8717",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Phytochemicals and Antioxidant Activities",
+      "Agricultural and Biological Research"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Optimization of the Ultrasound-Assisted Extraction of Anthocyanins from Acerola (Malpighia emarginata) Using Response Surface Methodology",
+      "ano": 2026,
+      "url": "https://doi.org/10.21203/rs.3.rs-11423024/v1",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "orcidVistoEm": "2026-11-19T00:49:13.710Z"
+    },
+    {
+     "id": "A5161316634",
+     "nome": "João Lucas Guimarães Cavalcante",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Phytochemicals and Antioxidant Activities",
+      "Agricultural and Biological Research"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Optimization of the Ultrasound-Assisted Extraction of Anthocyanins from Acerola (Malpighia emarginata) Using Response Surface Methodology",
+      "ano": 2026,
+      "url": "https://doi.org/10.21203/rs.3.rs-11423024/v1",
+      "quantico": false
+     },
+     "relevancia": 33
+    },
+    {
+     "id": "A5161325477",
+     "nome": "Glória Maria Nunes Santos",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Phytochemicals and Antioxidant Activities",
+      "Agricultural and Biological Research"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Optimization of the Ultrasound-Assisted Extraction of Anthocyanins from Acerola (Malpighia emarginata) Using Response Surface Methodology",
+      "ano": 2026,
+      "url": "https://doi.org/10.21203/rs.3.rs-11423024/v1",
+      "quantico": false
+     },
+     "relevancia": 33
+    },
+    {
+     "id": "A5161304607",
+     "nome": "Riquelme Lima Cavalcante",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Phytochemicals and Antioxidant Activities",
+      "Agricultural and Biological Research"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Optimization of the Ultrasound-Assisted Extraction of Anthocyanins from Acerola (Malpighia emarginata) Using Response Surface Methodology",
+      "ano": 2026,
+      "url": "https://doi.org/10.21203/rs.3.rs-11423024/v1",
+      "quantico": false
+     },
+     "relevancia": 33
+    },
+    {
+     "id": "A5161358284",
+     "nome": "Jamily Fustino Silva",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Phytochemicals and Antioxidant Activities",
+      "Agricultural and Biological Research"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Optimization of the Ultrasound-Assisted Extraction of Anthocyanins from Acerola (Malpighia emarginata) Using Response Surface Methodology",
+      "ano": 2026,
+      "url": "https://doi.org/10.21203/rs.3.rs-11423024/v1",
+      "quantico": false
+     },
+     "relevancia": 33
+    },
+    {
+     "id": "A5113830624",
+     "nome": "Pedro Ribeiro",
+     "orcid": "0009-0008-0545-0680",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Advanced DC-DC Converters",
+      "Electric Power Systems and Control"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Fonte de alimentação baseada no reaproveitamento de uma fonte ATX: regulação de carga e ruído",
+      "ano": 2026,
+      "url": "https://doi.org/10.5281/zenodo.22997319",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "orcidVistoEm": "2026-11-19T00:49:14.076Z"
+    },
+    {
+     "id": "A5153022537",
+     "nome": "Felipe Teixeira Forte",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Advanced DC-DC Converters",
+      "Electric Power Systems and Control"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Fonte de alimentação baseada no reaproveitamento de uma fonte ATX: regulação de carga e ruído",
+      "ano": 2026,
+      "url": "https://doi.org/10.5281/zenodo.22997319",
+      "quantico": false
+     },
+     "relevancia": 33
+    },
+    {
+     "id": "A5153183845",
+     "nome": "Adelson Ataíde dos Santos Neto",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Advanced DC-DC Converters",
+      "Electric Power Systems and Control"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Fonte de alimentação baseada no reaproveitamento de uma fonte ATX: regulação de carga e ruído",
+      "ano": 2026,
+      "url": "https://doi.org/10.5281/zenodo.22997319",
+      "quantico": false
+     },
+     "relevancia": 33
+    },
+    {
+     "id": "A5153178985",
+     "nome": "Otávio Horácio de Medeiros Neto",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Advanced DC-DC Converters",
+      "Electric Power Systems and Control"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Fonte de alimentação baseada no reaproveitamento de uma fonte ATX: regulação de carga e ruído",
+      "ano": 2026,
+      "url": "https://doi.org/10.5281/zenodo.22997319",
+      "quantico": false
+     },
+     "relevancia": 33
+    }
+   ]
+  },
+  "ref-unicamp": {
+   "instituicao": {
+    "id": "I181391015",
+    "nome": "Universidade Estadual de Campinas (UNICAMP)",
+    "tipo": "education",
+    "trabalhos": 212465
+   },
+   "buscadoEm": "2026-11-19T00:49:14.717Z",
+   "pessoas": [
+    {
+     "id": "A5004661568",
+     "nome": "Thiago P. Mayer Alegre",
+     "orcid": "0000-0002-8999-8369",
+     "trabalhos": 5,
+     "ultimoAno": 2026,
+     "temas": [
+      "Photonic and Optical Devices",
+      "Advanced Fiber Laser Technologies",
+      "Mechanical and Optical Resonators"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Harnessing optical parametric processes with photonic molecules",
+      "ano": 2024,
+      "url": "https://doi.org/10.1117/12.3004504",
+      "quantico": true
+     },
+     "relevancia": 85,
+     "orcidVistoEm": "2026-11-19T00:49:26.523Z"
+    },
+    {
+     "id": "A5009299969",
+     "nome": "Luca O. Trinchão",
+     "orcid": "0000-0002-9062-3388",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Photonic and Optical Devices",
+      "Mechanical and Optical Resonators",
+      "Advanced Fiber Laser Technologies"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Harnessing optical parametric processes with photonic molecules",
+      "ano": 2024,
+      "url": "https://doi.org/10.1117/12.3004504",
+      "quantico": true
+     },
+     "relevancia": 82,
+     "email": "lucat@ifi.unicamp.br",
+     "orcidVistoEm": "2026-11-19T00:49:26.892Z"
+    },
+    {
+     "id": "A5038062757",
+     "nome": "Gustavo S. Wiederhecker",
+     "orcid": "0000-0002-8216-6797",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Photonic and Optical Devices",
+      "Mechanical and Optical Resonators",
+      "Advanced Fiber Laser Technologies"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Harnessing optical parametric processes with photonic molecules",
+      "ano": 2024,
+      "url": "https://doi.org/10.1117/12.3004504",
+      "quantico": true
+     },
+     "relevancia": 82,
+     "orcidVistoEm": "2026-11-19T00:49:27.215Z"
+    },
+    {
+     "id": "A5085150881",
+     "nome": "Francisco P. M. Rouxinol",
+     "orcid": "0000-0003-2899-5364",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture",
+      "Radiation Effects in Electronics"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Design, Fabrication and Characterization of a Superconducting Transmon Qubit Fabricated in Brazil",
+      "ano": 2026,
+      "url": "https://doi.org/10.1109/sbmicro70495.2026.11684417",
+      "quantico": true
+     },
+     "relevancia": 79,
+     "orcidVistoEm": "2026-11-19T00:49:27.550Z"
+    },
+    {
+     "id": "A5024710127",
+     "nome": "Luís E. E. de Araujo",
+     "orcid": "0000-0002-0372-6822",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum optics and atomic interactions"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Generation of reconfigurable hypercubic graph states in one to four dimensions in a simple optical system",
+      "ano": 2026,
+      "url": "https://doi.org/10.1126/sciadv.aea8426",
+      "quantico": true
+     },
+     "relevancia": 79,
+     "orcidVistoEm": "2026-11-19T00:49:27.900Z"
+    },
+    {
+     "id": "A5099623072",
+     "nome": "L. A. M. Rattighieri",
+     "orcid": "0009-0008-9627-6357",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Metaheuristic Optimization Algorithms Research"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "PUBO Formulation for MST and Application to Optimum-Path Forest",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2605.20637",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "orcidVistoEm": "2026-11-19T00:49:28.270Z"
+    },
+    {
+     "id": "A5015514371",
+     "nome": "Caio Teixeira",
+     "orcid": "0000-0002-9902-0866",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Vehicular Ad Hoc Networks (VANETs)",
+      "Cryptography and Data Security"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Cross-Layer Performance Analysis of Post-Quantum Digital Signatures in Urban 5G-V2X Communications",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sbseg.2026.27766",
+      "quantico": true
+     },
+     "relevancia": 73,
+     "email": "caio@dca.fee.unicamp.br",
+     "orcidVistoEm": "2026-11-19T00:49:28.624Z"
+    },
+    {
+     "id": "A5066754831",
+     "nome": "Marco Aurélio Amaral Henriques",
+     "orcid": "0000-0001-9241-2229",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Vehicular Ad Hoc Networks (VANETs)",
+      "Cryptography and Data Security"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Cross-Layer Performance Analysis of Post-Quantum Digital Signatures in Urban 5G-V2X Communications",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sbseg.2026.27766",
+      "quantico": true
+     },
+     "relevancia": 73,
+     "orcidVistoEm": "2026-11-19T00:49:28.971Z"
+    },
+    {
+     "id": "A5136729057",
+     "nome": "Diego Molina",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Design, Fabrication and Characterization of a Superconducting Transmon Qubit Fabricated in Brazil",
+      "ano": 2026,
+      "url": "https://doi.org/10.1109/sbmicro70495.2026.11684417",
+      "quantico": true
+     },
+     "relevancia": 73
+    },
+    {
+     "id": "A5094282847",
+     "nome": "Gustavo Moreto",
+     "orcid": "0009-0009-8493-8349",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Design, Fabrication and Characterization of a Superconducting Transmon Qubit Fabricated in Brazil",
+      "ano": 2026,
+      "url": "https://doi.org/10.1109/sbmicro70495.2026.11684417",
+      "quantico": true
+     },
+     "relevancia": 73,
+     "orcidVistoEm": "2026-11-19T00:49:29.323Z"
+    },
+    {
+     "id": "A5134699502",
+     "nome": "Saulo Alberton",
+     "orcid": "0000-0002-7390-3660",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Design, Fabrication and Characterization of a Superconducting Transmon Qubit Fabricated in Brazil",
+      "ano": 2026,
+      "url": "https://doi.org/10.1109/sbmicro70495.2026.11684417",
+      "quantico": true
+     },
+     "relevancia": 73,
+     "orcidVistoEm": "2026-11-19T00:49:29.670Z"
+    },
+    {
+     "id": "A5146812061",
+     "nome": "Ednilson Cunha",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Design, Fabrication and Characterization of a Superconducting Transmon Qubit Fabricated in Brazil",
+      "ano": 2026,
+      "url": "https://doi.org/10.1109/sbmicro70495.2026.11684417",
+      "quantico": true
+     },
+     "relevancia": 73
+    },
+    {
+     "id": "A5101297686",
+     "nome": "Lucas Emanuel Antunes Porto",
+     "orcid": "0000-0001-9509-5951",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Mechanics and Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Measurement incompatibility and quantum steering via linear programming",
+      "ano": 2026,
+      "url": "https://doi.org/10.22331/q-2026-06-19-2141",
+      "quantico": true
+     },
+     "relevancia": 73,
+     "orcidVistoEm": "2026-11-19T00:49:29.993Z"
+    },
+    {
+     "id": "A5121800704",
+     "nome": "Erico Azevedo",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Mechanics and Applications",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Unveiling Entanglement. Information Fields as the Fabric of Nonlocality",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/978-981-95-1742-8_3",
+      "quantico": true
+     },
+     "relevancia": 73
+    },
+    {
+     "id": "A5121762194",
+     "nome": "José Pissolato Filho",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Mechanics and Applications",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Unveiling Entanglement. Information Fields as the Fabric of Nonlocality",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/978-981-95-1742-8_3",
+      "quantico": true
+     },
+     "relevancia": 73
+    }
+   ]
+  },
+  "ref-ufsc": {
+   "instituicao": {
+    "id": "I4104125",
+    "nome": "Universidade Federal de Santa Catarina",
+    "tipo": "education",
+    "trabalhos": 121181
+   },
+   "buscadoEm": "2026-11-19T00:49:30.701Z",
+   "pessoas": [
+    {
+     "id": "A5039242227",
+     "nome": "Ricardo Felipe Custódio",
+     "orcid": "0000-0001-9611-5694",
+     "trabalhos": 10,
+     "ultimoAno": 2026,
+     "temas": [
+      "Cryptography and Data Security",
+      "Advanced Authentication Protocols Security",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "GPU Acceleration of VOLEitH-Based Post-Quantum Signatures: A Reusable Fragment-Graph Framework",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sbseg.2026.29317",
+      "quantico": true
+     },
+     "relevancia": 100,
+     "orcidVistoEm": "2026-11-19T00:49:36.300Z"
+    },
+    {
+     "id": "A5091316543",
+     "nome": "Eduardo I. Duzzioni",
+     "orcid": "0000-0002-8971-2033",
+     "trabalhos": 16,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography",
+      "Quantum many-body systems"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Semi-Analytical Geometric Synthesis of Robust Quantum Controls",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2611.08107",
+      "quantico": true
+     },
+     "relevancia": 100,
+     "orcidVistoEm": "2026-11-19T00:49:36.649Z"
+    },
+    {
+     "id": "A5055039917",
+     "nome": "Rafael de Santiago",
+     "orcid": "0000-0001-7033-125X",
+     "trabalhos": 8,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography",
+      "Software Testing and Debugging Techniques"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Semi-Analytical Geometric Synthesis of Robust Quantum Controls",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2611.08107",
+      "quantico": true
+     },
+     "relevancia": 94,
+     "email": "r.santiago@ufsc.br",
+     "orcidVistoEm": "2026-11-19T00:49:37.002Z"
+    },
+    {
+     "id": "A5026352086",
+     "nome": "Evandro C. R. Rosa",
+     "orcid": "0000-0002-8197-9454",
+     "trabalhos": 7,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography",
+      "Air Traffic Management and Optimization"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Applying the Quantum Approximate Optimization Algorithm to the UAV Collision Avoidance Problem",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sbccq.2026.22455",
+      "quantico": true
+     },
+     "relevancia": 91,
+     "email": "evandro.crr@posgrad.ufsc.br",
+     "orcidVistoEm": "2026-11-19T00:49:37.337Z"
+    },
+    {
+     "id": "A5072803951",
+     "nome": "Jerusa Marchi",
+     "orcid": "0000-0002-4864-3764",
+     "trabalhos": 7,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography",
+      "Parallel Computing and Optimization Techniques"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Ket Programming Guide",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sbccq.2026.20785",
+      "quantico": true
+     },
+     "relevancia": 91,
+     "email": "jerusa.marchi@ufsc.br",
+     "orcidVistoEm": "2026-11-19T00:49:37.672Z"
+    },
+    {
+     "id": "A5115087451",
+     "nome": "Eduardo Willwock Lussi",
+     "orcid": "0009-0008-8805-3057",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Semi-Analytical Geometric Synthesis of Robust Quantum Controls",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2611.08107",
+      "quantico": true
+     },
+     "relevancia": 82,
+     "orcidVistoEm": "2026-11-19T00:49:38.021Z"
+    },
+    {
+     "id": "A5054078973",
+     "nome": "P. H. Souto Ribeiro",
+     "orcid": "0000-0002-0060-1717",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Advanced Thermodynamics and Statistical Mechanics",
+      "Orbital Angular Momentum in Optics"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Stimulated Parametric Down-Conversion: From Foundational Coherence to Structured Light Applications",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2610.03241",
+      "quantico": true
+     },
+     "relevancia": 82,
+     "orcidVistoEm": "2026-11-19T00:49:38.390Z"
+    },
+    {
+     "id": "A5089010494",
+     "nome": "João P. Engster",
+     "orcid": "0000-0003-0683-7875",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum many-body systems"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Global Entanglement Quantification via Classical Shadows",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2609.21579",
+      "quantico": true
+     },
+     "relevancia": 82,
+     "email": "joao.engster@posgrad.ufsc.br",
+     "orcidVistoEm": "2026-11-19T00:49:38.751Z"
+    },
+    {
+     "id": "A5071834844",
+     "nome": "R. Medeiros de Araújo",
+     "orcid": "0000-0001-5585-1636",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Orbital Angular Momentum in Optics",
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Stimulated Parametric Down-Conversion: From Foundational Coherence to Structured Light Applications",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2610.03241",
+      "quantico": true
+     },
+     "relevancia": 79,
+     "orcidVistoEm": "2026-11-19T00:49:39.084Z"
+    },
+    {
+     "id": "A5038852822",
+     "nome": "Evandro C. R. da Rosa",
+     "orcid": "",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Time rescaling for second-order feedback-based quantum optimization",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2609.21640",
+      "quantico": true
+     },
+     "relevancia": 79
+    },
+    {
+     "id": "A5119267426",
+     "nome": "Letícia Bertuzzi",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography",
+      "Quantum many-body systems"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Time rescaling for second-order feedback-based quantum optimization",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2609.21640",
+      "quantico": true
+     },
+     "relevancia": 76
+    },
+    {
+     "id": "A5126534708",
+     "nome": "P. H. Souto Ribeiro",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture",
+      "Orbital Angular Momentum in Optics"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "High-Dimensional Deterministic Secure Quantum Communication with Reed-Solomon Erasure Coding",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2608.27679",
+      "quantico": true
+     },
+     "relevancia": 76
+    },
+    {
+     "id": "A5045115519",
+     "nome": "Raphael César de Souza Pimenta",
+     "orcid": "0000-0003-2232-3356",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography",
+      "Semiconductor Quantum Structures and Devices"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Experimental Investigation of the role of Spatial Correlations in Optical Integration with Heralded Single Photons",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/s13538-025-02006-2",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "orcidVistoEm": "2026-11-19T00:49:39.439Z"
+    },
+    {
+     "id": "A5064786942",
+     "nome": "Alexandre Augusto Giron",
+     "orcid": "0000-0001-7668-7505",
+     "trabalhos": 4,
+     "ultimoAno": 2024,
+     "temas": [
+      "Cryptography and Data Security",
+      "Quantum Information and Cryptography",
+      "Cryptography and Residue Arithmetic"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Hybrid Post-Quantum Cryptography in Network Protocols",
+      "ano": 2024,
+      "url": "https://doi.org/10.5753/sbseg_estendido.2024.241384",
+      "quantico": true
+     },
+     "relevancia": 74,
+     "orcidVistoEm": "2026-11-19T00:49:39.822Z"
+    },
+    {
+     "id": "A5108264934",
+     "nome": "Hector Bessa Silveira",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Semi-Analytical Geometric Synthesis of Robust Quantum Controls",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2611.08107",
+      "quantico": true
+     },
+     "relevancia": 73
+    }
+   ]
+  },
+  "ref-ufmg": {
+   "instituicao": {
+    "id": "I110200422",
+    "nome": "Universidade Federal de Minas Gerais",
+    "tipo": "education",
+    "trabalhos": 156548
+   },
+   "buscadoEm": "2026-11-19T00:49:40.596Z",
+   "pessoas": [
+    {
+     "id": "A5046370637",
+     "nome": "Marcos André Gonçalves",
+     "orcid": "0000-0002-2075-3363",
+     "trabalhos": 5,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Information Retrieval and Search Behavior",
+      "Machine Learning and Data Classification"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Overview of QuantumCLEF 2026: The Third Quantum Computing Challenge for Information Retrieval and Recommender Systems at CLEF",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/978-3-032-39150-6_34",
+      "quantico": true
+     },
+     "relevancia": 85,
+     "orcidVistoEm": "2026-11-19T00:49:52.353Z"
+    },
+    {
+     "id": "A5018690278",
+     "nome": "Washington Luiz Miranda da Cunha",
+     "orcid": "0000-0002-1988-8412",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Information Retrieval and Search Behavior",
+      "Machine Learning and Data Classification"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "QuantumCLEF 2026 The Third Edition of the Quantum Computing Lab at CLEF",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/978-3-032-21321-1_41",
+      "quantico": true
+     },
+     "relevancia": 82,
+     "orcidVistoEm": "2026-11-19T00:49:52.699Z"
+    },
+    {
+     "id": "A5000748340",
+     "nome": "Janier Arias-García",
+     "orcid": "0000-0001-5203-3048",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Cryptographic Implementations and Security",
+      "Cryptography and Residue Arithmetic",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "A Footprint-Aware Hash Function Study Applied to CRYSTALS-Kyber",
+      "ano": 2026,
+      "url": "https://doi.org/10.1109/sbcci69725.2026.11706733",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "orcidVistoEm": "2026-11-19T00:49:53.027Z"
+    },
+    {
+     "id": "A5053384282",
+     "nome": "Gabriel Coutinho",
+     "orcid": "0000-0002-1581-431X",
+     "trabalhos": 4,
+     "ultimoAno": 2024,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Graph theory and applications",
+      "Quantum Mechanics and Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Unexpected averages of mixing matrices",
+      "ano": 2024,
+      "url": "https://doi.org/10.1007/s11128-024-04480-0",
+      "quantico": true
+     },
+     "relevancia": 74,
+     "cargo": "Assistant Professor, Computer Science",
+     "orcidVistoEm": "2026-11-19T00:49:53.358Z"
+    },
+    {
+     "id": "A5060546439",
+     "nome": "Angelo Guimarães Silva",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Cryptographic Implementations and Security",
+      "Cryptography and Residue Arithmetic"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "A Footprint-Aware Hash Function Study Applied to CRYSTALS-Kyber",
+      "ano": 2026,
+      "url": "https://doi.org/10.1109/sbcci69725.2026.11706733",
+      "quantico": true
+     },
+     "relevancia": 73
+    },
+    {
+     "id": "A5133052801",
+     "nome": "GUILHERME ZAMBUZI",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Mechanics and Applications",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Warning to Quantum Computing Researchers: A Physical Limit May Invalidade Massive-Superposition Architectures",
+      "ano": 2026,
+      "url": "https://doi.org/10.5281/zenodo.19447069",
+      "quantico": true
+     },
+     "relevancia": 73
+    },
+    {
+     "id": "A5103485976",
+     "nome": "M. A. M. Simões Gonçalves",
+     "orcid": "0000-0002-2075-3363",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Information Retrieval and Search Behavior"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "QuantumCLEF 2026 The Third Edition of the Quantum Computing Lab at CLEF",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/978-3-032-21321-1_41",
+      "quantico": true
+     },
+     "relevancia": 73,
+     "orcidVistoEm": "2026-11-19T00:49:53.712Z"
+    },
+    {
+     "id": "A5052857014",
+     "nome": "Gustavo Augusto Pires",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2025,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Enhancing Image Classification in Quantum Computing: A Study on Preprocessing Techniques and Qubit Limitations",
+      "ano": 2025,
+      "url": "https://doi.org/10.14428/esann/2025.es2025-195",
+      "quantico": true
+     },
+     "relevancia": 69
+    },
+    {
+     "id": "A5069970731",
+     "nome": "Frederico Gualberto Ferreira Coelho",
+     "orcid": "0000-0002-7868-6968",
+     "trabalhos": 1,
+     "ultimoAno": 2025,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Enhancing Image Classification in Quantum Computing: A Study on Preprocessing Techniques and Qubit Limitations",
+      "ano": 2025,
+      "url": "https://doi.org/10.14428/esann/2025.es2025-195",
+      "quantico": true
+     },
+     "relevancia": 69,
+     "orcidVistoEm": "2026-11-19T00:49:54.074Z"
+    },
+    {
+     "id": "A5102336246",
+     "nome": "Vitor Marques",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Mechanics and Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Unexpected averages of mixing matrices",
+      "ano": 2024,
+      "url": "https://doi.org/10.1007/s11128-024-04480-0",
+      "quantico": true
+     },
+     "relevancia": 65
+    },
+    {
+     "id": "A5052827811",
+     "nome": "Sebastião Pádua",
+     "orcid": "0000-0001-9429-1205",
+     "trabalhos": 3,
+     "ultimoAno": 2019,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Mechanics and Applications",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Fractional topological phase measurement with a hyperentangled photon source",
+      "ano": 2019,
+      "url": "https://doi.org/10.1038/s41598-018-37344-6",
+      "quantico": true
+     },
+     "relevancia": 61,
+     "orcidVistoEm": "2026-11-19T00:49:54.417Z"
+    },
+    {
+     "id": "A5065979485",
+     "nome": "A. A. Matoso",
+     "orcid": "0000-0003-4039-0544",
+     "trabalhos": 2,
+     "ultimoAno": 2019,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Mechanics and Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Fractional topological phase measurement with a hyperentangled photon source",
+      "ano": 2019,
+      "url": "https://doi.org/10.1038/s41598-018-37344-6",
+      "quantico": true
+     },
+     "relevancia": 58,
+     "orcidVistoEm": "2026-11-19T00:49:54.757Z"
+    },
+    {
+     "id": "A5069297782",
+     "nome": "Gláucia Murta",
+     "orcid": "0000-0001-6020-0475",
+     "trabalhos": 2,
+     "ultimoAno": 2016,
+     "temas": [
+      "Quantum Mechanics and Applications",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Generalized xor games with d outcomes and the task of nonlocal computation",
+      "ano": 2016,
+      "url": "https://doi.org/10.1103/physreva.93.022333",
+      "quantico": true
+     },
+     "relevancia": 58,
+     "orcidVistoEm": "2026-11-19T00:49:55.111Z"
+    },
+    {
+     "id": "A5110605551",
+     "nome": "R. A. Ribeiro",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2019,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Mechanics and Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Fractional topological phase measurement with a hyperentangled photon source",
+      "ano": 2019,
+      "url": "https://doi.org/10.1038/s41598-018-37344-6",
+      "quantico": true
+     },
+     "relevancia": 55
+    },
+    {
+     "id": "A5035842960",
+     "nome": "Nadja K. Bernardes",
+     "orcid": "0000-0001-6307-411X",
+     "trabalhos": 1,
+     "ultimoAno": 2019,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Mechanics and Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Correlation measure detecting almost all non-Markovian evolutions",
+      "ano": 2019,
+      "url": "https://doi.org/10.1103/physreva.99.012303",
+      "quantico": true
+     },
+     "relevancia": 55,
+     "orcidVistoEm": "2026-11-19T00:49:55.436Z"
+    }
+   ]
+  },
+  "ref-unb": {
+   "instituicao": {
+    "id": "I150729083",
+    "nome": "Universidade de Brasília",
+    "tipo": "education",
+    "trabalhos": 106550
+   },
+   "buscadoEm": "2026-11-19T00:49:56.091Z",
+   "pessoas": [
+    {
+     "id": "A5064729788",
+     "nome": "Alexandre V. Dodonov",
+     "orcid": "0000-0002-7142-7453",
+     "trabalhos": 16,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Electrodynamics and Casimir Effect",
+      "Quantum Information and Cryptography",
+      "Quantum optics and atomic interactions"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Comparison of the standard and dressed-picture master equations for the quantum Rabi model in the ultrastrong coupling regime",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2604.08852",
+      "quantico": true
+     },
+     "relevancia": 100,
+     "orcidVistoEm": "2026-11-19T00:49:58.560Z"
+    },
+    {
+     "id": "A5000905065",
+     "nome": "Edna Dias Canedo",
+     "orcid": "0000-0002-2159-339X",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Digitalization, Law, and Regulation",
+      "IoT and Edge/Fog Computing"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Data Security Challenges in the Quantum Computing Transition: Privacy Implications for the Brazilian Public Sector",
+      "ano": 2026,
+      "url": "https://doi.org/10.5220/0014675100004018",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "email": "ednacanedo@unb.br",
+     "orcidVistoEm": "2026-11-19T00:49:58.928Z"
+    },
+    {
+     "id": "A5088213652",
+     "nome": "Filippo Giovanni Ghiglieno",
+     "orcid": "0000-0002-7795-6858",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "CHSH Constrained Variational Attacks on the E91 Quantum Key Distribution Protocol",
+      "ano": 2026,
+      "url": "https://doi.org/10.14209/sbrt.2026.1571295613",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "orcidVistoEm": "2026-11-19T00:49:59.283Z"
+    },
+    {
+     "id": "A5009017026",
+     "nome": "Roberto Rodrigues Filho",
+     "orcid": "0000-0002-3323-0246",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Air Traffic Management and Optimization"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Applying the Quantum Approximate Optimization Algorithm to the UAV Collision Avoidance Problem",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sbccq.2026.22455",
+      "quantico": true
+     },
+     "relevancia": 73,
+     "email": "roberto.filho@unb.br",
+     "orcidVistoEm": "2026-11-19T00:49:59.647Z"
+    },
+    {
+     "id": "A5133517133",
+     "nome": "Alexandre P. Costa",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Strong Light-Matter Interactions",
+      "Quantum optics and atomic interactions"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Comparison of the standard and dressed-picture master equations for the quantum Rabi model in the ultrastrong coupling regime",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2604.08852",
+      "quantico": true
+     },
+     "relevancia": 73
+    },
+    {
+     "id": "A5133529410",
+     "nome": "Hebert S. Rego de Oliveira",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Strong Light-Matter Interactions",
+      "Quantum optics and atomic interactions"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Comparison of the standard and dressed-picture master equations for the quantum Rabi model in the ultrastrong coupling regime",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2604.08852",
+      "quantico": true
+     },
+     "relevancia": 73
+    },
+    {
+     "id": "A5138118988",
+     "nome": "Loyane Fernandes",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Digitalization, Law, and Regulation"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Data Security Challenges in the Quantum Computing Transition: Privacy Implications for the Brazilian Public Sector",
+      "ano": 2026,
+      "url": "https://doi.org/10.5220/0014675100004018",
+      "quantico": true
+     },
+     "relevancia": 73
+    },
+    {
+     "id": "A5099473215",
+     "nome": "Stefano Luppi Spósito",
+     "orcid": "0009-0003-1938-1923",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Digitalization, Law, and Regulation"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Data Security Challenges in the Quantum Computing Transition: Privacy Implications for the Brazilian Public Sector",
+      "ano": 2026,
+      "url": "https://doi.org/10.5220/0014675100004018",
+      "quantico": true
+     },
+     "relevancia": 73,
+     "orcidVistoEm": "2026-11-19T00:49:59.982Z"
+    },
+    {
+     "id": "A5137067737",
+     "nome": "Fábio Lopes de Mendonça",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Digitalization, Law, and Regulation"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Data Security Challenges in the Quantum Computing Transition: Privacy Implications for the Brazilian Public Sector",
+      "ano": 2026,
+      "url": "https://doi.org/10.5220/0014675100004018",
+      "quantico": true
+     },
+     "relevancia": 73
+    },
+    {
+     "id": "A5041036045",
+     "nome": "Demerson Nunes Gonçalves",
+     "orcid": "0000-0001-9130-7363",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "CHSH Constrained Variational Attacks on the E91 Quantum Key Distribution Protocol",
+      "ano": 2026,
+      "url": "https://doi.org/10.14209/sbrt.2026.1571295613",
+      "quantico": true
+     },
+     "relevancia": 73,
+     "orcidVistoEm": "2026-11-19T00:50:00.313Z"
+    },
+    {
+     "id": "A5144320016",
+     "nome": "Fernando M. Araújo-Moreira",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "CHSH Constrained Variational Attacks on the E91 Quantum Key Distribution Protocol",
+      "ano": 2026,
+      "url": "https://doi.org/10.14209/sbrt.2026.1571295613",
+      "quantico": true
+     },
+     "relevancia": 73
+    },
+    {
+     "id": "A5014589723",
+     "nome": "John Fredy Ricardo Marroquin",
+     "orcid": "0000-0002-1969-452X",
+     "trabalhos": 2,
+     "ultimoAno": 2025,
+     "temas": [
+      "Advanced Semiconductor Detectors and Materials",
+      "Semiconductor materials and interfaces",
+      "Quantum optics and atomic interactions"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Probing the quantum-classical boundary with optical beam splitters",
+      "ano": 2025,
+      "url": "https://doi.org/10.1590/1806-9126-rbef-2025-0369",
+      "quantico": true
+     },
+     "relevancia": 72,
+     "orcidVistoEm": "2026-11-19T00:50:00.634Z"
+    },
+    {
+     "id": "A5120415254",
+     "nome": "H.R. Schelb",
+     "orcid": "0009-0002-4452-2321",
+     "trabalhos": 1,
+     "ultimoAno": 2025,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Electrodynamics and Casimir Effect"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Metrological power of single-qubit dynamical Casimir effect in circuit QED",
+      "ano": 2025,
+      "url": "https://doi.org/10.1016/j.physleta.2025.131163",
+      "quantico": true
+     },
+     "relevancia": 69,
+     "orcidVistoEm": "2026-11-19T00:50:00.966Z"
+    },
+    {
+     "id": "A5032070347",
+     "nome": "Werner L. Treptow",
+     "orcid": "0000-0003-4564-3205",
+     "trabalhos": 1,
+     "ultimoAno": 2025,
+     "temas": [
+      "Extracellular vesicles in disease",
+      "Nanoparticle-Based Drug Delivery"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Quantum machine learning-based electrokinetic mining for the identification of nanoparticles and exosomes with minimal training data",
+      "ano": 2025,
+      "url": "https://doi.org/10.1016/j.bioactmat.2025.03.023",
+      "quantico": true
+     },
+     "relevancia": 69,
+     "orcidVistoEm": "2026-11-19T00:50:01.331Z"
+    },
+    {
+     "id": "A5053326765",
+     "nome": "Luiz Fernando Roncaratti",
+     "orcid": "0000-0003-1804-3650",
+     "trabalhos": 1,
+     "ultimoAno": 2025,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Mechanics and Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Geradores de números aleatórios: da pseudoaleatoriedade à verdadeira aleatoriedade na era da segunda revolução quântica**",
+      "ano": 2025,
+      "url": "https://doi.org/10.1590/1806-9126-rbef-2024-0469",
+      "quantico": true
+     },
+     "relevancia": 69,
+     "orcidVistoEm": "2026-11-19T00:50:01.690Z"
+    }
+   ]
+  },
+  "ref-ufrn": {
+   "instituicao": {
+    "id": "I35046152",
+    "nome": "Universidade Federal do Rio Grande do Norte",
+    "tipo": "education",
+    "trabalhos": 65732
+   },
+   "buscadoEm": "2026-11-19T00:50:02.321Z",
+   "pessoas": [
+    {
+     "id": "A5071583024",
+     "nome": "Rafael Chaves",
+     "orcid": "0000-0001-8493-4019",
+     "trabalhos": 19,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Mechanics and Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Quantum prepare-and-measure scenarios: concepts and methods",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2610.20725",
+      "quantico": true
+     },
+     "relevancia": 100,
+     "orcidVistoEm": "2026-11-19T00:50:03.377Z"
+    },
+    {
+     "id": "A5080932274",
+     "nome": "Anderson Paiva Cruz",
+     "orcid": "0000-0003-1505-352X",
+     "trabalhos": 13,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Advanced Algebra and Logic",
+      "Blockchain Technology Applications and Security"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Crypto-Agile Ethereum Transactions: A Hybrid Post-Quantum Architecture for Besu",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sbseg.2026.29260",
+      "quantico": true
+     },
+     "relevancia": 100,
+     "orcidVistoEm": "2026-11-19T00:50:03.725Z"
+    },
+    {
+     "id": "A5095912601",
+     "nome": "Santiago Zamora",
+     "orcid": "0000-0002-1457-4190",
+     "trabalhos": 5,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Mechanics and Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Quantum prepare-and-measure scenarios: concepts and methods",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2610.20725",
+      "quantico": true
+     },
+     "relevancia": 85,
+     "orcidVistoEm": "2026-11-19T00:50:04.064Z"
+    },
+    {
+     "id": "A5047147763",
+     "nome": "Alberto B. de Palhares",
+     "orcid": "0000-0003-1942-245X",
+     "trabalhos": 5,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography",
+      "Model Reduction and Neural Networks"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Quantum physics-informed neural network for scattered wavefields",
+      "ano": 2026,
+      "url": "https://doi.org/10.1142/s0129183126430096",
+      "quantico": true
+     },
+     "relevancia": 85,
+     "orcidVistoEm": "2026-11-19T00:50:04.394Z"
+    },
+    {
+     "id": "A5032266757",
+     "nome": "Rafael A. Macêdo",
+     "orcid": "0000-0001-5494-7732",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Predicting Magic from Very Few Measurements",
+      "ano": 2026,
+      "url": "https://doi.org/10.1103/2xnf-jcyn",
+      "quantico": true
+     },
+     "relevancia": 82,
+     "orcidVistoEm": "2026-11-19T00:50:04.724Z"
+    },
+    {
+     "id": "A5042277680",
+     "nome": "Joab M. Varela",
+     "orcid": "0000-0001-9182-6104",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography",
+      "Quantum many-body systems"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Exploring Clifford and near-Clifford initialization strategies for quantum variational optimization",
+      "ano": 2026,
+      "url": "https://doi.org/10.1142/s0129183126430059",
+      "quantico": true
+     },
+     "relevancia": 82,
+     "orcidVistoEm": "2026-11-19T00:50:05.061Z"
+    },
+    {
+     "id": "A5119868782",
+     "nome": "Tailan S. Sarubi",
+     "orcid": "0009-0009-2046-6346",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Mechanics and Applications",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Detection Efficiency Bounds in (Semi-)Device-Independent Scenarios",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/s13538-026-02008-8",
+      "quantico": true
+     },
+     "relevancia": 82,
+     "cargo": "Doutorando, Departamento de Física teórica e experimental",
+     "orcidVistoEm": "2026-11-19T00:50:05.440Z"
+    },
+    {
+     "id": "A5003146671",
+     "nome": "Ramon dos Reis Fontes",
+     "orcid": "0000-0003-0012-4284",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Blockchain Technology Applications and Security",
+      "Cryptography and Data Security",
+      "Security in Wireless Sensor Networks"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Crypto-Agile Ethereum Transactions: A Hybrid Post-Quantum Architecture for Besu",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sbseg.2026.29260",
+      "quantico": true
+     },
+     "relevancia": 79,
+     "email": "ramon.fontes@imd.ufrn.br",
+     "orcidVistoEm": "2026-11-19T00:50:05.798Z"
+    },
+    {
+     "id": "A5054343481",
+     "nome": "Davide Poderini",
+     "orcid": "0000-0003-0577-1608",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Mechanics and Applications",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Randomness certification in a quantum network with independent sources",
+      "ano": 2026,
+      "url": "https://doi.org/10.1126/sciadv.aea8571",
+      "quantico": true
+     },
+     "relevancia": 79,
+     "orcidVistoEm": "2026-11-19T00:50:06.156Z"
+    },
+    {
+     "id": "A5061792127",
+     "nome": "George Moreno",
+     "orcid": "0000-0001-6741-9269",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Mechanics and Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Bounding Freedom of Choice via Causal Network Embeddings",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2611.14791",
+      "quantico": true
+     },
+     "relevancia": 79,
+     "orcidVistoEm": "2026-11-19T00:50:06.503Z"
+    },
+    {
+     "id": "A5144455404",
+     "nome": "Ramon Fava",
+     "orcid": "0000-0003-3649-755X",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Blockchain Technology Applications and Security",
+      "Cryptography and Data Security"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Crypto-Agile Ethereum Transactions: A Hybrid Post-Quantum Architecture for Besu",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sbseg.2026.29260",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "orcidVistoEm": "2026-11-19T00:50:06.813Z"
+    },
+    {
+     "id": "A5144441984",
+     "nome": "Leonardo Rosendo",
+     "orcid": "0009-0006-6342-6940",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Blockchain Technology Applications and Security",
+      "Cryptography and Data Security"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Crypto-Agile Ethereum Transactions: A Hybrid Post-Quantum Architecture for Besu",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sbseg.2026.29260",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "cargo": "",
+     "orcidVistoEm": "2026-11-19T00:50:07.156Z"
+    },
+    {
+     "id": "A5144448719",
+     "nome": "Junior Petry",
+     "orcid": "0009-0001-4452-1073",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Blockchain Technology Applications and Security",
+      "Cryptography and Data Security"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Crypto-Agile Ethereum Transactions: A Hybrid Post-Quantum Architecture for Besu",
+      "ano": 2026,
+      "url": "https://doi.org/10.5753/sbseg.2026.29260",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "cargo": "",
+     "orcidVistoEm": "2026-11-19T00:50:07.494Z"
+    },
+    {
+     "id": "A5122032188",
+     "nome": "Rafael Chaves",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Quantum State Discrimination With Stabilizer Circuits",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2607.27339",
+      "quantico": true
+     },
+     "relevancia": 76
+    },
+    {
+     "id": "A5110996268",
+     "nome": "Diogo Henrique Gonçalves Duarte",
+     "orcid": "0009-0009-6157-3519",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Model Reduction and Neural Networks",
+      "Quantum many-body systems"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Quantum physics-informed neural network for scattered wavefields",
+      "ano": 2026,
+      "url": "https://doi.org/10.1142/s0129183126430096",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "orcidVistoEm": "2026-11-19T00:50:07.852Z"
+    }
+   ]
+  },
+  "ref-cnpq": {
+   "instituicao": {
+    "id": "I11385950",
+    "nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+    "tipo": "government",
+    "trabalhos": 22835
+   },
+   "buscadoEm": "2026-11-19T00:50:08.490Z",
+   "pessoas": [
+    {
+     "id": "A5080449655",
+     "nome": "Evaldo M. F. Curado",
+     "orcid": "0000-0001-7547-4882",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Mechanics and Applications",
+      "Quantum optics and atomic interactions"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "The Geometry of Qubit Decoherence: Linear Versus Nonlinear Dynamics in the Bloch Ball",
+      "ano": 2026,
+      "url": "https://doi.org/10.3390/physics8010008",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "orcidVistoEm": "2026-11-19T00:50:10.778Z"
+    },
+    {
+     "id": "A5032742978",
+     "nome": "Naim Elias Comar",
+     "orcid": "0000-0002-7088-5057",
+     "trabalhos": 1,
+     "ultimoAno": 2023,
+     "temas": [
+      "Advanced Thermodynamics and Statistical Mechanics",
+      "Quantum Mechanics and Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Explorando correlações iniciais: correlações internas de um ambiente e a estatística do calor entre sistemas correlacionados",
+      "ano": 2023,
+      "url": "https://doi.org/10.11606/t.43.2023.tde-26072023-141919",
+      "quantico": true
+     },
+     "relevancia": 61,
+     "orcidVistoEm": "2026-11-19T00:50:11.129Z"
+    },
+    {
+     "id": "A5018168924",
+     "nome": "J. P. Vasco",
+     "orcid": "0000-0001-5495-1010",
+     "trabalhos": 3,
+     "ultimoAno": 2016,
+     "temas": [
+      "Semiconductor Quantum Structures and Devices",
+      "Photonic Crystals and Applications",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Steady-state entanglement between distant quantum dots in photonic crystal dimers",
+      "ano": 2016,
+      "url": "https://doi.org/10.1103/physrevb.94.165302",
+      "quantico": true
+     },
+     "relevancia": 61,
+     "orcidVistoEm": "2026-11-19T00:50:11.478Z"
+    },
+    {
+     "id": "A5012063895",
+     "nome": "P. S. S. Guimãraes",
+     "orcid": "0000-0002-0113-2641",
+     "trabalhos": 3,
+     "ultimoAno": 2016,
+     "temas": [
+      "Semiconductor Quantum Structures and Devices",
+      "Photonic Crystals and Applications",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Steady-state entanglement between distant quantum dots in photonic crystal dimers",
+      "ano": 2016,
+      "url": "https://doi.org/10.1103/physrevb.94.165302",
+      "quantico": true
+     },
+     "relevancia": 61,
+     "orcidVistoEm": "2026-11-19T00:50:11.813Z"
+    },
+    {
+     "id": "A5009580093",
+     "nome": "S. B. Duarte",
+     "orcid": "0000-0003-0027-0230",
+     "trabalhos": 2,
+     "ultimoAno": 2008,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum optics and atomic interactions"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Computational procedure to determine quantum state evolution in Fock space",
+      "ano": 2008,
+      "url": "https://doi.org/10.1016/j.cpc.2008.09.012",
+      "quantico": true
+     },
+     "relevancia": 58,
+     "orcidVistoEm": "2026-11-19T00:50:12.153Z"
+    },
+    {
+     "id": "A5059298981",
+     "nome": "Welles A. M. Morgado",
+     "orcid": "0000-0002-9690-6258",
+     "trabalhos": 1,
+     "ultimoAno": 2017,
+     "temas": [
+      "Quantum Mechanics and Applications",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Enabling quantum non-Markovian dynamics by injection of classical colored noise",
+      "ano": 2017,
+      "url": "https://doi.org/10.1103/physreva.95.052126",
+      "quantico": true
+     },
+     "relevancia": 55,
+     "orcidVistoEm": "2026-11-19T00:50:12.504Z"
+    },
+    {
+     "id": "A5057800568",
+     "nome": "Murilo Schmalfuss",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2014,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Parallel Computing and Optimization Techniques"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Abordagem Paralela para Simulação Quântica no Modelo de Máquina Geométrica Quântica",
+      "ano": 2014,
+      "url": "https://doi.org/10.5540/03.2014.002.01.0080",
+      "quantico": true
+     },
+     "relevancia": 55
+    },
+    {
+     "id": "A5050962939",
+     "nome": "José Roberto Castilho Piqueira",
+     "orcid": "0000-0003-0153-6686",
+     "trabalhos": 1,
+     "ultimoAno": 2013,
+     "temas": [
+      "Statistical Mechanics and Entropy",
+      "Quantum Mechanics and Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Extending SDL and LMC complexity measures to quantum states",
+      "ano": 2013,
+      "url": "https://doi.org/10.1016/j.physa.2013.06.043",
+      "quantico": true
+     },
+     "relevancia": 55,
+     "orcidVistoEm": "2026-11-19T00:50:12.862Z"
+    },
+    {
+     "id": "A5010111509",
+     "nome": "Thiago Gomes Heck",
+     "orcid": "0000-0002-1242-5423",
+     "trabalhos": 6,
+     "ultimoAno": 2026,
+     "temas": [
+      "Pesticide Exposure and Toxicity",
+      "Paraquat toxicity studies and treatments",
+      "Dietary Effects on Health"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Continuous caloric restriction and diet replacement but not alternate-day fasting may enhance susceptibility to glucose intolerance, dyslipidemia and cell stress under renewed high-fat diet",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/s40200-026-02112-1",
+      "quantico": false
+     },
+     "relevancia": 36,
+     "orcidVistoEm": "2026-11-19T00:50:13.214Z"
+    },
+    {
+     "id": "A5018469581",
+     "nome": "Fabrício Moraes de Almeida",
+     "orcid": "0000-0003-4173-4636",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Digital Transformation in Industry",
+      "Management and Optimization Techniques"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "INDÚSTRIA 4.0, A ENGENHARIA DE PRODUÇÃO E A TRANSFORMAÇÃO DIGITAL: IMPACTOS E DESAFIOS NOS SISTEMAS PRODUTIVOS.",
+      "ano": 2026,
+      "url": "https://doi.org/10.70773/revistatopicos/792819092",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "orcidVistoEm": "2026-11-19T00:50:13.567Z"
+    },
+    {
+     "id": "A5040583494",
+     "nome": "Jucilene Braitenbach Cavali",
+     "orcid": "0000-0002-2069-4543",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Livestock Farming and Management",
+      "Management and Optimization Techniques"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "APLICABILIDADE DE FERRAMENTAS DE GESTÃO EM PROPRIEDADE LEITEIRA NO MUNICÍPIO DE RIO BRANCO, ACRE, BRASIL",
+      "ano": 2026,
+      "url": "https://doi.org/10.70773/revistatopicos/790227340",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "orcidVistoEm": "2026-11-19T00:50:13.916Z"
+    },
+    {
+     "id": "A5102785969",
+     "nome": "Jaime E. C. Hallak",
+     "orcid": "0000-0002-8784-0189",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Psychedelics and Drug Studies",
+      "Schizophrenia research and treatment",
+      "Alkaloids: synthesis and pharmacology"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Psychedelics and psychosis: A systematic review of recent-era studies (1984–2025)",
+      "ano": 2026,
+      "url": "https://doi.org/10.1177/02698811261488575",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5058075680",
+     "nome": "RAFAEL GUIMARÃES DOS SANTOS",
+     "orcid": "0000-0003-2388-4745",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Psychedelics and Drug Studies",
+      "Schizophrenia research and treatment",
+      "Alkaloids: synthesis and pharmacology"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Psychedelics and psychosis: A systematic review of recent-era studies (1984–2025)",
+      "ano": 2026,
+      "url": "https://doi.org/10.1177/02698811261488575",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5017228450",
+     "nome": "Lauro Casqueiro Vianna",
+     "orcid": "0000-0002-5747-0295",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Cardiovascular and exercise physiology",
+      "Thermoregulation and physiological responses",
+      "Heart Rate Variability and Autonomic Control"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Post‐Exercise Circulatory Occlusion and the Human Muscle Metaboreflex: Principles, Pitfalls and Proxies",
+      "ano": 2026,
+      "url": "https://doi.org/10.1111/apha.70356",
+      "quantico": false
+     },
+     "relevancia": 24
+    },
+    {
+     "id": "A5069380425",
+     "nome": "Pamella Fukuda de Castilho",
+     "orcid": "0000-0002-5723-0507",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Antimicrobial Resistance in Staphylococcus",
+      "Antibiotic Use and Resistance",
+      "Biotechnology and Related Fields"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Estratégias terapêuticas no manejo das infecções por MRSA",
+      "ano": 2026,
+      "url": "https://doi.org/10.22533/at.ed.2651726291019",
+      "quantico": false
+     },
+     "relevancia": 24
+    }
+   ]
+  },
+  "ref-capes": {
+   "instituicao": {
+    "id": "I4210097716",
+    "nome": "Coordenação de Aperfeicoamento de Pessoal de Nível Superior",
+    "tipo": "government",
+    "trabalhos": 8268
+   },
+   "buscadoEm": "2026-11-19T00:50:14.598Z",
+   "pessoas": [
+    {
+     "id": "A5111423261",
+     "nome": "P. M. Soares",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2020,
+     "temas": [
+      "Quantum optics and atomic interactions",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Um estudo de interações coletivas para obter estados de Fock via Hamiltonianos Seletivos",
+      "ano": 2020,
+      "url": "https://doi.org/10.11606/t.76.2020.tde-13052020-100820",
+      "quantico": true
+     },
+     "relevancia": 55
+    },
+    {
+     "id": "A5041872422",
+     "nome": "Guilherme Wolff Bueno",
+     "orcid": "0000-0002-1160-020X",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Algal biology and biofuel production",
+      "Bioeconomy and Sustainability Development",
+      "Water Quality Monitoring Technologies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Technologies and Innovations for Limnological Monitoring in Aquaculture: A Systematic Review",
+      "ano": 2026,
+      "url": "https://doi.org/10.1002/tqem.70507",
+      "quantico": false
+     },
+     "relevancia": 30,
+     "orcidVistoEm": "2026-11-19T00:50:19.839Z"
+    },
+    {
+     "id": "A5038533104",
+     "nome": "Antônio Márcio Rodrigues",
+     "orcid": "0000-0002-2678-9180",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Epilepsy research and treatment",
+      "Neuroscience and Neuropharmacology Research",
+      "Ion channel regulation and function"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Efeito do Exercício Físico sobre a Preservação Neuronal em Fatias de Hipocampo de Rato Submetidas a Status Epilepticus in vitro",
+      "ano": 2026,
+      "url": "https://doi.org/10.5281/zenodo.22839041",
+      "quantico": false
+     },
+     "relevancia": 30,
+     "orcidVistoEm": "2026-11-19T00:50:20.202Z"
+    },
+    {
+     "id": "A5081952253",
+     "nome": "Pedro Filho Noronha Souza",
+     "orcid": "0000-0003-2524-4434",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Antimicrobial Peptides and Activities",
+      "Fungal Infections and Studies",
+      "Antifungal resistance and susceptibility"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "RcAlb-PepIII, a Plant 2S Albumin-Derived Peptide, Induces Changes in the Proteomic Profile of Cryptococcus neoformans, Leading to Cell Death",
+      "ano": 2026,
+      "url": "https://doi.org/10.3390/pr14203288",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5079110446",
+     "nome": "Mikael Luiz Pereira Morales",
+     "orcid": "0000-0002-4329-5465",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Microplastics and Plastic Pollution",
+      "Pharmaceutical and Antibiotic Environmental Impacts",
+      "Marine Biology and Environmental Chemistry"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "A major continental–marine interface: Spatial patterns of microplastic distribution across South America's largest coastal lagoon",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.rsma.2026.105478",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5024629753",
+     "nome": "André Brasil",
+     "orcid": "0000-0003-1832-5199",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "scientometrics and bibliometrics research",
+      "Publishing and Scholarly Communication",
+      "Academic Publishing and Open Access"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "From interdependent movements to shared action: Connecting publishing and assessment reforms",
+      "ano": 2026,
+      "url": "https://doi.org/10.5281/zenodo.22133867",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5066405695",
+     "nome": "Luís Borges",
+     "orcid": "0000-0002-1999-846X",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "scientometrics and bibliometrics research",
+      "Higher Education Governance and Development",
+      "Data Quality and Management"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Indicadores bibliométricos de mobilidade institucional no sistema científico brasileiro",
+      "ano": 2026,
+      "url": "https://doi.org/10.22477/x.ebbc.1121",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5055037599",
+     "nome": "Johana Marcela Concha Obando",
+     "orcid": "0000-0001-5351-2219",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Algal biology and biofuel production",
+      "Bioeconomy and Sustainability Development",
+      "Seaweed-derived Bioactive Compounds"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Unlocking the potential of cultivated seaweeds Ecklonia radiata and Cladophora sp. for sustainable future foods: nutritional value, fatty acid profile, and microbial safety",
+      "ano": 2026,
+      "url": "https://doi.org/10.7773/cm.y2026.3573",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5059844271",
+     "nome": "Levi Pompermayer Machado",
+     "orcid": "0000-0002-6035-851X",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Algal biology and biofuel production",
+      "Bioeconomy and Sustainability Development",
+      "Seaweed-derived Bioactive Compounds"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Unlocking the potential of cultivated seaweeds Ecklonia radiata and Cladophora sp. for sustainable future foods: nutritional value, fatty acid profile, and microbial safety",
+      "ano": 2026,
+      "url": "https://doi.org/10.7773/cm.y2026.3573",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5068942159",
+     "nome": "Nayara Paula Fernandes Martins Molina",
+     "orcid": "0000-0001-8771-9242",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Doctoral Education Challenges and Solutions",
+      "COVID-19 and Mental Health",
+      "Evasion and Academic Success Factors"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Factores asociados a las prórrogas y a las suspensiones de la postgrado stricto sensu en Brasil durante la pandemia de COVID-19: énfasis en la salud mental",
+      "ano": 2026,
+      "url": "https://doi.org/10.1590/1518-8345.7988.4752",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5068611173",
+     "nome": "Pedro Paulo Fernandes de Aguiar Tonetto",
+     "orcid": "0000-0002-1244-320X",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Heart Failure Treatment and Management",
+      "Nursing care and research"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Autocuidado e fadiga em indivíduos internados com insuficiência cardíaca descompensada durante a pandemia da COVID-19: estudo transversal",
+      "ano": 2026,
+      "url": "https://doi.org/10.1590/1518-8345.7465.4618",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5129517577",
+     "nome": "Teresa Mutemba Vilanculo",
+     "orcid": "0009-0004-3221-0843",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Intimate Partner and Family Violence",
+      "Elder Abuse and Neglect"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Impacto da pandemia da COVID-19 na violência doméstica, 2019-2022",
+      "ano": 2026,
+      "url": "https://doi.org/10.1590/1518-8345.7868.4745",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5086675408",
+     "nome": "Pedro Paulo Santos Nunes",
+     "orcid": "0000-0002-7351-9298",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Science and Education Research",
+      "Syphilis Diagnosis and Treatment",
+      "Health Education and Validation"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Educational intervention with a booklet on syphilis for women in situations of sexual vulnerability: a quasi-experimental study",
+      "ano": 2026,
+      "url": "https://doi.org/10.1590/1518-8345.8010.4807",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5044204910",
+     "nome": "Mariana Lamante Bueno",
+     "orcid": "0000-0001-8827-4863",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Breastfeeding Practices and Influences",
+      "Infant Nutrition and Health"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Factores asociados con la interrupción de la lactancia materna exclusiva y el destete en bebés prematuros tras el alta hospitalaria: estudio prospectivo de cohortes",
+      "ano": 2026,
+      "url": "https://doi.org/10.1590/1518-8345.7740.4830",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5046123841",
+     "nome": "Vinicius de Sousa Monteiro",
+     "orcid": "0009-0003-5928-9136",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Breastfeeding Practices and Influences",
+      "Infant Nutrition and Health"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Factores asociados con la interrupción de la lactancia materna exclusiva y el destete en bebés prematuros tras el alta hospitalaria: estudio prospectivo de cohortes",
+      "ano": 2026,
+      "url": "https://doi.org/10.1590/1518-8345.7740.4830",
+      "quantico": false
+     },
+     "relevancia": 27
+    }
+   ]
+  },
+  "ref-sebrae-nacional": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-19T00:50:20.782Z",
+   "pessoas": []
+  },
+  "ref-abdi": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-19T00:50:21.164Z",
+   "pessoas": []
+  },
+  "ref-bid-banco-interamericano-de-desenvolvime": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-19T00:50:21.447Z",
+   "pessoas": []
+  },
+  "ref-banco-mundial": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-19T00:50:21.735Z",
+   "pessoas": []
+  },
+  "ref-unesco-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-19T00:50:21.991Z",
+   "pessoas": []
+  },
+  "ref-fiep-federacao-das-industrias-da-paraiba": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-19T00:50:22.252Z",
+   "pessoas": []
+  },
+  "ref-brasscom": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-19T00:50:22.597Z",
+   "pessoas": []
+  },
+  "ref-abinee": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-19T00:50:22.918Z",
+   "pessoas": []
+  },
+  "ref-confap": {
+   "instituicao": {
+    "id": "I4387155141",
+    "nome": "Conselho Nacional das Fundações Estaduais de Amparo à Pesquisa",
+    "tipo": "government",
+    "trabalhos": 2
+   },
+   "buscadoEm": "2026-11-19T00:50:23.304Z",
+   "pessoas": [
+    {
+     "id": "A5121361217",
+     "nome": "Márcio Pereira",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2025,
+     "temas": [
+      "Education and Public Policy",
+      "Politics, Economics, and Education Policy"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Análise: ao priorizar suas emendas, Congresso descarta o futuro",
+      "ano": 2025,
+      "url": "https://doi.org/10.64628/ade.6jk34v5st",
+      "quantico": false
+     },
+     "relevancia": 17
+    }
+   ]
+  },
+  "ref-consecti": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-19T00:50:25.767Z",
+   "pessoas": []
+  },
+  "ref-fapemig": {
+   "instituicao": {
+    "id": "I4210096501",
+    "nome": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais",
+    "tipo": "government",
+    "trabalhos": 964
+   },
+   "buscadoEm": "2026-11-19T00:50:26.011Z",
+   "pessoas": [
+    {
+     "id": "A5019604899",
+     "nome": "MARCELO PESSOA",
+     "orcid": "0000-0002-9193-4604",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Linguistics and Language Studies",
+      "Syntax, Semantics, Linguistic Variation",
+      "Linguistics and Education Research"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Gramatômica – Uma ferramenta para o Estudo de Conlangs",
+      "ano": 2026,
+      "url": "https://doi.org/10.54899/dcs.v23i92.6333",
+      "quantico": false
+     },
+     "relevancia": 30,
+     "orcidVistoEm": "2026-11-19T00:50:47.802Z"
+    },
+    {
+     "id": "A5064033951",
+     "nome": "Vanessa Oliveira Fagundes",
+     "orcid": "0000-0002-8018-8490",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Science and Science Education",
+      "Communication and COVID-19 Impact",
+      "Vaccine Coverage and Hesitancy"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "The politics of (mis)trust: reframing science communication in a polarized Brazil",
+      "ano": 2026,
+      "url": "https://doi.org/10.22323/330620251028234941",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5027109384",
+     "nome": "Joyce Assunção Barros",
+     "orcid": "0000-0003-0845-9484",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Palliative and Oncologic Care",
+      "Palliative Care and End-of-Life Issues"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Educational intervention for nursing professionals on palliative care: quasi-experimental study",
+      "ano": 2026,
+      "url": "https://doi.org/10.1590/1518-8345.8026.4822",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5044079113",
+     "nome": "Karla Gonçalves Macedo",
+     "orcid": "0000-0002-2595-6661",
+     "trabalhos": 4,
+     "ultimoAno": 2025,
+     "temas": [
+      "Corporate Social Responsibility and Sustainability",
+      "Environmental Sustainability in Business",
+      "Digital Marketing and Social Media"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "A RELEVÂNCIA DAS ESTRATÉGIAS DO MARKETING DIGITAL PARA AS ORGANIZAÇÕES CONTEMPORÂNEAS",
+      "ano": 2025,
+      "url": "https://doi.org/10.54751/revistafoco.v18n4-108",
+      "quantico": false
+     },
+     "relevancia": 26
+    },
+    {
+     "id": "A5070439508",
+     "nome": "Edwin Martin Cárdenas Contreras",
+     "orcid": "0000-0001-7731-0486",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Nanofluid Flow and Heat Transfer",
+      "Heat Transfer and Optimization"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Desempenho termo-hidráulico de um radiador automotivo operando com nanofluidos",
+      "ano": 2024,
+      "url": "https://doi.org/10.14393/ufu.te.2024.361",
+      "quantico": false
+     },
+     "relevancia": 25,
+     "orcidVistoEm": "2026-11-19T00:50:48.149Z"
+    },
+    {
+     "id": "A5073838004",
+     "nome": "Rodrigo Franklin Frogeri",
+     "orcid": "0000-0002-7545-7529",
+     "trabalhos": 3,
+     "ultimoAno": 2025,
+     "temas": [
+      "International Relations in Latin America",
+      "Brazilian History and Foreign Policy",
+      "World Systems and Global Transformations"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Multi-Dimensional and Mutually Beneficial Relationship: Five Decades of Diplomacy Between China and Brazil (1974–2024)",
+      "ano": 2025,
+      "url": "https://doi.org/10.1007/978-981-95-1169-3_50",
+      "quantico": false
+     },
+     "relevancia": 23
+    },
+    {
+     "id": "A5057775093",
+     "nome": "Dayane Abreu Ribeiro",
+     "orcid": "0000-0001-8359-1544",
+     "trabalhos": 3,
+     "ultimoAno": 2025,
+     "temas": [
+      "Urinary Bladder and Prostate Research",
+      "Health Education and Validation",
+      "Sexual function and dysfunction studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Validade e confiabilidade da versão brasileira do módulo Problemas Sexuais Masculinos Associados a Sintomas do Trato Urinário Inferior do questionário Consulta Internacional sobre Incontinência",
+      "ano": 2025,
+      "url": "https://doi.org/10.1590/1518-8345.7481.4546",
+      "quantico": false
+     },
+     "relevancia": 23
+    },
+    {
+     "id": "A5074190552",
+     "nome": "Rafael Lopes Chaves",
+     "orcid": "0000-0002-7014-6705",
+     "trabalhos": 3,
+     "ultimoAno": 2025,
+     "temas": [
+      "COVID-19 and Mental Health",
+      "Student Stress and Coping"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Características definidoras preditoras de desordens de saúde mental entre estudantes de graduação na era pós-COVID-19: estudo transversal multicêntrico",
+      "ano": 2025,
+      "url": "https://doi.org/10.1590/1518-8345.7741.4672",
+      "quantico": false
+     },
+     "relevancia": 23
+    },
+    {
+     "id": "A5066224521",
+     "nome": "Bárbara Guimarães Lourenço",
+     "orcid": "0000-0003-2417-8666",
+     "trabalhos": 3,
+     "ultimoAno": 2025,
+     "temas": [
+      "COVID-19 and Mental Health",
+      "Student Stress and Coping"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Características definidoras preditoras de desordens de saúde mental entre estudantes de graduação na era pós-COVID-19: estudo transversal multicêntrico",
+      "ano": 2025,
+      "url": "https://doi.org/10.1590/1518-8345.7741.4672",
+      "quantico": false
+     },
+     "relevancia": 23
+    },
+    {
+     "id": "A5064144808",
+     "nome": "Analia Gabriella Borges Ferraz Facury",
+     "orcid": "0000-0001-9255-3937",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Dental materials and restorations",
+      "Nanoparticles: synthesis and applications"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Effect of pH, temperature, and salivation level on the properties of a denture adhesive modified with antimicrobial nanomaterial",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.ijadhadh.2026.104350",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5120953920",
+     "nome": "Marcelo PESSOA",
+     "orcid": "0000-0002-9193-4604",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "University Challenges and Reforms",
+      "Critical and Liberation Pedagogy"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "DIATRIBE SOBRE O LIVRO ‘LAVAGEM CEREBRAL’",
+      "ano": 2026,
+      "url": "https://doi.org/10.33726/akedia2447-7656v18a122026p40a48",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5024705955",
+     "nome": "Isaar Soares de CARVALHO",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Legal and Social Philosophy",
+      "Philosophy and Historical Thought"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "RESGATANDO OS CONCEITOS BÁSICOS DO POSITIVISMO",
+      "ano": 2026,
+      "url": "https://doi.org/10.33726/akedia2447-7656y12v18isc20262p77a85",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5015240632",
+     "nome": "Giseli Mendes Rennó",
+     "orcid": "0000-0002-7359-4239",
+     "trabalhos": 2,
+     "ultimoAno": 2025,
+     "temas": [
+      "Maternal and Perinatal Health Interventions",
+      "Maternal and Neonatal Healthcare"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Facilidades e dificuldades para a assistência humanizada no trabalho de parto e parto",
+      "ano": 2025,
+      "url": "https://openalex.org/W7220035807",
+      "quantico": false
+     },
+     "relevancia": 20
+    },
+    {
+     "id": "A5154377670",
+     "nome": "Cristiane Giffoni Braga",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2025,
+     "temas": [
+      "Cultural Competency in Health Care",
+      "Criminal Justice and Corrections Analysis",
+      "Education and Critical Thinking Development"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Enfermagem transcultural crenças e valores dos presidiários em uma Associação de Proteção e Assistência ao Condenado (APAC) no Sul de Minas Gerais",
+      "ano": 2025,
+      "url": "https://openalex.org/W7220041824",
+      "quantico": false
+     },
+     "relevancia": 20
+    },
+    {
+     "id": "A5004067043",
+     "nome": "Viviane Lopes Vimieiro",
+     "orcid": "0000-0001-6500-1344",
+     "trabalhos": 3,
+     "ultimoAno": 2024,
+     "temas": [
+      "Infection Control and Ventilation",
+      "Infection Control in Healthcare"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Reuse of N95/PFF2 masks in clinical practice: morphological and structural analysis",
+      "ano": 2024,
+      "url": "https://doi.org/10.1590/1518-8345.7045.4209",
+      "quantico": false
+     },
+     "relevancia": 19
+    }
+   ]
+  },
+  "ref-faperj": {
+   "instituicao": {
+    "id": "I4210148226",
+    "nome": "Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro",
+    "tipo": "facility",
+    "trabalhos": 1062
+   },
+   "buscadoEm": "2026-11-19T00:50:48.797Z",
+   "pessoas": [
+    {
+     "id": "A5088346012",
+     "nome": "Susana Frasés",
+     "orcid": "0000-0001-5875-9886",
+     "trabalhos": 10,
+     "ultimoAno": 2026,
+     "temas": [
+      "Antifungal resistance and susceptibility",
+      "Fungal Infections and Studies",
+      "Mycorrhizal Fungi and Plant Interactions"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Eco-phenotypic characterization of Candida palmioleophila from poultry litter and marine environments: implications for One Health",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/s00203-026-05260-3",
+      "quantico": false
+     },
+     "relevancia": 48,
+     "orcidVistoEm": "2026-11-19T00:50:51.061Z"
+    },
+    {
+     "id": "A5068855331",
+     "nome": "André Luis Souza dos Santos",
+     "orcid": "0000-0003-0821-8592",
+     "trabalhos": 11,
+     "ultimoAno": 2026,
+     "temas": [
+      "Antifungal resistance and susceptibility",
+      "Fungal Infections and Studies",
+      "Fungal and yeast genetics research"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "1,10-Phenanthroline-5,6-dione as Workable Platform to Build Drug Candidates with Antimicrobial Action: Advances to Date",
+      "ano": 2026,
+      "url": "https://doi.org/10.3390/ddc5040052",
+      "quantico": false
+     },
+     "relevancia": 48,
+     "orcidVistoEm": "2026-11-19T00:50:51.373Z"
+    },
+    {
+     "id": "A5032600704",
+     "nome": "Leonardo Nimrichter",
+     "orcid": "0000-0001-9281-6856",
+     "trabalhos": 9,
+     "ultimoAno": 2026,
+     "temas": [
+      "Antifungal resistance and susceptibility",
+      "Extracellular vesicles in disease",
+      "Fungal Infections and Studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Extracellular vesicles released by Candida albicans yeast cells impact candidiasis lethality in insect and murine models",
+      "ano": 2026,
+      "url": "https://doi.org/10.1128/msphere.00233-26",
+      "quantico": false
+     },
+     "relevancia": 45,
+     "orcidVistoEm": "2026-11-19T00:50:51.710Z"
+    },
+    {
+     "id": "A5091702477",
+     "nome": "Marta H. Branquinha",
+     "orcid": "0000-0002-9752-8148",
+     "trabalhos": 9,
+     "ultimoAno": 2026,
+     "temas": [
+      "Antifungal resistance and susceptibility",
+      "Fungal and yeast genetics research",
+      "Fungal Plant Pathogen Control"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "1,10-Phenanthroline-5,6-dione as Workable Platform to Build Drug Candidates with Antimicrobial Action: Advances to Date",
+      "ano": 2026,
+      "url": "https://doi.org/10.3390/ddc5040052",
+      "quantico": false
+     },
+     "relevancia": 45,
+     "orcidVistoEm": "2026-11-19T00:50:52.066Z"
+    },
+    {
+     "id": "A5005930546",
+     "nome": "Allan Jefferson Guimaraes",
+     "orcid": "0000-0002-2856-9667",
+     "trabalhos": 7,
+     "ultimoAno": 2026,
+     "temas": [
+      "Antifungal resistance and susceptibility",
+      "Fungal Infections and Studies",
+      "Yeasts and Rust Fungi Studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Eco-phenotypic characterization of Candida palmioleophila from poultry litter and marine environments: implications for One Health",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/s00203-026-05260-3",
+      "quantico": false
+     },
+     "relevancia": 39,
+     "orcidVistoEm": "2026-11-19T00:50:52.446Z"
+    },
+    {
+     "id": "A5045287507",
+     "nome": "Carlos Adam Conte‐Júnior",
+     "orcid": "0000-0001-6133-5080",
+     "trabalhos": 5,
+     "ultimoAno": 2026,
+     "temas": [
+      "Nanocomposite Films for Food Packaging",
+      "Postharvest Quality and Shelf Life Management",
+      "Agriculture Sustainability and Environmental Impact"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "From structural biopolymers to bioactive compounds: Watermelon by-products as integrated resources for food packaging",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.tifs.2026.106234",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "orcidVistoEm": "2026-11-19T00:50:52.810Z"
+    },
+    {
+     "id": "A5006981037",
+     "nome": "Ana Acácia S. Pinheiro",
+     "orcid": "0000-0002-3894-1645",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Acute Kidney Injury Research",
+      "Chronic Kidney Disease and Diabetes",
+      "Renin-Angiotensin System Studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Antiproteinuric effect of dapagliflozin attenuates tubule-interstitial injury development in subclinical acute kidney injury animal model",
+      "ano": 2026,
+      "url": "https://doi.org/10.3389/fphar.2026.1899334",
+      "quantico": false
+     },
+     "relevancia": 30,
+     "orcidVistoEm": "2026-11-19T00:50:53.171Z"
+    },
+    {
+     "id": "A5036426194",
+     "nome": "Celso Caruso‐Neves",
+     "orcid": "0000-0002-2415-7753",
+     "trabalhos": 4,
+     "ultimoAno": 2026,
+     "temas": [
+      "Acute Kidney Injury Research",
+      "Chronic Kidney Disease and Diabetes",
+      "Renin-Angiotensin System Studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Antiproteinuric effect of dapagliflozin attenuates tubule-interstitial injury development in subclinical acute kidney injury animal model",
+      "ano": 2026,
+      "url": "https://doi.org/10.3389/fphar.2026.1899334",
+      "quantico": false
+     },
+     "relevancia": 30,
+     "orcidVistoEm": "2026-11-19T00:50:53.552Z"
+    },
+    {
+     "id": "A5049764449",
+     "nome": "Anna Paula Azevedo de Carvalho",
+     "orcid": "0000-0001-9258-5947",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Insect Pest Control Strategies",
+      "Nanocomposite Films for Food Packaging",
+      "Postharvest Quality and Shelf Life Management"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "From structural biopolymers to bioactive compounds: Watermelon by-products as integrated resources for food packaging",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.tifs.2026.106234",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5161241871",
+     "nome": "Daniel Angelus Gai Silva",
+     "orcid": "0009-0008-2965-8814",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Computational and Text Analysis Methods",
+      "Qualitative Research Methods and Applications",
+      "Sentiment Analysis and Opinion Mining"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "RELATÓRIO DE PRÉ-ANÁLISE (METODOLOGIA LAURENCE BARDIN)",
+      "ano": 2026,
+      "url": "https://doi.org/10.5281/zenodo.24035083",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5080686486",
+     "nome": "José Francisco Silva Costa‐Júnior",
+     "orcid": "0000-0002-6526-2760",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Retinal Imaging and Analysis",
+      "Advanced Neural Network Applications",
+      "Laser Applications in Dentistry and Medicine"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Class-wise Evaluation Reveals Hidden Errors Behind High Global Performance in Deep Learning Classification of Imbalanced OCT Images",
+      "ano": 2026,
+      "url": "https://doi.org/10.5281/zenodo.22838953",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5044224749",
+     "nome": "Lucimar Ferreira Kneipp",
+     "orcid": "0000-0002-3507-4689",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Antifungal resistance and susceptibility",
+      "Fungal Infections and Studies",
+      "Metal complexes synthesis and properties"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "1,10-Phenanthroline-5,6-dione as Workable Platform to Build Drug Candidates with Antimicrobial Action: Advances to Date",
+      "ano": 2026,
+      "url": "https://doi.org/10.3390/ddc5040052",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5000545337",
+     "nome": "Felipe Fortes",
+     "orcid": "0000-0002-5445-2585",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Marxism and Critical Theory",
+      "Brazilian History and Foreign Policy",
+      "International Relations and Foreign Policy"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "O multipolarismo como deserto: Brasil, Lula e o enigma do BRICS",
+      "ano": 2026,
+      "url": "https://openalex.org/W7215666316",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5046027982",
+     "nome": "Larissa M. M. Mattos",
+     "orcid": "0000-0001-5966-3835",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Redox biology and oxidative stress",
+      "Fungal and yeast genetics research",
+      "Genetics, Aging, and Longevity in Model Organisms"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Oxidative stress responses in human fungal pathogens: a review of molecular mechanisms",
+      "ano": 2026,
+      "url": "https://doi.org/10.1080/1040841x.2026.2706136",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5136524426",
+     "nome": "André L.S. Santos",
+     "orcid": "0000-0003-0821-8592",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Fungal and yeast genetics research",
+      "Antifungal resistance and susceptibility",
+      "Redox biology and oxidative stress"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Oxidative stress responses in human fungal pathogens: a review of molecular mechanisms",
+      "ano": 2026,
+      "url": "https://doi.org/10.1080/1040841x.2026.2706136",
+      "quantico": false
+     },
+     "relevancia": 27
+    }
+   ]
+  },
+  "ref-facepe": {
+   "instituicao": {
+    "id": "I4210121774",
+    "nome": "Fundação de Amparo à Ciência e Tecnologia de Pernambuco",
+    "tipo": "other",
+    "trabalhos": 120
+   },
+   "buscadoEm": "2026-11-19T00:50:54.287Z",
+   "pessoas": [
+    {
+     "id": "A5077458645",
+     "nome": "Juliane Rafaele Alves Barros",
+     "orcid": "0000-0002-0408-0904",
+     "trabalhos": 10,
+     "ultimoAno": 2026,
+     "temas": [
+      "Genetics and Plant Breeding",
+      "Agronomic Practices and Intercropping Systems",
+      "Irrigation Practices and Water Management"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Occurrence of oidium in cowpea influenced by cropping system and planting season",
+      "ano": 2026,
+      "url": "https://doi.org/10.1002/agj2.70393",
+      "quantico": false
+     },
+     "relevancia": 48,
+     "orcidVistoEm": "2026-11-19T00:50:59.578Z"
+    },
+    {
+     "id": "A5014118652",
+     "nome": "Tiago Lima do Nascimento",
+     "orcid": "0000-0002-0916-6344",
+     "trabalhos": 5,
+     "ultimoAno": 2025,
+     "temas": [
+      "Genetics and Plant Breeding",
+      "Agricultural Productivity and Crop Improvement",
+      "Chromosomal and Genetic Variations"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Comparative analysis of structural chromosome variability and heterochromatin localization in Passiflora L. (Passifloraceae)",
+      "ano": 2025,
+      "url": "https://doi.org/10.1590/0001-3765202520250272",
+      "quantico": false
+     },
+     "relevancia": 29
+    },
+    {
+     "id": "A5038633824",
+     "nome": "Iasmin Daniele de Araújo",
+     "orcid": "0000-0001-9206-4463",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "COVID-19 and Mental Health",
+      "Long-Term Effects of COVID-19"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Prevalence and factors associated with anxiety and depression after COVID-19",
+      "ano": 2026,
+      "url": "https://doi.org/10.1590/1518-8345.8173.4915",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5052050769",
+     "nome": "Yolice Patricia Moreno Ruiz",
+     "orcid": "0000-0002-1976-003X",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Bone Tissue Engineering Materials",
+      "Nanoparticles: synthesis and applications",
+      "Adsorption and biosorption for pollutant removal"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Development and Characterization of Green Strontium Oxide Nanoparticles for Potential Application in Bone Regeneration",
+      "ano": 2026,
+      "url": "https://doi.org/10.5281/zenodo.22835188",
+      "quantico": false
+     },
+     "relevancia": 24
+    },
+    {
+     "id": "A5102689678",
+     "nome": "Mariana de Almeida Cruz Silva",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Botulinum Toxin and Related Neurological Disorders",
+      "Trigeminal Neuralgia and Treatments"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Facial pain in patients with hemifacial spasm: a prospective cohort study",
+      "ano": 2026,
+      "url": "https://doi.org/10.1093/pm/pnag119",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5043415410",
+     "nome": "Maria Nágila Ferreira da Costa",
+     "orcid": "0000-0003-1521-0951",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Agricultural Productivity and Crop Improvement",
+      "Pasture and Agricultural Systems"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Seasonal Effects and Harvest Frequency Influence the Growth and Forage Yield of Hedge Lucerne More Than Planting Density",
+      "ano": 2026,
+      "url": "https://doi.org/10.1002/jag2.70080",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5155204483",
+     "nome": "Pollyana Calado de freitas",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Cultural Identity and Heritage",
+      "Cultural Heritage Management and Preservation"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Decolonizar o Patrimônio: Casa de Oração e Cemitério Quilombola do Castainho como Patrimônio Cultural de Pernambuco",
+      "ano": 2026,
+      "url": "https://doi.org/10.34019/2359-4489.2025.v12.50231",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5040144348",
+     "nome": "Dayana Montero Rodríguez",
+     "orcid": "0000-0001-8954-7309",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Plant Growth Enhancement Techniques",
+      "Microbial bioremediation and biosurfactants"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "A promising lipopeptide production and application as biostimulant for seeds germinations",
+      "ano": 2026,
+      "url": "https://doi.org/10.54899/rpd.v17n1-2544",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5019915228",
+     "nome": "G. M. de Oliveira",
+     "orcid": "0000-0002-2051-0193",
+     "trabalhos": 4,
+     "ultimoAno": 2023,
+     "temas": [
+      "Agricultural Productivity and Crop Improvement",
+      "Genetics and Plant Breeding",
+      "Environmental and biological studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "The combination of abiotic stresses influences the physiological responses and production of Macroptilium genotypes",
+      "ano": 2023,
+      "url": "https://doi.org/10.1007/s40502-023-00769-x",
+      "quantico": false
+     },
+     "relevancia": 18
+    },
+    {
+     "id": "A5119009342",
+     "nome": "Fúlvia Nicolly de Oliveira Bezerra",
+     "orcid": "0009-0005-0442-9730",
+     "trabalhos": 1,
+     "ultimoAno": 2025,
+     "temas": [
+      "Voice and Speech Disorders",
+      "Transcranial Magnetic Stimulation Studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Transcranial Direct Current Stimulation Combined With Straw Phonation in Water Technique in Subjects With and Without Vocal Symptoms: Exploratory Study",
+      "ano": 2025,
+      "url": "https://doi.org/10.1016/j.jvoice.2025.06.030",
+      "quantico": false
+     },
+     "relevancia": 17
+    },
+    {
+     "id": "A5025536850",
+     "nome": "Helen Jamil Khoury",
+     "orcid": "0000-0001-7257-0959",
+     "trabalhos": 1,
+     "ultimoAno": 2025,
+     "temas": [
+      "Advanced Radiotherapy Techniques",
+      "Radiation Dose and Imaging"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Novel adaptation of the BeOSL whole-body dosimeter for the measurement of the ICRU 95 quantity Hp",
+      "ano": 2025,
+      "url": "https://doi.org/10.1016/j.apradiso.2025.111839",
+      "quantico": false
+     },
+     "relevancia": 17
+    },
+    {
+     "id": "A5073630128",
+     "nome": "Luiz Henrique César Vasconcelos",
+     "orcid": "0000-0003-0161-4891",
+     "trabalhos": 1,
+     "ultimoAno": 2025,
+     "temas": [
+      "Hibiscus Plant Research Studies",
+      "Asthma and respiratory diseases"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Protective effects of Hibiscus sabdariffa L. on body composition and airway reactivity in obese asthmatic rats",
+      "ano": 2025,
+      "url": "https://doi.org/10.1016/j.jff.2025.106757",
+      "quantico": false
+     },
+     "relevancia": 17
+    },
+    {
+     "id": "A5050872902",
+     "nome": "Mércia Virgínia Ferreira dos Santos",
+     "orcid": "0000-0002-7374-0910",
+     "trabalhos": 2,
+     "ultimoAno": 2024,
+     "temas": [
+      "Agroforestry and silvopastoral systems",
+      "Agronomic Practices and Intercropping Systems",
+      "Growth and nutrition in plants"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Dendrometry, production, and nutritional value of Mimosa caesalpiniifolia (Leguminosae) under monocrop and silvopastoral system1",
+      "ano": 2024,
+      "url": "https://doi.org/10.1007/s10457-024-01059-7",
+      "quantico": false
+     },
+     "relevancia": 16
+    },
+    {
+     "id": "A5037724628",
+     "nome": "Steyce Neves Barbosa",
+     "orcid": "0000-0002-1806-4358",
+     "trabalhos": 2,
+     "ultimoAno": 2024,
+     "temas": [
+      "Food Safety and Hygiene",
+      "Milk Quality and Mastitis in Dairy Cows",
+      "Climate change impacts on agriculture"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "QUALIDADE MICROBIOLÓGICA DE QUEIJO DE COALHO E LEITE CRU COMERCIALIZADOS NO VALE DO SÃO FRANCISCO",
+      "ano": 2024,
+      "url": "https://doi.org/10.37885/240917747",
+      "quantico": false
+     },
+     "relevancia": 16
+    },
+    {
+     "id": "A5058850732",
+     "nome": "W. P. S. Diniz",
+     "orcid": "0000-0002-5596-5534",
+     "trabalhos": 3,
+     "ultimoAno": 2023,
+     "temas": [
+      "Ruminant Nutrition and Digestive Physiology",
+      "Phytochemicals and Antioxidant Activities",
+      "Agricultural Productivity and Crop Improvement"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Condensed Tannins and Total Phenols in Stylosanthes Spp.",
+      "ano": 2023,
+      "url": "https://doi.org/10.52202/071171-0334",
+      "quantico": false
+     },
+     "relevancia": 15
+    }
+   ]
+  },
+  "ref-fapesb": {
+   "instituicao": {
+    "id": "I1302262991",
+    "nome": "Fundação de Amparo à Pesquisa do Estado da Bahia",
+    "tipo": "government",
+    "trabalhos": 375
+   },
+   "buscadoEm": "2026-11-19T00:51:00.255Z",
+   "pessoas": [
+    {
+     "id": "A5022719807",
+     "nome": "Luciana Oliveira Lago",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Innovations in Educational Methods",
+      "Linguistics and Education Research"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "MÍDIAS DIGITAIS, AGÊNCIAS E MULTILETRAMENTOS: EXPERIÊNCIAS COM PODCAST NA FORMAÇÃO INICIAL DAS PROFESSORAS(ES) DE LÍNGUA PORTUGUESA.",
+      "ano": 2026,
+      "url": "https://doi.org/10.29327/9786527224334.1567366",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5038066021",
+     "nome": "Amanda Tainá Lima da Silva",
+     "orcid": "0009-0002-0800-8042",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Intimate Partner and Family Violence",
+      "Gender, Violence, Rights in Latin America"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "VIOLÊNCIA POR PARCEIRO ÍNTIMO: EXPERIÊNCIAS DE MULHERES APÓS DEFERIMENTO DA MEDIDA PROTETIVA DE URGÊNCIA",
+      "ano": 2026,
+      "url": "https://doi.org/10.18471/rbe.v40.72368",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5090099302",
+     "nome": "Handerson Jorge Dourado Leite",
+     "orcid": "0000-0002-8316-0522",
+     "trabalhos": 2,
+     "ultimoAno": 2025,
+     "temas": [
+      "Health Systems, Economic Evaluations, Quality of Life",
+      "Delphi Technique in Research",
+      "Science, Technology, and Education in Latin America"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Relevant domains for health technology assessment of medical device reimbursement in Brazil’s unified health system: a survey and Delphi panel study on stakeholder preferences",
+      "ano": 2025,
+      "url": "https://doi.org/10.1017/s0266462325100561",
+      "quantico": false
+     },
+     "relevancia": 20
+    },
+    {
+     "id": "A5014219256",
+     "nome": "Marimeire Morais da Conceição",
+     "orcid": "0000-0002-5370-0209",
+     "trabalhos": 3,
+     "ultimoAno": 2024,
+     "temas": [
+      "Child Abuse and Trauma",
+      "Sexual Assault and Victimization Studies",
+      "Occupational Health and Burnout"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Sentimentos expressos por profissionais no atendimento a vítimas de violência sexual infantojuvenil",
+      "ano": 2024,
+      "url": "https://doi.org/10.1590/1518-8345.7157.4252",
+      "quantico": false
+     },
+     "relevancia": 19
+    },
+    {
+     "id": "A5014152651",
+     "nome": "Isabela Paixão de Jesus",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2025,
+     "temas": [
+      "COVID-19 Prevention and Impact",
+      "Nursing care and research"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "COMPORTAMENTOS E PRÁTICAS DE CUIDADO DE HOMENS FEIRANTES NA PANDEMIA DA COVID-19",
+      "ano": 2025,
+      "url": "https://doi.org/10.13102/semic.vi26.12137",
+      "quantico": false
+     },
+     "relevancia": 17
+    },
+    {
+     "id": "A5083027502",
+     "nome": "Lívia de Souza e Souza",
+     "orcid": "0000-0001-7333-2071",
+     "trabalhos": 1,
+     "ultimoAno": 2025,
+     "temas": [
+      "Health, Nursing, Elderly Care",
+      "Education during COVID-19 pandemic"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "EDUCAÇÃO EM SAÚDE COMO INSTRUMENTO PARA AMPLIAÇÃO DO ACESSO NO CONTEXTO DA PANDEMIA DE COVID-19: percepção de enfermeiras da Estratégia Saúde da Família",
+      "ano": 2025,
+      "url": "https://doi.org/10.13102/semic.vi26.12136",
+      "quantico": false
+     },
+     "relevancia": 17
+    },
+    {
+     "id": "A5029989771",
+     "nome": "Claudiane de Oliveira Carvalho",
+     "orcid": "0000-0002-5000-1074",
+     "trabalhos": 1,
+     "ultimoAno": 2025,
+     "temas": [
+      "Journalism and Media Studies",
+      "News Media Framing and Political Communication"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Plataformização e Novos Modelos de Negócios no Jornalismo: Apontamentos sobre o Jornalismo de Marca do Estadão Blue Studio",
+      "ano": 2025,
+      "url": "https://doi.org/10.22409/rmc.v19i2.66912",
+      "quantico": false
+     },
+     "relevancia": 17
+    },
+    {
+     "id": "A5002646087",
+     "nome": "Vinícius Pereira de Santana",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2022,
+     "temas": [
+      "Salmonella and Campylobacter epidemiology",
+      "Bacterial Identification and Susceptibility Testing"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "USO DE MACHINE LEARNING NA IDENTIFICAÇÃO E CLASSIFICAÇÃO DE SALMONELLA SPP.",
+      "ano": 2022,
+      "url": "https://doi.org/10.13102/semic.vi25.8656",
+      "quantico": false
+     },
+     "relevancia": 17
+    },
+    {
+     "id": "A5098188743",
+     "nome": "Aline Machado de Farias Rosa",
+     "orcid": "0000-0003-4109-2792",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Latin American Urban Studies",
+      "Urban Development and Societal Issues"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "AVALIAÇÃO DA QUALIDADE AMBIENTAL URBANA DE ITAPUÃ, SALVADOR (BA)",
+      "ano": 2024,
+      "url": "https://doi.org/10.18542/geo.v12i23.14710",
+      "quantico": false
+     },
+     "relevancia": 13
+    },
+    {
+     "id": "A5114521711",
+     "nome": "Diego Medeiros Farias",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Foucault, Power, and Ethics",
+      "Philosophy and Social Theory"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "O SUJEITO SONHADOR E OS PRAZERES ONÍRICOS: SOBRE OS MODOS DE EXISTÊNCIA COM FOUCAULT EM ARTEMIDORO",
+      "ano": 2024,
+      "url": "https://doi.org/10.52052/issn.2176-5960.pro.v16i45.21750",
+      "quantico": false
+     },
+     "relevancia": 13
+    },
+    {
+     "id": "A5076319432",
+     "nome": "Maruzia de Almeida Dultra",
+     "orcid": "0000-0002-0835-3703",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Cinema History and Criticism",
+      "Autobiographical and Biographical Writing"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "filme Elena como cinebiografema a partir de áudio-cartas e vídeo-diários da personagem-título",
+      "ano": 2024,
+      "url": "https://doi.org/10.60001/ae.n47.8",
+      "quantico": false
+     },
+     "relevancia": 13
+    },
+    {
+     "id": "A5099172129",
+     "nome": "Beatriz Ferreira Conceição",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Plant Taxonomy and Phylogenetics",
+      "Botany and Plant Ecology Studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Flora da Bahia: Poaceae – Trichanthecium (Panicoideae)",
+      "ano": 2024,
+      "url": "https://doi.org/10.13102/semic.vi27.10609",
+      "quantico": false
+     },
+     "relevancia": 13
+    },
+    {
+     "id": "A5085552425",
+     "nome": "Matheus Oliveira de Melo",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Parasite Biology and Host Interactions",
+      "Toxoplasma gondii Research Studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "ELEVADA FREQUÊNCIA DE PARASITOS DA FAMÍLIA SARCOCISTIDAE EM QUIRÓPTEROS DE DIFERENTES BIOMAS NA BAHIA",
+      "ano": 2024,
+      "url": "https://doi.org/10.13102/semic.vi27.10640",
+      "quantico": false
+     },
+     "relevancia": 13
+    },
+    {
+     "id": "A5083615050",
+     "nome": "Déborah de Oliveira Souza",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Ethics and bioethics in healthcare",
+      "Family and Patient Care in Intensive Care Units"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "OS PRINCÍPIOS DA BIOÉTICA NO ACOLHIMENTO AOS FAMILIARES DE INDIVÍDUOS HOSPITALIZADOS SOB A ÓTICA DOS ENFERMEIROS",
+      "ano": 2024,
+      "url": "https://doi.org/10.13102/semic.vi27.10704",
+      "quantico": false
+     },
+     "relevancia": 13
+    },
+    {
+     "id": "A5065411894",
+     "nome": "Luan Henrique Oliveira Macêdo",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "COVID-19 Clinical Research Studies",
+      "SARS-CoV-2 and COVID-19 Research"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "INVESTIGAÇÃO DE IL-17F NA COVID-19",
+      "ano": 2024,
+      "url": "https://doi.org/10.13102/semic.vi27.10741",
+      "quantico": false
+     },
+     "relevancia": 13
+    }
+   ]
+  },
+  "ref-funcap": {
+   "instituicao": {
+    "id": "I4210089653",
+    "nome": "Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico",
+    "tipo": "government",
+    "trabalhos": 291
+   },
+   "buscadoEm": "2026-11-19T00:51:05.755Z",
+   "pessoas": [
+    {
+     "id": "A5081952253",
+     "nome": "Pedro Filho Noronha Souza",
+     "orcid": "0000-0003-2524-4434",
+     "trabalhos": 18,
+     "ultimoAno": 2026,
+     "temas": [
+      "Antimicrobial Peptides and Activities",
+      "Antifungal resistance and susceptibility",
+      "Fungal Infections and Studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "RcAlb-PepII Perturbs the Proteomic Profile of Cryptococcus neoformans, Shutting Down Proteins Involved in Fungal Survival",
+      "ano": 2026,
+      "url": "https://doi.org/10.3390/microorganisms14081800",
+      "quantico": false
+     },
+     "relevancia": 48,
+     "orcidVistoEm": "2026-11-19T00:51:27.583Z"
+    },
+    {
+     "id": "A5057136155",
+     "nome": "Paulo Rogério Faustino Matos",
+     "orcid": "0000-0002-3566-5251",
+     "trabalhos": 5,
+     "ultimoAno": 2026,
+     "temas": [
+      "Monetary Policy and Economic Impact",
+      "Economic theories and models",
+      "Financial Literacy, Pension, Retirement Analysis"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Modeling Household Default and Debt Bounds",
+      "ano": 2026,
+      "url": "https://doi.org/10.2139/ssrn.7348778",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "orcidVistoEm": "2026-11-19T00:51:27.943Z"
+    },
+    {
+     "id": "A5001185822",
+     "nome": "Juliana de Carvalho Gaeta",
+     "orcid": "0000-0002-4796-5948",
+     "trabalhos": 5,
+     "ultimoAno": 2025,
+     "temas": [
+      "Crustacean biology and ecology",
+      "Marine and fisheries research",
+      "Aquaculture disease management and microbiota"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Effect of Environmental Variability on Lobster Stocks (Panulirus) in Waters off Brazil and Cuba",
+      "ano": 2025,
+      "url": "https://doi.org/10.3390/d17080572",
+      "quantico": false
+     },
+     "relevancia": 29
+    },
+    {
+     "id": "A5101039709",
+     "nome": "Eufrasina Campelo Borges Mendonça Barbosa",
+     "orcid": "0000-0002-5856-9676",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Innovation Policy and R&D",
+      "Capital Investment and Risk Analysis",
+      "Entrepreneurship Studies and Influences"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Risks of financing innovation in public policies for economic grant",
+      "ano": 2026,
+      "url": "https://doi.org/10.1108/inmr-04-2024-0102",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5130936254",
+     "nome": "Karleandro Pereira do Nascimento",
+     "orcid": "0000-0003-2621-6566",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Mechanical Circulatory Support Devices",
+      "Congenital Heart Disease Studies",
+      "Respiratory Support and Mechanisms"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Perfil clínico-epidemiológico de pacientes pediátricos em oxigenação por membrana extracorpórea: experiência de um centro",
+      "ano": 2026,
+      "url": "https://doi.org/10.1590/1518-8345.7999.4781",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5058964078",
+     "nome": "Clayton Moura de Carvalho",
+     "orcid": "0000-0002-4382-5382",
+     "trabalhos": 2,
+     "ultimoAno": 2023,
+     "temas": [
+      "Irrigation Practices and Water Management",
+      "Engineering and Agricultural Innovations",
+      "Urban Heat Island Mitigation"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "O VALOR DA ÁGUA NO SISTEMA DE PRODUÇÃO DO MELÃO FERTIRRIGADO",
+      "ano": 2023,
+      "url": "https://doi.org/10.15809/irriga.2023v28n3p507-512",
+      "quantico": false
+     },
+     "relevancia": 24,
+     "orcidVistoEm": "2026-11-19T00:51:28.291Z"
+    },
+    {
+     "id": "A5100607199",
+     "nome": "Raúl Cruz",
+     "orcid": "0000-0001-9909-9941",
+     "trabalhos": 3,
+     "ultimoAno": 2025,
+     "temas": [
+      "Crustacean biology and ecology",
+      "Marine and fisheries research",
+      "Marine Biology and Ecology Research"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Effect of Environmental Variability on Lobster Stocks (Panulirus) in Waters off Brazil and Cuba",
+      "ano": 2025,
+      "url": "https://doi.org/10.3390/d17080572",
+      "quantico": false
+     },
+     "relevancia": 23
+    },
+    {
+     "id": "A5084732696",
+     "nome": "Marina T. Torres",
+     "orcid": "",
+     "trabalhos": 3,
+     "ultimoAno": 2025,
+     "temas": [
+      "Crustacean biology and ecology",
+      "Marine and fisheries research",
+      "Marine Biology and Ecology Research"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Effect of Environmental Variability on Lobster Stocks (Panulirus) in Waters off Brazil and Cuba",
+      "ano": 2025,
+      "url": "https://doi.org/10.3390/d17080572",
+      "quantico": false
+     },
+     "relevancia": 23
+    },
+    {
+     "id": "A5066587649",
+     "nome": "Viviana Lisboa",
+     "orcid": "0000-0002-5408-7784",
+     "trabalhos": 4,
+     "ultimoAno": 2024,
+     "temas": [
+      "Aquaculture Nutrition and Growth",
+      "Aquaculture disease management and microbiota",
+      "Fisheries and Aquaculture Studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "PRELIMINARY RESULTS OF FIRST PILOT PROJECT TO ASSESS THE BIOLOGICAL ADAPTABILITY AND ZOOTECHNICAL PERFORMANCE OF THE DUSKY GROUPER (Epinephelus marginatus) IN NORTHEASTERN BRAZIL",
+      "ano": 2024,
+      "url": "https://doi.org/10.32360/acmar.v57i2.91915",
+      "quantico": false
+     },
+     "relevancia": 22
+    },
+    {
+     "id": "A5009633849",
+     "nome": "THEREZA MARIA MAGALHÃES MOREIRA",
+     "orcid": "0000-0003-1424-0649",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Healthcare Systems and Public Health",
+      "Blood Pressure and Hypertension Studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Spatial and temporal inequalities in mortality from essential hypertension recorded as the underlying cause of death in Brazil, 2000–2023",
+      "ano": 2026,
+      "url": "https://doi.org/10.5281/zenodo.20547051",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5130591155",
+     "nome": "Ana Cecilia Santos Tabosa",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Intellectual Property Law",
+      "Food Industry and Aquatic Biology"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "POSSIBILIDADES DE OBTENÇÃO DA INDICAÇÃO GEOGRÁFICA DOS MARISCOS PREPARADOS PELAS MULHERES PESCADORAS ARTESANAIS DE PARACURU (CEARÁ, BRASIL)",
+      "ano": 2026,
+      "url": "https://doi.org/10.18623/rvd.v23.5547",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5130546575",
+     "nome": "Maria Nicole de Freitas Lima",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Intellectual Property Law",
+      "Food Industry and Aquatic Biology"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "POSSIBILIDADES DE OBTENÇÃO DA INDICAÇÃO GEOGRÁFICA DOS MARISCOS PREPARADOS PELAS MULHERES PESCADORAS ARTESANAIS DE PARACURU (CEARÁ, BRASIL)",
+      "ano": 2026,
+      "url": "https://doi.org/10.18623/rvd.v23.5547",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5130563887",
+     "nome": "Lucas Ferreira Pires dos Santos",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Intellectual Property Law",
+      "Food Industry and Aquatic Biology"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "POSSIBILIDADES DE OBTENÇÃO DA INDICAÇÃO GEOGRÁFICA DOS MARISCOS PREPARADOS PELAS MULHERES PESCADORAS ARTESANAIS DE PARACURU (CEARÁ, BRASIL)",
+      "ano": 2026,
+      "url": "https://doi.org/10.18623/rvd.v23.5547",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5130551453",
+     "nome": "Anderson Ferreira Martim Ferreira dos Santos",
+     "orcid": "0000-0002-1947-5175",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Intellectual Property Law",
+      "Food Industry and Aquatic Biology"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "POSSIBILIDADES DE OBTENÇÃO DA INDICAÇÃO GEOGRÁFICA DOS MARISCOS PREPARADOS PELAS MULHERES PESCADORAS ARTESANAIS DE PARACURU (CEARÁ, BRASIL)",
+      "ano": 2026,
+      "url": "https://doi.org/10.18623/rvd.v23.5547",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5125964654",
+     "nome": "Sergio Roberto Pinto",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Political Economy and Marxism",
+      "Economic and Social Issues"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Modelagem dinâmica do capital sistêmico: um enfoque interdisciplinar sobre colapso, desigualdade e sofrimento social em um planeta finito",
+      "ano": 2026,
+      "url": "https://doi.org/10.52641/cadcajv11i1.1822",
+      "quantico": false
+     },
+     "relevancia": 21
+    }
+   ]
+  },
+  "ref-fapern": {
+   "instituicao": {
+    "id": "I4210162455",
+    "nome": "Fundação de Apoio à Pesquisa do Rio Grande do Norte",
+    "tipo": "government",
+    "trabalhos": 18
+   },
+   "buscadoEm": "2026-11-19T00:51:28.956Z",
+   "pessoas": [
+    {
+     "id": "A5120455642",
+     "nome": "Leandro Nazareno Basílio Júnior",
+     "orcid": "0000-0003-1845-0408",
+     "trabalhos": 1,
+     "ultimoAno": 2025,
+     "temas": [
+      "Migration and Labor Dynamics",
+      "Diaspora, migration, transnational identity"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Brazilians in Europe: recent emigration patterns and challenges for public policy",
+      "ano": 2025,
+      "url": "https://doi.org/10.1590/1980-858525038800033202",
+      "quantico": false
+     },
+     "relevancia": 17
+    },
+    {
+     "id": "A5078318168",
+     "nome": "Juliana Bulhões Alberto Dantas",
+     "orcid": "0000-0002-6221-2696",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Journalism and Media Studies",
+      "Media, Journalism, and Communication History"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Profissionalização do jornalismo no Brasil: raízes portuguesas",
+      "ano": 2024,
+      "url": "https://doi.org/10.22478/ufpb.2359-375x.2023v10n2.68035",
+      "quantico": false
+     },
+     "relevancia": 13
+    },
+    {
+     "id": "A5111221881",
+     "nome": "Arthur César Barbosa Nunes",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Local Government Finance and Decentralization",
+      "Economic Growth and Fiscal Policies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "A APLICABILIDADE DOS TRIBUTOS MUNICIPAIS NA MANUTENÇÃO DAS POLÍTICAS PÚBLICAS NO MUNICÍPIO DE SÃO FRANCISCO DO OESTE/RN",
+      "ano": 2024,
+      "url": "https://doi.org/10.51249/hp10.2024.1838",
+      "quantico": false
+     },
+     "relevancia": 13
+    },
+    {
+     "id": "A5014025801",
+     "nome": "Ana Angélica Rêgo de Queiroz",
+     "orcid": "0000-0003-1807-8191",
+     "trabalhos": 2,
+     "ultimoAno": 2023,
+     "temas": [
+      "Health, Nursing, Elderly Care",
+      "Chronic Disease Management Strategies",
+      "Tuberculosis Research and Epidemiology"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Perfil clínico e sociodemográfico de usuários com doenças crônicas na atenção primária à saúde",
+      "ano": 2023,
+      "url": "https://doi.org/10.6018/eglobal.512211",
+      "quantico": false
+     },
+     "relevancia": 12
+    },
+    {
+     "id": "A5075041639",
+     "nome": "Thiago do Nascimento Torres de Paula",
+     "orcid": "",
+     "trabalhos": 4,
+     "ultimoAno": 2020,
+     "temas": [
+      "History of Colonial Brazil",
+      "Medieval and Early Modern Iberia",
+      "Peace and Human Rights Education"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "EDUCAÇÃO EM DIREITOS HUMANOS NO DOCUMENTO CURRICULAR DA SEEC-RN: O ENSINO RELIGIOSO",
+      "ano": 2020,
+      "url": "https://doi.org/10.35521/unitas.v8i2.2405",
+      "quantico": false
+     },
+     "relevancia": 12
+    },
+    {
+     "id": "A5091558666",
+     "nome": "Maria Lúcia Pessoa Sampaio",
+     "orcid": "0000-0001-6589-9879",
+     "trabalhos": 1,
+     "ultimoAno": 2023,
+     "temas": [
+      "Teacher Education and Leadership Studies",
+      "Teacher Professional Development and Motivation"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "MEMÓRIA, FORMAÇÃO E DESENVOLVIMENTO PROFISSIONAL DOCENTE: construindo aprendizagens ao longo da vida",
+      "ano": 2023,
+      "url": "https://doi.org/10.22196/rp.v25i1.7784",
+      "quantico": false
+     },
+     "relevancia": 9
+    },
+    {
+     "id": "A5087516204",
+     "nome": "Thiago Torres De Paula",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2020,
+     "temas": [
+      "Libraries, Manuscripts, and Books",
+      "History of Education Research in Brazil"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "O testamento do Licenciado Albino Duarte de Oliveira (1777)",
+      "ano": 2020,
+      "url": "https://doi.org/10.21680/1981-1802.2020v58n58id21839",
+      "quantico": false
+     },
+     "relevancia": 3
+    },
+    {
+     "id": "A5075411153",
+     "nome": "Francisco Claudivan da Silva",
+     "orcid": "0000-0002-6432-4771",
+     "trabalhos": 1,
+     "ultimoAno": 2020,
+     "temas": [
+      "Polymer Foaming and Composites",
+      "Natural Fiber Reinforced Composites"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Dog Wool Microparticles/Polyurethane Composite for Thermal Insulation",
+      "ano": 2020,
+      "url": "https://doi.org/10.3390/polym12051098",
+      "quantico": false
+     },
+     "relevancia": 3
+    },
+    {
+     "id": "A5112616944",
+     "nome": "Paula Thiago Nascimento Torres de",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2020,
+     "temas": [
+      "History of Colonial Brazil",
+      "Religion and Society in Latin America"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "ÁGUAS DA SALVAÇÃO: O BATISMO NA CAPITANIA DO RIO GRANDE DO NORTE - SÉCULOS XVIII E XIX",
+      "ano": 2020,
+      "url": "https://doi.org/10.47209/1519-6674.v33.n.2.p.226-243",
+      "quantico": false
+     },
+     "relevancia": 3
+    }
+   ]
+  },
+  "ref-brazil-quantum": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-19T00:51:51.050Z",
+   "pessoas": []
+  },
+  "ref-quanby": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-19T00:51:51.351Z",
+   "pessoas": []
+  },
+  "ref-mendelics": {
+   "instituicao": {
+    "id": "I4210138443",
+    "nome": "Mendelics",
+    "tipo": "facility",
+    "trabalhos": 151
+   },
+   "buscadoEm": "2026-11-19T00:51:51.625Z",
+   "pessoas": [
+    {
+     "id": "A5108713413",
+     "nome": "João Paulo Kitajima",
+     "orcid": "0009-0009-1711-8949",
+     "trabalhos": 31,
+     "ultimoAno": 2026,
+     "temas": [
+      "Genomics and Rare Diseases",
+      "SARS-CoV-2 and COVID-19 Research",
+      "COVID-19 epidemiological studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Germline whole-exome sequencing identifies CTNND1 as a candidate gene for hereditary gastric cancer in a large Brazilian cohort",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/s10120-026-01780-5",
+      "quantico": false
+     },
+     "relevancia": 48,
+     "orcidVistoEm": "2026-11-19T00:51:56.810Z"
+    },
+    {
+     "id": "A5062321658",
+     "nome": "Fernando Kok",
+     "orcid": "0000-0002-7577-9122",
+     "trabalhos": 50,
+     "ultimoAno": 2026,
+     "temas": [
+      "Genomics and Rare Diseases",
+      "Hereditary Neurological Disorders",
+      "Metabolism and Genetic Disorders"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "The clinical, radiological and genetic spectrum AARS2-related leukoencephalopathy: a case series of 15 patients and review of the literature",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/s00415-026-13964-1",
+      "quantico": false
+     },
+     "relevancia": 48,
+     "cargo": "",
+     "orcidVistoEm": "2026-11-19T00:51:57.161Z"
+    },
+    {
+     "id": "A5080093541",
+     "nome": "Fabíola Paoli Monteiro",
+     "orcid": "0000-0001-5943-7854",
+     "trabalhos": 16,
+     "ultimoAno": 2026,
+     "temas": [
+      "Genetics and Neurodevelopmental Disorders",
+      "Genomics and Rare Diseases",
+      "Fetal and Pediatric Neurological Disorders"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Unbalanced chromatin binding of Polycomb complexes drives neurodevelopmental disorders",
+      "ano": 2026,
+      "url": "https://doi.org/10.1016/j.molcel.2026.01.023",
+      "quantico": false
+     },
+     "relevancia": 48,
+     "orcidVistoEm": "2026-11-19T00:51:57.499Z"
+    },
+    {
+     "id": "A5075050548",
+     "nome": "Lucas Mitsuo Taniguti",
+     "orcid": "0000-0002-2682-7343",
+     "trabalhos": 9,
+     "ultimoAno": 2025,
+     "temas": [
+      "Sugarcane Cultivation and Processing",
+      "Plant Pathogens and Fungal Diseases",
+      "Genomics and Phylogenetic Studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Chromosome-level comparative genomics and host-specific fungal transcriptomics uncover adaptive virulence strategies in the sugarcane smut pathogen",
+      "ano": 2025,
+      "url": "https://doi.org/10.1186/s12864-025-12160-1",
+      "quantico": false
+     },
+     "relevancia": 41,
+     "cargo": "Bioinformatician, R&D",
+     "orcidVistoEm": "2026-11-19T00:51:57.829Z"
+    },
+    {
+     "id": "A5001619429",
+     "nome": "Anderson Rodrigues Brandão de Paiva",
+     "orcid": "0000-0002-8261-2275",
+     "trabalhos": 7,
+     "ultimoAno": 2025,
+     "temas": [
+      "Immunodeficiency and Autoimmune Disorders",
+      "Lysosomal Storage Disorders Research",
+      "Genomics and Rare Diseases"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Hematopoietic Stem Cell Transplantation in an International Cohort of Colony Stimulating Factor‐1 Receptor ( CSF1R) ‐Related Disorder",
+      "ano": 2025,
+      "url": "https://doi.org/10.1002/mds.30282",
+      "quantico": false
+     },
+     "relevancia": 35,
+     "orcidVistoEm": "2026-11-19T00:51:58.152Z"
+    },
+    {
+     "id": "A5052213809",
+     "nome": "Matheus Augusto Araújo Castro",
+     "orcid": "0000-0003-0335-8799",
+     "trabalhos": 7,
+     "ultimoAno": 2025,
+     "temas": [
+      "Genomics and Rare Diseases",
+      "Genetics and Neurodevelopmental Disorders",
+      "Coenzyme Q10 studies and effects"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "A new developmental and epileptic encephalopathy: PUM1-neurodevelopmental disorder with epilepsy with myoclonic-atonic seizures",
+      "ano": 2025,
+      "url": "https://doi.org/10.1016/j.seizure.2025.05.018",
+      "quantico": false
+     },
+     "relevancia": 35,
+     "orcidVistoEm": "2026-11-19T00:51:58.511Z"
+    },
+    {
+     "id": "A5138101167",
+     "nome": "David Schlesinger",
+     "orcid": "",
+     "trabalhos": 5,
+     "ultimoAno": 2026,
+     "temas": [
+      "Genomics and Rare Diseases",
+      "Genetic and Kidney Cyst Diseases",
+      "Renal Diseases and Glomerulopathies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Clinical and Genetic Characterization of an Autosomal Dominant Tubulointerstitial Kidney Disease Brazilian Cohort",
+      "ano": 2026,
+      "url": "https://doi.org/10.1681/asn.2026pr8mwp06",
+      "quantico": false
+     },
+     "relevancia": 33
+    },
+    {
+     "id": "A5011087154",
+     "nome": "Cristiane Araújo Martins Moreno",
+     "orcid": "0000-0002-5867-6359",
+     "trabalhos": 5,
+     "ultimoAno": 2026,
+     "temas": [
+      "Metabolism and Genetic Disorders",
+      "Mitochondrial Function and Pathology",
+      "Hereditary Neurological Disorders"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Expanding the Phenotype of Biallelic PIGG Variants: Motor Neuropathy With Peripheral Nerve Hyperexcitability",
+      "ano": 2026,
+      "url": "https://doi.org/10.1002/ajmg.a.70106",
+      "quantico": false
+     },
+     "relevancia": 33,
+     "orcidVistoEm": "2026-11-19T00:51:58.885Z"
+    },
+    {
+     "id": "A5009880421",
+     "nome": "Bibiana Santos",
+     "orcid": "0000-0002-1672-2839",
+     "trabalhos": 8,
+     "ultimoAno": 2023,
+     "temas": [
+      "SARS-CoV-2 and COVID-19 Research",
+      "COVID-19 epidemiological studies",
+      "SARS-CoV-2 detection and testing"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Dynamics of Early Establishment of SARS-CoV-2 VOC Omicron Lineages in Minas Gerais, Brazil",
+      "ano": 2023,
+      "url": "https://doi.org/10.3390/v15020585",
+      "quantico": false
+     },
+     "relevancia": 30,
+     "orcidVistoEm": "2026-11-19T00:51:59.236Z"
+    },
+    {
+     "id": "A5106720918",
+     "nome": "Luiza Lorena Pires Ramos",
+     "orcid": "0000-0003-1668-1683",
+     "trabalhos": 5,
+     "ultimoAno": 2025,
+     "temas": [
+      "Genetics and Neurodevelopmental Disorders",
+      "Cancer-related gene regulation",
+      "Barrier Structure and Function Studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Bi-allelic PRMT9 loss-of-function variants cause a syndromic form of intellectual disability",
+      "ano": 2025,
+      "url": "https://doi.org/10.1016/j.ajhg.2025.10.014",
+      "quantico": false
+     },
+     "relevancia": 29
+    },
+    {
+     "id": "A5114423009",
+     "nome": "Danilo Vilela Viana",
+     "orcid": "",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Genetic factors in colorectal cancer",
+      "BRCA gene mutations in cancer",
+      "Gastric Cancer Management and Outcomes"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Germline whole-exome sequencing identifies CTNND1 as a candidate gene for hereditary gastric cancer in a large Brazilian cohort",
+      "ano": 2026,
+      "url": "https://doi.org/10.1007/s10120-026-01780-5",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5049540315",
+     "nome": "Fernanda Barbosa Figueiredo",
+     "orcid": "0000-0001-7820-9574",
+     "trabalhos": 3,
+     "ultimoAno": 2026,
+     "temas": [
+      "Hereditary Neurological Disorders",
+      "Genomics and Rare Diseases",
+      "Peripheral Neuropathies and Disorders"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Monoallelic POLR3A Variants Cause Early‐Onset Peripheral Neuropathy",
+      "ano": 2026,
+      "url": "https://doi.org/10.1002/ana.78268",
+      "quantico": false
+     },
+     "relevancia": 27
+    },
+    {
+     "id": "A5026126429",
+     "nome": "Larissa Sampaio de Athayde",
+     "orcid": "0000-0002-8364-4965",
+     "trabalhos": 3,
+     "ultimoAno": 2025,
+     "temas": [
+      "Drug Transport and Resistance Mechanisms",
+      "Pediatric Hepatobiliary Diseases and Treatments",
+      "Barrier Structure and Function Studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "High frequency of ABCB4 and ABCB11 gene variants in adult patients with idiopathic chronic or recurrent cholestasis",
+      "ano": 2025,
+      "url": "https://doi.org/10.1097/hc9.0000000000000851",
+      "quantico": false
+     },
+     "relevancia": 23
+    },
+    {
+     "id": "A5160318144",
+     "nome": "Bibiana Amelia Santos",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Genetic and Kidney Cyst Diseases",
+      "Renal Diseases and Glomerulopathies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Clinical and Genetic Characterization of an Autosomal Dominant Tubulointerstitial Kidney Disease Brazilian Cohort",
+      "ano": 2026,
+      "url": "https://doi.org/10.1681/asn.2026pr8mwp06",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5134198950",
+     "nome": "Bruno Assis Della Ripa",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Migraine and Headache Studies",
+      "Epilepsy research and treatment"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Diagnostic approach to episodic ataxia types 1 and 2: a proposed algorithm for limited resource-settings",
+      "ano": 2026,
+      "url": "https://doi.org/10.3389/fneur.2026.1735246",
+      "quantico": false
+     },
+     "relevancia": 21
+    }
+   ]
+  },
+  "ref-nintx": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-19T00:51:59.808Z",
+   "pessoas": []
+  },
+  "ref-delfos": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-19T00:52:00.062Z",
+   "pessoas": []
+  },
+  "ref-visiona-tecnologia-espacial": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-19T00:52:00.338Z",
+   "pessoas": []
+  },
+  "ref-tempest-security-intelligence": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-19T00:52:00.586Z",
+   "pessoas": []
+  },
+  "ref-kunumi": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-19T00:52:00.847Z",
+   "pessoas": []
+  },
+  "ref-neuralmind": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-19T00:52:01.206Z",
+   "pessoas": []
   }
  },
- "atualizadoEm": "2026-11-18T18:08:16.619Z",
+ "atualizadoEm": "2026-11-19T00:52:01.206Z",
  "fonte": "OpenAlex (produção científica e técnica) e ORCID (dados tornados públicos pelos próprios pesquisadores)",
  "versao": 3
 }

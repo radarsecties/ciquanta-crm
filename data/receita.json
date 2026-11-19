@@ -781,7 +781,71 @@
    "abertura": "1973-05-30",
    "email": "",
    "atualizadoEm": "2026-11-18T18:07:45.403Z"
+  },
+  "ref-rede-d-or": {
+   "cnpj": "06047087000139",
+   "razao": "REDE D'OR SAO LUIZ S.A.",
+   "fantasia": "SAO LUIZ - UNIDADE ANALIA FRANCO",
+   "situacao": "ATIVA",
+   "cnae": "8610101",
+   "cnaeDesc": "Atividades de atendimento hospitalar, exceto pronto-socorro e unidades para atendimento a urgências",
+   "porte": "DEMAIS",
+   "natureza": "Sociedade Anônima Aberta",
+   "municipio": "SAO PAULO",
+   "uf": "SP",
+   "capital": 15711360000,
+   "abertura": "2003-12-16",
+   "email": "",
+   "atualizadoEm": "2026-11-19T00:48:23.424Z"
+  },
+  "ref-hcor": {
+   "cnpj": "60453024000128",
+   "razao": "ASSOCIACAO BENEFICENTE SIRIA",
+   "fantasia": "",
+   "situacao": "ATIVA",
+   "cnae": "8800600",
+   "cnaeDesc": "Serviços de assistência social sem alojamento",
+   "porte": "DEMAIS",
+   "natureza": "Associação Privada",
+   "municipio": "SAO PAULO",
+   "uf": "SP",
+   "capital": 0,
+   "abertura": "1967-04-26",
+   "email": "",
+   "atualizadoEm": "2026-11-19T00:48:24.821Z"
+  },
+  "ref-libbs": {
+   "cnpj": "61230314000175",
+   "razao": "LIBBS FARMACEUTICA LTDA",
+   "fantasia": "LIBBS",
+   "situacao": "ATIVA",
+   "cnae": "2121101",
+   "cnaeDesc": "Fabricação de medicamentos alopáticos para uso humano",
+   "porte": "DEMAIS",
+   "natureza": "Sociedade Empresária Limitada",
+   "municipio": "SAO PAULO",
+   "uf": "SP",
+   "capital": 1391556000,
+   "abertura": "1966-07-14",
+   "email": "",
+   "atualizadoEm": "2026-11-19T00:48:26.225Z"
+  },
+  "ref-john-deere-brasil": {
+   "cnpj": "89674782000158",
+   "razao": "JOHN DEERE BRASIL LTDA",
+   "fantasia": "JOHN DEERE",
+   "situacao": "ATIVA",
+   "cnae": "2833000",
+   "cnaeDesc": "Fabricação de máquinas e equipamentos para a agricultura e pecuária, peças e acessórios, exceto para irrigação",
+   "porte": "DEMAIS",
+   "natureza": "Sociedade Empresária Limitada",
+   "municipio": "HORIZONTINA",
+   "uf": "RS",
+   "capital": 10357474000,
+   "abertura": "1978-12-14",
+   "email": "",
+   "atualizadoEm": "2026-11-19T00:48:27.631Z"
   }
  },
- "atualizadoEm": "2026-11-18T18:07:46.703Z"
+ "atualizadoEm": "2026-11-19T00:48:30.409Z"
 }

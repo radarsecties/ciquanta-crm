@@ -1,7 +1,22 @@
 {
- "atualizadoEm": "2026-11-18T18:04:45.884Z",
+ "atualizadoEm": "2026-11-19T00:45:41.503Z",
  "aviso": "Títulos e links de notícias públicas; o conteúdo pertence a cada veículo.",
  "itens": [
+  {
+   "id": "cb5e7ab34f52",
+   "titulo": "Primeiro computador quântico da América Latina vai ser instalado na Paraíba",
+   "fonte": "Jornal O Sul",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdzNMN1lBNFRWbFpQaWxzcGxCcUZrM2VKMjhPd1BsOUliUzJtMzJJcjZFMEk5a09CMk9rMWIxRFZoX2IydF9jMFA1cmhJMDBKWDdkUWc0dmpnTWNsc3U1M0QtR3FueUZNSVN3TVVjdkx4RVhQNmR5SlpQUWVpaHpjZ2t6OVo1ckpEbmVHa1doYy1KOExGUF9IbFNETW43MlhVbTAzdlI4NNIBpwFBVV95cUxOdzNMN1lBNFRWbFpQaWxzcGxCcUZrM2VKMjhPd1BsOUliUzJtMzJJcjZFMEk5a09CMk9rMWIxRFZoX2IydF9jMFA1cmhJMDBKWDdkUWc0dmpnTWNsc3U1M0QtR3FueUZNSVN3TVVjdkx4RVhQNmR5SlpQUWVpaHpjZ2t6OVo1ckpEbmVHa1doYy1KOExGUF9IbFNETW43MlhVbTAzdlI4NA?oc=5",
+   "data": "2026-11-18T21:17:16.000Z",
+   "temas": [
+    "quantica",
+    "ciquanta"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Primeiro computador quântico da América Latina vai ser instalado na Paraíba Jornal O Sul",
+   "coletadoEm": "2026-11-19T00:45:09.093Z"
+  },
   {
    "id": "3661759cf063",
    "titulo": "BASF investe R$ 20 milhões em inovação em São Bernardo",
@@ -17,6 +32,21 @@
    "coletadoEm": "2026-11-18T18:04:31.836Z"
   },
   {
+   "id": "b17b7239e895",
+   "titulo": "Zapata e a UMD lançam ForShor para pesquisa quântica assistida por IA com verificação formal",
+   "fonte": "Unite.AI",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fN3dEellvM1hVdkFCQkhQTmdZMW5oakZNcXZFUnJWOS14emI0dWVlbDZtaG1WTm9PaGpubk5oVEpKbW5CaFF1cE9TSUpmbzVRNW1qeXRMZTZFMTdkQmtCSTdHeTJzX3ZpVlQ0Y0JTOE1WbVhFQXFoYzdOcHA?oc=5",
+   "data": "2026-11-18T17:04:36.000Z",
+   "temas": [
+    "quantica",
+    "saude"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Zapata e a UMD lançam ForShor para pesquisa quântica assistida por IA com verificação formal Unite.AI",
+   "coletadoEm": "2026-11-19T00:45:09.094Z"
+  },
+  {
    "id": "d0d4582e3efe",
    "titulo": "Ciquanta abrirá computadores quânticos para empresas da Paraíba e negocia parcerias com bancos",
    "fonte": "Paraíba Business",
@@ -30,6 +60,20 @@
    "edital": false,
    "resumo": "Ciquanta abrirá computadores quânticos para empresas da Paraíba e negocia parcerias com bancos Paraíba Business",
    "coletadoEm": "2026-11-18T18:04:18.741Z"
+  },
+  {
+   "id": "01ee8399f7c6",
+   "titulo": "Chamada aberta para o Deep Tech Indústria, programa de soluções tecnológicas",
+   "fonte": "FIEMS",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSUczOTZFUlFBZjBIQ1F6UGdrVjQ3bUNXV2ZXa0lnTDZJenpVRXVYQmNJazhpLWFKeWtVbnNmNnZmSlREMnkyYWU0U1RuZEotaW1teVJVQVgtak1OU1RfSEx3XzhGUHlwSXNZMlZ6RU12UkZDaU5VOWt0QWtHeGk3M00tSE5uSzlwWTlOMHhzdEFoeUVSMmQyUldYbjJ0TDVOdkJYM3BWNHlNZFBDX3ZsRFFGeXlidw?oc=5",
+   "data": "2026-11-18T15:39:56.000Z",
+   "temas": [
+    "investimento"
+   ],
+   "orgs": [],
+   "edital": true,
+   "resumo": "Chamada aberta para o Deep Tech Indústria, programa de soluções tecnológicas FIEMS",
+   "coletadoEm": "2026-11-19T00:45:25.685Z"
   },
   {
    "id": "c64a8f3516f7",
@@ -1370,6 +1414,22 @@
    "coletadoEm": "2026-11-18T18:04:20.560Z"
   },
   {
+   "id": "3efde5a27bc2",
+   "titulo": "Q-CTRL capta US$ 290 milhões em rodada Série C para ampliar software quântico com IA",
+   "fonte": "Unite.AI",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSzB4UzBrNURuV19ZUG1vcWJVUTdYOUlBZmJMempDZmFlSVl0dWRaR2VpMnFGOHhCU01fWVB0SmFpNjNRTkdFYjJULXd2eWRTS1lPRENkczl0QzduNXpsSi1zWlplVkVZcGN4QlNoUTM0Wjk5dFJJWHNDYlU4cHZMUXZkTl90T21oQTJqbk9QWndidw?oc=5",
+   "data": "2026-11-12T14:07:03.000Z",
+   "temas": [
+    "saude"
+   ],
+   "orgs": [
+    "ref-q-ctrl"
+   ],
+   "edital": false,
+   "resumo": "Q-CTRL capta US$ 290 milhões em rodada Série C para ampliar software quântico com IA Unite.AI",
+   "coletadoEm": "2026-11-19T00:45:20.208Z"
+  },
+  {
    "id": "ade6fce2a4f5",
    "titulo": "Rigetti CEO Admits “None of Us” Can Yet Prove Quantum Beats Classical Computing on ROI",
    "fonte": "TIKR.com",
@@ -1412,6 +1472,22 @@
    "edital": false,
    "resumo": "Inédito: 66% das farmacêuticas planejam investir em pesquisa e desenvolvimento nos próximos 3 anos, revela Censo inédito Abradilan",
    "coletadoEm": "2026-11-16T22:20:17.405Z"
+  },
+  {
+   "id": "f1d80c4686df",
+   "titulo": "AMD amplia parceria com a empresa de computação quântica PsiQuantum",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeExsQkZ2ZnRqTjlWRnlFUGpOZ3ZhZHdMQ2dNaVd2QWZqQzV6aG9uS0N1OU56cmE3STVvTkNDOEt2LWJzeWRCampIalQ5REdsb2JPWWFuVG1vSHE4OGwzMFZSYzBGb0JMZnF1dTVNandlbTdHVUJNNFgtYTA1MkhzaE9GOWRjZllGTVNkRzVLc3NfUmpCSHFBMTI2ZFl5eWc4aUdSYTJfYUpCZURQYldhRXpVcTZKdExvc3lEM2U4WkE?oc=5",
+   "data": "2026-11-12T13:06:00.000Z",
+   "temas": [
+    "quantica",
+    "saude",
+    "energia"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "AMD amplia parceria com a empresa de computação quântica PsiQuantum Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "coletadoEm": "2026-11-19T00:45:09.094Z"
   },
   {
    "id": "e6527c0af1d9",
@@ -2111,6 +2187,20 @@
    "edital": false,
    "resumo": "Desenvolvedor do Ethereum mira 2028 para transição pós-quântica Cointelegraph Brasil",
    "coletadoEm": "2026-11-16T22:21:09.260Z"
+  },
+  {
+   "id": "5bf6d17da3e1",
+   "titulo": "Ameaça quântica: empresas sabem do risco, mas faltam ações concretas",
+   "fonte": "Jornal Económico",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbFd1ZEhkVlRfU0Njd0cwTjZBZ2I0ak5tNlhnUmdJanhWM2o1MlRrWkxoOVhSdmVFaGpWQlloWmpyMHNjaldSVEluZWFBS0ZsbW1QNnkyMG4zYXUtQjdqejB1TG0zVWs1VHZXa2l4aEtfLW5xQXBWMXRrM0hlUE50QmdxdmgxQldRYnpPLUsybS1CNDBaME1ZRDl2T0R2Nk50cWxPYzhZaUxhUXhIUmlZX3lIU1QxSUZNOWYyZjl5MlJWUk0?oc=5",
+   "data": "2026-11-04T08:00:00.000Z",
+   "temas": [
+    "saude"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Ameaça quântica: empresas sabem do risco, mas faltam ações concretas Jornal Económico",
+   "coletadoEm": "2026-11-19T00:45:20.208Z"
   },
   {
    "id": "493756a4224e",

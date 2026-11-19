@@ -22,7 +22,8 @@
     }
    ],
    "cnpj": "",
-   "linkedin": "https://br.linkedin.com/company/bndes"
+   "linkedin": "https://br.linkedin.com/company/bndes",
+   "buscaWebEm": "2026-11-19T00:52:02.511Z"
   },
   "ref-nubank": {
    "verificadoEm": "2026-11-18T18:06:32.723Z",
@@ -30,7 +31,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "18236120000158",
-   "linkedin": "https://www.linkedin.com/company/nubank"
+   "linkedin": "https://www.linkedin.com/company/nubank",
+   "buscaWebEm": "2026-11-19T00:52:02.314Z"
   },
   "ref-btg-pactual": {
    "verificadoEm": "2026-11-18T18:06:35.742Z",
@@ -83,252 +85,353 @@
    "buscaWebEm": "2026-11-18T18:08:16.901Z"
   },
   "ref-banco-safra": {
-   "verificadoEm": "2026-11-17T00:14:53.748Z",
+   "verificadoEm": "2026-11-19T00:45:48.450Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "30902142000105",
    "linkedin": "https://www.linkedin.com/company/safra-banco"
   },
   "ref-xp-inc": {
-   "verificadoEm": "2026-11-17T00:14:54.283Z",
+   "verificadoEm": "2026-11-19T00:45:49.763Z",
+   "versao": 2,
    "status": "ok",
-   "emails": [],
+   "emails": [
+    {
+     "email": "oficios@xpi.com.br",
+     "papel": "Contato geral",
+     "url": "https://www.xpi.com.br/"
+    }
+   ],
    "cnpj": "02332886000104",
    "linkedin": ""
   },
   "ref-stone": {
-   "verificadoEm": "2026-11-17T00:14:59.854Z",
+   "verificadoEm": "2026-11-19T00:45:48.428Z",
+   "versao": 2,
    "status": "ok",
-   "emails": [],
+   "emails": [
+    {
+     "email": "imprensa@stone.com.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.stone.com.br/suporte-stone"
+    }
+   ],
    "cnpj": "16501555000157",
    "linkedin": "https://br.linkedin.com/company/stone-co"
   },
   "ref-pagbank": {
-   "verificadoEm": "2026-11-17T00:15:03.022Z",
+   "verificadoEm": "2026-11-19T00:45:53.684Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "08561701000101",
    "linkedin": "https://www.linkedin.com/company/pagbank"
   },
   "ref-mercado-pago": {
-   "verificadoEm": "2026-11-17T00:15:04.080Z",
+   "verificadoEm": "2026-11-19T00:45:47.321Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "10573521000191",
    "linkedin": ""
   },
   "ref-banco-bv": {
-   "verificadoEm": "2026-11-17T00:15:05.373Z",
+   "verificadoEm": "2026-11-19T00:45:49.057Z",
+   "versao": 2,
    "status": "ok",
    "emails": [
     {
      "email": "imprensa@bv.com.br",
      "papel": "Comunicação e imprensa",
-     "url": "https://www.bv.com.br/imprensa"
+     "url": "https://www.bv.com.br/web/portal/institucional/imprensa"
     }
    ],
    "cnpj": "59588111000103",
    "linkedin": "https://www.linkedin.com/company/bancobv"
   },
   "ref-sicredi": {
-   "verificadoEm": "2026-11-17T00:15:06.131Z",
+   "verificadoEm": "2026-11-19T00:45:55.831Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "03795072000160",
    "linkedin": "https://www.linkedin.com/company/sicredi"
   },
   "ref-anbima": {
-   "verificadoEm": "2026-11-17T00:15:09.256Z",
+   "verificadoEm": "2026-11-19T00:45:52.345Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "",
    "linkedin": ""
   },
   "ref-b3": {
-   "verificadoEm": "2026-11-17T00:15:10.676Z",
+   "verificadoEm": "2026-11-19T00:45:54.252Z",
+   "versao": 2,
    "status": "ok",
-   "emails": [
-    {
-     "email": "imprensa@b3.com.br",
-     "papel": "Comunicação e imprensa",
-     "url": "https://www.b3.com.br/imprensa"
-    }
-   ],
+   "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-19T00:52:02.409Z"
   },
   "ref-cielo": {
-   "verificadoEm": "2026-11-17T00:15:11.259Z",
+   "verificadoEm": "2026-11-19T00:45:58.642Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "",
    "linkedin": "https://www.linkedin.com/company/cielo"
   },
   "ref-sicoob": {
-   "verificadoEm": "2026-11-17T00:15:12.217Z",
+   "verificadoEm": "2026-11-19T00:45:59.941Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "",
    "linkedin": "https://www.linkedin.com/company/sicooboficial"
   },
   "ref-caixa-economica-federal": {
-   "verificadoEm": "2026-11-17T00:15:15.462Z",
+   "verificadoEm": "2026-11-19T00:46:26.848Z",
+   "versao": 2,
    "status": "erro",
    "erro": "This operation was aborted",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-19T00:52:02.223Z"
   },
   "ref-bb-seguridade": {
-   "verificadoEm": "2026-11-17T00:15:17.784Z",
-   "status": "erro",
-   "erro": "fetch failed",
+   "verificadoEm": "2026-11-19T00:45:59.969Z",
+   "versao": 2,
+   "status": "ok",
    "emails": [],
    "cnpj": "",
    "linkedin": ""
   },
   "ref-banco-central-do-brasil": {
-   "verificadoEm": "2026-11-17T00:15:17.933Z",
+   "verificadoEm": "2026-11-19T00:46:02.583Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-18T18:08:17.493Z"
+   "buscaWebEm": "2026-11-19T00:52:01.767Z"
   },
   "ref-banco-do-nordeste": {
-   "verificadoEm": "2026-11-17T00:15:18.958Z",
+   "verificadoEm": "2026-11-19T00:46:10.833Z",
+   "versao": 2,
    "status": "ok",
    "emails": [
     {
-     "email": "imprensa@bnb.gov.br",
-     "papel": "Comunicação e imprensa",
-     "url": "https://www.bnb.gov.br/imprensa"
+     "email": "presidenciabnb@bnb.gov.br",
+     "papel": "Presidência",
+     "url": "https://www.bnb.gov.br/web/guest/atendimento"
     },
     {
-     "email": "inovacao@bnb.gov.br",
-     "papel": "Inovação e P&D",
-     "url": "https://www.bnb.gov.br/inovacao"
+     "email": "leticias@bnb.gov.br",
+     "papel": "Diretoria",
+     "url": "https://www.bnb.gov.br/web/guest/imprensa/contatos"
+    },
+    {
+     "email": "jussara@bnb.gov.br",
+     "papel": "Diretoria",
+     "url": "https://www.bnb.gov.br/web/guest/imprensa/contatos"
+    },
+    {
+     "email": "gilmarsb@bnb.gov.br",
+     "papel": "Diretoria",
+     "url": "https://www.bnb.gov.br/web/guest/imprensa/contatos"
+    },
+    {
+     "email": "josean@bnb.gov.br",
+     "papel": "Diretoria",
+     "url": "https://www.bnb.gov.br/web/guest/imprensa/contatos"
+    },
+    {
+     "email": "suelygb@bnb.gov.br",
+     "papel": "Diretoria",
+     "url": "https://www.bnb.gov.br/web/guest/imprensa/contatos"
+    },
+    {
+     "email": "albacacr@bnb.gov.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.bnb.gov.br/web/guest/imprensa/contatos"
+    },
+    {
+     "email": "maryana@bnb.gov.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.bnb.gov.br/web/guest/imprensa/contatos"
     }
    ],
    "cnpj": "07237373000120",
    "linkedin": "https://br.linkedin.com/company/bancodonordeste"
   },
   "ref-febraban": {
-   "verificadoEm": "2026-11-17T00:15:19.947Z",
+   "verificadoEm": "2026-11-19T00:46:10.945Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "00068353000123",
    "linkedin": "https://www.linkedin.com/company/502389",
-   "buscaWebEm": "2026-11-17T18:40:03.130Z"
+   "buscaWebEm": "2026-11-19T00:52:01.470Z"
   },
   "ref-mapfre-brasil": {
-   "verificadoEm": "2026-11-17T00:15:25.031Z",
+   "verificadoEm": "2026-11-19T00:46:06.236Z",
+   "versao": 2,
    "status": "ok",
-   "emails": [],
+   "emails": [
+    {
+     "email": "comercialcap@mapfre.com.br",
+     "papel": "Contato geral",
+     "url": "https://www.mapfre.com.br/atendimento/"
+    },
+    {
+     "email": "doacap@mapfre.com.br",
+     "papel": "Contato geral",
+     "url": "https://www.mapfre.com.br/atendimento/"
+    },
+    {
+     "email": "fundos@mapfre.com.br",
+     "papel": "Contato geral",
+     "url": "https://www.mapfre.com.br/atendimento/"
+    },
+    {
+     "email": "invest@mapfre.com.br",
+     "papel": "Contato geral",
+     "url": "https://www.mapfre.com.br/atendimento/"
+    }
+   ],
    "cnpj": "",
    "linkedin": "https://www.linkedin.com/company/mapfre"
   },
   "ref-brasilprev": {
-   "verificadoEm": "2026-11-17T00:15:26.075Z",
+   "verificadoEm": "2026-11-19T00:46:07.702Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "",
    "linkedin": ""
   },
   "ref-hospital-israelita-albert-einstein": {
-   "verificadoEm": "2026-11-17T00:15:26.286Z",
+   "verificadoEm": "2026-11-19T00:46:02.708Z",
+   "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-17T18:40:03.211Z"
+   "buscaWebEm": "2026-11-19T00:52:01.582Z"
   },
   "ref-caixa-seguridade": {
-   "verificadoEm": "2026-11-17T00:15:27.142Z",
+   "verificadoEm": "2026-11-19T00:46:17.512Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "22543331000100",
    "linkedin": "https://br.linkedin.com/company/caixa-seguridade"
   },
   "ref-tokio-marine-brasil": {
-   "verificadoEm": "2026-11-17T00:15:30.671Z",
+   "verificadoEm": "2026-11-19T00:46:15.133Z",
+   "versao": 2,
    "status": "ok",
-   "emails": [],
+   "emails": [
+    {
+     "email": "assessoriadeimprensa@tokiomarine.com.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.tokiomarine.com.br/sala-de-imprensa"
+    }
+   ],
    "cnpj": "33164021000100",
    "linkedin": "https://br.linkedin.com/company/tokio-marine-seguradora-s-a"
   },
   "ref-bradesco-seguros": {
-   "verificadoEm": "2026-11-17T00:15:32.523Z",
+   "verificadoEm": "2026-11-19T00:46:26.498Z",
+   "versao": 2,
    "status": "ok",
-   "emails": [],
+   "emails": [
+    {
+     "email": "imprensa@bradescoseguros.com.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.bradescoseguros.com.br/clientes/atendimento/assessoria-de-imprensa"
+    }
+   ],
    "cnpj": "33055146000193",
    "linkedin": "https://pt.linkedin.com/company/bradesco-seguros"
   },
   "ref-irb-re": {
-   "verificadoEm": "2026-11-17T00:15:33.293Z",
+   "verificadoEm": "2026-11-19T00:46:30.344Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "",
    "linkedin": "https://www.linkedin.com/company/irb-re"
   },
   "ref-porto": {
-   "verificadoEm": "2026-11-17T00:15:34.696Z",
+   "verificadoEm": "2026-11-19T00:46:21.588Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "46350164000140",
    "linkedin": "https://www.linkedin.com/company/porto"
   },
   "ref-instituto-butantan": {
-   "verificadoEm": "2026-11-17T00:15:35.731Z",
+   "verificadoEm": "2026-11-19T00:46:28.710Z",
+   "versao": 2,
    "status": "ok",
    "emails": [
     {
      "email": "sac@butantan.gov.br",
      "papel": "Contato geral",
-     "url": "https://butantan.gov.br"
+     "url": "https://butantan.gov.br/"
     }
    ],
    "cnpj": "",
    "linkedin": "https://www.linkedin.com/company/instituto-butantan"
   },
   "ref-grupo-fleury": {
-   "verificadoEm": "2026-11-17T00:15:39.125Z",
+   "verificadoEm": "2026-11-19T00:46:24.450Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "",
    "linkedin": "https://br.linkedin.com/company/grupo-fleury"
   },
   "ref-hapvida-notredame-intermedica": {
-   "verificadoEm": "2026-11-17T00:15:40.507Z",
+   "verificadoEm": "2026-11-19T00:46:27.240Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "44649812000138",
    "linkedin": "https://www.linkedin.com/company/hapvidasaude"
   },
   "ref-dasa": {
-   "verificadoEm": "2026-11-17T00:15:40.794Z",
+   "verificadoEm": "2026-11-19T00:46:31.239Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "",
    "linkedin": "https://www.linkedin.com/company/dasa"
   },
   "ref-hospital-sirio-libanes": {
-   "verificadoEm": "2026-11-17T00:15:42.359Z",
+   "verificadoEm": "2026-11-19T00:46:37.618Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "",
    "linkedin": "https://br.linkedin.com/company/siriolibanes"
   },
   "ref-rede-d-or": {
-   "verificadoEm": "2026-11-17T00:15:45.673Z",
+   "verificadoEm": "2026-11-19T00:46:33.388Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
-   "cnpj": "",
+   "cnpj": "06047087000139",
    "linkedin": "https://www.linkedin.com/company/rededor-saoluiz"
   },
   "ref-eurofarma": {
-   "verificadoEm": "2026-11-17T00:15:45.886Z",
+   "verificadoEm": "2026-11-19T00:46:27.470Z",
+   "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
    "emails": [],
@@ -336,30 +439,22 @@
    "linkedin": ""
   },
   "ref-bp-a-beneficencia-portuguesa-de-sao-paul": {
-   "verificadoEm": "2026-11-17T00:15:46.088Z",
+   "verificadoEm": "2026-11-19T00:46:36.799Z",
+   "versao": 2,
    "status": "ok",
    "emails": [
     {
-     "email": "sac.callcenter@bp.org.br",
-     "papel": "Contato geral",
-     "url": "https://www.bp.org.br/fale-conosco"
-    },
-    {
-     "email": "atendimento-rh@bp.org.br",
-     "papel": "Contato geral",
-     "url": "https://www.bp.org.br/fale-conosco"
-    },
-    {
-     "email": "contato@bp.org.br",
-     "papel": "Contato geral",
-     "url": "https://www.bp.org.br/fale-conosco"
+     "email": "imprensa@bp.org.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.bp.org.br/institucional/imprensa/"
     }
    ],
    "cnpj": "",
    "linkedin": "https://www.linkedin.com/company/bporgbr"
   },
   "ref-ache-laboratorios": {
-   "verificadoEm": "2026-11-17T00:15:46.144Z",
+   "verificadoEm": "2026-11-19T00:46:28.918Z",
+   "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
    "emails": [],
@@ -367,70 +462,94 @@
    "linkedin": ""
   },
   "ref-hypera-pharma": {
-   "verificadoEm": "2026-11-17T00:15:50.778Z",
-   "status": "ok",
-   "emails": [
-    {
-     "email": "imprensa@hypera.com.br",
-     "papel": "Comunicação e imprensa",
-     "url": "https://www.hypera.com.br/imprensa"
-    }
-   ],
-   "cnpj": "",
-   "linkedin": ""
-  },
-  "ref-hcor": {
-   "verificadoEm": "2026-11-17T00:15:51.700Z",
+   "verificadoEm": "2026-11-19T00:46:35.818Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "",
    "linkedin": ""
   },
+  "ref-hcor": {
+   "verificadoEm": "2026-11-19T00:46:38.886Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [],
+   "cnpj": "60453024000128",
+   "linkedin": ""
+  },
   "ref-sabin-diagnostico-e-saude": {
-   "verificadoEm": "2026-11-17T00:15:55.374Z",
+   "verificadoEm": "2026-11-19T00:46:49.312Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "",
    "linkedin": "https://br.linkedin.com/company/grupo-sabin"
   },
   "ref-cristalia": {
-   "verificadoEm": "2026-11-17T00:15:56.887Z",
+   "verificadoEm": "2026-11-19T00:46:40.474Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "",
    "linkedin": "https://www.linkedin.com/company/282007"
   },
   "ref-ems": {
-   "verificadoEm": "2026-11-17T00:15:56.941Z",
+   "verificadoEm": "2026-11-19T00:46:54.436Z",
+   "versao": 2,
    "status": "ok",
-   "emails": [],
+   "emails": [
+    {
+     "email": "pesquisa.clinica@ems.com.br",
+     "papel": "Inovação e P&D",
+     "url": "https://www.ems.com.br/pesquisa-clinica/"
+    }
+   ],
    "cnpj": "00923140000131",
-   "linkedin": ""
+   "linkedin": "https://www.linkedin.com/company/ems"
   },
   "ref-fiocruz": {
-   "verificadoEm": "2026-11-17T00:16:00.788Z",
-   "status": "erro",
-   "erro": "This operation was aborted",
-   "emails": [],
+   "verificadoEm": "2026-11-19T00:48:22.970Z",
+   "versao": 2,
+   "status": "ok",
+   "emails": [
+    {
+     "email": "secretaria.vppis@fiocruz.br",
+     "papel": "Diretoria",
+     "url": "https://portal.fiocruz.br/equipe-vppis"
+    },
+    {
+     "email": "vppis@fiocruz.br",
+     "papel": "Inovação e P&D",
+     "url": "https://portal.fiocruz.br/equipe-vppis"
+    },
+    {
+     "email": "vpaaps@fiocruz.br",
+     "papel": "Contato geral",
+     "url": "https://portal.fiocruz.br/vpaaps-governanca-e-equipe"
+    }
+   ],
    "cnpj": "",
    "linkedin": ""
   },
   "ref-biomm": {
-   "verificadoEm": "2026-11-17T00:16:02.374Z",
+   "verificadoEm": "2026-11-19T00:46:45.489Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "",
    "linkedin": "https://www.linkedin.com/company/biommbr"
   },
   "ref-libbs": {
-   "verificadoEm": "2026-11-17T00:16:05.628Z",
+   "verificadoEm": "2026-11-19T00:46:59.596Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
-   "cnpj": "",
-   "linkedin": ""
+   "cnpj": "61230314000175",
+   "linkedin": "https://www.linkedin.com/company/libbsfarmaceutica"
   },
   "ref-jbs": {
-   "verificadoEm": "2026-11-17T00:16:05.955Z",
+   "verificadoEm": "2026-11-19T00:46:40.868Z",
+   "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
    "emails": [],
@@ -438,63 +557,70 @@
    "linkedin": ""
   },
   "ref-blau-farmaceutica": {
-   "verificadoEm": "2026-11-17T00:16:07.005Z",
+   "verificadoEm": "2026-11-19T00:46:51.540Z",
+   "versao": 2,
    "status": "ok",
-   "emails": [],
+   "emails": [
+    {
+     "email": "sac@blau.com.br",
+     "papel": "Contato geral",
+     "url": "https://www.blau.com.br/fale-conosco/farmacovigilancia/"
+    }
+   ],
    "cnpj": "",
    "linkedin": "https://www.linkedin.com/company/1048603"
   },
   "ref-embrapa": {
-   "verificadoEm": "2026-11-17T00:16:09.079Z",
+   "verificadoEm": "2026-11-19T00:46:58.680Z",
+   "versao": 2,
    "status": "ok",
    "emails": [
     {
      "email": "imprensa@embrapa.br",
      "papel": "Comunicação e imprensa",
-     "url": "https://www.embrapa.br/sala-de-imprensa"
+     "url": "https://www.embrapa.br/fale-conosco/sac/"
     }
    ],
    "cnpj": "",
    "linkedin": "https://br.linkedin.com/company/embrapa",
-   "buscaWebEm": "2026-11-17T18:40:03.309Z"
+   "buscaWebEm": "2026-11-19T00:52:01.675Z"
   },
   "ref-uniao-quimica": {
-   "verificadoEm": "2026-11-17T00:16:10.418Z",
+   "verificadoEm": "2026-11-19T00:47:05.658Z",
+   "versao": 2,
    "status": "ok",
-   "emails": [
-    {
-     "email": "institucional@uniaoquimica.com.br",
-     "papel": "Relações institucionais",
-     "url": "https://www.uniaoquimica.com.br/sala-de-imprensa"
-    }
-   ],
+   "emails": [],
    "cnpj": "",
    "linkedin": "https://www.linkedin.com/company/uni-o-qu-mica-farmac-utica-nacional"
   },
   "ref-bayer-brasil": {
-   "verificadoEm": "2026-11-17T00:16:11.747Z",
+   "verificadoEm": "2026-11-19T00:47:05.014Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "18459628000115",
    "linkedin": "https://br.linkedin.com/company/bayer",
-   "buscaWebEm": "2026-11-18T18:08:17.556Z"
+   "buscaWebEm": "2026-11-19T00:52:01.855Z"
   },
   "ref-cargill-brasil": {
-   "verificadoEm": "2026-11-17T00:16:14.946Z",
+   "verificadoEm": "2026-11-19T00:47:02.244Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "",
    "linkedin": ""
   },
   "ref-bunge-brasil": {
-   "verificadoEm": "2026-11-17T00:16:16.664Z",
+   "verificadoEm": "2026-11-19T00:47:03.337Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "",
    "linkedin": "http://linkedin.com/company/bunge"
   },
   "ref-marfrig": {
-   "verificadoEm": "2026-11-17T00:16:20.478Z",
+   "verificadoEm": "2026-11-19T00:47:13.218Z",
+   "versao": 2,
    "status": "erro",
    "erro": "HTTP 504",
    "emails": [],
@@ -502,7 +628,8 @@
    "linkedin": ""
   },
   "ref-syngenta-brasil": {
-   "verificadoEm": "2026-11-17T00:16:20.768Z",
+   "verificadoEm": "2026-11-19T00:47:02.519Z",
+   "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
    "emails": [],
@@ -510,75 +637,95 @@
    "linkedin": ""
   },
   "ref-minerva-foods": {
-   "verificadoEm": "2026-11-17T00:16:21.293Z",
+   "verificadoEm": "2026-11-19T00:47:14.028Z",
+   "versao": 2,
    "status": "ok",
    "emails": [
     {
      "email": "sac@minervafoods.com",
      "papel": "Contato geral",
-     "url": "https://minervafoods.com/fale-conosco"
+     "url": "https://minervafoods.com/fale-conosco/"
     }
    ],
    "cnpj": "67620377000114",
    "linkedin": "https://linkedin.com/company/minerva-sa"
   },
   "ref-slc-agricola": {
-   "verificadoEm": "2026-11-17T00:16:21.835Z",
+   "verificadoEm": "2026-11-19T00:47:09.209Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "",
    "linkedin": ""
   },
   "ref-amaggi": {
-   "verificadoEm": "2026-11-17T00:16:24.107Z",
+   "verificadoEm": "2026-11-19T00:47:12.579Z",
+   "versao": 2,
    "status": "ok",
    "emails": [
     {
      "email": "assessoria.comunicacao@amaggi.com.br",
      "papel": "Comunicação e imprensa",
-     "url": "https://www.amaggi.com.br"
+     "url": "https://www.amaggi.com.br/"
     }
    ],
    "cnpj": "00315457000195",
    "linkedin": "https://www.linkedin.com/company/amaggi"
   },
   "ref-brf": {
-   "verificadoEm": "2026-11-17T00:16:24.386Z",
+   "verificadoEm": "2026-11-19T00:47:36.550Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "",
    "linkedin": ""
   },
   "ref-corteva-agriscience-brasil": {
-   "verificadoEm": "2026-11-17T00:16:26.698Z",
+   "verificadoEm": "2026-11-19T00:47:16.732Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "",
    "linkedin": "https://www.linkedin.com/company/corteva"
   },
   "ref-basf-brasil": {
-   "verificadoEm": "2026-11-17T00:16:27.001Z",
+   "verificadoEm": "2026-11-19T00:47:22.609Z",
+   "versao": 2,
    "status": "ok",
-   "emails": [],
+   "emails": [
+    {
+     "email": "atendimentocomercial@basf.com",
+     "papel": "Contato geral",
+     "url": "https://www.basf.com/br/pt/legal/contact"
+    },
+    {
+     "email": "atendimento-2273@basf.com",
+     "papel": "Contato geral",
+     "url": "https://www.basf.com/br/pt/legal/contact"
+    }
+   ],
    "cnpj": "",
    "linkedin": "https://www.linkedin.com/company/basf"
   },
   "ref-yara-brasil": {
-   "verificadoEm": "2026-11-17T00:16:27.808Z",
+   "verificadoEm": "2026-11-19T00:47:20.039Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "",
    "linkedin": "https://www.linkedin.com/company/yarabroficial"
   },
   "ref-coamo": {
-   "verificadoEm": "2026-11-17T00:16:29.323Z",
+   "verificadoEm": "2026-11-19T00:47:19.611Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "",
    "linkedin": ""
   },
   "ref-solinftec": {
-   "verificadoEm": "2026-11-17T00:16:29.455Z",
+   "verificadoEm": "2026-11-19T00:47:16.916Z",
+   "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
    "emails": [],
@@ -586,45 +733,50 @@
    "linkedin": ""
   },
   "ref-john-deere-brasil": {
-   "verificadoEm": "2026-11-17T00:16:33.169Z",
+   "verificadoEm": "2026-11-19T00:47:20.663Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
-   "cnpj": "",
+   "cnpj": "89674782000158",
    "linkedin": "https://www.linkedin.com/company/john-deere"
   },
   "ref-jacto": {
-   "verificadoEm": "2026-11-17T00:16:33.213Z",
+   "verificadoEm": "2026-11-19T00:47:26.446Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "",
    "linkedin": ""
   },
   "ref-cooxupe": {
-   "verificadoEm": "2026-11-17T00:16:34.318Z",
+   "verificadoEm": "2026-11-19T00:47:26.407Z",
+   "versao": 2,
    "status": "ok",
    "emails": [
     {
      "email": "faleconosco@cooxupe.com.br",
      "papel": "Contato geral",
-     "url": "https://www.cooxupe.com.br/contato"
+     "url": "https://www.cooxupe.com.br/contato/"
     }
    ],
    "cnpj": "",
    "linkedin": ""
   },
   "ref-mosaic-fertilizantes": {
-   "verificadoEm": "2026-11-17T00:16:36.350Z",
+   "verificadoEm": "2026-11-19T00:47:38.347Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "",
    "linkedin": "https://www.linkedin.com/company/mosaicbr"
   },
   "ref-hospital-moinhos-de-vento": {
-   "verificadoEm": "2026-11-17T00:17:21.244Z",
+   "verificadoEm": "2026-11-19T00:47:45.003Z",
+   "versao": 2,
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "https://www.linkedin.com/company/hospital-moinhos-de-vento"
   },
   "ref-instituto-tecnologico-vale-itv": {
    "verificadoEm": "2026-11-17T18:35:20.778Z",
@@ -2947,7 +3099,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/dinamo-cybersecurity"
+   "linkedin": "https://www.linkedin.com/company/dinamo-cybersecurity",
+   "buscaWebEm": "2026-11-19T00:52:02.039Z"
   },
   "ref-emerge": {
    "verificadoEm": "2026-11-18T18:05:58.865Z",
@@ -2970,7 +3123,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "42267898000109",
-   "linkedin": "https://www.linkedin.com/company/cubo-network"
+   "linkedin": "https://www.linkedin.com/company/cubo-network",
+   "buscaWebEm": "2026-11-19T00:52:02.133Z"
   },
   "ref-ionq": {
    "verificadoEm": "2026-11-18T18:06:01.490Z",
@@ -3242,7 +3396,12 @@
    "emails": [],
    "status": "ok",
    "buscaWebEm": "2026-11-18T18:08:17.172Z"
+  },
+  "ref-parque-tecnologico-horizontes-de-inovaca": {
+   "emails": [],
+   "status": "ok",
+   "buscaWebEm": "2026-11-19T00:52:01.947Z"
   }
  },
- "atualizadoEm": "2026-11-18T18:08:17.717Z"
+ "atualizadoEm": "2026-11-19T00:52:02.604Z"
 }
