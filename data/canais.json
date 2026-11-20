@@ -920,7 +920,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/neoenergia"
+   "linkedin": "https://www.linkedin.com/company/neoenergia",
+   "buscaWebEm": "2026-11-20T00:56:20.361Z"
   },
   "ref-ambipar": {
    "verificadoEm": "2026-11-17T18:35:45.468Z",
@@ -1009,7 +1010,8 @@
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-20T00:56:20.682Z"
   },
   "ref-energisa-paraiba": {
    "verificadoEm": "2026-11-17T18:35:52.921Z",
@@ -1061,7 +1063,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/enel-brasil"
+   "linkedin": "https://www.linkedin.com/company/enel-brasil",
+   "buscaWebEm": "2026-11-20T00:56:20.592Z"
   },
   "ref-cpfl-energia": {
    "verificadoEm": "2026-11-17T18:36:00.220Z",
@@ -1069,7 +1072,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/cpfl"
+   "linkedin": "https://www.linkedin.com/company/cpfl",
+   "buscaWebEm": "2026-11-20T00:56:20.487Z"
   },
   "ref-cemig": {
    "verificadoEm": "2026-11-17T18:36:02.074Z",
@@ -1077,7 +1081,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-20T00:56:20.779Z"
   },
   "ref-copel": {
    "verificadoEm": "2026-11-17T18:36:06.177Z",
@@ -1085,7 +1090,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://br.linkedin.com/company/copel"
+   "linkedin": "https://br.linkedin.com/company/copel",
+   "buscaWebEm": "2026-11-20T00:56:20.872Z"
   },
   "ref-epe": {
    "verificadoEm": "2026-11-17T18:36:09.753Z",
@@ -1159,7 +1165,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-20T00:56:20.972Z"
   },
   "ref-cepel": {
    "verificadoEm": "2026-11-17T18:36:28.682Z",
@@ -1182,7 +1189,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/equinor"
+   "linkedin": "https://www.linkedin.com/company/equinor",
+   "buscaWebEm": "2026-11-20T00:56:21.057Z"
   },
   "ref-taesa": {
    "verificadoEm": "2026-11-17T18:36:31.358Z",
@@ -1208,7 +1216,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/totalenergies"
+   "linkedin": "https://www.linkedin.com/company/totalenergies",
+   "buscaWebEm": "2026-11-20T00:56:21.150Z"
   },
   "ref-acelen": {
    "verificadoEm": "2026-11-17T18:36:35.974Z",
@@ -1303,7 +1312,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/cbmm"
+   "linkedin": "https://www.linkedin.com/company/cbmm",
+   "buscaWebEm": "2026-11-20T00:56:21.334Z"
   },
   "ref-nexa-resources": {
    "verificadoEm": "2026-11-17T18:36:53.662Z",
@@ -1331,7 +1341,8 @@
     }
    ],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/vale"
+   "linkedin": "https://www.linkedin.com/company/vale",
+   "buscaWebEm": "2026-11-20T00:56:21.242Z"
   },
   "ref-arcelormittal-brasil": {
    "verificadoEm": "2026-11-17T18:36:55.336Z",
@@ -1529,7 +1540,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/braskem"
+   "linkedin": "https://www.linkedin.com/company/braskem",
+   "buscaWebEm": "2026-11-20T00:56:21.435Z"
   },
   "ref-romi": {
    "verificadoEm": "2026-11-17T18:37:25.438Z",
@@ -3415,5 +3427,5 @@
    "buscaWebEm": "2026-11-19T00:52:01.947Z"
   }
  },
- "atualizadoEm": "2026-11-19T18:18:29.185Z"
+ "atualizadoEm": "2026-11-20T00:56:21.590Z"
 }

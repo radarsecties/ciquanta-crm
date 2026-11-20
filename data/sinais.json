@@ -1,7 +1,49 @@
 {
- "atualizadoEm": "2026-11-19T18:17:49.421Z",
+ "atualizadoEm": "2026-11-20T00:56:03.718Z",
  "aviso": "Títulos e links de notícias públicas; o conteúdo pertence a cada veículo.",
  "itens": [
+  {
+   "id": "c94cf0eff8d4",
+   "titulo": "Pesquisadores criam assinaturas de 548 bytes para proteger Bitcoin contra computação quântica",
+   "fonte": "BitNotícias",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ2M1U01sdXpMbHpnYjBhaEUyQnB5Mk83cmtjcEN1VEJJOUd0WjVnMkFJMkdFX0lmVzZhOWZTdnhpbW8xeF9wWW5jREp6ckJVZjFrWm5WbDhXcjFXWTBLN3RzLS1hdmNTRkZWckpXV2JwNDE2SXh0QU5zOVV5M3g1NXNkdVRQbkxrTE9teDVPSF9wUHNr?oc=5",
+   "data": "2026-11-19T23:00:20.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Pesquisadores criam assinaturas de 548 bytes para proteger Bitcoin contra computação quântica BitNotícias",
+   "coletadoEm": "2026-11-20T00:55:30.274Z"
+  },
+  {
+   "id": "d2dad86610bd",
+   "titulo": "Google Quantum AI demonstra contextualidade em 105 qubits",
+   "fonte": "Unite.AI",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZHJRa2p2MWlhTkJ6dWxXc2VOdVhONEtkWjZVX2d6T3RGaDU4Q29ZaG5abVE1dHNSZWlRaW9XR2x0UWVzQWRqenlmVXRNdk5yZk95bEk4MXpoMkdwM1k5aUJyNWxRdDZjUFVkMFdyNXJ2SEVVWFhHWUF5WnNTTGdHbFAzbzlTZnB0X2RrcjcyaDk?oc=5",
+   "data": "2026-11-19T19:28:03.000Z",
+   "temas": [
+    "saude"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Google Quantum AI demonstra contextualidade em 105 qubits Unite.AI",
+   "coletadoEm": "2026-11-20T00:55:42.125Z"
+  },
+  {
+   "id": "a81e7d33a025",
+   "titulo": "Da IA à computação quântica, a Fujitsu prepara a próxima transformação empresarial",
+   "fonte": "Jornal Económico",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUEpQX0JCblJNSXdTQmFLZy1XckUzbVBTSks2RXZ5LWdtaHNrdFc1OThNZnNEMm1aOFJmaVV1XzdxalBYek9heDdqdkxKQU92RU9YVmZ5cWNTdUc5UUpzd2UweWg3eFQzU3FJUVd2MU9vbzVhaVp2TktXV2NEZW1WSUFUaGpOeGJfeDcwTzYxUHBVcExYeURtVkdFdVV5Y0k1aWk0TnE0WVctS29iNGt0Y0hSOTFOU3lMejMzM1ctRkc?oc=5",
+   "data": "2026-11-19T18:41:00.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Da IA à computação quântica, a Fujitsu prepara a próxima transformação empresarial Jornal Económico",
+   "coletadoEm": "2026-11-20T00:55:30.275Z"
+  },
   {
    "id": "71f1e934a8bf",
    "titulo": "FAPESP lança segunda rodada da chamada PIPE Jornada Tecnológica",
@@ -1336,6 +1378,20 @@
    "edital": true,
    "resumo": "Projetos da UFSC são selecionados na Chamada Pop Ciência do CNPq Proifes",
    "coletadoEm": "2026-11-16T22:20:19.307Z"
+  },
+  {
+   "id": "fbb092f4aa9b",
+   "titulo": "Lei do Bem pode alcançar empresas do Simples Nacional",
+   "fonte": "Portal Contabeis",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNDU5T2dhOTB2UjBYT1Jzd1paNVQ0d2xhVktkbEhLa3Rqbzl1Sk82VTdDUmd1cmxMYmVDT1lVRWc5RTlWU201TWxNRXlteW5RWHlGQjZFMWJkbWN1dXNhZDUxVHZxSjdNRktMWUZfZDNYcGpkTnVvOUF2MUltM2xjS2hkQS1PVUgzSW9IOFVONjUxa0k2SDRNM3FtRmJKMEE?oc=5",
+   "data": "2026-11-13T14:30:02.000Z",
+   "temas": [
+    "pdi"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Lei do Bem pode alcançar empresas do Simples Nacional Portal Contabeis",
+   "coletadoEm": "2026-11-20T00:55:49.490Z"
   },
   {
    "id": "ad259d1ff833",

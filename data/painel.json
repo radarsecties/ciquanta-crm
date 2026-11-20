@@ -1,9 +1,9 @@
 {
- "coletadoEm": "2026-11-19T18:17:16.129Z",
+ "coletadoEm": "2026-11-20T00:55:29.825Z",
  "fonte": "Painel CIQUANTA (painelciquanta.secties.pb.gov.br)",
  "dados": {
   "ok": true,
-  "atualizado": "2026-11-19T15:17",
+  "atualizado": "2026-11-19T21:55",
   "total": 73,
   "pessoas": 65,
   "instituicoes": 8,
@@ -195,10 +195,10 @@
    }
   ],
   "cad7": 36,
-  "prev": 194,
-  "rec": 144,
-  "img": 0.8541666666666666,
-  "not": 0.75,
+  "prev": 195,
+  "rec": 139,
+  "img": 0.851063829787234,
+  "not": 0.7340425531914894,
   "sessoes": [
    {
     "data": "2026-11-19",
@@ -227,13 +227,19 @@
    {
     "data": "2026-11-23",
     "hora": "09:00",
-    "conf": 0,
-    "pend": 1
+    "conf": 1,
+    "pend": 0
    },
    {
     "data": "2026-11-23",
     "hora": "10:30",
     "conf": 5,
+    "pend": 0
+   },
+   {
+    "data": "2026-11-23",
+    "hora": "14:00",
+    "conf": 1,
     "pend": 0
    },
    {
@@ -257,8 +263,8 @@
    {
     "data": "2026-11-25",
     "hora": "15:30",
-    "conf": 0,
-    "pend": 2
+    "conf": 2,
+    "pend": 0
    },
    {
     "data": "2026-11-26",
@@ -281,8 +287,8 @@
    {
     "data": "2026-11-27",
     "hora": "10:30",
-    "conf": 0,
-    "pend": 3
+    "conf": 1,
+    "pend": 2
    },
    {
     "data": "2026-11-27",
@@ -293,8 +299,8 @@
    {
     "data": "2026-11-27",
     "hora": "15:30",
-    "conf": 1,
-    "pend": 9
+    "conf": 7,
+    "pend": 3
    },
    {
     "data": "2026-11-30",
@@ -479,19 +485,19 @@
    },
    {
     "r": "Graduação",
-    "n": 33
+    "n": 32
    },
    {
     "r": "Especialização ou MBA",
-    "n": 15
+    "n": 14
    },
    {
     "r": "Mestrado",
-    "n": 7
+    "n": 6
    },
    {
     "r": "Doutorado ou pós-doutorado",
-    "n": 20
+    "n": 21
    }
   ],
   "parceiras": []
@@ -532,6 +538,15 @@
    "ufs": 13,
    "previstos": 194,
    "recebidos": 144
+  },
+  {
+   "dia": "2026-11-20",
+   "cadastros": 73,
+   "pessoas": 65,
+   "instituicoes": 8,
+   "ufs": 13,
+   "previstos": 195,
+   "recebidos": 139
   }
  ]
 }

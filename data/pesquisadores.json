@@ -25448,9 +25448,433 @@
    "instituicao": null,
    "buscadoEm": "2026-11-19T18:18:28.079Z",
    "pessoas": []
+  },
+  "ref-caixa-seguridade": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:05.913Z",
+   "pessoas": []
+  },
+  "ref-irb-re": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:06.169Z",
+   "pessoas": []
+  },
+  "ref-brasilprev": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:06.442Z",
+   "pessoas": []
+  },
+  "ref-mapfre-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:06.712Z",
+   "pessoas": []
+  },
+  "ref-tokio-marine-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:06.968Z",
+   "pessoas": []
+  },
+  "ref-marfrig": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:07.238Z",
+   "pessoas": []
+  },
+  "ref-minerva-foods": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:07.502Z",
+   "pessoas": []
+  },
+  "ref-coamo": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:07.781Z",
+   "pessoas": []
+  },
+  "ref-cooxupe": {
+   "instituicao": {
+    "id": "I4210164444",
+    "nome": "Cooxupé",
+    "tipo": "other",
+    "trabalhos": 17
+   },
+   "buscadoEm": "2026-11-20T00:56:08.032Z",
+   "pessoas": [
+    {
+     "id": "A5112075875",
+     "nome": "Jéssica Elaine Silva",
+     "orcid": "0009-0005-2311-9236",
+     "trabalhos": 1,
+     "ultimoAno": 2025,
+     "temas": [
+      "Agricultural Engineering and Mechanization",
+      "UAV Applications and Optimization"
+     ],
+     "quantico": false,
+     "afim": true,
+     "destaque": {
+      "titulo": "Combining flight height and nozzles to enhancing flight parameters to maximize Arabica coffee spraying efficiency with drones",
+      "ano": 2025,
+      "url": "https://doi.org/10.1007/s43538-025-00617-6",
+      "quantico": false
+     },
+     "relevancia": 29,
+     "orcidVistoEm": "2026-11-20T00:56:08.772Z"
+    },
+    {
+     "id": "A5052273218",
+     "nome": "Márcio Donizetti de Andrade",
+     "orcid": "",
+     "trabalhos": 2,
+     "ultimoAno": 2024,
+     "temas": [
+      "Growth and nutrition in plants",
+      "Plant Growth and Agriculture Techniques",
+      "Plant tissue culture and regeneration"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Biosolid as an alternative source of nutrients in chrysanthemum cultivation",
+      "ano": 2024,
+      "url": "https://doi.org/10.1038/s41598-024-66040-x",
+      "quantico": false
+     },
+     "relevancia": 16
+    },
+    {
+     "id": "A5099101602",
+     "nome": "Bianca Muniz Corrêa",
+     "orcid": "0009-0006-3876-1931",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Agriculture and Agroindustry Studies",
+      "Global trade, sustainability, and social impact"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Cooxupé e o desafio da agregação de valor: oportunidades a partir da emergência climática",
+      "ano": 2024,
+      "url": "https://doi.org/10.5902/2359043285519",
+      "quantico": false
+     },
+     "relevancia": 13
+    },
+    {
+     "id": "A5085215782",
+     "nome": "Marcelo dos Reis Casagrande",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2021,
+     "temas": [
+      "Fermentation and Sensory Analysis",
+      "Coffee research and impacts"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Production and characterization of a new distilled beverage from green coffee seed residue",
+      "ano": 2021,
+      "url": "https://doi.org/10.1016/j.foodchem.2021.131960",
+      "quantico": false
+     },
+     "relevancia": 3
+    },
+    {
+     "id": "A5022299616",
+     "nome": "Éder Ribeiro dos Santos",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2021,
+     "temas": [
+      "Smart Agriculture and AI",
+      "Yeasts and Rust Fungi Studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Coffee Rust Forecast Systems: Development of a Warning Platform in a Minas Gerais State, Brazil",
+      "ano": 2021,
+      "url": "https://doi.org/10.3390/agronomy11112284",
+      "quantico": false
+     },
+     "relevancia": 3
+    },
+    {
+     "id": "A5057208851",
+     "nome": "Nilva Alice Gaspar",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2021,
+     "temas": [
+      "Smart Agriculture and AI",
+      "Yeasts and Rust Fungi Studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Coffee Rust Forecast Systems: Development of a Warning Platform in a Minas Gerais State, Brazil",
+      "ano": 2021,
+      "url": "https://doi.org/10.3390/agronomy11112284",
+      "quantico": false
+     },
+     "relevancia": 3
+    },
+    {
+     "id": "A5084237305",
+     "nome": "Arivaldo de Moraes",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2021,
+     "temas": [
+      "Plant Pathogenic Bacteria Studies",
+      "Fungal Plant Pathogen Control"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Management of bacterial halo blight and other coffee crop diseases",
+      "ano": 2021,
+      "url": "https://doi.org/10.31976/0104-038321v270008",
+      "quantico": false
+     },
+     "relevancia": 3
+    },
+    {
+     "id": "A5025055641",
+     "nome": "Marcelo Moreira Dias",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2020,
+     "temas": [
+      "Irrigation Practices and Water Management",
+      "Agricultural Science and Fertilization"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Use of organic fertilization with irrigation in coffee production in brazilian cerrado",
+      "ano": 2020,
+      "url": "https://doi.org/10.4136/ambi-agua.2578",
+      "quantico": false
+     },
+     "relevancia": 3
+    }
+   ]
+  },
+  "ref-sao-martinho": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:09.376Z",
+   "pessoas": []
+  },
+  "ref-climatempo": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:09.752Z",
+   "pessoas": []
+  },
+  "ref-ambipar": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:10.060Z",
+   "pessoas": []
+  },
+  "ref-re-green": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:10.316Z",
+   "pessoas": []
+  },
+  "ref-mombak": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:10.574Z",
+   "pessoas": []
+  },
+  "ref-moss": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:10.825Z",
+   "pessoas": []
+  },
+  "ref-light": {
+   "instituicao": {
+    "id": "I4210087397",
+    "nome": "Light Tech (Brazil)",
+    "tipo": "company",
+    "trabalhos": 1
+   },
+   "buscadoEm": "2026-11-20T00:56:11.129Z",
+   "pessoas": [
+    {
+     "id": "A5046433140",
+     "nome": "Milton.N.R. Neves",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2021,
+     "temas": [
+      "Noise Effects and Management",
+      "Vehicle Noise and Vibration Control"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Assessment of the acoustic field in the vicinity of urban high-voltage substations",
+      "ano": 2021,
+      "url": "https://doi.org/10.1016/j.measen.2021.100162",
+      "quantico": false
+     },
+     "relevancia": 3
+    }
+   ]
+  },
+  "ref-casa-dos-ventos": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:11.758Z",
+   "pessoas": []
+  },
+  "ref-vibra-energia": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:12.027Z",
+   "pessoas": []
+  },
+  "ref-anglo-american-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:12.300Z",
+   "pessoas": []
+  },
+  "ref-nexa-resources": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:12.689Z",
+   "pessoas": []
+  },
+  "ref-alcoa-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:12.982Z",
+   "pessoas": []
+  },
+  "ref-oxiteno-indorama": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:13.234Z",
+   "pessoas": []
+  },
+  "ref-tupy": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:13.498Z",
+   "pessoas": []
+  },
+  "ref-abb-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:13.936Z",
+   "pessoas": []
+  },
+  "ref-schneider-electric-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:14.192Z",
+   "pessoas": []
+  },
+  "ref-romi": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:14.495Z",
+   "pessoas": []
+  },
+  "ref-whirlpool-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:14.768Z",
+   "pessoas": []
+  },
+  "ref-alpargatas": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:15.024Z",
+   "pessoas": []
+  },
+  "ref-chipus-microelectronics": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:15.281Z",
+   "pessoas": []
+  },
+  "ref-multi": {
+   "instituicao": {
+    "id": "I4210135262",
+    "nome": "Multi Vegetal Fitocosméticos (Brazil)",
+    "tipo": "company",
+    "trabalhos": 0
+   },
+   "buscadoEm": "2026-11-20T00:56:15.547Z",
+   "pessoas": []
+  },
+  "ref-flex-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:16.286Z",
+   "pessoas": []
+  },
+  "ref-movida": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:16.540Z",
+   "pessoas": []
+  },
+  "ref-jsl": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:16.788Z",
+   "pessoas": []
+  },
+  "ref-gol": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:17.043Z",
+   "pessoas": []
+  },
+  "ref-motiva-ccr": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:17.311Z",
+   "pessoas": []
+  },
+  "ref-santos-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:17.589Z",
+   "pessoas": []
+  },
+  "ref-hidrovias-do-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:17.871Z",
+   "pessoas": []
+  },
+  "ref-loggi": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:18.137Z",
+   "pessoas": []
+  },
+  "ref-porto-de-suape": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:18.414Z",
+   "pessoas": []
+  },
+  "ref-renault-do-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:18.671Z",
+   "pessoas": []
+  },
+  "ref-hyundai-motor-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:18.963Z",
+   "pessoas": []
+  },
+  "ref-mercedes-benz-do-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:19.238Z",
+   "pessoas": []
+  },
+  "ref-scania-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:19.498Z",
+   "pessoas": []
+  },
+  "ref-volvo-do-brasil": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:19.771Z",
+   "pessoas": []
+  },
+  "ref-marcopolo": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-20T00:56:20.039Z",
+   "pessoas": []
   }
  },
- "atualizadoEm": "2026-11-19T18:18:28.079Z",
+ "atualizadoEm": "2026-11-20T00:56:20.039Z",
  "fonte": "OpenAlex (produção científica e técnica) e ORCID (dados tornados públicos pelos próprios pesquisadores)",
  "versao": 3
 }
