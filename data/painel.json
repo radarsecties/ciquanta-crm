@@ -1,9 +1,9 @@
 {
- "coletadoEm": "2026-11-20T00:55:29.825Z",
+ "coletadoEm": "2026-11-20T17:48:40.723Z",
  "fonte": "Painel CIQUANTA (painelciquanta.secties.pb.gov.br)",
  "dados": {
   "ok": true,
-  "atualizado": "2026-11-19T21:55",
+  "atualizado": "2026-11-20T14:48",
   "total": 73,
   "pessoas": 65,
   "instituicoes": 8,
@@ -192,43 +192,24 @@
     "dia": "2026-11-19",
     "n": 2,
     "acum": 73
+   },
+   {
+    "dia": "2026-11-20",
+    "n": 0,
+    "acum": 73
    }
   ],
-  "cad7": 36,
-  "prev": 195,
-  "rec": 139,
-  "img": 0.851063829787234,
-  "not": 0.7340425531914894,
+  "cad7": 25,
+  "prev": 126,
+  "rec": 197,
+  "img": 0.8541666666666666,
+  "not": 0.71875,
   "sessoes": [
-   {
-    "data": "2026-11-19",
-    "hora": "09:00",
-    "conf": 22,
-    "pend": 0
-   },
-   {
-    "data": "2026-11-19",
-    "hora": "10:30",
-    "conf": 23,
-    "pend": 0
-   },
-   {
-    "data": "2026-11-19",
-    "hora": "14:00",
-    "conf": 3,
-    "pend": 7
-   },
-   {
-    "data": "2026-11-19",
-    "hora": "15:30",
-    "conf": 10,
-    "pend": 7
-   },
    {
     "data": "2026-11-23",
     "hora": "09:00",
     "conf": 1,
-    "pend": 0
+    "pend": 1
    },
    {
     "data": "2026-11-23",
@@ -343,6 +324,12 @@
     "hora": "15:30",
     "conf": 0,
     "pend": 4
+   },
+   {
+    "data": "2026-12-24",
+    "hora": "15:30",
+    "conf": 0,
+    "pend": 2
    },
    {
     "data": "2027-01-05",
@@ -485,7 +472,7 @@
    },
    {
     "r": "Graduação",
-    "n": 32
+    "n": 34
    },
    {
     "r": "Especialização ou MBA",
@@ -545,8 +532,8 @@
    "pessoas": 65,
    "instituicoes": 8,
    "ufs": 13,
-   "previstos": 195,
-   "recebidos": 139
+   "previstos": 126,
+   "recebidos": 197
   }
  ]
 }

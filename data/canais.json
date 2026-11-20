@@ -1446,7 +1446,8 @@
     }
    ],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/suzano-international"
+   "linkedin": "https://www.linkedin.com/company/suzano-international",
+   "buscaWebEm": "2026-11-20T17:49:54.168Z"
   },
   "ref-weg": {
    "verificadoEm": "2026-11-17T18:37:08.847Z",
@@ -1455,7 +1456,8 @@
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-20T17:49:54.237Z"
   },
   "ref-usiminas": {
    "verificadoEm": "2026-11-17T18:37:11.058Z",
@@ -1571,7 +1573,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "00280273000137",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-20T17:49:54.362Z"
   },
   "ref-ht-micron": {
    "verificadoEm": "2026-11-17T18:37:42.299Z",
@@ -1585,7 +1588,8 @@
     }
    ],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/ht-micron-semicondutores-sa"
+   "linkedin": "https://www.linkedin.com/company/ht-micron-semicondutores-sa",
+   "buscaWebEm": "2026-11-20T17:49:54.299Z"
   },
   "ref-eneva": {
    "verificadoEm": "2026-11-17T18:38:07.617Z",
@@ -1659,7 +1663,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "72381189000110",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-20T17:49:54.435Z"
   },
   "ref-hp-brasil": {
    "verificadoEm": "2026-11-18T01:19:51.675Z",
@@ -1697,7 +1702,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "07275920000161",
-   "linkedin": "https://www.linkedin.com/company/lenovo"
+   "linkedin": "https://www.linkedin.com/company/lenovo",
+   "buscaWebEm": "2026-11-20T17:49:54.511Z"
   },
   "ref-movida": {
    "verificadoEm": "2026-11-18T01:20:00.684Z",
@@ -1882,7 +1888,8 @@
     }
    ],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/stellantis"
+   "linkedin": "https://www.linkedin.com/company/stellantis",
+   "buscaWebEm": "2026-11-20T17:49:54.572Z"
   },
   "ref-toyota-do-brasil": {
    "verificadoEm": "2026-11-18T01:20:16.974Z",
@@ -1933,7 +1940,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/volkswagen-do-brasil"
+   "linkedin": "https://www.linkedin.com/company/volkswagen-do-brasil",
+   "buscaWebEm": "2026-11-20T17:49:54.634Z"
   },
   "ref-ifood": {
    "verificadoEm": "2026-11-18T01:20:24.631Z",
@@ -1967,7 +1975,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://br.linkedin.com/company/embraer"
+   "linkedin": "https://br.linkedin.com/company/embraer",
+   "buscaWebEm": "2026-11-20T17:49:54.833Z"
   },
   "ref-mrs-logistica": {
    "verificadoEm": "2026-11-18T01:20:31.666Z",
@@ -1983,7 +1992,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "03007331000141",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-20T17:49:54.763Z"
   },
   "ref-vivo-telefonica-brasil": {
    "verificadoEm": "2026-11-18T01:20:35.297Z",
@@ -2020,7 +2030,8 @@
     }
    ],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-20T17:49:54.894Z"
   },
   "ref-gsi-gabinete-de-seguranca-institucional": {
    "verificadoEm": "2026-11-18T01:20:41.142Z",
@@ -3425,7 +3436,12 @@
    "emails": [],
    "status": "ok",
    "buscaWebEm": "2026-11-19T00:52:01.947Z"
+  },
+  "ref-byd-brasil": {
+   "emails": [],
+   "status": "ok",
+   "buscaWebEm": "2026-11-20T17:49:54.705Z"
   }
  },
- "atualizadoEm": "2026-11-20T00:56:21.590Z"
+ "atualizadoEm": "2026-11-20T17:49:54.955Z"
 }

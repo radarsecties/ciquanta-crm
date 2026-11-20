@@ -1,7 +1,92 @@
 {
- "atualizadoEm": "2026-11-20T00:56:03.718Z",
+ "atualizadoEm": "2026-11-20T17:49:13.585Z",
  "aviso": "Títulos e links de notícias públicas; o conteúdo pertence a cada veículo.",
  "itens": [
+  {
+   "id": "44a5eff28562",
+   "titulo": "Viagem sob escolta de R$ 83 milhões: computadores quânticos são a carga mais valiosa do Brasil e exigem frio perto do zero absoluto",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQa0g0bzBsOVRFVDdCU1NuU2lfcVdpU0Z2aFhkT0htdEtGX0l2MUdZTzVOSVdISG41Tm5za1NtcndlMmRFSmF4dHBMOXgxQXV3TUV4Y0RsNFdlUEtHR1A0N0hhWHJfVHlyTGloLUNtM3JvYXpPWWxySkUtTGF5X3pmRWlJWXBnMGx0MnpQTWVjVElmdVhOQW13NnB4bTdCWWhsTGdtYV9fenptaExybFZQTk45RmRnYjVURW1UUmRRNjliTDY4MUxfTGMtMnhQd2JoOVI3SkpuWTZiWGtuTUNQdW16WEh1d2hsRFhsa0dQZm9HeFJBNzlkREgtaw?oc=5",
+   "data": "2026-11-20T13:28:46.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Viagem sob escolta de R$ 83 milhões: computadores quânticos são a carga mais valiosa do Brasil e exigem frio perto do zero absoluto CNN Brasil",
+   "coletadoEm": "2026-11-20T17:48:42.883Z"
+  },
+  {
+   "id": "2e1b4ebd63ef",
+   "titulo": "AES-256 Pós-Quântico: NIST Mantém SHA-3 e SHA-256",
+   "fonte": "shattered.io",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBScDV6Mmp5QTdBOVk3cGpUOHpzT0ZkdnlGeGpELXRUN3hTV0lTYUlBaFZtckFMdUVid0IzMldkV2ZtSC04ODM4MlRBVzdPeUNWbGNHMzB6dHlIcU5CU05wQ0dtZTNQZjUwZ0RqRHpKMlhzRmRYWW9F?oc=5",
+   "data": "2026-11-20T12:59:24.000Z",
+   "temas": [
+    "seguranca"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "AES-256 Pós-Quântico: NIST Mantém SHA-3 e SHA-256 shattered.io",
+   "coletadoEm": "2026-11-20T17:48:48.532Z"
+  },
+  {
+   "id": "a278322fe00a",
+   "titulo": "Inovação amazônica terá encontro em dezembro",
+   "fonte": "Portal Valor Amazônico",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOS01OUF1T0VPdG53N3dQRExDMUt2Ykg1ZjVJVXNsRkh2NldPeGl6dmJsWDFVZ2lzRk5XcHJaVWNyTU5vUEMwZHVIS05Vd1pvTjRvWkVvcUJnYldhUUNiaEJCRW9weG80Mlg0Z2NiTm96YW8weVplM3VmenVKbThhQWM3YXJEalk?oc=5",
+   "data": "2026-11-20T11:48:47.000Z",
+   "temas": [
+    "pdi"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Inovação amazônica terá encontro em dezembro Portal Valor Amazônico",
+   "coletadoEm": "2026-11-20T17:48:59.675Z"
+  },
+  {
+   "id": "aa2e7044f97f",
+   "titulo": "Sistema financeiro pode perder a corrida contra o computador quântico",
+   "fonte": "O Cafezinho",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNllIZGxTa25Zajc5YW1nOXBmWTU5X1k1cnZVbVU4TzJ2eHhOUy03WGVZRU5PTFVFVlZjYmVLdzlPcW9JaFBrTEptdE51WUlJbjhBbGpKYlhYRzkxdFdpMzk4Z051dDZxUVpZc3dUVXJQRkdmOU8tb0ctQWlDZzl5dEE5SGJFcTdjQnM5anZxRjJaNVRzdnA0Mk5wc0lYNXRIM3d2aHA0cE1QOWV40gGyAUFVX3lxTE9CWWhwV0pYYzlkR3F6U2Y2NGFQRzBuaFd0aEhBZDJsMW9XczF1RmlQalRxeHFDSmhQNjJUQ2twenlJY0ExaEtJazc3aHNNV190VERqbUE0WTNVTXl0LW1rcE5MVURLeG1sekdIX3YtZndWVUZjMnB3bWdwUkZ6VG5UajNkeU0yamR4NzN4MG41T2hCbkdOeEQ1U2lMODRPS25tcXhmNXF1M0NnaHN3TmN3ZWc?oc=5",
+   "data": "2026-11-20T10:46:00.000Z",
+   "temas": [
+    "financeiro"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Sistema financeiro pode perder a corrida contra o computador quântico O Cafezinho",
+   "coletadoEm": "2026-11-20T17:48:50.421Z"
+  },
+  {
+   "id": "1bb12f1a2d8b",
+   "titulo": "Governador do BdP avisa que IA e computação quântica vão mudar a banca e pede aos bancos que financiem a revolução tecnológica",
+   "fonte": "Jornal Económico",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdHRSeVYweEM5c2NxN29HbnBFRHRwQW8wa2dBclh4SlQxT28wV29BYkt6WHExVzVLako1QlZmLU81OHpFWWk0V2NTU3d3bzZlWktlcWgta1BtZ3NqaHJKQmZmcWh3MmFBRDFLNjZ6eUZ4MmFKa0NvekRuRHpHbGhtWURtOVZCLXoyMUZRbUpETnRPR05nSXBFYkNlUUJlbVJYM0FsU3lGbHY5LVk5TFZleGsyeFBIcmJDbFQ4dGZ6N0ktZkZPVEt2VEJnNmFCUUQ5dVhqOWpQUG1nbGlsem1IT2Y0d3MtdDBteVFTNkhRU0FGM1k2WU43ek54MTQ?oc=5",
+   "data": "2026-11-20T10:08:00.000Z",
+   "temas": [
+    "quantica",
+    "financeiro"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Governador do BdP avisa que IA e computação quântica vão mudar a banca e pede aos bancos que financiem a revolução tecnológica Jornal Económico",
+   "coletadoEm": "2026-11-20T17:48:41.035Z"
+  },
+  {
+   "id": "af54f8542bbb",
+   "titulo": "Defesa quântica do Bitcoin pode mudar proposta de valor do BTC, diz pesquisador",
+   "fonte": "Bitcoin News",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORDExZGRBSmFsRnA3UjVVNWZsVGRWZDREVVhvYS16NHkybWIzZXpHMnNadVliUTItUDNMME1RcnNIVEdMMDROMWFvTW4xYi1CX01zRTFaQlRSb29kRU5wbUdoOUd3enJKZGN0bUxhZGI3QWxVRWd2MDA4N0Nyb0MzZzFlRGVxcnhqSGxrMHREOFl1RTliYUhHQnJyUVphQURJSmFNUkZCaURnclBzNkJscWM0U0tiOW1YOWc?oc=5",
+   "data": "2026-11-19T23:40:08.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Defesa quântica do Bitcoin pode mudar proposta de valor do BTC, diz pesquisador Bitcoin News",
+   "coletadoEm": "2026-11-20T17:48:41.035Z"
+  },
   {
    "id": "c94cf0eff8d4",
    "titulo": "Pesquisadores criam assinaturas de 548 bytes para proteger Bitcoin contra computação quântica",
@@ -29,6 +114,20 @@
    "edital": false,
    "resumo": "Google Quantum AI demonstra contextualidade em 105 qubits Unite.AI",
    "coletadoEm": "2026-11-20T00:55:42.125Z"
+  },
+  {
+   "id": "aa009e5573e5",
+   "titulo": "Paraíba abre edital para 30 startups no Web Summit Qatar 2027, em Doha",
+   "fonte": "Paraíba Business",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9CRkFfYXRmZW1rWUYwNV9BLWRZYlEtOTg1WEJRUTZaTExmakktY05mdm5YZW5SYjJsMlNzaFVna2E4dXNERUkzUXFhWlVRc1N0MEpDalh2WlV2dWh5VjlWdWFRYzNubWV2Mkc1YXkteWJFT3hSaUxmYUZHQ3c?oc=5",
+   "data": "2026-11-19T19:00:00.000Z",
+   "temas": [
+    "edital"
+   ],
+   "orgs": [],
+   "edital": true,
+   "resumo": "Paraíba abre edital para 30 startups no Web Summit Qatar 2027, em Doha Paraíba Business",
+   "coletadoEm": "2026-11-20T17:49:05.346Z"
   },
   {
    "id": "a81e7d33a025",
@@ -292,6 +391,20 @@
    "edital": false,
    "resumo": "66% das farmacêuticas planejam investir em P&D nos próximos 3 anos Guia da Farmácia",
    "coletadoEm": "2026-11-18T18:04:31.835Z"
+  },
+  {
+   "id": "daaee4e6c222",
+   "titulo": "Preço-justo do InvestingPro alertou para queda de 58% na ação da Horizon Quantum Por Investing.com",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNVNYTS1jaDFlSldiWUdlSkZoWm9TNVhlZ2FrTGIxcS1Ock4tWDBRTGh0dDkyc0xHa0JqMDRQUS1rSlRSMmUweEszS2NfTVZUczRUZklVM3lrcHNKVFNPdEFGT0FtOFQ5dGdRVE1ONFkzRWhXdHZjNF9MTFFEWTN6azNDX3o3MlhLOGFXTWU4c3lVVHZ5a3NqNWMyenY4Z0N3bkRSUDdDQlR3QmlfeG5fZjB3Zm50TmlhWUJiMG1CRGx2WHVvLU5oSkl3Y051X1dyMVFYOQ?oc=5",
+   "data": "2026-11-18T11:03:00.000Z",
+   "temas": [
+    "saude"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Preço-justo do InvestingPro alertou para queda de 58% na ação da Horizon Quantum Por Investing.com Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "coletadoEm": "2026-11-20T17:48:52.328Z"
   },
   {
    "id": "710b4444bc7b",
@@ -970,13 +1083,28 @@
    "coletadoEm": "2026-11-16T22:20:11.693Z"
   },
   {
+   "id": "a5e1a6695803",
+   "titulo": "Buterin defende rota mais rápida ao Ethereum pós-quântico",
+   "fonte": "SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT1M4cENWOUdKUWlwaUpadHcwMmhRTlBQME9xbUw3cS1GU3hZMFhKTFJsSkk1TXhlaXB2Z3R6cDA0c0c1ZnlrdWRLdXp4VkRSYVZvODViMmN3QkltZzE0NWEyWHJnbGRQU3lQLUVtMnYxMjV1Z2JvREFERFcyY1lJUnZFcWJBVXFNWHQ3Z3o5Sm1OcEFTcDkxWGFiSQ?oc=5",
+   "data": "2026-11-16T09:17:14.000Z",
+   "temas": [
+    "seguranca"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Buterin defende rota mais rápida ao Ethereum pós-quântico SpaceMoney",
+   "coletadoEm": "2026-11-20T17:48:48.533Z"
+  },
+  {
    "id": "18f3026a2aad",
    "titulo": "\"Acreditamos que isso poderá acontecer em 2028\": EUA acabam de tornar a computação quântica uma prioridade nacional",
    "fonte": "Terra",
    "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOVjBYeVdUOVh2emw1b1YxUTdRNGxmOE1qMmd1NDlUYzQ2MWNTVTZlNEZ4MmJ0S1RUUVNvTXV5eV9ORmZXRlJpT19sRVp6QjFxT09HQXRMV2R1dURBWTI4QzVDcEFtYVJRMi1PclhOX0JydTYxMzgwaUxOWFUxSXhObHcxMkRaYU8yYlEwZlptMVFIRnpMTi02ejhZeTJidFg0OE9NeDFUWmk5SHo2TWdxQ19ObDhvOWt0am92bWx0ZUdxZW1fZzkyR1JUdU13WnZhenZrMmhVX3RSblZEckdrVm9uVW9EYVdDNkV4TlUxM3ktbHVUcUlla0VVeVZDTThJaEw2MmR1VF9mV3N2bXVHR3BZUmZBWUNUTHZUOE0tSHNnZw?oc=5",
    "data": "2026-11-16T08:00:00.000Z",
    "temas": [
-    "quantica"
+    "quantica",
+    "seguranca"
    ],
    "orgs": [],
    "edital": false,
@@ -1444,7 +1572,8 @@
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNanpGNkRNSVFGZnhhcWUzVGJmX1QtanAyRnh0cEtPQ2stX0szM2RDZTZiT0dXVEhfbkVVVmNmcUVoRGNpM053QjJJaUJ6N1lKdkZSUmZKTjVubW42SXJyVkFXR1ZZdnJwZ1ZxZ0FuY1hDZUpBX3ZYSDhTdnIxMkhjYTNucnM?oc=5",
    "data": "2026-11-13T12:00:46.000Z",
    "temas": [
-    "quantica"
+    "quantica",
+    "seguranca"
    ],
    "orgs": [],
    "edital": false,
@@ -1505,7 +1634,8 @@
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZkpqTnNfR0w5cXpFNkdjNnZpMnpyT0llUEsySUhfV2NDUERIMkNxMFg5WkZHRlU4b245NVNwWUI5RmpCQ0gzY2lkNGF5UTV4VFoxSk5jTUxHdmJyd0JKSFkxZ1g4ZXFBUV81R1VQdExVajZZb19pWlh6ek5ic05fcXNzcGw4ai1wb2h3?oc=5",
    "data": "2026-11-13T01:17:12.000Z",
    "temas": [
-    "quantica"
+    "quantica",
+    "seguranca"
    ],
    "orgs": [],
    "edital": false,
@@ -1846,6 +1976,34 @@
    "edital": false,
    "resumo": "Origin Quantum: inovação própria e avanços chineses na computação quântica Agência Brasil China",
    "coletadoEm": "2026-11-16T22:20:05.904Z"
+  },
+  {
+   "id": "6c38b3e1537d",
+   "titulo": "XRP Ledger planeja contas resistentes a ataques quânticos",
+   "fonte": "Webitcoin",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRnZUWWs3NmVuV3dtbTFZc3hEZFVaUk1vclBLbVRPUkpQTkd6TWRBMldWNDMzQ1B0SUhqd2RkZHF6bnd2WWN0TWhRX3huaWstbF90cTYxaUE4WGdIQU90eFluR09HcV9DWWZIZUJrREhKbl9yUmZoRVBsMm1GV2V4TlluSEt0bnJJUDBj?oc=5",
+   "data": "2026-11-11T13:12:46.000Z",
+   "temas": [
+    "seguranca"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "XRP Ledger planeja contas resistentes a ataques quânticos Webitcoin",
+   "coletadoEm": "2026-11-20T17:48:48.532Z"
+  },
+  {
+   "id": "1a41fe799d19",
+   "titulo": "Stacks testa assinaturas pós-quânticas para o Bitcoin",
+   "fonte": "BitNotícias",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1nbjgtZmM4SzhLMTExdXZvWUNVc0VBSVdaZldwRWxtaVluR0EwSDBqVGhobkpoTnhJcTBXWUdPemtUTFI5Q1NtYkl4eW9PTjRfOVQ0Q0ZNMGFHU0dUSS03YTV3TDhPQjJxN1ItLS1hazNmcGJUTlNzTkJR?oc=5",
+   "data": "2026-11-11T08:00:00.000Z",
+   "temas": [
+    "seguranca"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Stacks testa assinaturas pós-quânticas para o Bitcoin BitNotícias",
+   "coletadoEm": "2026-11-20T17:48:48.532Z"
   },
   {
    "id": "53ea8302762a",
@@ -2307,6 +2465,20 @@
    "edital": false,
    "resumo": "Curso computação quântica do IFSULDEMINAS tem 100 vagas EaD PEBSP",
    "coletadoEm": "2026-11-19T18:17:27.892Z"
+  },
+  {
+   "id": "f6a4b344d4f7",
+   "titulo": "Pesquisa da UEA desenvolve pontos quânticos com potencial para tornar energia solar mais eficiente",
+   "fonte": "Diário da Capital",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMXN4blRrbGR6NVdNcmlZeWxVSWlKbUlaN0x5NnlPMlZCd2NfeW1HS3RVVWdrVlJaRlVVQzFSM0N0SEZLQXE1NUdCdkZibDdjNUVYd1NEcHZEdzVacjJiUjFITUZscXlVQk5iX2FlVUY4UTFMd1Jya0VqQjREbWo1SXJMQ25KMUpkcm5QaGVTbTB3Zjl4Q1dWVXV5MDFiRkxfLXNDajM0WjdJZmFLUkpEMkptTV9kUHpFQVdRN0FOM3ExY2EtamtCYThDSGJnV2FPLXc?oc=5",
+   "data": "2026-11-05T08:00:00.000Z",
+   "temas": [
+    "energia"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Pesquisa da UEA desenvolve pontos quânticos com potencial para tornar energia solar mais eficiente Diário da Capital",
+   "coletadoEm": "2026-11-20T17:48:54.165Z"
   },
   {
    "id": "7120a14b8045",
