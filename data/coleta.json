@@ -1,6 +1,75 @@
 {
  "execucoes": [
   {
+   "em": "2026-11-21T00:17:06.808Z",
+   "segundos": 86,
+   "etapas": [
+    {
+     "id": "painel",
+     "nome": "Painel CIQUANTA",
+     "ok": true,
+     "ignorada": false,
+     "n": 73,
+     "segundos": 6,
+     "msg": "painel: 73 cadastros (65 pessoas, 8 instituições, 13 estados), 127 visitantes previstos, 197 já recebidos"
+    },
+    {
+     "id": "sinais",
+     "nome": "Notícias e editais",
+     "ok": true,
+     "ignorada": false,
+     "n": 35,
+     "segundos": 34,
+     "msg": "sinais: 355 lidos, 35 novos, 243 guardados (56 citam organizações) · editais: 3 novos, 23 guardados"
+    },
+    {
+     "id": "canais",
+     "nome": "Canais institucionais e CNPJ",
+     "ok": true,
+     "ignorada": false,
+     "n": 15,
+     "segundos": 26,
+     "msg": "canais: 15 sites, 9 páginas lidas (1 com canal, 0 com diretoria ou setor estratégico, 0 com CNPJ, 14 sem resposta) · base: 89 organizações com canal, 204 e-mails"
+    },
+    {
+     "id": "receita",
+     "nome": "Dados da Receita Federal",
+     "ok": true,
+     "ignorada": false,
+     "n": 0,
+     "segundos": 2,
+     "msg": "receita: 0 CNPJ atualizados, 1 sem resposta · base: 54 organizações com dados cadastrais"
+    },
+    {
+     "id": "pesquisadores",
+     "nome": "Pessoas de P&D (OpenAlex e ORCID)",
+     "ok": true,
+     "ignorada": false,
+     "n": 31,
+     "segundos": 17,
+     "msg": "pesquisadores: 45 organizações consultadas, 3 com produção identificada, 31 pessoas de P&D, 0 com e-mail profissional público, 0 falhas · base: 1354 pessoas"
+    },
+    {
+     "id": "descoberta",
+     "nome": "Descoberta com IA",
+     "ok": false,
+     "n": 0,
+     "segundos": 0,
+     "msg": "401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"Invalid bearer token\"},\"request_id\":\"req_011ChF7SSnYePwXRRMN3ZFUR\"}"
+    },
+    {
+     "id": "contatos-ia",
+     "nome": "Diretorias na web com IA",
+     "ok": true,
+     "ignorada": false,
+     "n": 0,
+     "segundos": 1,
+     "msg": "contatos com IA: 12 organizações pesquisadas, 0 e-mails sugeridos, 0 confirmados na página-fonte, 0 recusados na verificação, 0 lideranças de P&D confirmadas"
+    }
+   ],
+   "integridade": "ok"
+  },
+  {
    "em": "2026-11-20T17:49:55.012Z",
    "segundos": 79,
    "etapas": [
@@ -643,8 +712,8 @@
   }
  ],
  "ultima": {
-  "em": "2026-11-20T17:49:55.012Z",
-  "segundos": 79,
+  "em": "2026-11-21T00:17:06.808Z",
+  "segundos": 86,
   "etapas": [
    {
     "id": "painel",
@@ -652,26 +721,26 @@
     "ok": true,
     "ignorada": false,
     "n": 73,
-    "segundos": 5,
-    "msg": "painel: 73 cadastros (65 pessoas, 8 instituições, 13 estados), 126 visitantes previstos, 197 já recebidos"
+    "segundos": 6,
+    "msg": "painel: 73 cadastros (65 pessoas, 8 instituições, 13 estados), 127 visitantes previstos, 197 já recebidos"
    },
    {
     "id": "sinais",
     "nome": "Notícias e editais",
     "ok": true,
     "ignorada": false,
-    "n": 39,
-    "segundos": 33,
-    "msg": "sinais: 344 lidos, 39 novos, 235 guardados (56 citam organizações) · editais: 3 novos, 22 guardados"
+    "n": 35,
+    "segundos": 34,
+    "msg": "sinais: 355 lidos, 35 novos, 243 guardados (56 citam organizações) · editais: 3 novos, 23 guardados"
    },
    {
     "id": "canais",
     "nome": "Canais institucionais e CNPJ",
     "ok": true,
     "ignorada": false,
-    "n": 0,
-    "segundos": 0,
-    "msg": "canais: 0 sites, 0 páginas lidas (0 com canal, 0 com diretoria ou setor estratégico, 0 com CNPJ, 0 sem resposta) · base: 88 organizações com canal, 203 e-mails"
+    "n": 15,
+    "segundos": 26,
+    "msg": "canais: 15 sites, 9 páginas lidas (1 com canal, 0 com diretoria ou setor estratégico, 0 com CNPJ, 14 sem resposta) · base: 89 organizações com canal, 204 e-mails"
    },
    {
     "id": "receita",
@@ -687,9 +756,9 @@
     "nome": "Pessoas de P&D (OpenAlex e ORCID)",
     "ok": true,
     "ignorada": false,
-    "n": 203,
-    "segundos": 39,
-    "msg": "pesquisadores: 45 organizações consultadas, 17 com produção identificada, 203 pessoas de P&D, 2 com e-mail profissional público, 0 falhas · base: 1323 pessoas"
+    "n": 31,
+    "segundos": 17,
+    "msg": "pesquisadores: 45 organizações consultadas, 3 com produção identificada, 31 pessoas de P&D, 0 com e-mail profissional público, 0 falhas · base: 1354 pessoas"
    },
    {
     "id": "descoberta",
@@ -697,7 +766,7 @@
     "ok": false,
     "n": 0,
     "segundos": 0,
-    "msg": "401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"Invalid bearer token\"},\"request_id\":\"req_011ChEbuw5ACRDpCAyZzevkd\"}"
+    "msg": "401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"Invalid bearer token\"},\"request_id\":\"req_011ChF7SSnYePwXRRMN3ZFUR\"}"
    },
    {
     "id": "contatos-ia",

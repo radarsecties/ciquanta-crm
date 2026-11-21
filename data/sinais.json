@@ -1,7 +1,63 @@
 {
- "atualizadoEm": "2026-11-20T17:49:13.585Z",
+ "atualizadoEm": "2026-11-21T00:16:21.099Z",
  "aviso": "Títulos e links de notícias públicas; o conteúdo pertence a cada veículo.",
  "itens": [
+  {
+   "id": "4e329b9579c1",
+   "titulo": "Fedora 48 propõe proteção pós-quântica para pacotes RPM",
+   "fonte": "SempreUpdate",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CcXVLeXJNX2RRQTcxMWtrY3NQdjZzd3dCa1U5S1I0LTlWVkxETWd6RUlhTC1ITTJrY1lDWllkZzVkTXVUWi1sMWFEcjdkNkwyWE9LN19nVGxOUDlzdGdNNGhpbjFDci0wVkx2WDl1ZzRmSDNSRDJYdG1oWQ?oc=5",
+   "data": "2026-11-20T20:47:00.000Z",
+   "temas": [
+    "seguranca"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Fedora 48 propõe proteção pós-quântica para pacotes RPM SempreUpdate",
+   "coletadoEm": "2026-11-21T00:15:54.379Z"
+  },
+  {
+   "id": "173b37019632",
+   "titulo": "Governo da Paraíba lança edital para levar 22 startups paraibanas ao Web Summit Qatar 2027",
+   "fonte": "Repórter PB",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVzZPNEdOVjhqYmpzdjlPMnFQM0ZuZ3ZRVUJwamJiSEo2cTRQcGRpTjRFekZ3UzJwQmt6cklfM0MxNVJWOGo0WURnUHgtS2FBYkthVkFIOXZLb0lWazd1RVhwVDNnVUZoR0R0VS05YjRXRUFTSVp0c25QaEw3NjF1UDlqRklGbm5SWVlKNWp4Q3YwYVhLQkFEc0xzZVBVc2RmM1pmVDhReWRZaUFMZjV6Vy1xc2xxaDFMRzlvR0pFcnZqTzl3d2F2dmZFdGVqT0NsSG1Ebk5SSUhLbmNFakM1NjdCMmdUdGZwcFByUDlkdzQ?oc=5",
+   "data": "2026-11-20T19:30:00.000Z",
+   "temas": [
+    "edital"
+   ],
+   "orgs": [],
+   "edital": true,
+   "resumo": "Governo da Paraíba lança edital para levar 22 startups paraibanas ao Web Summit Qatar 2027 Repórter PB",
+   "coletadoEm": "2026-11-21T00:16:12.962Z"
+  },
+  {
+   "id": "4ffd29ca6f23",
+   "titulo": "Pesquisadores chineses vencem quânticos em 105 minutos",
+   "fonte": "diariodamidia.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVTN6cFdBYTFJcU5VUDA5VzBqMU1ya21TMEQyWkNHdC11VW03N0NfU080UHZXZ3ZLbUh0V2tZRndkV25RLTNnQ1NMLXlvX0dydmFPRFN3Rm96NHljeUV6YXV1TlFza2xWdVR3bnlKRFZZd0VSdmpZVGNFMU1pTkg4X0QtYnRxc1dwdUNJ?oc=5",
+   "data": "2026-11-20T18:05:30.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Pesquisadores chineses vencem quânticos em 105 minutos diariodamidia.com.br",
+   "coletadoEm": "2026-11-21T00:15:47.011Z"
+  },
+  {
+   "id": "931375db5f98",
+   "titulo": "Carga de R$ 83 milhões leva computadores quânticos à Paraíba",
+   "fonte": "TV Sim Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOODV0dzJQQUFOdGgtUWE4NDJNVkhQbXJBM3lRLWExazRJV0VSM21SS1JRUTB6T1NyVDlfZXJLWmdJeVNQU1RWcWpDVnNFdngzOHB6cTB1R2hVQjZsX3NSbHMyQnh1TkVfZDJVcnZyQlBWdC13aU9Ob0FhR0l5bVdNbDVqU2VpMWRZUlQwa2pNNHhtNnVHS294dF9DQkl5MWZhcjhVZE1hb0xDb3dsZy13ODhuTDFtTGYyZFpIYmVPcWJfZw?oc=5",
+   "data": "2026-11-20T14:34:26.000Z",
+   "temas": [
+    "ciquanta"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Carga de R$ 83 milhões leva computadores quânticos à Paraíba TV Sim Brasil",
+   "coletadoEm": "2026-11-21T00:15:52.553Z"
+  },
   {
    "id": "44a5eff28562",
    "titulo": "Viagem sob escolta de R$ 83 milhões: computadores quânticos são a carga mais valiosa do Brasil e exigem frio perto do zero absoluto",
@@ -66,7 +122,8 @@
    "data": "2026-11-20T10:08:00.000Z",
    "temas": [
     "quantica",
-    "financeiro"
+    "financeiro",
+    "saude"
    ],
    "orgs": [],
    "edital": false,
@@ -100,6 +157,20 @@
    "edital": false,
    "resumo": "Pesquisadores criam assinaturas de 548 bytes para proteger Bitcoin contra computação quântica BitNotícias",
    "coletadoEm": "2026-11-20T00:55:30.274Z"
+  },
+  {
+   "id": "6b8f18d7662b",
+   "titulo": "Lei do Bem no Simples avança no Senado",
+   "fonte": "Portal Contabeis",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWmtTSzlxbkxPMmxRRVBCLVh3YWpDbVpKNjBsdkpRdmZaZ3h2SVhBbHlwMWdQSjNpSXl2WW13NjIyWXBpUlVvbktYQkFoMkx3VkJoQnFqNm1RMzZFMVJGa2JPRENjOF9oQXhmamRKUi1wV2VrUC1yR3EyTHhtTEt1MWtVYkg5SU5TbzUw?oc=5",
+   "data": "2026-11-19T22:59:01.000Z",
+   "temas": [
+    "pdi"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Lei do Bem no Simples avança no Senado Portal Contabeis",
+   "coletadoEm": "2026-11-21T00:16:07.414Z"
   },
   {
    "id": "d2dad86610bd",
@@ -463,6 +534,20 @@
    "coletadoEm": "2026-11-18T18:04:31.835Z"
   },
   {
+   "id": "cc93c14ae041",
+   "titulo": "Aprimorar as capacidades de pesquisa e expandir a cooperação para desenvolver a indústria de semicondutores.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTWJWSHJWcmlZR2VKZkxMX3dpR2FsZ3dHVlYzemVmNFhtMFAxSFB3UDJxN1JxSGdvZ3dGNDJtR1dvSk9kRkJXb25TUVdiVzk2OWxjQmJmdTk3NlZwR0dWTWxpNUZzVHVyZTNtUzBxM0U3MUVDRHM3MEk4U2FsYWNEcHBrMmZ1TGZCLVE4eFpYYlh6Sjkza0dya0pGNHFsem1hX3lKaFhwbw?oc=5",
+   "data": "2026-11-17T23:17:56.000Z",
+   "temas": [
+    "pdi"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Aprimorar as capacidades de pesquisa e expandir a cooperação para desenvolver a indústria de semicondutores. Vietnam.vn",
+   "coletadoEm": "2026-11-21T00:16:07.414Z"
+  },
+  {
    "id": "593afa124870",
    "titulo": "O processo de ascensão da China como potência científica e sua experiência para o Vietnã.",
    "fonte": "Vietnam.vn",
@@ -734,6 +819,20 @@
    "edital": false,
    "resumo": "Com apoio do MCTI, computadores quânticos chegam a João Pessoa e implementação do Ciquanta avança MOMENTO MT",
    "coletadoEm": "2026-11-17T00:13:49.161Z"
+  },
+  {
+   "id": "ffd270b267fe",
+   "titulo": "Previsão do mercado de moinhos de laboratório até 2035, impulsionada por P&D farmacêutico e automação",
+   "fonte": "IndexBox",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPXzNVdm9wQjBoWG1uSU5DbWtmUEtYVUs3NGhKSjRmZnh1YzU1VFhHY2RLMGtXTWt3bmpwcE5fQ3haN0FxZnNmX0VkeUhLcXJIRTViUXZQOVRsb2QtY3pEN0xQTEMyRDB1TmFVOWJDSmMtekNJX05pQWRCMFJ6dTRMamNZcHJ5ZHZBODdQMEVhUE5ZQlU0MWw2WUdpM18zMy1rOEFpcUEtRzlPYlBtYTl0MC1tLWE2Z3RqczdrcjBoUEI?oc=5",
+   "data": "2026-11-16T22:56:05.000Z",
+   "temas": [
+    "pdi"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Previsão do mercado de moinhos de laboratório até 2035, impulsionada por P&D farmacêutico e automação IndexBox",
+   "coletadoEm": "2026-11-21T00:16:07.414Z"
   },
   {
    "id": "78e113f94e4b",
@@ -2687,6 +2786,20 @@
    "edital": true,
    "resumo": "Chamada apoia realização de cursos de curta duração em biodiversidade na região amazônica; inscrições até 12/02 Governo Federal",
    "coletadoEm": "2026-11-16T22:20:19.308Z"
+  },
+  {
+   "id": "d1d56b0039bb",
+   "titulo": "IBM demonstra tecnologia que pode superar um dos maiores obstáculos da computação quântica",
+   "fonte": "Gizmodo Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSzI4dlhDR2FLM3QwX1g2N1ItVlhXOGVKTUZYLVJTQ21CNEhhME9aTFpVcnhwV3VDa0RjcGNwLTZnb3NxNGUybkx2OGl3eElnVXVOX2hLVWp2Nkh4ZzhCSWlqS1c5bDZJZHQxVDI4ZjVKazBlVjV6aDhZUFc2ak9vNU9qYjZRdHIwWGJydXNDdGtlZllOVExxdHhXNUVwdzFBSFNtbEhadVJpeTFtblNKMzRhTUlITTUzVmx1dU01c2Y?oc=5",
+   "data": "2026-11-02T08:00:00.000Z",
+   "temas": [
+    "saude"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "IBM demonstra tecnologia que pode superar um dos maiores obstáculos da computação quântica Gizmodo Brasil",
+   "coletadoEm": "2026-11-21T00:15:58.116Z"
   },
   {
    "id": "df9f06ac1c3c",

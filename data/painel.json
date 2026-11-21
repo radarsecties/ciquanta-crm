@@ -1,9 +1,9 @@
 {
- "coletadoEm": "2026-11-20T17:48:40.723Z",
+ "coletadoEm": "2026-11-21T00:15:46.648Z",
  "fonte": "Painel CIQUANTA (painelciquanta.secties.pb.gov.br)",
  "dados": {
   "ok": true,
-  "atualizado": "2026-11-20T14:48",
+  "atualizado": "2026-11-20T21:15",
   "total": 73,
   "pessoas": 65,
   "instituicoes": 8,
@@ -200,10 +200,10 @@
    }
   ],
   "cad7": 25,
-  "prev": 126,
+  "prev": 127,
   "rec": 197,
-  "img": 0.8541666666666666,
-  "not": 0.71875,
+  "img": 0.8556701030927835,
+  "not": 0.711340206185567,
   "sessoes": [
    {
     "data": "2026-11-23",
@@ -318,6 +318,12 @@
     "hora": "09:00",
     "conf": 0,
     "pend": 3
+   },
+   {
+    "data": "2026-12-11",
+    "hora": "10:30",
+    "conf": 0,
+    "pend": 1
    },
    {
     "data": "2026-12-18",
@@ -472,7 +478,7 @@
    },
    {
     "r": "Graduação",
-    "n": 34
+    "n": 35
    },
    {
     "r": "Especialização ou MBA",
@@ -533,6 +539,15 @@
    "instituicoes": 8,
    "ufs": 13,
    "previstos": 126,
+   "recebidos": 197
+  },
+  {
+   "dia": "2026-11-21",
+   "cadastros": 73,
+   "pessoas": 65,
+   "instituicoes": 8,
+   "ufs": 13,
+   "previstos": 127,
    "recebidos": 197
   }
  ]

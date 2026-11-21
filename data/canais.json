@@ -820,7 +820,7 @@
    "linkedin": "https://www.linkedin.com/company/saomartinho"
   },
   "ref-re-green": {
-   "verificadoEm": "2026-11-17T18:35:26.994Z",
+   "verificadoEm": "2026-11-21T00:16:26.205Z",
    "versao": 2,
    "status": "erro",
    "erro": "fetch failed",
@@ -838,7 +838,7 @@
    "buscaWebEm": "2026-11-19T18:18:28.787Z"
   },
   "ref-moss": {
-   "verificadoEm": "2026-11-17T18:35:27.494Z",
+   "verificadoEm": "2026-11-21T00:16:21.606Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -1004,14 +1004,14 @@
    "linkedin": "https://br.linkedin.com/company/energisa"
   },
   "ref-equatorial": {
-   "verificadoEm": "2026-11-17T18:35:52.416Z",
+   "verificadoEm": "2026-11-21T00:16:21.783Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-20T00:56:20.682Z"
+   "buscaWebEm": "2026-11-21T00:17:05.996Z"
   },
   "ref-energisa-paraiba": {
    "verificadoEm": "2026-11-17T18:35:52.921Z",
@@ -1094,11 +1094,16 @@
    "buscaWebEm": "2026-11-20T00:56:20.872Z"
   },
   "ref-epe": {
-   "verificadoEm": "2026-11-17T18:36:09.753Z",
+   "verificadoEm": "2026-11-21T00:16:38.571Z",
    "versao": 2,
-   "status": "erro",
-   "erro": "This operation was aborted",
-   "emails": [],
+   "status": "ok",
+   "emails": [
+    {
+     "email": "comunicacao@epe.gov.br",
+     "papel": "Comunicação e imprensa",
+     "url": "https://www.epe.gov.br/pt/a-epe/fale-conosco"
+    }
+   ],
    "cnpj": "",
    "linkedin": ""
   },
@@ -1125,7 +1130,7 @@
    "linkedin": "https://www.linkedin.com/company/engie-brasil"
   },
   "ref-auren-energia": {
-   "verificadoEm": "2026-11-17T18:36:13.282Z",
+   "verificadoEm": "2026-11-21T00:16:21.863Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -1142,14 +1147,14 @@
    "linkedin": "http://linkedin.com/company/casa-dos-ventos-energias-renov-veis"
   },
   "ref-petrobras": {
-   "verificadoEm": "2026-11-17T18:36:18.288Z",
+   "verificadoEm": "2026-11-21T00:16:22.200Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-18T18:08:17.633Z"
+   "buscaWebEm": "2026-11-21T00:17:05.906Z"
   },
   "ref-isa-energia-brasil": {
    "verificadoEm": "2026-11-17T18:36:20.599Z",
@@ -1193,7 +1198,7 @@
    "buscaWebEm": "2026-11-20T00:56:21.057Z"
   },
   "ref-taesa": {
-   "verificadoEm": "2026-11-17T18:36:31.358Z",
+   "verificadoEm": "2026-11-21T00:16:46.969Z",
    "versao": 2,
    "status": "erro",
    "erro": "fetch failed",
@@ -1202,7 +1207,7 @@
    "linkedin": ""
   },
   "ref-prio": {
-   "verificadoEm": "2026-11-17T18:36:32.013Z",
+   "verificadoEm": "2026-11-21T00:16:22.130Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -1220,7 +1225,7 @@
    "buscaWebEm": "2026-11-20T00:56:21.150Z"
   },
   "ref-acelen": {
-   "verificadoEm": "2026-11-17T18:36:35.974Z",
+   "verificadoEm": "2026-11-21T00:16:22.328Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -1245,7 +1250,7 @@
    "linkedin": "https://www.linkedin.com/company/raizenoficial"
   },
   "ref-ibp-instituto-brasileiro-de-petroleo-e-g": {
-   "verificadoEm": "2026-11-17T18:36:41.441Z",
+   "verificadoEm": "2026-11-21T00:16:22.455Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -1276,7 +1281,7 @@
    "linkedin": "https://www.linkedin.com/company/galp"
   },
   "ref-gerdau": {
-   "verificadoEm": "2026-11-17T18:36:46.468Z",
+   "verificadoEm": "2026-11-21T00:16:22.619Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -1316,7 +1321,7 @@
    "buscaWebEm": "2026-11-20T00:56:21.334Z"
   },
   "ref-nexa-resources": {
-   "verificadoEm": "2026-11-17T18:36:53.662Z",
+   "verificadoEm": "2026-11-21T00:16:22.515Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -1450,14 +1455,14 @@
    "buscaWebEm": "2026-11-20T17:49:54.168Z"
   },
   "ref-weg": {
-   "verificadoEm": "2026-11-17T18:37:08.847Z",
+   "verificadoEm": "2026-11-21T00:16:22.633Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-20T17:49:54.237Z"
+   "buscaWebEm": "2026-11-21T00:17:06.060Z"
   },
   "ref-usiminas": {
    "verificadoEm": "2026-11-17T18:37:11.058Z",
@@ -1484,7 +1489,7 @@
    "linkedin": ""
   },
   "ref-ambev": {
-   "verificadoEm": "2026-11-17T18:37:16.184Z",
+   "verificadoEm": "2026-11-21T00:16:22.789Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -1493,7 +1498,7 @@
    "linkedin": ""
   },
   "ref-alpargatas": {
-   "verificadoEm": "2026-11-17T18:37:16.393Z",
+   "verificadoEm": "2026-11-21T00:16:22.841Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -2002,7 +2007,8 @@
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-21T00:17:06.207Z"
   },
   "ref-loggi": {
    "verificadoEm": "2026-11-18T01:20:36.509Z",
@@ -2039,7 +2045,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://linkedin.com/company/ctirgov"
+   "linkedin": "https://linkedin.com/company/ctirgov",
+   "buscaWebEm": "2026-11-21T00:17:06.143Z"
   },
   "ref-brisanet": {
    "verificadoEm": "2026-11-18T01:20:43.874Z",
@@ -2064,7 +2071,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "02421421000111",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-21T00:17:06.272Z"
   },
   "ref-claro-brasil": {
    "verificadoEm": "2026-11-18T01:20:47.698Z",
@@ -2072,7 +2080,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "40432544000147",
-   "linkedin": "https://www.linkedin.com/company/clarobrasil"
+   "linkedin": "https://www.linkedin.com/company/clarobrasil",
+   "buscaWebEm": "2026-11-21T00:17:06.338Z"
   },
   "ref-intelbras": {
    "verificadoEm": "2026-11-18T01:20:47.894Z",
@@ -2122,7 +2131,8 @@
     }
    ],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/1105316"
+   "linkedin": "https://www.linkedin.com/company/1105316",
+   "buscaWebEm": "2026-11-21T00:17:06.550Z"
   },
   "ref-telebras": {
    "verificadoEm": "2026-11-18T01:21:00.096Z",
@@ -2159,7 +2169,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "http://www.linkedin.com/company/certisign"
+   "linkedin": "http://www.linkedin.com/company/certisign",
+   "buscaWebEm": "2026-11-21T00:17:06.481Z"
   },
   "ref-padtec": {
    "verificadoEm": "2026-11-18T01:21:03.944Z",
@@ -2173,7 +2184,8 @@
     }
    ],
    "cnpj": "",
-   "linkedin": "http://linkedin.com/company/padtec-sa"
+   "linkedin": "http://linkedin.com/company/padtec-sa",
+   "buscaWebEm": "2026-11-21T00:17:06.409Z"
   },
   "ref-venturus": {
    "verificadoEm": "2026-11-18T01:21:04.660Z",
@@ -2198,7 +2210,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/amazon-web-services"
+   "linkedin": "https://www.linkedin.com/company/amazon-web-services",
+   "buscaWebEm": "2026-11-21T00:17:06.696Z"
   },
   "ref-microsoft-brasil": {
    "verificadoEm": "2026-11-18T01:21:09.910Z",
@@ -2206,7 +2219,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "04712500000107",
-   "linkedin": "https://www.linkedin.com/company/microsoft"
+   "linkedin": "https://www.linkedin.com/company/microsoft",
+   "buscaWebEm": "2026-11-21T00:17:06.618Z"
   },
   "ref-totvs": {
    "verificadoEm": "2026-11-18T01:21:15.286Z",
@@ -3443,5 +3457,5 @@
    "buscaWebEm": "2026-11-20T17:49:54.705Z"
   }
  },
- "atualizadoEm": "2026-11-20T17:49:54.955Z"
+ "atualizadoEm": "2026-11-21T00:17:06.762Z"
 }

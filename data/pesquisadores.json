@@ -30325,9 +30325,899 @@
    "instituicao": null,
    "buscadoEm": "2026-11-20T17:49:53.880Z",
    "pessoas": []
+  },
+  "ref-krilltech": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:49.652Z",
+   "pessoas": []
+  },
+  "ref-agrotools": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:49.888Z",
+   "pessoas": []
+  },
+  "ref-aegro": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:50.138Z",
+   "pessoas": []
+  },
+  "ref-decoy-smart-control": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:50.463Z",
+   "pessoas": []
+  },
+  "ref-umgrauemeio": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:50.685Z",
+   "pessoas": []
+  },
+  "ref-way2": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:50.940Z",
+   "pessoas": []
+  },
+  "ref-fohat": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:51.173Z",
+   "pessoas": []
+  },
+  "ref-clarke-energia": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:51.410Z",
+   "pessoas": []
+  },
+  "ref-stattus4": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:51.654Z",
+   "pessoas": []
+  },
+  "ref-nanox": {
+   "instituicao": {
+    "id": "I4210109790",
+    "nome": "Nanox (Brazil)",
+    "tipo": "company",
+    "trabalhos": 6
+   },
+   "buscadoEm": "2026-11-21T00:16:51.879Z",
+   "pessoas": [
+    {
+     "id": "A5019727316",
+     "nome": "Daniel Tamassia Minozzi",
+     "orcid": "0000-0002-6071-3606",
+     "trabalhos": 6,
+     "ultimoAno": 2025,
+     "temas": [
+      "Nanoparticles: synthesis and applications",
+      "Antimicrobial agents and applications",
+      "Dyeing and Modifying Textile Fibers"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Domino Upgrading of Hemicellulose Derivatives Using a Novel Magnetically Recoverable Mo(V)-Containing Heteropolyacid Catalyst",
+      "ano": 2025,
+      "url": "https://doi.org/10.1021/acssuschemeng.4c10925",
+      "quantico": false
+     },
+     "relevancia": 32,
+     "cargo": "",
+     "orcidVistoEm": "2026-11-21T00:16:52.464Z"
+    },
+    {
+     "id": "A5067458496",
+     "nome": "Luiz Gustavo Pagotto Simões",
+     "orcid": "",
+     "trabalhos": 5,
+     "ultimoAno": 2023,
+     "temas": [
+      "Nanoparticles: synthesis and applications",
+      "Antimicrobial agents and applications",
+      "Dyeing and Modifying Textile Fibers"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Antiviral leather: A functional coating based on SiO2-AgNPs to eliminate pathogens",
+      "ano": 2023,
+      "url": "https://doi.org/10.1016/j.jece.2023.110919",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5033932417",
+     "nome": "Guilherme C. Tremiliosi",
+     "orcid": "",
+     "trabalhos": 3,
+     "ultimoAno": 2021,
+     "temas": [
+      "Nanoparticles: synthesis and applications",
+      "Antimicrobial agents and applications",
+      "Dyeing and Modifying Textile Fibers"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "PVC-SiO2-Ag composite as a powerful biocide and anti-SARS-CoV-2 material",
+      "ano": 2021,
+      "url": "https://doi.org/10.1007/s10965-021-02729-1",
+      "quantico": false
+     },
+     "relevancia": 9
+    },
+    {
+     "id": "A5073843731",
+     "nome": "Renato I. Santos",
+     "orcid": "",
+     "trabalhos": 3,
+     "ultimoAno": 2021,
+     "temas": [
+      "Nanoparticles: synthesis and applications",
+      "Antimicrobial agents and applications",
+      "Dyeing and Modifying Textile Fibers"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "PVC-SiO2-Ag composite as a powerful biocide and anti-SARS-CoV-2 material",
+      "ano": 2021,
+      "url": "https://doi.org/10.1007/s10965-021-02729-1",
+      "quantico": false
+     },
+     "relevancia": 9
+    },
+    {
+     "id": "A5048882160",
+     "nome": "Daiane C. B. Vilela",
+     "orcid": "",
+     "trabalhos": 3,
+     "ultimoAno": 2021,
+     "temas": [
+      "Nanoparticles: synthesis and applications",
+      "Antimicrobial agents and applications",
+      "Dyeing and Modifying Textile Fibers"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "PVC-SiO2-Ag composite as a powerful biocide and anti-SARS-CoV-2 material",
+      "ano": 2021,
+      "url": "https://doi.org/10.1007/s10965-021-02729-1",
+      "quantico": false
+     },
+     "relevancia": 9
+    }
+   ]
+  },
+  "ref-gerdau-graphene": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:52.983Z",
+   "pessoas": []
+  },
+  "ref-tractian": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:53.210Z",
+   "pessoas": []
+  },
+  "ref-pix-force": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:53.454Z",
+   "pessoas": []
+  },
+  "ref-birmind": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:53.668Z",
+   "pessoas": []
+  },
+  "ref-altave": {
+   "instituicao": {
+    "id": "I4210103105",
+    "nome": "Altave (Brazil)",
+    "tipo": "company",
+    "trabalhos": 6
+   },
+   "buscadoEm": "2026-11-21T00:16:53.902Z",
+   "pessoas": [
+    {
+     "id": "A5160310518",
+     "nome": "Piani Raquel",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Occupational Health and Safety Research",
+      "Occupational Health and Safety Management"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "AI-Driven Video Analytics and Behavioral Safety Intelligence: Enhancing Human-Centered Operational Adaptation in Offshore Support Vessels",
+      "ano": 2026,
+      "url": "https://doi.org/10.2118/235661-ms",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5160309940",
+     "nome": "Oliveira Luís",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Occupational Health and Safety Research",
+      "Occupational Health and Safety Management"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "AI-Driven Video Analytics and Behavioral Safety Intelligence: Enhancing Human-Centered Operational Adaptation in Offshore Support Vessels",
+      "ano": 2026,
+      "url": "https://doi.org/10.2118/235661-ms",
+      "quantico": false
+     },
+     "relevancia": 21
+    },
+    {
+     "id": "A5119397521",
+     "nome": "I.J. Costa Neto",
+     "orcid": "0009-0004-2526-5600",
+     "trabalhos": 1,
+     "ultimoAno": 2025,
+     "temas": [
+      "Lightning and Electromagnetic Phenomena",
+      "Radio Wave Propagation Studies"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "A física dos raios – Parte 2: raios ascendentes",
+      "ano": 2025,
+      "url": "https://doi.org/10.1590/1806-9126-rbef-2025-0023",
+      "quantico": false
+     },
+     "relevancia": 17
+    },
+    {
+     "id": "A5107607107",
+     "nome": "Wilson Augusto Borges Leal Neto",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Occupational Health and Safety Research",
+      "Advanced Neural Network Applications"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Video-Powered AI Solutions for Active Monitoring and Safety Improvement in Offshore Environments: The BRAM Offshore and Altave Case",
+      "ano": 2024,
+      "url": "https://doi.org/10.2118/221026-ms",
+      "quantico": false
+     },
+     "relevancia": 13
+    },
+    {
+     "id": "A5114230231",
+     "nome": "José Henrique Mouallem Gonçalves",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Occupational Health and Safety Research",
+      "Advanced Neural Network Applications"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Video-Powered AI Solutions for Active Monitoring and Safety Improvement in Offshore Environments: The BRAM Offshore and Altave Case",
+      "ano": 2024,
+      "url": "https://doi.org/10.2118/221026-ms",
+      "quantico": false
+     },
+     "relevancia": 13
+    },
+    {
+     "id": "A5095942883",
+     "nome": "Bruno Henrique Veneziani Pianissola",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Advanced Neural Network Applications",
+      "Occupational Health and Safety Research"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Video Based AI Tools for Safety Enhancement on the Drill Floor",
+      "ano": 2024,
+      "url": "https://doi.org/10.4043/35129-ms",
+      "quantico": false
+     },
+     "relevancia": 13
+    },
+    {
+     "id": "A5036884644",
+     "nome": "Guilherme Mendes Cicarini Hott",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Advanced Neural Network Applications",
+      "Occupational Health and Safety Research"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Video Based AI Tools for Safety Enhancement on the Drill Floor",
+      "ano": 2024,
+      "url": "https://doi.org/10.4043/35129-ms",
+      "quantico": false
+     },
+     "relevancia": 13
+    },
+    {
+     "id": "A5095942885",
+     "nome": "Leonardo Mendes Nogueira",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Advanced Neural Network Applications",
+      "Occupational Health and Safety Research"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Video Based AI Tools for Safety Enhancement on the Drill Floor",
+      "ano": 2024,
+      "url": "https://doi.org/10.4043/35129-ms",
+      "quantico": false
+     },
+     "relevancia": 13
+    },
+    {
+     "id": "A5095942886",
+     "nome": "Raphael Migoto Campos de Paula",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2024,
+     "temas": [
+      "Advanced Neural Network Applications",
+      "Occupational Health and Safety Research"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Video Based AI Tools for Safety Enhancement on the Drill Floor",
+      "ano": 2024,
+      "url": "https://doi.org/10.4043/35129-ms",
+      "quantico": false
+     },
+     "relevancia": 13
+    },
+    {
+     "id": "A5074613859",
+     "nome": "Guilherme Correa de Freitas",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2022,
+     "temas": [
+      "Advanced Neural Network Applications",
+      "Domain Adaptation and Few-Shot Learning"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Semi-Supervised Learning for Intelligent Surveillance",
+      "ano": 2022,
+      "url": "https://doi.org/10.1109/lars/sbr/wre56824.2022.9995785",
+      "quantico": false
+     },
+     "relevancia": 5
+    },
+    {
+     "id": "A5007778777",
+     "nome": "Arthur Schveitzer Ferreira",
+     "orcid": "0000-0002-9062-0558",
+     "trabalhos": 1,
+     "ultimoAno": 2021,
+     "temas": [
+      "Advanced Neural Network Applications",
+      "Smart Agriculture and AI"
+     ],
+     "quantico": false,
+     "afim": false,
+     "destaque": {
+      "titulo": "Performance Comparison of Convolutional Neural Network Models for Object Detection in Tethered Balloon Imagery",
+      "ano": 2021,
+      "url": "https://doi.org/10.1109/lars/sbr/wre54079.2021.9605459",
+      "quantico": false
+     },
+     "relevancia": 3
+    }
+   ]
+  },
+  "ref-ael-sistemas": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:54.516Z",
+   "pessoas": []
+  },
+  "ref-siatt": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:54.728Z",
+   "pessoas": []
+  },
+  "ref-axur": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:54.932Z",
+   "pessoas": []
+  },
+  "ref-unico": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:55.195Z",
+   "pessoas": []
+  },
+  "ref-clearsale": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:55.440Z",
+   "pessoas": []
+  },
+  "ref-semantix": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:55.698Z",
+   "pessoas": []
+  },
+  "ref-neoway": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:55.984Z",
+   "pessoas": []
+  },
+  "ref-aquarela-analytics": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:56.234Z",
+   "pessoas": []
+  },
+  "ref-datarisk": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:56.452Z",
+   "pessoas": []
+  },
+  "ref-qi-tech": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:56.688Z",
+   "pessoas": []
+  },
+  "ref-dock": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:56.906Z",
+   "pessoas": []
+  },
+  "ref-c6-bank": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:57.128Z",
+   "pessoas": []
+  },
+  "ref-picpay": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:57.346Z",
+   "pessoas": []
+  },
+  "ref-banco-pan": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:57.576Z",
+   "pessoas": []
+  },
+  "ref-banrisul": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:57.791Z",
+   "pessoas": []
+  },
+  "ref-brb": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:58.012Z",
+   "pessoas": []
+  },
+  "ref-creditas": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:58.224Z",
+   "pessoas": []
+  },
+  "ref-cobli": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:58.434Z",
+   "pessoas": []
+  },
+  "ref-frete-com": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:58.655Z",
+   "pessoas": []
+  },
+  "ref-nstech": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:58.915Z",
+   "pessoas": []
+  },
+  "ref-intelipost": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:59.125Z",
+   "pessoas": []
+  },
+  "ref-speedbird-aero": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:59.376Z",
+   "pessoas": []
+  },
+  "ref-unimed-joao-pessoa": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:59.625Z",
+   "pessoas": []
+  },
+  "ref-cagepa": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:16:59.863Z",
+   "pessoas": []
+  },
+  "ref-pbgas": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:17:00.082Z",
+   "pessoas": []
+  },
+  "ref-sao-braz": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:17:00.291Z",
+   "pessoas": []
+  },
+  "ref-porto-de-cabedelo": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:17:00.508Z",
+   "pessoas": []
+  },
+  "ref-fitec": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:17:00.717Z",
+   "pessoas": []
+  },
+  "ref-tecgraf-puc-rio": {
+   "instituicao": null,
+   "buscadoEm": "2026-11-21T00:17:00.953Z",
+   "pessoas": []
+  },
+  "ref-ufpr": {
+   "instituicao": {
+    "id": "I52418104",
+    "nome": "Universidade Federal do Paraná",
+    "tipo": "education",
+    "trabalhos": 112565
+   },
+   "buscadoEm": "2026-11-21T00:17:01.189Z",
+   "pessoas": [
+    {
+     "id": "A5011602764",
+     "nome": "R. M. Angelo",
+     "orcid": "0000-0002-7832-9821",
+     "trabalhos": 9,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Mechanics and Applications",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Symmetric and Antisymmetric Quantum States from Graph Structure and Orientation",
+      "ano": 2026,
+      "url": "https://doi.org/10.3390/e28040386",
+      "quantico": true
+     },
+     "relevancia": 97,
+     "orcidVistoEm": "2026-11-21T00:17:01.891Z"
+    },
+    {
+     "id": "A5053370795",
+     "nome": "Ana C. S. Costa",
+     "orcid": "0000-0002-4014-0695",
+     "trabalhos": 9,
+     "ultimoAno": 2025,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Mechanics and Applications",
+      "Advanced Thermodynamics and Statistical Mechanics"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Um convite à Termodinâmica Quântica",
+      "ano": 2025,
+      "url": "https://doi.org/10.1590/1806-9126-rbef-2025-0391",
+      "quantico": true
+     },
+     "relevancia": 93,
+     "orcidVistoEm": "2026-11-21T00:17:02.183Z"
+    },
+    {
+     "id": "A5051030465",
+     "nome": "Pedro R. Dieguez",
+     "orcid": "0000-0002-8286-2645",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture",
+      "Advanced Thermodynamics and Statistical Mechanics"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Configuration dependent crosstalk amplification in superconducting quantum processors",
+      "ano": 2026,
+      "url": "https://doi.org/10.1038/s41598-026-70466-w",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "orcidVistoEm": "2026-11-21T00:17:02.481Z"
+    },
+    {
+     "id": "A5034843569",
+     "nome": "Fabiano M. Andrade",
+     "orcid": "0000-0001-5383-6168",
+     "trabalhos": 2,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum many-body systems"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Randomized Hypergraph States and Their Entanglement Properties",
+      "ano": 2026,
+      "url": "https://doi.org/10.1002/andp.202500622",
+      "quantico": true
+     },
+     "relevancia": 76,
+     "orcidVistoEm": "2026-11-21T00:17:02.772Z"
+    },
+    {
+     "id": "A5048678154",
+     "nome": "M. G. E. da Luz",
+     "orcid": "0000-0003-3865-2621",
+     "trabalhos": 4,
+     "ultimoAno": 2024,
+     "temas": [
+      "Quantum Mechanics and Applications",
+      "Quantum Information and Cryptography",
+      "Topological Materials and Phenomena"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Correlations in the EPR State Observables",
+      "ano": 2024,
+      "url": "https://doi.org/10.3390/e26060476",
+      "quantico": true
+     },
+     "relevancia": 74,
+     "orcidVistoEm": "2026-11-21T00:17:03.070Z"
+    },
+    {
+     "id": "A5023931133",
+     "nome": "Igor Konieczniak",
+     "orcid": "0000-0003-1519-5819",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum optics and atomic interactions"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Towards generation and distribution of optical continuous variable entanglement in a campus quantum network",
+      "ano": 2026,
+      "url": "https://doi.org/10.1117/12.3114387",
+      "quantico": true
+     },
+     "relevancia": 73,
+     "orcidVistoEm": "2026-11-21T00:17:03.362Z"
+    },
+    {
+     "id": "A5134992614",
+     "nome": "Pedro R. Dieguez",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Mechanics and Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Boosting State Discrimination in Quantum Brownian Motion Channel via Memory-Induced Coherence Preservation",
+      "ano": 2026,
+      "url": "https://doi.org/10.48550/arxiv.2607.15405",
+      "quantico": true
+     },
+     "relevancia": 73
+    },
+    {
+     "id": "A5123534455",
+     "nome": "Matheus de Jesus",
+     "orcid": "0009-0001-8693-348X",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Symmetric and Antisymmetric Quantum States from Graph Structure and Orientation",
+      "ano": 2026,
+      "url": "https://doi.org/10.3390/e28040386",
+      "quantico": true
+     },
+     "relevancia": 73,
+     "orcidVistoEm": "2026-11-21T00:17:03.653Z"
+    },
+    {
+     "id": "A5088795524",
+     "nome": "Eduardo Hoefel",
+     "orcid": "0009-0007-3184-7449",
+     "trabalhos": 1,
+     "ultimoAno": 2026,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Computing Algorithms and Architecture"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Symmetric and Antisymmetric Quantum States from Graph Structure and Orientation",
+      "ano": 2026,
+      "url": "https://doi.org/10.3390/e28040386",
+      "quantico": true
+     },
+     "relevancia": 73,
+     "orcidVistoEm": "2026-11-21T00:17:03.939Z"
+    },
+    {
+     "id": "A5029049920",
+     "nome": "A. D. Ribeiro",
+     "orcid": "0000-0002-9268-6753",
+     "trabalhos": 2,
+     "ultimoAno": 2025,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum chaos and dynamical systems",
+      "Quantum Mechanics and Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Phase transitions, symmetries, and tunneling in Kerr parametric oscillators",
+      "ano": 2025,
+      "url": "https://doi.org/10.1103/6vj6-v7yh",
+      "quantico": true
+     },
+     "relevancia": 72,
+     "orcidVistoEm": "2026-11-21T00:17:04.233Z"
+    },
+    {
+     "id": "A5060447180",
+     "nome": "Henrique Hepp",
+     "orcid": "0000-0003-1688-451X",
+     "trabalhos": 2,
+     "ultimoAno": 2025,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography",
+      "Complexity and Algorithms in Graphs"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "A Collapse-free Quantum Algorithm for a Problem in QSZK",
+      "ano": 2025,
+      "url": "https://doi.org/10.5753/etc.2025.9268",
+      "quantico": true
+     },
+     "relevancia": 72,
+     "orcidVistoEm": "2026-11-21T00:17:04.522Z"
+    },
+    {
+     "id": "A5076996827",
+     "nome": "Marcus W. Beims",
+     "orcid": "0000-0002-0889-434X",
+     "trabalhos": 4,
+     "ultimoAno": 2023,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Mechanics and Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Control of a qubit under Markovian and non-Markovian noise",
+      "ano": 2023,
+      "url": "https://doi.org/10.1103/physreva.108.012620",
+      "quantico": true
+     },
+     "relevancia": 70,
+     "orcidVistoEm": "2026-11-21T00:17:04.805Z"
+    },
+    {
+     "id": "A5101219594",
+     "nome": "Abner F. B. Costa",
+     "orcid": "",
+     "trabalhos": 1,
+     "ultimoAno": 2025,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Quantum Coset Multiplication and the Hidden Subgroup Problem in Dihedral Groups Dp",
+      "ano": 2025,
+      "url": "https://doi.org/10.5753/etc.2025.9189",
+      "quantico": true
+     },
+     "relevancia": 69
+    },
+    {
+     "id": "A5012320652",
+     "nome": "Murilo V. G. da Silva",
+     "orcid": "0000-0002-3392-714X",
+     "trabalhos": 1,
+     "ultimoAno": 2025,
+     "temas": [
+      "Quantum Computing Algorithms and Architecture",
+      "Quantum Information and Cryptography"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "A Collapse-free Quantum Algorithm for a Problem in QSZK",
+      "ano": 2025,
+      "url": "https://doi.org/10.5753/etc.2025.9268",
+      "quantico": true
+     },
+     "relevancia": 69,
+     "orcidVistoEm": "2026-11-21T00:17:05.100Z"
+    },
+    {
+     "id": "A5093299808",
+     "nome": "Lucas Maquedano",
+     "orcid": "0000-0002-4416-0001",
+     "trabalhos": 1,
+     "ultimoAno": 2025,
+     "temas": [
+      "Quantum Information and Cryptography",
+      "Quantum Mechanics and Applications"
+     ],
+     "quantico": true,
+     "afim": true,
+     "destaque": {
+      "titulo": "Análise de Correlações Quânticas na Plataforma IBM Quantum",
+      "ano": 2025,
+      "url": "https://doi.org/10.1590/1806-9126-rbef-2025-0258",
+      "quantico": true
+     },
+     "relevancia": 69,
+     "orcidVistoEm": "2026-11-21T00:17:05.395Z"
+    }
+   ]
   }
  },
- "atualizadoEm": "2026-11-20T17:49:53.880Z",
+ "atualizadoEm": "2026-11-21T00:17:05.695Z",
  "fonte": "OpenAlex (produção científica e técnica) e ORCID (dados tornados públicos pelos próprios pesquisadores)",
  "versao": 3
 }
