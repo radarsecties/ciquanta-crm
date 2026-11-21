@@ -845,7 +845,23 @@
    "abertura": "1978-12-14",
    "email": "",
    "atualizadoEm": "2026-11-19T00:48:27.631Z"
+  },
+  "ref-toyota-do-brasil": {
+   "cnpj": "59104760000604",
+   "razao": "TOYOTA DO BRASIL LTDA",
+   "fantasia": "",
+   "situacao": "ATIVA",
+   "cnae": "2910701",
+   "cnaeDesc": "Fabricação de automóveis, camionetas e utilitários",
+   "porte": "DEMAIS",
+   "natureza": "Sociedade Empresária Limitada",
+   "municipio": "SOROCABA",
+   "uf": "SP",
+   "capital": 6709980000,
+   "abertura": "2008-11-19",
+   "email": "",
+   "atualizadoEm": "2026-11-21T16:48:09.530Z"
   }
  },
- "atualizadoEm": "2026-11-21T00:16:49.182Z"
+ "atualizadoEm": "2026-11-21T16:48:10.831Z"
 }

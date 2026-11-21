@@ -1610,14 +1610,14 @@
    "buscaWebEm": "2026-11-17T18:40:03.399Z"
   },
   "ref-ime-instituto-militar-de-engenharia": {
-   "verificadoEm": "2026-11-18T01:20:30.712Z",
+   "verificadoEm": "2026-11-21T16:47:48.775Z",
    "versao": 2,
    "status": "erro",
    "erro": "fetch failed",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-18T01:24:08.332Z"
+   "buscaWebEm": "2026-11-21T16:50:19.312Z"
   },
   "ref-cpqd": {
    "verificadoEm": "2026-11-18T01:20:38.015Z",
@@ -1711,7 +1711,7 @@
    "buscaWebEm": "2026-11-20T17:49:54.511Z"
   },
   "ref-movida": {
-   "verificadoEm": "2026-11-18T01:20:00.684Z",
+   "verificadoEm": "2026-11-21T16:47:42.565Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -1756,7 +1756,7 @@
    "linkedin": "https://www.linkedin.com/company/rumologistica"
   },
   "ref-azul-linhas-aereas": {
-   "verificadoEm": "2026-11-18T01:20:03.183Z",
+   "verificadoEm": "2026-11-21T16:47:42.614Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -1897,13 +1897,23 @@
    "buscaWebEm": "2026-11-20T17:49:54.572Z"
   },
   "ref-toyota-do-brasil": {
-   "verificadoEm": "2026-11-18T01:20:16.974Z",
+   "verificadoEm": "2026-11-21T16:47:48.650Z",
    "versao": 2,
-   "status": "erro",
-   "erro": "HTTP 403",
-   "emails": [],
-   "cnpj": "",
-   "linkedin": ""
+   "status": "ok",
+   "emails": [
+    {
+     "email": "sustentabilidade@toyota.com.br",
+     "papel": "Sustentabilidade",
+     "url": "https://www.toyota.com.br/meu-toyota/servicos/atendimento-ao-cliente"
+    },
+    {
+     "email": "clientes@sac.toyota.com.br",
+     "papel": "Sustentabilidade",
+     "url": "https://www.toyota.com.br/meu-toyota/servicos/atendimento-ao-cliente"
+    }
+   ],
+   "cnpj": "59104760000604",
+   "linkedin": "https://www.linkedin.com/company/toyota-do-brasil"
   },
   "ref-correios": {
    "verificadoEm": "2026-11-18T01:20:23.680Z",
@@ -1914,7 +1924,7 @@
    "linkedin": "https://br.linkedin.com/company/correios"
   },
   "ref-marcopolo": {
-   "verificadoEm": "2026-11-18T01:20:23.933Z",
+   "verificadoEm": "2026-11-21T16:47:42.615Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -1931,7 +1941,7 @@
    "linkedin": "https://pt.linkedin.com/company/boschbrasil"
   },
   "ref-magazine-luiza": {
-   "verificadoEm": "2026-11-18T01:20:24.372Z",
+   "verificadoEm": "2026-11-21T16:47:42.674Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -1949,7 +1959,7 @@
    "buscaWebEm": "2026-11-20T17:49:54.634Z"
   },
   "ref-ifood": {
-   "verificadoEm": "2026-11-18T01:20:24.631Z",
+   "verificadoEm": "2026-11-21T16:47:42.631Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -1966,7 +1976,7 @@
    "linkedin": "https://pt.linkedin.com/company/complexo-industrial-portu"
   },
   "ref-ita-instituto-tecnologico-de-aeronautica": {
-   "verificadoEm": "2026-11-18T01:20:25.890Z",
+   "verificadoEm": "2026-11-21T16:47:42.872Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -2001,14 +2011,14 @@
    "buscaWebEm": "2026-11-20T17:49:54.763Z"
   },
   "ref-vivo-telefonica-brasil": {
-   "verificadoEm": "2026-11-18T01:20:35.297Z",
+   "verificadoEm": "2026-11-21T16:47:43.621Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-21T00:17:06.207Z"
+   "buscaWebEm": "2026-11-21T16:50:19.491Z"
   },
   "ref-loggi": {
    "verificadoEm": "2026-11-18T01:20:36.509Z",
@@ -2057,7 +2067,7 @@
    "linkedin": "https://www.linkedin.com/company/brisanettelecom"
   },
   "ref-ericsson-brasil": {
-   "verificadoEm": "2026-11-18T01:20:44.055Z",
+   "verificadoEm": "2026-11-21T16:47:43.265Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -2084,7 +2094,7 @@
    "buscaWebEm": "2026-11-21T00:17:06.338Z"
   },
   "ref-intelbras": {
-   "verificadoEm": "2026-11-18T01:20:47.894Z",
+   "verificadoEm": "2026-11-21T16:47:43.048Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -2273,7 +2283,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/serpro"
+   "linkedin": "https://www.linkedin.com/company/serpro",
+   "buscaWebEm": "2026-11-21T16:50:19.573Z"
   },
   "ref-cesar": {
    "verificadoEm": "2026-11-18T01:21:25.457Z",
@@ -2328,7 +2339,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-21T16:50:19.656Z"
   },
   "ref-cbpf": {
    "verificadoEm": "2026-11-18T01:21:31.688Z",
@@ -2519,14 +2531,14 @@
    "linkedin": ""
   },
   "ref-ufpe": {
-   "verificadoEm": "2026-11-18T01:21:51.111Z",
+   "verificadoEm": "2026-11-21T16:48:07.945Z",
    "versao": 2,
    "status": "erro",
    "erro": "fetch failed",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-18T01:24:09.188Z"
+   "buscaWebEm": "2026-11-21T16:50:19.412Z"
   },
   "ref-usp": {
    "verificadoEm": "2026-11-18T01:21:54.865Z",
@@ -2534,16 +2546,18 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-21T16:50:19.736Z"
   },
   "ref-ufcg": {
-   "verificadoEm": "2026-11-18T01:21:57.107Z",
+   "verificadoEm": "2026-11-21T16:48:07.945Z",
    "versao": 2,
    "status": "erro",
    "erro": "fetch failed",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-21T16:50:19.814Z"
   },
   "ref-eviden-atos": {
    "emails": [],
@@ -2805,7 +2819,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/finep"
+   "linkedin": "https://www.linkedin.com/company/finep",
+   "buscaWebEm": "2026-11-21T16:50:19.893Z"
   },
   "ref-embrapii": {
    "verificadoEm": "2026-11-18T18:05:10.102Z",
@@ -2819,7 +2834,8 @@
     }
    ],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/embrapii"
+   "linkedin": "https://www.linkedin.com/company/embrapii",
+   "buscaWebEm": "2026-11-21T16:50:19.975Z"
   },
   "ref-capes": {
    "verificadoEm": "2026-11-18T18:05:10.235Z",
@@ -2895,7 +2911,8 @@
     }
    ],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/mdic-oficial"
+   "linkedin": "https://www.linkedin.com/company/mdic-oficial",
+   "buscaWebEm": "2026-11-21T16:50:20.061Z"
   },
   "ref-sebrae-nacional": {
    "verificadoEm": "2026-11-18T18:05:21.116Z",
@@ -2917,7 +2934,8 @@
     }
    ],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-21T16:50:20.142Z"
   },
   "ref-softex": {
    "verificadoEm": "2026-11-18T18:05:27.448Z",
@@ -3020,7 +3038,8 @@
     }
    ],
    "cnpj": "",
-   "linkedin": "https://linkedin.com/company/anpgovbr-periodoeleitoral"
+   "linkedin": "https://linkedin.com/company/anpgovbr-periodoeleitoral",
+   "buscaWebEm": "2026-11-21T16:50:20.226Z"
   },
   "ref-fiep-federacao-das-industrias-da-paraiba": {
    "verificadoEm": "2026-11-18T18:05:38.285Z",
@@ -3457,5 +3476,5 @@
    "buscaWebEm": "2026-11-20T17:49:54.705Z"
   }
  },
- "atualizadoEm": "2026-11-21T00:17:06.762Z"
+ "atualizadoEm": "2026-11-21T16:50:20.312Z"
 }

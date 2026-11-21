@@ -1,7 +1,17 @@
 {
- "atualizadoEm": "2026-11-21T00:16:21.100Z",
+ "atualizadoEm": "2026-11-21T16:47:42.488Z",
  "aviso": "Chamadas identificadas automaticamente em notícias; confirme prazo e regras na página oficial.",
  "itens": [
+  {
+   "id": "ed-9274b53987b0",
+   "titulo": "Governo da Paraíba lança edital para levar startups paraibanas ao Web Summit Qatar 2027",
+   "orgao": "Paraíba Já",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZWRHbU5pTXV2YXhNci15U2Y3bWpGY1VTTUlRdXF3STJESmVQYWd0NUpYTENxU1NHbmpVamFld2JvN0JWMmh5c1hTZ1RkbjJseHdpNlBxRXVlLVBjeExES0dDdnB2RlpmVEo2RXVlbFFPUkZHemIxX0VTNnV2eUp4YlJzNDBrcHNTbzdGa3pmSXhMWDc2NGl3UldtMUpOYUpGb2xla2xEOW1TNTFJZmwtcTZsMA?oc=5",
+   "publicado": "2026-11-21T10:47:11.000Z",
+   "prazo": "",
+   "fonte": "Google Notícias",
+   "coletadoEm": "2026-11-21T16:47:34.410Z"
+  },
   {
    "id": "ed-173b37019632",
    "titulo": "Governo da Paraíba lança edital para levar 22 startups paraibanas ao Web Summit Qatar 2027",
@@ -131,6 +141,16 @@
    "prazo": "",
    "fonte": "Google Notícias",
    "coletadoEm": "2026-11-16T22:20:18.376Z"
+  },
+  {
+   "id": "ed-12708318bb0d",
+   "titulo": "Edital de R$ 3,2 milhões abre apoio a projetos de inovação na agricultura familiar em Três Lagoas",
+   "orgao": "Hojemais.com.br",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeWFGX19XRHJKNFZYVVgtQXFoanpPNXEzZ3NYNVA0YzQ1OS16R25aQkVLSmlEeFRlTmFxNmphUGVlUmM0WVZlVldvSmlXQ0dGV0RmcnN1X1Fmd1FyWWZYZmRna1RXN0IwOUN2aFMwQUN5R0NtWHN4YlRFZlNpOVhjSG5KS3J2aWhmZVhVZEVUYWc0Mm5pR2ZxN2w5NkdCZ3Foelc5V3pHRXUzd0lyOUJreWVXcGhzNUVXRnN5LWRpM1I4SkpIcU1sUGdRU1JDS2R6d2JSTXJPOUxHX3B6S25YZ3RGV01TaTQ?oc=5",
+   "publicado": "2026-11-10T08:00:00.000Z",
+   "prazo": "",
+   "fonte": "Google Notícias",
+   "coletadoEm": "2026-11-21T16:47:30.787Z"
   },
   {
    "id": "ed-e3dc3ab056e2",

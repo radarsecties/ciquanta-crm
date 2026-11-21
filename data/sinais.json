@@ -1,7 +1,50 @@
 {
- "atualizadoEm": "2026-11-21T00:16:21.099Z",
+ "atualizadoEm": "2026-11-21T16:47:42.487Z",
  "aviso": "Títulos e links de notícias públicas; o conteúdo pertence a cada veículo.",
  "itens": [
+  {
+   "id": "e6d3ebee02f8",
+   "titulo": "Banco canadense BMO testa quântica para IA usar menos dados",
+   "fonte": "Let's Money",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVDZFZEkwVTBPM0xlR1pfam5aOHJxUTBpTXotVWIxMXMwQ1NJc3VHcUdCVm55alVPV0FDUXVxdWFzempWMzJFdmNCRDJBTTZ1ZkMzd1h0b2laX3ZfOHZ0X09ZZ2xRR0Nra2pFdmkzeVA3RnlteGNUUWtuckhnZU1pOA?oc=5",
+   "data": "2026-11-21T10:59:35.000Z",
+   "temas": [
+    "quantica",
+    "financeiro"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Banco canadense BMO testa quântica para IA usar menos dados Let's Money",
+   "coletadoEm": "2026-11-21T16:47:10.711Z"
+  },
+  {
+   "id": "9274b53987b0",
+   "titulo": "Governo da Paraíba lança edital para levar startups paraibanas ao Web Summit Qatar 2027",
+   "fonte": "Paraíba Já",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZWRHbU5pTXV2YXhNci15U2Y3bWpGY1VTTUlRdXF3STJESmVQYWd0NUpYTENxU1NHbmpVamFld2JvN0JWMmh5c1hTZ1RkbjJseHdpNlBxRXVlLVBjeExES0dDdnB2RlpmVEo2RXVlbFFPUkZHemIxX0VTNnV2eUp4YlJzNDBrcHNTbzdGa3pmSXhMWDc2NGl3UldtMUpOYUpGb2xla2xEOW1TNTFJZmwtcTZsMA?oc=5",
+   "data": "2026-11-21T10:47:11.000Z",
+   "temas": [
+    "edital"
+   ],
+   "orgs": [],
+   "edital": true,
+   "resumo": "Governo da Paraíba lança edital para levar startups paraibanas ao Web Summit Qatar 2027 Paraíba Já",
+   "coletadoEm": "2026-11-21T16:47:34.410Z"
+  },
+  {
+   "id": "611ceda2bad0",
+   "titulo": "A tecnologia quântica põe em causa a vantagem de Israel.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2ZU1nbkdnOF9USVN0Z0JGRHdscnR3S1JQbGRXM3FGSDNJWXBwQ3d3dTg1azRHenJ4MW9aRU5GYnFaLUYyTEFfajNaUEVxTDVGU0lKQW5HdEoyOXg5ZG9jcGYzR0phbG5JZi0tUnhYeFFKaHlSXzg0TlhXRWtUOFE?oc=5",
+   "data": "2026-11-21T05:20:45.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "A tecnologia quântica põe em causa a vantagem de Israel. Vietnam.vn",
+   "coletadoEm": "2026-11-21T16:47:10.713Z"
+  },
   {
    "id": "4e329b9579c1",
    "titulo": "Fedora 48 propõe proteção pós-quântica para pacotes RPM",
@@ -179,7 +222,8 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZHJRa2p2MWlhTkJ6dWxXc2VOdVhONEtkWjZVX2d6T3RGaDU4Q29ZaG5abVE1dHNSZWlRaW9XR2x0UWVzQWRqenlmVXRNdk5yZk95bEk4MXpoMkdwM1k5aUJyNWxRdDZjUFVkMFdyNXJ2SEVVWFhHWUF5WnNTTGdHbFAzbzlTZnB0X2RrcjcyaDk?oc=5",
    "data": "2026-11-19T19:28:03.000Z",
    "temas": [
-    "saude"
+    "saude",
+    "quantica"
    ],
    "orgs": [],
    "edital": false,
@@ -361,6 +405,20 @@
    "edital": false,
    "resumo": "Primeiro computador quântico da América Latina vai ser instalado na Paraíba Jornal O Sul",
    "coletadoEm": "2026-11-19T00:45:09.093Z"
+  },
+  {
+   "id": "1c1bb6f8e59d",
+   "titulo": "UEL é homenageada com comenda Embaixadora da Inovação Paraná",
+   "fonte": "O Perobal - UEL",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbVFRR1o0cW5MZWNFclhiNE5Sc3RRV2kyNndZN3ZpYUhuUlZZRUJaU0V4TUhVRzN2R0pxdm5Vam1sRGljQVdzREJTTmJDMEVib3NqeGhzTWt4Q2FnR2RBOGYtZVRDMTNDMThFTTFFLURSNjduSUNRZmJGM1Y0ckV6dnhfZWRILWhiemp4Y1A3dVVpUGdOdi1BX2I5aGI2NHlqckwxN3FnYw?oc=5",
+   "data": "2026-11-18T18:12:00.000Z",
+   "temas": [
+    "pdi"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "UEL é homenageada com comenda Embaixadora da Inovação Paraná O Perobal - UEL",
+   "coletadoEm": "2026-11-21T16:47:28.831Z"
   },
   {
    "id": "3661759cf063",
@@ -663,6 +721,20 @@
    "coletadoEm": "2026-11-17T18:35:00.939Z"
   },
   {
+   "id": "062edc71f8f6",
+   "titulo": "Lucas Ribeiro recebe primeiros computadores quânticos da América Latina na Paraíba",
+   "fonte": "Blog do Fabio Kamoto",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNUpzaURTeEwyTS01QmRKMVYydF90TFdyRElqYWNzTS0wR3c2VHFya2RZTXNiUXFaMC1selFLUTBfOXZSb2dxb3RlZUdyTk5wTkFkd1NDeXViQUNsZmVSczhSS0s3bVV2b2JjY1lLcUREVEYtbHhGRGdIdXVEYmpVRUNHQ0Q5RVRZcjlEMi1UdG9JbXdaWUMzblFSY1k0VkVOeExUVnBLZHBwcU9JUGZB?oc=5",
+   "data": "2026-11-17T15:21:49.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Lucas Ribeiro recebe primeiros computadores quânticos da América Latina na Paraíba Blog do Fabio Kamoto",
+   "coletadoEm": "2026-11-21T16:47:10.712Z"
+  },
+  {
    "id": "b929090be5e6",
    "titulo": "Ei, startups! Chamada aberta para o Deep Tech Indústria, programa de soluções tecnológicas",
    "fonte": "Agência de Notícias da Indústria",
@@ -746,6 +818,20 @@
    "edital": false,
    "resumo": "BBVA se posiciona como o segundo banco europeu mais avançado em computação quântica Demócrata",
    "coletadoEm": "2026-11-17T18:34:42.549Z"
+  },
+  {
+   "id": "bb918a1bf6d2",
+   "titulo": "Luz e matéria interagindo em fibras ópticas conectam físicas clássica e quântica",
+   "fonte": "Site Inovação Tecnológica",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTHE3RzRkUTJVTDZ6emVKcDNsLTg3RnFJbWdSMHAtdlMtT1pBcXhwTHpyVzJSRC11YWxzeXVRdzRUQWtQVDl4V1VPSVJ6ZGtsSDlBM3kyR3A4RDRENmRLT1kxRFYyMFNsR3hFQVpmRXRHdXFYSVV3WDBydjd4UGFXVlR2N3c4bktLelVydzNQTzFuSlE1Y3Zvb1BzWHZod2R6MjhkREJvWDBUemU0UlRadm1aX0Vxc1llQkFnVmhxM3N5Q1pnVk1zTHFuZHI?oc=5",
+   "data": "2026-11-17T09:23:17.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Luz e matéria interagindo em fibras ópticas conectam físicas clássica e quântica Site Inovação Tecnológica",
+   "coletadoEm": "2026-11-21T16:47:10.712Z"
   },
   {
    "id": "a9e33df9ccfb",
@@ -2265,6 +2351,20 @@
    "edital": false,
    "resumo": "Espaço, computação quântica e robôs humanoides: bem-vindos ao investimento do futuro FundsPeople España",
    "coletadoEm": "2026-11-16T22:20:05.911Z"
+  },
+  {
+   "id": "12708318bb0d",
+   "titulo": "Edital de R$ 3,2 milhões abre apoio a projetos de inovação na agricultura familiar em Três Lagoas",
+   "fonte": "Hojemais.com.br",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeWFGX19XRHJKNFZYVVgtQXFoanpPNXEzZ3NYNVA0YzQ1OS16R25aQkVLSmlEeFRlTmFxNmphUGVlUmM0WVZlVldvSmlXQ0dGV0RmcnN1X1Fmd1FyWWZYZmRna1RXN0IwOUN2aFMwQUN5R0NtWHN4YlRFZlNpOVhjSG5KS3J2aWhmZVhVZEVUYWc0Mm5pR2ZxN2w5NkdCZ3Foelc5V3pHRXUzd0lyOUJreWVXcGhzNUVXRnN5LWRpM1I4SkpIcU1sUGdRU1JDS2R6d2JSTXJPOUxHX3B6S25YZ3RGV01TaTQ?oc=5",
+   "data": "2026-11-10T08:00:00.000Z",
+   "temas": [
+    "edital"
+   ],
+   "orgs": [],
+   "edital": true,
+   "resumo": "Edital de R$ 3,2 milhões abre apoio a projetos de inovação na agricultura familiar em Três Lagoas Hojemais.com.br",
+   "coletadoEm": "2026-11-21T16:47:30.788Z"
   },
   {
    "id": "2b0d063df241",

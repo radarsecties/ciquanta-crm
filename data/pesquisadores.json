@@ -31215,9 +31215,21 @@
      "orcidVistoEm": "2026-11-21T00:17:05.395Z"
     }
    ]
-  }
+  },
+  "ref-ufg": {},
+  "ref-ufal": {},
+  "ref-ufs": {},
+  "ref-ufrpe": {},
+  "ref-upe": {},
+  "ref-ufersa": {},
+  "ref-ufma": {},
+  "ref-ufpi": {},
+  "ref-mckinsey-company-brasil": {},
+  "ref-bcg-brasil": {},
+  "ref-capgemini-brasil": {},
+  "ref-ntt-data-brasil": {}
  },
- "atualizadoEm": "2026-11-21T00:17:05.695Z",
+ "atualizadoEm": "2026-11-21T16:50:19.092Z",
  "fonte": "OpenAlex (produção científica e técnica) e ORCID (dados tornados públicos pelos próprios pesquisadores)",
  "versao": 3
 }
