@@ -49,7 +49,7 @@
    "linkedin": "https://www.linkedin.com/company/btgpactual"
   },
   "ref-banco-inter": {
-   "verificadoEm": "2026-11-18T18:06:31.676Z",
+   "verificadoEm": "2026-11-22T17:10:12.815Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 404",
@@ -192,14 +192,14 @@
    "linkedin": "https://www.linkedin.com/company/sicooboficial"
   },
   "ref-caixa-economica-federal": {
-   "verificadoEm": "2026-11-19T00:46:26.848Z",
+   "verificadoEm": "2026-11-22T17:10:44.082Z",
    "versao": 2,
    "status": "erro",
-   "erro": "This operation was aborted",
+   "erro": "fetch failed",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-19T00:52:02.223Z"
+   "buscaWebEm": "2026-11-22T17:11:19.793Z"
   },
   "ref-bb-seguridade": {
    "verificadoEm": "2026-11-19T00:45:59.969Z",
@@ -314,14 +314,14 @@
    "linkedin": ""
   },
   "ref-hospital-israelita-albert-einstein": {
-   "verificadoEm": "2026-11-19T00:46:02.708Z",
+   "verificadoEm": "2026-11-22T17:10:12.237Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-19T00:52:01.582Z"
+   "buscaWebEm": "2026-11-22T17:11:19.714Z"
   },
   "ref-caixa-seguridade": {
    "verificadoEm": "2026-11-19T00:46:17.512Z",
@@ -430,14 +430,14 @@
    "linkedin": "https://www.linkedin.com/company/rededor-saoluiz"
   },
   "ref-eurofarma": {
-   "verificadoEm": "2026-11-19T00:46:27.470Z",
+   "verificadoEm": "2026-11-22T17:10:12.370Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-19T18:18:28.349Z"
+   "buscaWebEm": "2026-11-22T17:11:19.859Z"
   },
   "ref-bp-a-beneficencia-portuguesa-de-sao-paul": {
    "verificadoEm": "2026-11-19T00:46:36.799Z",
@@ -454,14 +454,14 @@
    "linkedin": "https://www.linkedin.com/company/bporgbr"
   },
   "ref-ache-laboratorios": {
-   "verificadoEm": "2026-11-19T00:46:28.918Z",
+   "verificadoEm": "2026-11-22T17:10:12.519Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-19T18:18:28.416Z"
+   "buscaWebEm": "2026-11-22T17:11:19.919Z"
   },
   "ref-hypera-pharma": {
    "verificadoEm": "2026-11-19T00:46:35.818Z",
@@ -550,7 +550,7 @@
    "linkedin": "https://www.linkedin.com/company/libbsfarmaceutica"
   },
   "ref-jbs": {
-   "verificadoEm": "2026-11-19T00:46:40.868Z",
+   "verificadoEm": "2026-11-22T17:10:12.707Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -621,7 +621,7 @@
    "linkedin": "http://linkedin.com/company/bunge"
   },
   "ref-marfrig": {
-   "verificadoEm": "2026-11-19T00:47:13.218Z",
+   "verificadoEm": "2026-11-22T17:10:26.079Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 504",
@@ -630,14 +630,14 @@
    "linkedin": ""
   },
   "ref-syngenta-brasil": {
-   "verificadoEm": "2026-11-19T00:47:02.519Z",
+   "verificadoEm": "2026-11-22T17:10:12.715Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-19T18:18:28.476Z"
+   "buscaWebEm": "2026-11-22T17:11:19.983Z"
   },
   "ref-minerva-foods": {
    "verificadoEm": "2026-11-19T00:47:14.028Z",
@@ -729,7 +729,7 @@
    "linkedin": ""
   },
   "ref-solinftec": {
-   "verificadoEm": "2026-11-19T00:47:16.916Z",
+   "verificadoEm": "2026-11-22T17:10:12.786Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -2731,7 +2731,7 @@
    "linkedin": ""
   },
   "ref-ufba": {
-   "verificadoEm": "2026-11-18T18:05:03.173Z",
+   "verificadoEm": "2026-11-22T17:10:16.881Z",
    "versao": 2,
    "status": "erro",
    "erro": "fetch failed",
@@ -2797,7 +2797,7 @@
    "linkedin": ""
   },
   "ref-abdi": {
-   "verificadoEm": "2026-11-18T18:05:04.612Z",
+   "verificadoEm": "2026-11-22T17:10:11.780Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -2947,7 +2947,7 @@
    "buscaWebEm": "2026-11-18T18:08:17.108Z"
   },
   "ref-bid-banco-interamericano-de-desenvolvime": {
-   "verificadoEm": "2026-11-18T18:05:27.517Z",
+   "verificadoEm": "2026-11-22T17:10:11.810Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -3061,7 +3061,8 @@
     }
    ],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/anpei"
+   "linkedin": "https://www.linkedin.com/company/anpei",
+   "buscaWebEm": "2026-11-22T17:11:20.166Z"
   },
   "ref-mcti": {
    "verificadoEm": "2026-11-18T18:05:42.979Z",
@@ -3367,7 +3368,7 @@
    "linkedin": ""
   },
   "ref-quantum-machines": {
-   "verificadoEm": "2026-11-18T18:06:19.093Z",
+   "verificadoEm": "2026-11-22T17:10:12.046Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -3392,7 +3393,7 @@
    "linkedin": "https://www.linkedin.com/company/oqc"
   },
   "ref-keysight-technologies": {
-   "verificadoEm": "2026-11-18T18:06:22.006Z",
+   "verificadoEm": "2026-11-22T17:10:12.214Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -3458,7 +3459,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/cnibr"
+   "linkedin": "https://www.linkedin.com/company/cnibr",
+   "buscaWebEm": "2026-11-22T17:11:20.107Z"
   },
   "ref-secties-pb": {
    "emails": [],
@@ -3474,7 +3476,32 @@
    "emails": [],
    "status": "ok",
    "buscaWebEm": "2026-11-20T17:49:54.705Z"
+  },
+  "ref-fapesq": {
+   "emails": [],
+   "status": "ok",
+   "buscaWebEm": "2026-11-22T17:11:20.044Z"
+  },
+  "ref-virtus-ufcg": {
+   "emails": [],
+   "status": "ok",
+   "buscaWebEm": "2026-11-22T17:11:20.235Z"
+  },
+  "ref-fundacao-parque-tecnologico-da-paraiba-p": {
+   "emails": [],
+   "status": "ok",
+   "buscaWebEm": "2026-11-22T17:11:20.298Z"
+  },
+  "ref-inmetro": {
+   "emails": [],
+   "status": "ok",
+   "buscaWebEm": "2026-11-22T17:11:20.358Z"
+  },
+  "ref-ifsc-usp": {
+   "emails": [],
+   "status": "ok",
+   "buscaWebEm": "2026-11-22T17:11:20.429Z"
   }
  },
- "atualizadoEm": "2026-11-21T16:50:20.312Z"
+ "atualizadoEm": "2026-11-22T17:11:20.493Z"
 }

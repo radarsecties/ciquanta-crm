@@ -1,7 +1,80 @@
 {
- "atualizadoEm": "2026-11-21T16:47:42.487Z",
+ "atualizadoEm": "2026-11-22T17:10:11.578Z",
  "aviso": "Títulos e links de notícias públicas; o conteúdo pertence a cada veículo.",
  "itens": [
+  {
+   "id": "c707b94f58bd",
+   "titulo": "Mercado de pools de peptídeos antigênicos de isoformas de MBP até 2035: crescimento apoiado pela P&D em neuroimunologia - Notícias e Estatísticas",
+   "fonte": "IndexBox",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQR0FMSTRfRDJ3dHpPdjR1ZWpKSk0tb1YtdGp4YnpHdjRJUWRfekItYWo5RHF6X0hfYjJIdVU0WmhKeW1mcEt2MUJSRHVBM01qTkg5OUNhN2tlUkVtQzRCbzIwSlVWZGFIR1NYZ2M0cnRKOEcwWnVLMEpzclR2MmQ5N0YtbWFHTXZNbGVTdjBCcl9mOXFfMGUxV2RhVkRkc25jT0h6bTJSVklMYk1LOEdSaHdPcFBTS18zOERMOTdVSGZIaGtTaEJEanlzQXNHMV80YTZ0LQ?oc=5",
+   "data": "2026-11-22T13:26:04.000Z",
+   "temas": [
+    "pdi"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Mercado de pools de peptídeos antigênicos de isoformas de MBP até 2035: crescimento apoiado pela P&D em neuroimunologia - Notícias e Estatísticas IndexBox",
+   "coletadoEm": "2026-11-22T17:09:57.369Z"
+  },
+  {
+   "id": "91c3c42d7035",
+   "titulo": "Computação quântica mira energia antes de fármacos",
+   "fonte": "SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbHJzR2FBYVc3UHBkX0pLMmt3azI2eTNfbVBtWUwtWTBKMGhoMlN4UUhxSmxnajNqbUNNczdwbXVUakp3LXJJZnBVY2VPbVNfWGVVZ2duY0x5V2hkRVVwakRXRWhVckZEX2F3NGNPVGdRTHNiazNDaUNNRW5LODNWVnh3dmVGSFk?oc=5",
+   "data": "2026-11-22T06:48:41.000Z",
+   "temas": [
+    "quantica",
+    "saude",
+    "energia"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Computação quântica mira energia antes de fármacos SpaceMoney",
+   "coletadoEm": "2026-11-22T17:09:38.905Z"
+  },
+  {
+   "id": "ada943f04085",
+   "titulo": "IPO da Anthropic, plano para era pós-quântica e mais – resumo semanal",
+   "fonte": "Bitcoin News",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONXlYN2VxZFFFdEhFaWZVWm5ObXZBMGxwSmg1QVpqcnRvNi1SZ2Q0alVFRjBjZXBLdTQ5bm9JVGFIU0lWRWZEX3N5a0JfQUZOWmpTZDd4dmxZdXl6V1dKa0N0ZjlEYXdFLU5EazZVRW53YWttbmpfN2pyelpnQ1JYNWJpdmpBemlWLXlIY2xhbC1aXy1Kc2Rqb3Myc2ZUOXMwRDNMX1lUUQ?oc=5",
+   "data": "2026-11-22T03:40:00.000Z",
+   "temas": [
+    "seguranca"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "IPO da Anthropic, plano para era pós-quântica e mais – resumo semanal Bitcoin News",
+   "coletadoEm": "2026-11-22T17:09:46.239Z"
+  },
+  {
+   "id": "2037ef4005e5",
+   "titulo": "Fundador de startup australiana aposta em computação quântica para reduzir consumo de energia da IA",
+   "fonte": "O Antagonista",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPT3Y4UTJHM3N5dGtiZ2xsbFp4Uks5SVBOZmhSSW05ZkI1M0JqTGNEUHl6VVIyLUh4czAzN1YxTWNGSkJIcUxoZzNUS3c1d2ZINk12WDJVVGpwVHVLQjdIQ3pRUm9TTlltOE13c2dQdXRpd3dmYlNWZWFvWTQ0aF85cWJYWXY4dlllZ2lYZ0ZZWXFaNEkwdUZ4RnladzFPSzN5R2I4dVhYSGxWeUQ3NUZtcHNTbkF3NW5UOGJGNTk1M3V5cEtkUjJpU1NsUmVCMThISW43WmhpRk5FUnhGUm9RY0o2VzY?oc=5",
+   "data": "2026-11-21T23:06:00.000Z",
+   "temas": [
+    "quantica",
+    "energia"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Fundador de startup australiana aposta em computação quântica para reduzir consumo de energia da IA O Antagonista",
+   "coletadoEm": "2026-11-22T17:09:38.904Z"
+  },
+  {
+   "id": "32df8aca77fb",
+   "titulo": "IOSCO alerta que o setor financeiro sofre de procrastinação quântica",
+   "fonte": "CryptoID",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdGxjbl9rZC0yd1NiOVdpSmlZdmZhZENna3hZYzdOa05FRV9XcUg2Mkd1V282YVZJVmZ4ZGI0NFhsX1BKSVNDeW1qZkxHeWFCS19BT25yY0Y0ZXhhZE1QbnM2WEx4M1JyQURERnJVTUptRjJzaGIwOGpvSnhiZVd3WWNILWNYbEZrZEhCYjJaaVpLWFFCNGIxWmRLZjI4ZlptOGlnbVZ1cXBXdw?oc=5",
+   "data": "2026-11-21T18:19:23.000Z",
+   "temas": [
+    "financeiro"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "IOSCO alerta que o setor financeiro sofre de procrastinação quântica CryptoID",
+   "coletadoEm": "2026-11-22T17:09:48.088Z"
+  },
   {
    "id": "e6d3ebee02f8",
    "titulo": "Banco canadense BMO testa quântica para IA usar menos dados",
@@ -1252,6 +1325,20 @@
    "edital": false,
    "resumo": "AMD entra na corrida trilionária da computação quântica em parceria com a PsiQuantum para desenvolver infraestrutura para sistemas tolerantes a falhas e de grande escala com aplicações práticas! www.tmgm.com",
    "coletadoEm": "2026-11-16T22:20:05.907Z"
+  },
+  {
+   "id": "ce2c8e76ed6e",
+   "titulo": "Computadores quânticos de R$ 80 milhões chegam a João Pessoa",
+   "fonte": "THMais",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQzl0X01GRGhHTWtKT1FodndVQXFXTkY0czZjejgtY21OZVRsMUt6eXFZM3FEUUpXQm5XbXhnZ0ZtTWo3YWJXYVlLMnZSS2JDX3lTSlRVOE5oc3c2XzByeUtnMjltajgzUDctY0xaYWtGbXFrX1NkbElpSVZMaWk1NUlvVkR3TVFVMGpCME1lSWlnamZ1SFFGOTNnRzFiaXIxV2JzZEw0UWowSlZGUWJ0RFBGWTVETmpPQUNhVTh3R0U?oc=5",
+   "data": "2026-11-16T09:30:00.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Computadores quânticos de R$ 80 milhões chegam a João Pessoa THMais",
+   "coletadoEm": "2026-11-22T17:09:38.905Z"
   },
   {
    "id": "c129c0f99cf6",
@@ -3671,22 +3758,6 @@
    "orgs": [],
    "edital": true,
    "resumo": "Iniciativa apoiará projetos colaborativos voltados ao desenvolvimento de soluções para fortalecer cadeias de valor de matérias-primas e impulsionar as transições verde e digital A Raw Materials Partnership for the Green and Digital Transition (RAMP) é uma parceria multilateral vo",
-   "coletadoEm": "2026-11-16T22:20:26.320Z"
-  },
-  {
-   "id": "4ead2e3a8503",
-   "titulo": "Embrapii leva 16 projetos de inovação e pesquisa de ponta para a ExpoT&C 2026",
-   "fonte": "EMBRAPII",
-   "link": "https://embrapii.org.br/embrapii-leva-16-projetos-de-inovacao-e-pesquisa-de-ponta-para-a-expotc-2026/",
-   "data": "2026-07-24T20:39:04.000Z",
-   "temas": [
-    "pdi"
-   ],
-   "orgs": [
-    "ref-embrapii"
-   ],
-   "edital": false,
-   "resumo": "A maior mostra de ciência, tecnologia e inovação do Brasil acontece entre os dias 27 de julho e 1º de agosto, na UFF, em Niterói (RJ) A Empresa Brasileira de Pesquisa e Inovação Industrial (Embrapii) mais uma vez marca presença na ExpoT&C, durante a 78ª Reunião da Sociedade Brasi",
    "coletadoEm": "2026-11-16T22:20:26.320Z"
   }
  ]
