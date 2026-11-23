@@ -1,7 +1,384 @@
 {
- "atualizadoEm": "2026-11-22T17:10:11.578Z",
+ "atualizadoEm": "2026-11-23T21:25:51.793Z",
  "aviso": "Títulos e links de notícias públicas; o conteúdo pertence a cada veículo.",
  "itens": [
+  {
+   "id": "ea980dd6dd00",
+   "titulo": "Chamada FAPESP Jovem Pesquisador voltada a estrangeiros prorroga prazo de inscrição",
+   "fonte": "Agência FAPESP",
+   "link": "https://agencia.fapesp.br/chamada-fapesp-jovem-pesquisador-voltada-a-estrangeiros-prorroga-prazo-de-inscricao/59661",
+   "data": "2026-11-23T21:25:51.744Z",
+   "temas": [
+    "edital"
+   ],
+   "orgs": [
+    "ref-fapesp"
+   ],
+   "edital": true,
+   "resumo": "Submissão de propostas pode ser feita até 3 de dezembro. Iniciativa vai selecionar até 20 cientistas com destacada atuação internacional para desenvolver pesquisas em instituições paulistas",
+   "coletadoEm": "2026-11-23T21:25:51.744Z"
+  },
+  {
+   "id": "60bf016f854e",
+   "titulo": "Estado lança edital inédito no país para criação de fundo de R$ 100 milhões destinado a startups de tecnologia avançada",
+   "fonte": "Portal do Estado do Rio Grande do Sul",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPU0YwakZ5b2xnbVJCMG0yOXNyYURlMTBaeGV4ZnR2VHJtZ2xzbXFTd2lwZmxpN1JBMk9xYXpfdlVsX3E5cnQ5dlVURERYdzlaYV9uUWlCZThSQVhjQ2R3MEVEMWpiemJheFhFT2lvMDdrdzRnRW5rdk9mdWxadkwyYmwwSGZWNTExdzhYc3puT3hsQzdfQ0N6VThyT0p3aDVTMWNZVVloU2Fqa25pMy1FVHp4TndXdkN0TVRrZmI4N0ZyTkNaM2Vfd1I3TW05SkJWcDdDcVl3WThCWjA?oc=5",
+   "data": "2026-11-23T20:57:37.000Z",
+   "temas": [
+    "investimento",
+    "edital"
+   ],
+   "orgs": [],
+   "edital": true,
+   "resumo": "Estado lança edital inédito no país para criação de fundo de R$ 100 milhões destinado a startups de tecnologia avançada Portal do Estado do Rio Grande do Sul",
+   "coletadoEm": "2026-11-23T21:25:36.514Z"
+  },
+  {
+   "id": "847f2fbc49ae",
+   "titulo": "RS lança 1º fundo de investimento do Brasil para startups deep tech",
+   "fonte": "Jornal do Comércio",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLUpZdFduNUZ1ekRuMnhqYmJTRElVanRxdllSRkdNdEpaWE8zdDc3RlNvYmlQVnNYTUpGQ1dkM251Z2dkM2E3MFdrenpwQmFsOGU1R28xV1NGeTdJSUVmWTEybnpDNkNFSkUweFpwZ2FaWUU1S3hkckF4NjctQjQwRnIwa050cnFiRDJHcTZOUUdtRTlfMWpGVG91dVI4SFV0bmFkVG1aN1VxdU5oS0JFb0lVSWlBNndNZXBTdlNXVmVpcTlnWDFDZA?oc=5",
+   "data": "2026-11-23T19:32:57.000Z",
+   "temas": [
+    "investimento"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "RS lança 1º fundo de investimento do Brasil para startups deep tech Jornal do Comércio",
+   "coletadoEm": "2026-11-23T21:25:36.514Z"
+  },
+  {
+   "id": "1e9c54433f71",
+   "titulo": "Abin propõe criptografia pós-quântica para sistemas críticos até 2029",
+   "fonte": "Monitor do Mercado",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONVhqOWRHT3RTeTltYlUxNXcyUVFfNC03eDJqRll4dXhhQV9CQTZUQ0ZMWUs2RFdJSDZPVm05T016MDdnblJoVDM3eG5sY1c3dGNpajctLUhQUFE3YUpmUDhuZ1B0VGoySEpaRER1SEdXcUF0ZFNRaEVvV1RRT3J3Qk5EenRuaXh5SjZrZXBUUGF1ZlRtZ216ZFJlaVc0TWhoS2ZvS3RPeEJOQnA2dE1tVk5INTlSYkpZckE?oc=5",
+   "data": "2026-11-23T19:25:37.000Z",
+   "temas": [
+    "seguranca"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Abin propõe criptografia pós-quântica para sistemas críticos até 2029 Monitor do Mercado",
+   "coletadoEm": "2026-11-23T21:25:27.169Z"
+  },
+  {
+   "id": "174201a072cf",
+   "titulo": "Abin propõe estratégia de criptografia pós-quântica até 2035",
+   "fonte": "TV Sim Brasil",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNGtSWnUwbWRNeGRvTXNRVWRpSGw2STVxaUxnSEw4ZnBkd2J0WlpicGpHQTIwZlN0VERIOFpJSlpiVzg0eXNWY2FlSk9TREhpWS1WenU5M1ZqRUVrR3lxdEl5dHMxY0NEbmFtcmVkSWxtS0xWLXRnY0ZyejY1dUR6aU9HTEJuVTh5bjhaVzN5WElIekNkZ19vZHR4VzBmTUdFYl9ORGltNXliVGdrdHE0SnFB?oc=5",
+   "data": "2026-11-23T19:21:10.000Z",
+   "temas": [
+    "seguranca"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Abin propõe estratégia de criptografia pós-quântica até 2035 TV Sim Brasil",
+   "coletadoEm": "2026-11-23T21:25:27.168Z"
+  },
+  {
+   "id": "29580e3da0c0",
+   "titulo": "Abin define plano nacional para implementar a criptografia pós-quântica no Brasil",
+   "fonte": "Diário Goianiense",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmpwMi00OVFGOFo3ZWRsbDZlWXNCS0RvYjJPMTlKMnd1S1hvMzJ6V1Z0ckdkX25kaDJWS3hkYzZHdjRwWVF1ZkNIdkZ6UE9DRlZuMmhUajFHUzFzZFpQMktJWEpxOTdnTVRxbzZpbGJTU3pfb2FvSm5TWVg5RWNwSnpkc3BwX29vMFNTY3g4UExXNzlwVmFtS0Y4eTJEVmVaQW80Qi05SEEwWGttLUNFSVBpWHpOS3RmZEM3MFVGN3N0Sm8?oc=5",
+   "data": "2026-11-23T19:00:00.000Z",
+   "temas": [
+    "seguranca",
+    "saude"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Abin define plano nacional para implementar a criptografia pós-quântica no Brasil Diário Goianiense",
+   "coletadoEm": "2026-11-23T21:25:27.168Z"
+  },
+  {
+   "id": "706f75391a9b",
+   "titulo": "Abin apresenta estratégia nacional para a implementação da criptografia pós-quântica",
+   "fonte": "Página 1 MT",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWGUySHRZWm15ZzZ1MlgwNE9fRXVDalpwVlhtSFZSeXdOczVqcUtzaUJVZ0tWVXZYMklNRDFOOVN4NVhMSXNVYW9tTFJVQmt0Z2NTWE1UNE1JSDJxZGFzMjBSamRyUzhyZnhVeXF2VGtQdEpac3dvVGZ0UV9RelYxWHlXXzYzU0RUN1RvVkpqTlh4VXE0V21ZTXEzbEdsR3ZjaVd2VjMyd3NQV2RwZnFtVW82Um1TYTAweFRn?oc=5",
+   "data": "2026-11-23T18:31:00.000Z",
+   "temas": [
+    "quantica",
+    "seguranca",
+    "saude"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Abin apresenta estratégia nacional para a implementação da criptografia pós-quântica Página 1 MT",
+   "coletadoEm": "2026-11-23T21:25:19.834Z"
+  },
+  {
+   "id": "ce3bfbc15d33",
+   "titulo": "Abin propõe estratégia nacional para criptografia pós-quântica até 2035",
+   "fonte": "Monitor Mercantil",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLTNNNnU5ZklOMlRxV0RGbHpwd2hRZ1YteG9Sd3o3ek53U1A0NHptLVA1QVNLM0pmSUVrVTZUb3ZXLV9FWjdTZEFaRWlueWhQNEFCSXZZOVZHQ050SEZlLUJ1eDMtdGpCZldDZklLRUJEYzczc0RrS09KSmVpZGFkbEh4clhjNTR5WjZfYTFBbnByMGZJM0dpYnFsamFfZ04yRDYxNlc2UQ?oc=5",
+   "data": "2026-11-23T18:14:01.000Z",
+   "temas": [
+    "quantica",
+    "seguranca"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Abin propõe estratégia nacional para criptografia pós-quântica até 2035 Monitor Mercantil",
+   "coletadoEm": "2026-11-23T21:25:19.830Z"
+  },
+  {
+   "id": "69d226d95cdf",
+   "titulo": "Agência Brasileira revela plano de defesa cibernética contra computação quântica",
+   "fonte": "Portal Meganésia",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcUpYNkJVU1pWczVkbUVoZ0oxenNHT1dPVDNLWmxDbFM2TkN2Q0VjOTgwaGRaYXIzamRZb3RaZ3RZZXRDWVE3Vk85eXEyY0xJSzZyeEkzMUhfSWJGUEJvVUNXNzRhOVhYTkNfWUhOWk1VV0c4TUs2aFc2VEFKN19KdzdTeWJPNTFjMWMzSzI2MNIBjwFBVV95cUxQcUpYNkJVU1pWczVkbUVoZ0oxenNHT1dPVDNLWmxDbFM2TkN2Q0VjOTgwaGRaYXIzamRZb3RaZ3RZZXRDWVE3Vk85eXEyY0xJSzZyeEkzMUhfSWJGUEJvVUNXNzRhOVhYTkNfWUhOWk1VV0c4TUs2aFc2VEFKN19KdzdTeWJPNTFjMWMzSzI2MA?oc=5",
+   "data": "2026-11-23T17:54:56.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Agência Brasileira revela plano de defesa cibernética contra computação quântica Portal Meganésia",
+   "coletadoEm": "2026-11-23T21:25:19.834Z"
+  },
+  {
+   "id": "dad5294ef243",
+   "titulo": "IA do Google reduz em até 290 vezes recursos exigidos por cálculo quântico",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RTUFUY1Y2dG1oUkZmZ2pTcDFzX0lsZ0tlNE5vMGJHX1NiVzU2N2YxNzh0TkN3TkwtazFrUFg2SEdZeFA2YUlKbVRmMDZRNWFfWVh1OE5XRUpDN2FKOUJWR2Z2ZHIzTlh5WWZWZHpHNHVJQVE?oc=5",
+   "data": "2026-11-23T17:39:49.000Z",
+   "temas": [
+    "quantica",
+    "agro"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "IA do Google reduz em até 290 vezes recursos exigidos por cálculo quântico Exame",
+   "coletadoEm": "2026-11-23T21:25:19.831Z"
+  },
+  {
+   "id": "f3ead92090b1",
+   "titulo": "Agência Brasileira de Inteligência apresenta plano contra ameaça quântica",
+   "fonte": "Araraquara News",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcFFic19oam1xR2RZVmFMNWgtQlZ1Um5sdGpfVVJhRTE5YmxzOHhsaXhGZzhiMFhDNEtrS3g2SUtnQXFqS0JJRmV1WXJFSXdWa3hpTWVEX3hFZ3JGbTNwZTROTmVPLW9FNHlSd1IxX2c4dDRtdUdnUFZCUFBLSF9yLXFBYTRIcUlKNmh5cGxEZWZFVGNzemJ6S1Fva01SdV9GVFphMVRPZzl2UDFKdWtNRGNDUUdUdw?oc=5",
+   "data": "2026-11-23T17:38:00.000Z",
+   "temas": [
+    "saude"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Agência Brasileira de Inteligência apresenta plano contra ameaça quântica Araraquara News",
+   "coletadoEm": "2026-11-23T21:25:31.018Z"
+  },
+  {
+   "id": "2726fee06479",
+   "titulo": "Agência Brasileira de Inteligência propõe plano de criptografia pós-quântica",
+   "fonte": "Opina News",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb0Mxa2kxQUZtUTJGQ0NfRlk1R2lfREFCc1V3dEFHa1ZvY1FHd0FweXplNk8wT3g1SWY4ejkybUZmdG9RSFBVMVFQdHdfbzI5WmJ2cVBFbEtXTUhFbkVMYXViWlBJQjdtRjE2a2Fabm1FRUF5ZV9WV21rU2ZMTUszZ2U0R0pQS25OOC1hZHlfeWhmUFZuZFp2aXlUU3ZscEkzNm93dFBrS3p2TGxEckx3Wi1oVQ?oc=5",
+   "data": "2026-11-23T17:31:00.000Z",
+   "temas": [
+    "seguranca",
+    "saude"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Agência Brasileira de Inteligência propõe plano de criptografia pós-quântica Opina News",
+   "coletadoEm": "2026-11-23T21:25:27.169Z"
+  },
+  {
+   "id": "506e7a32e49f",
+   "titulo": "Abin propõe plano de criptografia pós-quântica para proteger dados no Brasil",
+   "fonte": "RCWTV",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdV9RLVBjWFp3ZVdJZ0ZHX3BJY0tsMnBEcWloZzcxaUNaeGJlSHZfVWw2bEFlX3d1S2h3MDdNVlRWUnNXVmtFMXBIc3FJT3c3Y0Z5OHZZdHJwNlc2SWpXNno5dlVrMGZDbzVfZ0ZhZnpwYTBFSjNvS0RlV1M0NXczV1RtT3haNWVLbFBMZEEzY1lzZlZjNlNTUEh3NTdkb1ZxRzNRbHE5ekNMMzhndkE?oc=5",
+   "data": "2026-11-23T17:29:00.000Z",
+   "temas": [
+    "seguranca"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Abin propõe plano de criptografia pós-quântica para proteger dados no Brasil RCWTV",
+   "coletadoEm": "2026-11-23T21:25:27.168Z"
+  },
+  {
+   "id": "6b6077640e66",
+   "titulo": "Abin apresenta plano de criptografia pós-quântica para proteger dados",
+   "fonte": "www.conexaoes.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObkthNmI2cFBsRDBWV1pFTHpCQXEtVGtGUU0xWFdfUUFINmRxN1BsYjBzNWloVy1URXNyWXVIME5QUmQ4eUNkanpYWUJObGhFSWxrYzBDYS1GLXpOemZmQU5IRlprbkVIa3dhenJYRXBuSTBTOEVjYUpaSldleUl3aksteWRqZk9icnJVbnluLW9HM0Y1Rk1TVzU0M3FGbEgwTEpoRjlGXzB5QQ?oc=5",
+   "data": "2026-11-23T17:28:00.000Z",
+   "temas": [
+    "seguranca",
+    "saude"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Abin apresenta plano de criptografia pós-quântica para proteger dados www.conexaoes.com.br",
+   "coletadoEm": "2026-11-23T21:25:27.168Z"
+  },
+  {
+   "id": "d0e069ee7c9a",
+   "titulo": "Equipes de agentes do Google DeepMind descobrem algoritmos quânticos verificados com Lean",
+   "fonte": "Unite.AI",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVjdNT2xtU0lJZHJ0WE1tTU01ak9ZOWxvYy1adlppekJEdnJaNVJjeWdERFVzYVpiajhCT1lPMkZ5amNfcEhydGZPZ2RiYmxFZFdQemhNYzRTanNta01XQkFOSTJieXktOXZLeHdmYlhQTFV4cWdMMDQ5d1pKbnBZUFBNUkNLdVJnaDJCdW13bHBjMDRFOGw0S2xn?oc=5",
+   "data": "2026-11-23T17:14:03.000Z",
+   "temas": [
+    "saude"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Equipes de agentes do Google DeepMind descobrem algoritmos quânticos verificados com Lean Unite.AI",
+   "coletadoEm": "2026-11-23T21:25:31.018Z"
+  },
+  {
+   "id": "53af874a3225",
+   "titulo": "Abin apresenta estratégia nacional para criptografia pós-quântica no Brasil",
+   "fonte": "Metrô News Jornal",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVEpnSXBOYjhwbDAwODI4UEt2dHdOSHV1Q3J5czJWOEUyT3cwWWpGNDVWOG5fZ3BKNjVnYy13NmlqSE04bzlRd1BReUx2TThYbWNwVFVGdVJoWG9EdVBkdFNQdDFWa19wN3ViZTZhQUtmdFhJakdUUjcwSGhaT3ZFX1ZNSWp6dGFRaFRUdUhUNU0zRWRwZzNwR1JQQ3NDVXI0WElF?oc=5",
+   "data": "2026-11-23T17:02:00.000Z",
+   "temas": [
+    "seguranca"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Abin apresenta estratégia nacional para criptografia pós-quântica no Brasil Metrô News Jornal",
+   "coletadoEm": "2026-11-23T21:25:27.168Z"
+  },
+  {
+   "id": "176100ca71fb",
+   "titulo": "Bradesco inicia testes com tecnologia quântica para proteger ativos e dados financeiros de ataques hackers",
+   "fonte": "BitNotícias",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdFFRLXBfbzVXc2xHR1NxaWpTMXZDY3J2NW5Pd0xOR09vbGRSc2RhN3pMSG5yOWRha2dHWlFORy1xRHJCa2psSlVwOTQzTHoyclQ4VEp2Q3ZHSzlPNVoxWEFYOTlBNS1VV0hrMG52alRaUkRTSzRMWFlJUV9UMUQwbWd4ZkVmUGJS?oc=5",
+   "data": "2026-11-23T16:30:48.000Z",
+   "temas": [
+    "quantica",
+    "financeiro"
+   ],
+   "orgs": [
+    "ref-bradesco",
+    "ref-inovabra-bradesco"
+   ],
+   "edital": false,
+   "resumo": "Bradesco inicia testes com tecnologia quântica para proteger ativos e dados financeiros de ataques hackers BitNotícias",
+   "coletadoEm": "2026-11-23T21:25:19.832Z"
+  },
+  {
+   "id": "8d8f5150aed1",
+   "titulo": "Abin apresenta estratégia para criptografia pós-quântica",
+   "fonte": "Agência Brasil",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQjRMRFZhUDVvNC1mMzRkZ3JFOC1BZENXX2hRSU80dmwwSno4QVhBeUIxM19Zbm9SS1ByTk9XMW9xZUNITHNuOGhNRDBGRjRpTy1VYnBoTlIyWjFGNGJOX0lJd2xYVG96bk9OWnVxMDIycU9iYk1DNy1jdHNZckl6MTNEaDQ5VXI5eTVPaFVrM05UaHd5OS1wOUplbi1oUU9UMm0zdE95anNwNzlDNVZPZQ?oc=5",
+   "data": "2026-11-23T16:29:00.000Z",
+   "temas": [
+    "quantica",
+    "seguranca",
+    "financeiro",
+    "saude",
+    "energia"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Abin apresenta estratégia para criptografia pós-quântica Agência Brasil",
+   "coletadoEm": "2026-11-23T21:25:19.829Z"
+  },
+  {
+   "id": "d7d5ff4bfc35",
+   "titulo": "Computação quântica acelera e força revisão urgente da criptografia",
+   "fonte": "93 Notícias",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc1RTLUd4VFBBcDBQNW83Q29KUXBuY1hNZzZaRGNCSjI2N0hHZ3BsV2FVNG9jcmlway0xVUVlY20yc3IyYVRpN3ZneTdUYjBTaVRfT1Q1MFA1MW9ENlRrSUdfcmcwSHNvRWFmTXY3ZzBqWVgwQjJCY2Rad3ZELVN0TUhDTjFkU3Ez?oc=5",
+   "data": "2026-11-23T11:50:51.000Z",
+   "temas": [
+    "quantica",
+    "financeiro"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Computação quântica acelera e força revisão urgente da criptografia 93 Notícias",
+   "coletadoEm": "2026-11-23T21:25:19.833Z"
+  },
+  {
+   "id": "1424cbe10261",
+   "titulo": "Ameaça quântica pressiona a criptografia das empresas",
+   "fonte": "SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc1A0NWt5Y2hEOU1xVjdMV0VTZXdMNXExbjBRbUswRGQ3RF9KTktIVWE3TnRIM0pwNUFQZ2w2Q1VDN1N1Ylp4VjAtVUgwQ2h0MDNaeGZqZklESFZRdGlpNzRvakhnZmRKaDlyVzFqVzZERm12SGFLUi14emdkRkVHZUFEOVFqQQ?oc=5",
+   "data": "2026-11-23T09:46:32.000Z",
+   "temas": [
+    "quantica",
+    "financeiro"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Ameaça quântica pressiona a criptografia das empresas SpaceMoney",
+   "coletadoEm": "2026-11-23T21:25:19.834Z"
+  },
+  {
+   "id": "6a53f166f6c6",
+   "titulo": "A ameaça quântica já entrou no radar da cibersegurança",
+   "fonte": "Canaltech",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc1JMYk12TUlnXy1aQzNhcG56YUkyeEpycjRKLUpIT3FVeTdoUEhCUlZMaUhTMXBlaDJ6VlVQWmVQVFljbmcySHR2dzEwSzBKSWdJZHBGZkZGWFhmTlFmS3AwWmNYdHJhYktsLWU1VTRFWDBwbURQdjN0QndQVWhIWG5sUGhsXzkzeWRwUnRjWlAyUQ?oc=5",
+   "data": "2026-11-23T09:00:00.000Z",
+   "temas": [
+    "quantica",
+    "financeiro",
+    "saude",
+    "energia"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "A ameaça quântica já entrou no radar da cibersegurança Canaltech",
+   "coletadoEm": "2026-11-23T21:25:19.832Z"
+  },
+  {
+   "id": "532aad47370f",
+   "titulo": "Rede elétrica britânica testa computação quântica com ganho anunciado de até 1.000 vezes",
+   "fonte": "O Cafezinho",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNTNQSXpScUpjWkVHQXhEX2lPMWt3dWxOVVdnbnVhVG9ydVJ4blhpUkc4eU9zel9qRjdNM0xsdXZ0TG5kUzZHaEJKeDhZZWZSSjdud0FlT0RTckVQN0Jab21rVlF3SVN6LU5oWXRaaHpBSlBKQ05IekZrSWdGR1M1eDVLbFZKWHlqZ3RodlNXdmw5eGllZ1Mtc3IyQnVJVVUtNUtKaFN0WHRZbFdDX3h2VHlYcHJKM0RoVU9YSDhJQnVCRjdoclHSAcsBQVVfeXFMTzhHa28yMENIdVphRU5RTk5VLUs5QmJob2oycXRJa3YtZExsV0hncnlmTWhvaGV3YXZmQVptMnV4TFVfSXZJUklfZzZYQjBkWmtRaVlsMGVqMjBUbkpobGVxZ0F4Z1YzRW5tX3VkZDUtSXNTOUV0RFdzT0l1WUZoS3pHd01xd3VPVm5fZHBVWjNha29fRGY1OTBNa0Z4UTd1U1lHeDZsa1JvcEJqcWR1RklvcTJSTHMwZXVvdDRhaEhGaTVoUUlqdTNlekk?oc=5",
+   "data": "2026-11-23T03:40:00.000Z",
+   "temas": [
+    "quantica",
+    "energia"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Rede elétrica britânica testa computação quântica com ganho anunciado de até 1.000 vezes O Cafezinho",
+   "coletadoEm": "2026-11-23T21:25:19.832Z"
+  },
+  {
+   "id": "3956c4f17650",
+   "titulo": "Setor de energia sai na frente dos remédios na computação quântica",
+   "fonte": "Olhar Digital",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQejRKWGxHbngtNERvYjB2Y0hWWktNSzZCUUlsdExSR2FjRml0NTlObjgxM0ZNWXk0NlNieWVqbEhjeTBxcVlVYUFkaFVQZXNzem1TQzJhanZUTk9WNHM0Z3g4NmdrbXBMM05aV0V4SnJPVmItMUVNS284RklvN29rSlprTUI4WVpMa1Vuc25NVFhIZ09CSE11SGVvbWQ2aGktbWhhVzdGZ01rZDJOYmtGSXRMd0lBYWJRUWJQUWZsX1k?oc=5",
+   "data": "2026-11-22T20:28:00.000Z",
+   "temas": [
+    "quantica",
+    "energia"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Setor de energia sai na frente dos remédios na computação quântica Olhar Digital",
+   "coletadoEm": "2026-11-23T21:25:19.833Z"
+  },
+  {
+   "id": "41d6deacc9db",
+   "titulo": "Primeiro benefício prático da computação quântica pode vir na área de energia, e não na descoberta de medicamentos",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQX3VLams4VENWYjNqbkEwT0ZwZ29NNlJGY1hyQVVxRlJpbmZyYXpNQ1dETk5XTEJsMTYwd2xESzM1UTA1NlpraUxrR1ZtQ29LVkZRdHE0NkdaWjVncXJRZXEyMTQ3RWhTamI4bkZNVjhTMGtXLVhEQnNRekwtbXFhUk1UZEFZWFhjNnY3UUo4cnctMkQySGhfUXZVLUxnRktQU001Ti1IWkx1X09TZ1hmcy10T0U1enZUancxOXhxT0dMRkZIX0RRQnF4ZzRzWEFQcEVtdThmbnBuQnRmVXo0bw?oc=5",
+   "data": "2026-11-22T20:22:00.000Z",
+   "temas": [
+    "quantica",
+    "energia"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Primeiro benefício prático da computação quântica pode vir na área de energia, e não na descoberta de medicamentos Times Brasil | CNBC",
+   "coletadoEm": "2026-11-23T21:25:19.829Z"
+  },
+  {
+   "id": "c3ddb0996e85",
+   "titulo": "Governo do Estado lança edital inédito para startups de tecnologia avançada na segunda (23)",
+   "fonte": "Portal do Estado do Rio Grande do Sul",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZXEzTDNZWVowcWxfekx5eldZZFNEUHQ5aDRodVUyYXZTeUhiUWVSYndJd3pnM0hZZmJZZmFtTWx4TERTcnd1MTlJWnZpTG5FTS05Nno2aUg4TE1ORFJDVGpZS3FTUHFZd1h1bFdnZnFWbUt1XzNacU5USkpsZXpWRjNqblJfVUgya1p1UjZLdXhQXzNBXzRyLXM5THJKaTVXeGxNdXNtSi1BdHg4RGhVMmM1WWg?oc=5",
+   "data": "2026-11-22T18:00:00.000Z",
+   "temas": [
+    "investimento",
+    "edital"
+   ],
+   "orgs": [],
+   "edital": true,
+   "resumo": "Governo do Estado lança edital inédito para startups de tecnologia avançada na segunda (23) Portal do Estado do Rio Grande do Sul",
+   "coletadoEm": "2026-11-23T21:25:36.513Z"
+  },
   {
    "id": "c707b94f58bd",
    "titulo": "Mercado de pools de peptídeos antigênicos de isoformas de MBP até 2035: crescimento apoiado pela P&D em neuroimunologia - Notícias e Estatísticas",
@@ -54,7 +431,8 @@
    "data": "2026-11-21T23:06:00.000Z",
    "temas": [
     "quantica",
-    "energia"
+    "energia",
+    "financeiro"
    ],
    "orgs": [],
    "edital": false,
@@ -267,7 +645,8 @@
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ2M1U01sdXpMbHpnYjBhaEUyQnB5Mk83cmtjcEN1VEJJOUd0WjVnMkFJMkdFX0lmVzZhOWZTdnhpbW8xeF9wWW5jREp6ckJVZjFrWm5WbDhXcjFXWTBLN3RzLS1hdmNTRkZWckpXV2JwNDE2SXh0QU5zOVV5M3g1NXNkdVRQbkxrTE9teDVPSF9wUHNr?oc=5",
    "data": "2026-11-19T23:00:20.000Z",
    "temas": [
-    "quantica"
+    "quantica",
+    "financeiro"
    ],
    "orgs": [],
    "edital": false,
@@ -324,7 +703,8 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUEpQX0JCblJNSXdTQmFLZy1XckUzbVBTSks2RXZ5LWdtaHNrdFc1OThNZnNEMm1aOFJmaVV1XzdxalBYek9heDdqdkxKQU92RU9YVmZ5cWNTdUc5UUpzd2UweWg3eFQzU3FJUVd2MU9vbzVhaVp2TktXV2NEZW1WSUFUaGpOeGJfeDcwTzYxUHBVcExYeURtVkdFdVV5Y0k1aWk0TnE0WVctS29iNGt0Y0hSOTFOU3lMejMzM1ctRkc?oc=5",
    "data": "2026-11-19T18:41:00.000Z",
    "temas": [
-    "quantica"
+    "quantica",
+    "financeiro"
    ],
    "orgs": [],
    "edital": false,
@@ -457,7 +837,8 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPak40MjlOOW1TVzVsWF9WOUdvcXduYmZMY3RudDNpdDJGT0VKVWZjTi1fUGo3bGozNFJoOEM2elRvQzUxd1IxdUs1Y3NKdExfUHRULTRweXExX2Ricm5jdW1keDhlbW1tcWE4MmZKNVhHeFo5d2YtWVo2RXgxdUpRMUt4bGxLclVmcGpDOWdmd0N6c2IxOUNHcnBHRVRqVV9HNTBBUDZpZGhoLU90eHZCd0RmdzhtVnZ3Ri13U0pkYVk0cGhqejVsZ3VDcHpKQQ?oc=5",
    "data": "2026-11-19T01:29:36.000Z",
    "temas": [
-    "quantica"
+    "quantica",
+    "financeiro"
    ],
    "orgs": [],
    "edital": false,
@@ -559,7 +940,8 @@
    "data": "2026-11-18T14:59:32.000Z",
    "temas": [
     "quantica",
-    "saude"
+    "saude",
+    "energia"
    ],
    "orgs": [],
    "edital": false,
@@ -699,7 +1081,8 @@
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81bmhxOGYzRE9kdXV5QUwxTE8xVFZ6cEtGVFJ2dGQzemd5QlEwbkViU210bVNwUFk3bTdGZFpaVWlMVVgwbzdDVmJ2ZVJCOEV6R2RFUWs3d0c2QVNBVERTZ1RndHBkS29ndEpnWWhjMTd5anUwMmhTRE13?oc=5",
    "data": "2026-11-17T19:18:28.000Z",
    "temas": [
-    "ciquanta"
+    "ciquanta",
+    "quantica"
    ],
    "orgs": [],
    "edital": false,
@@ -800,7 +1183,8 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNUpzaURTeEwyTS01QmRKMVYydF90TFdyRElqYWNzTS0wR3c2VHFya2RZTXNiUXFaMC1selFLUTBfOXZSb2dxb3RlZUdyTk5wTkFkd1NDeXViQUNsZmVSczhSS0s3bVV2b2JjY1lLcUREVEYtbHhGRGdIdXVEYmpVRUNHQ0Q5RVRZcjlEMi1UdG9JbXdaWUMzblFSY1k0VkVOeExUVnBLZHBwcU9JUGZB?oc=5",
    "data": "2026-11-17T15:21:49.000Z",
    "temas": [
-    "quantica"
+    "quantica",
+    "financeiro"
    ],
    "orgs": [],
    "edital": false,
@@ -962,6 +1346,20 @@
    "edital": false,
    "resumo": "Computadores quânticos chegam à Paraíba e hélio raro define testes no Ciquanta Movimento Econômico",
    "coletadoEm": "2026-11-17T18:34:47.938Z"
+  },
+  {
+   "id": "a9418435a704",
+   "titulo": "Primeiros computadores quânticos da América Latina chegam à Paraíba",
+   "fonte": "SeLigaPB",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQekVDbl9vX1U3aGhVNkNrcm16NlpvQm5kb3JRUkduMndTOXBwMFJSNmg2cVp2QVBxbHkzVEttRkEySF9RMkk0RDVxZjd0X0N3T2FUc25IdE9vSnBDSDVKdW9RWnBoSE9tYXRzNFI1YmJJTEFFMW12NU5yam9BQ0hSakt5bG9KMmhRZVRpSmxlZncwVDMzcEU0?oc=5",
+   "data": "2026-11-16T23:03:59.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Primeiros computadores quânticos da América Latina chegam à Paraíba SeLigaPB",
+   "coletadoEm": "2026-11-23T21:25:19.832Z"
   },
   {
    "id": "d827df9800b8",
@@ -1128,7 +1526,8 @@
    "data": "2026-11-16T19:56:00.000Z",
    "temas": [
     "ciquanta",
-    "saude"
+    "saude",
+    "agro"
    ],
    "orgs": [],
    "edital": false,
@@ -1794,6 +2193,20 @@
    "coletadoEm": "2026-11-20T00:55:49.490Z"
   },
   {
+   "id": "b7c99a9ac3e0",
+   "titulo": "Ameaça Quântica Não É Só da Cripto, É de Todos",
+   "fonte": "FinanceFeeds",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNczRJMEVycnNabkE1NjNfR2tlQ0VidDVwSGNNWV9scXJpS0NpNmdmbnNnNWZOS2Ezcm9sZ3NMV3kySzNtZlktU1lXbDZpdl83T19PNnd5MXR0ZE5NZzhtRmlGcmQ0OHBEbUV1ZG1jVHZiY1dBMGhnd01xSHFUSmNpemtWQ1VMdFE3dHVfX2htRQ?oc=5",
+   "data": "2026-11-13T13:26:26.000Z",
+   "temas": [
+    "financeiro"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Ameaça Quântica Não É Só da Cripto, É de Todos FinanceFeeds",
+   "coletadoEm": "2026-11-23T21:25:29.176Z"
+  },
+  {
    "id": "ad259d1ff833",
    "titulo": "CTC acelera investimentos em pesquisa no 2º trimestre, mas lucro tem queda",
    "fonte": "NovaCana",
@@ -1845,7 +2258,8 @@
    "data": "2026-11-13T12:00:46.000Z",
    "temas": [
     "quantica",
-    "seguranca"
+    "seguranca",
+    "financeiro"
    ],
    "orgs": [],
    "edital": false,
@@ -2278,6 +2692,23 @@
    "coletadoEm": "2026-11-20T17:48:48.532Z"
   },
   {
+   "id": "2390a1fadee0",
+   "titulo": "Bradesco e evolutionQ iniciam testes em comunicação quântica para proteção de dados financeiros",
+   "fonte": "Brasil Inovador",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQWFxVjZMMHJ3SGR4OXRMQTFSWldWYTNjODhMaVdYdzYtamluTTg5UDcyRmQyby1HQU5GejkydjR5UUdzNEF0NHhMZGFTcDlSX0htMy1jdmZ0dFlDOU1oTmRyTVQ4bVNCX3p2eVZoUnR0M050NDRwNFZQSUVFQ0JEQWFKY2VhVHRDd3U0YlkyVDRfaFlGanBYQThfWDg3cDFsSVV4Y0VBdExjR00tTG1WaUlNSkJITUp3d3N6MmVydVM2REJX?oc=5",
+   "data": "2026-11-11T04:45:01.000Z",
+   "temas": [
+    "financeiro"
+   ],
+   "orgs": [
+    "ref-bradesco",
+    "ref-inovabra-bradesco"
+   ],
+   "edital": false,
+   "resumo": "Bradesco e evolutionQ iniciam testes em comunicação quântica para proteção de dados financeiros Brasil Inovador",
+   "coletadoEm": "2026-11-23T21:25:29.175Z"
+  },
+  {
    "id": "53ea8302762a",
    "titulo": "Chamada Pop Ciência - Semana Nacional de C&T; cerca de R$ 8 milhões serão investidos em 153 projetos; confira resultado final",
    "fonte": "Governo Federal",
@@ -2390,7 +2821,8 @@
    "data": "2026-11-10T13:30:45.000Z",
    "temas": [
     "quantica",
-    "saude"
+    "saude",
+    "agro"
    ],
    "orgs": [],
    "edital": false,
@@ -2520,7 +2952,8 @@
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VWG40LVBzckpxczh0cXk0MTQ4MDRLRzNEY0JObHI0ZUV3Zl9teG5kaG1MYUZSQUhMVlliRXNKcE1SUXVNS1I5UTNzMnpJUEtQV0ZKTHBtVmRlUDdlbHgzdEFzSWZsektTUUFFbU1OSHZQWms0UkJldg?oc=5",
    "data": "2026-11-09T15:04:41.000Z",
    "temas": [
-    "saude"
+    "saude",
+    "energia"
    ],
    "orgs": [],
    "edital": false,
@@ -2615,6 +3048,22 @@
    "edital": false,
    "resumo": "Primeiros computadores quânticos da América Latina chegam na Paraíba neste fim de semana Portal Correio",
    "coletadoEm": "2026-11-16T22:20:08.694Z"
+  },
+  {
+   "id": "9b80f83402fe",
+   "titulo": "A “magia” por trás da computação quântica",
+   "fonte": "Portal da UFRN",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSllScGFkanJuRWYzeDlrRGpnQ2NoMjVDd2VZLXZKdzJuQlZ1SlZ3bi1fQnJVYW1MazZ4Vko1cy1KTzg4RFBtMHhzUUxiQkxLTXFyemJnVnBYaF9sY0hNRDQ1UmRscUFwRU9obVg4TFJTcEFQNHI5WHJaQ093X1NsSk1Oa0tmUTRJZHBiYWhyU3JxWXJveUp6Yld4QVdVUQ?oc=5",
+   "data": "2026-11-06T08:00:00.000Z",
+   "temas": [
+    "energia"
+   ],
+   "orgs": [
+    "ref-ufrn"
+   ],
+   "edital": false,
+   "resumo": "A “magia” por trás da computação quântica Portal da UFRN",
+   "coletadoEm": "2026-11-23T21:25:32.856Z"
   },
   {
    "id": "ca2920950fbe",
@@ -2898,6 +3347,22 @@
    "coletadoEm": "2026-11-19T00:45:20.208Z"
   },
   {
+   "id": "df07dbd349cd",
+   "titulo": "IonQ fecha parceria com QuantumCT para ampliar acesso à computação quântica nos EUA",
+   "fonte": "ADVFN",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeEtBclhBX29BaVlWdXZZbUotVTA5WTJLLUZsSDE0azAwbTNtQ1FBVHNsT1d1dnZrVUM2N0s4WlJCOHVTdW44RG9HQk9oNFJ1YmtmWTVSVXJoRnczdlJjZzB5VERpT0VreDJMSVFGTkVKLVgxSlNpdmxpU1RLTzR4Y25iQy1IY0dBTFNN?oc=5",
+   "data": "2026-11-04T08:00:00.000Z",
+   "temas": [
+    "financeiro"
+   ],
+   "orgs": [
+    "ref-ionq"
+   ],
+   "edital": false,
+   "resumo": "IonQ fecha parceria com QuantumCT para ampliar acesso à computação quântica nos EUA ADVFN",
+   "coletadoEm": "2026-11-23T21:25:29.175Z"
+  },
+  {
    "id": "493756a4224e",
    "titulo": "Economia criativa: 15 projetos foram aprovados em chamada que incentiva projetos de apoio ao funcionamento de incubadoras",
    "fonte": "Governo Federal",
@@ -3048,6 +3513,20 @@
    "coletadoEm": "2026-11-16T22:20:10.750Z"
   },
   {
+   "id": "7ad2c679fc5a",
+   "titulo": "Ameaça quântica ao Bitcoin, aprovação bancária da Ripple",
+   "fonte": "Cointelegraph Brasil",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdTR2YWlXOWtGcEV3d1p1S2hER0tqWmFGbmpXbkM4RTdVVUwyNTJoUWlwY094VVBDM1dwNzc4UmVKUUozaHJXbmVWcUZPVERkU0pDY1BlbjF3V1hPeGZldXdRRWFrYUoyblNQdy1kUy0yUXhabEx3NjFnbk5IWTBXa2tkdjVTekV0amQ1ejllakxWWTd5Unc?oc=5",
+   "data": "2026-10-30T07:00:00.000Z",
+   "temas": [
+    "financeiro"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Ameaça quântica ao Bitcoin, aprovação bancária da Ripple Cointelegraph Brasil",
+   "coletadoEm": "2026-11-23T21:25:29.175Z"
+  },
+  {
    "id": "149edfc06bc0",
    "titulo": "Unidade Embrapii SENAI Manufatura, Laser e Robótica: tecnologias avançadas para a indústria",
    "fonte": "EMBRAPII",
@@ -3134,6 +3613,20 @@
    "coletadoEm": "2026-11-19T18:17:22.211Z"
   },
   {
+   "id": "0ea0dd7d9932",
+   "titulo": "'Maior risco para o Bitcoin é que ele é inútil, e não computação quântica', afirma famoso minerador de BTC da China",
+   "fonte": "BitNotícias",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORGlxTzJsNDFzc0pCZzhfajNVRTMyQmxYaTJMWUdwX0tYNW45QXVQQTVxLVptNkRNeWhrYTltTGFudWdvN2p0RVBxMHVUSTFxWHhuMWpqcXgydmJBZERnVEFhZ2dDWjNhTXFQZDFLNWIxNG96V2I4ZHRkd3dVaHFiUU9mb21ZcEVJ?oc=5",
+   "data": "2026-10-27T07:00:00.000Z",
+   "temas": [
+    "financeiro"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "'Maior risco para o Bitcoin é que ele é inútil, e não computação quântica', afirma famoso minerador de BTC da China BitNotícias",
+   "coletadoEm": "2026-11-23T21:25:29.175Z"
+  },
+  {
    "id": "102ce2d0036f",
    "titulo": "População pode visitar réplica do computador quântico no Centro Histórico de João Pessoa",
    "fonte": "ClickPB",
@@ -3163,6 +3656,20 @@
    "edital": false,
    "resumo": "Chamada do CNPq vai apoiar projetos em saúde e computação Agência FAPESP",
    "coletadoEm": "2026-11-16T22:20:11.690Z"
+  },
+  {
+   "id": "05258c029298",
+   "titulo": "Computadores quânticos começam a ser montados em novembro na Paraíba; entenda o projeto",
+   "fonte": "THMais",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTEdONXctZ1kzdDVkckdKYWJRQlVpQ3BvMHcwUEYtRVN2bnJubnZCTzMtUjRTNWdtdXdIaUg3Umh1Z0p5UFhrVFFRZ1Y5T1RaV2pDcWxlX3hjTXc2Uk4wU3FGSFA0VW5kYkZkX1BkTnJ5VGo2YjFibTROR1ltZUlveG83bXIwX3J2X3RzWjc2SkltZDFMRTl5VkFEQS1ZbkloV1ZhMUs1NzR2akZYQm1DM1JrTTN6MGQx?oc=5",
+   "data": "2026-10-26T07:00:00.000Z",
+   "temas": [
+    "energia"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Computadores quânticos começam a ser montados em novembro na Paraíba; entenda o projeto THMais",
+   "coletadoEm": "2026-11-23T21:25:32.856Z"
   },
   {
    "id": "9e110bd1d1a9",

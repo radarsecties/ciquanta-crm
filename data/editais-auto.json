@@ -1,7 +1,37 @@
 {
- "atualizadoEm": "2026-11-22T17:10:11.580Z",
+ "atualizadoEm": "2026-11-23T21:25:51.795Z",
  "aviso": "Chamadas identificadas automaticamente em notícias; confirme prazo e regras na página oficial.",
  "itens": [
+  {
+   "id": "ed-ea980dd6dd00",
+   "titulo": "Chamada FAPESP Jovem Pesquisador voltada a estrangeiros prorroga prazo de inscrição",
+   "orgao": "Agência FAPESP",
+   "link": "https://agencia.fapesp.br/chamada-fapesp-jovem-pesquisador-voltada-a-estrangeiros-prorroga-prazo-de-inscricao/59661",
+   "publicado": "2026-11-23T21:25:51.744Z",
+   "prazo": "2026-12-03",
+   "fonte": "Agência FAPESP",
+   "coletadoEm": "2026-11-23T21:25:51.744Z"
+  },
+  {
+   "id": "ed-60bf016f854e",
+   "titulo": "Estado lança edital inédito no país para criação de fundo de R$ 100 milhões destinado a startups de tecnologia avançada",
+   "orgao": "Portal do Estado do Rio Grande do Sul",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPU0YwakZ5b2xnbVJCMG0yOXNyYURlMTBaeGV4ZnR2VHJtZ2xzbXFTd2lwZmxpN1JBMk9xYXpfdlVsX3E5cnQ5dlVURERYdzlaYV9uUWlCZThSQVhjQ2R3MEVEMWpiemJheFhFT2lvMDdrdzRnRW5rdk9mdWxadkwyYmwwSGZWNTExdzhYc3puT3hsQzdfQ0N6VThyT0p3aDVTMWNZVVloU2Fqa25pMy1FVHp4TndXdkN0TVRrZmI4N0ZyTkNaM2Vfd1I3TW05SkJWcDdDcVl3WThCWjA?oc=5",
+   "publicado": "2026-11-23T20:57:37.000Z",
+   "prazo": "",
+   "fonte": "Google Notícias",
+   "coletadoEm": "2026-11-23T21:25:36.514Z"
+  },
+  {
+   "id": "ed-c3ddb0996e85",
+   "titulo": "Governo do Estado lança edital inédito para startups de tecnologia avançada na segunda (23)",
+   "orgao": "Portal do Estado do Rio Grande do Sul",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZXEzTDNZWVowcWxfekx5eldZZFNEUHQ5aDRodVUyYXZTeUhiUWVSYndJd3pnM0hZZmJZZmFtTWx4TERTcnd1MTlJWnZpTG5FTS05Nno2aUg4TE1ORFJDVGpZS3FTUHFZd1h1bFdnZnFWbUt1XzNacU5USkpsZXpWRjNqblJfVUgya1p1UjZLdXhQXzNBXzRyLXM5THJKaTVXeGxNdXNtSi1BdHg4RGhVMmM1WWg?oc=5",
+   "publicado": "2026-11-22T18:00:00.000Z",
+   "prazo": "",
+   "fonte": "Google Notícias",
+   "coletadoEm": "2026-11-23T21:25:36.513Z"
+  },
   {
    "id": "ed-9274b53987b0",
    "titulo": "Governo da Paraíba lança edital para levar startups paraibanas ao Web Summit Qatar 2027",

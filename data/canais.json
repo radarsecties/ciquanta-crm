@@ -2331,7 +2331,8 @@
     }
    ],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/quera-computing-inc"
+   "linkedin": "https://www.linkedin.com/company/quera-computing-inc",
+   "buscaWebEm": "2026-11-23T21:26:42.602Z"
   },
   "ref-lncc": {
    "verificadoEm": "2026-11-18T01:21:31.685Z",
@@ -2650,7 +2651,8 @@
     }
    ],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-23T21:26:42.694Z"
   },
   "ref-ufsc": {
    "verificadoEm": "2026-11-18T18:04:55.231Z",
@@ -3501,7 +3503,57 @@
    "emails": [],
    "status": "ok",
    "buscaWebEm": "2026-11-22T17:11:20.429Z"
+  },
+  "ref-ifgw-unicamp": {
+   "emails": [],
+   "status": "ok",
+   "buscaWebEm": "2026-11-23T21:26:41.765Z"
+  },
+  "ref-kptl": {
+   "emails": [],
+   "status": "ok",
+   "buscaWebEm": "2026-11-23T21:26:41.877Z"
+  },
+  "ref-indicator-capital": {
+   "emails": [],
+   "status": "ok",
+   "buscaWebEm": "2026-11-23T21:26:41.963Z"
+  },
+  "ref-pitanga-fund": {
+   "emails": [],
+   "status": "ok",
+   "buscaWebEm": "2026-11-23T21:26:42.053Z"
+  },
+  "ref-criatec-bndes": {
+   "emails": [],
+   "status": "ok",
+   "buscaWebEm": "2026-11-23T21:26:42.142Z"
+  },
+  "ref-inovabra-bradesco": {
+   "emails": [],
+   "status": "ok",
+   "buscaWebEm": "2026-11-23T21:26:42.226Z"
+  },
+  "ref-fi-group-brasil": {
+   "emails": [],
+   "status": "ok",
+   "buscaWebEm": "2026-11-23T21:26:42.312Z"
+  },
+  "ref-abgi-brasil": {
+   "emails": [],
+   "status": "ok",
+   "buscaWebEm": "2026-11-23T21:26:42.397Z"
+  },
+  "ref-quantuloop": {
+   "emails": [],
+   "status": "ok",
+   "buscaWebEm": "2026-11-23T21:26:42.511Z"
+  },
+  "ref-fine-instrument-technology-fit": {
+   "emails": [],
+   "status": "ok",
+   "buscaWebEm": "2026-11-23T21:26:42.782Z"
   }
  },
- "atualizadoEm": "2026-11-22T17:11:20.493Z"
+ "atualizadoEm": "2026-11-23T21:26:42.873Z"
 }

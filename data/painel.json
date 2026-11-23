@@ -1,21 +1,21 @@
 {
- "coletadoEm": "2026-11-22T17:09:38.521Z",
+ "coletadoEm": "2026-11-23T21:25:19.438Z",
  "fonte": "Painel CIQUANTA (painelciquanta.secties.pb.gov.br)",
  "dados": {
   "ok": true,
-  "atualizado": "2026-11-22T14:09",
-  "total": 74,
-  "pessoas": 66,
+  "atualizado": "2026-11-23T18:25",
+  "total": 79,
+  "pessoas": 71,
   "instituicoes": 8,
   "ufs": 13,
-  "cidades": 33,
-  "fora": 0.581081081081081,
+  "cidades": 34,
+  "fora": 0.5822784810126582,
   "porUf": [
    {
     "uf": "PB",
-    "pessoas": 29,
+    "pessoas": 31,
     "insts": 2,
-    "total": 31
+    "total": 33
    },
    {
     "uf": "SP",
@@ -25,9 +25,15 @@
    },
    {
     "uf": "PE",
-    "pessoas": 8,
+    "pessoas": 9,
     "insts": 1,
-    "total": 9
+    "total": 10
+   },
+   {
+    "uf": "RJ",
+    "pessoas": 4,
+    "insts": 0,
+    "total": 4
    },
    {
     "uf": "AL",
@@ -49,12 +55,6 @@
    },
    {
     "uf": "MG",
-    "pessoas": 2,
-    "insts": 0,
-    "total": 2
-   },
-   {
-    "uf": "RJ",
     "pessoas": 2,
     "insts": 0,
     "total": 2
@@ -93,11 +93,11 @@
   "regioes": [
    {
     "r": "Nordeste",
-    "n": 46
+    "n": 49
    },
    {
     "r": "Sudeste",
-    "n": 18
+    "n": 20
    },
    {
     "r": "Sul",
@@ -205,21 +205,26 @@
    },
    {
     "dia": "2026-11-22",
-    "n": 1,
-    "acum": 74
+    "n": 3,
+    "acum": 76
+   },
+   {
+    "dia": "2026-11-23",
+    "n": 3,
+    "acum": 79
    }
   ],
-  "cad7": 24,
-  "prev": 137,
+  "cad7": 21,
+  "prev": 162,
   "rec": 216,
-  "img": 0.8613861386138614,
-  "not": 0.7227722772277227,
+  "img": 0.8598130841121495,
+  "not": 0.719626168224299,
   "sessoes": [
    {
     "data": "2026-11-23",
     "hora": "09:00",
-    "conf": 1,
-    "pend": 1
+    "conf": 2,
+    "pend": 0
    },
    {
     "data": "2026-11-23",
@@ -236,12 +241,18 @@
    {
     "data": "2026-11-24",
     "hora": "15:30",
-    "conf": 0,
-    "pend": 2
+    "conf": 2,
+    "pend": 0
    },
    {
     "data": "2026-11-25",
     "hora": "09:00",
+    "conf": 2,
+    "pend": 0
+   },
+   {
+    "data": "2026-11-25",
+    "hora": "10:30",
     "conf": 2,
     "pend": 0
    },
@@ -254,7 +265,7 @@
    {
     "data": "2026-11-25",
     "hora": "15:30",
-    "conf": 2,
+    "conf": 16,
     "pend": 0
    },
    {
@@ -262,6 +273,12 @@
     "hora": "09:00",
     "conf": 0,
     "pend": 2
+   },
+   {
+    "data": "2026-11-26",
+    "hora": "10:30",
+    "conf": 0,
+    "pend": 1
    },
    {
     "data": "2026-11-26",
@@ -277,20 +294,26 @@
    },
    {
     "data": "2026-11-27",
+    "hora": "09:00",
+    "conf": 4,
+    "pend": 0
+   },
+   {
+    "data": "2026-11-27",
     "hora": "10:30",
-    "conf": 1,
-    "pend": 2
+    "conf": 3,
+    "pend": 0
    },
    {
     "data": "2026-11-27",
     "hora": "14:00",
-    "conf": 2,
-    "pend": 4
+    "conf": 6,
+    "pend": 0
    },
    {
     "data": "2026-11-27",
     "hora": "15:30",
-    "conf": 7,
+    "conf": 11,
     "pend": 3
    },
    {
@@ -362,14 +385,14 @@
    {
     "data": "2027-01-25",
     "hora": "10:30",
-    "conf": 3,
-    "pend": 0
+    "conf": 0,
+    "pend": 3
    }
   ],
   "exp": [
    19,
-   21,
-   23
+   25,
+   24
   ],
   "atuantesUf": [
    {
@@ -408,42 +431,42 @@
   "temas": [
    {
     "r": "Computação quântica",
-    "n": 52,
+    "n": 57,
     "b": 7
    },
    {
     "r": "Algoritmos e software quântico",
-    "n": 50,
+    "n": 53,
     "b": 7
    },
    {
     "r": "IA e computação quântica",
-    "n": 47,
+    "n": 52,
     "b": 7
    },
    {
     "r": "Otimização",
-    "n": 36,
+    "n": 38,
     "b": 7
    },
    {
     "r": "Comunicação quântica",
-    "n": 26,
+    "n": 28,
     "b": 4
    },
    {
     "r": "Criptografia pós-quântica",
-    "n": 23,
+    "n": 24,
     "b": 3
    },
    {
     "r": "Simulação de moléculas e materiais",
-    "n": 21,
+    "n": 22,
     "b": 5
    },
    {
     "r": "Hardware e qubits supercondutores",
-    "n": 19,
+    "n": 20,
     "b": 2
    },
    {
@@ -453,14 +476,14 @@
    },
    {
     "r": "Sensores e metrologia quântica",
-    "n": 11,
+    "n": 12,
     "b": 3
    }
   ],
   "categorias": [
    {
     "r": "Empreendedor(a)",
-    "n": 15
+    "n": 16
    },
    {
     "r": "Estudante de graduação",
@@ -468,29 +491,33 @@
    },
    {
     "r": "Pesquisador(a)",
-    "n": 12
+    "n": 13
+   },
+   {
+    "r": "Profissional da indústria",
+    "n": 11
    },
    {
     "r": "Docente",
     "n": 10
    },
    {
-    "r": "Profissional da indústria",
-    "n": 10
+    "r": "Mestrando(a) ou doutorando(a)",
+    "n": 7
    },
    {
-    "r": "Mestrando(a) ou doutorando(a)",
-    "n": 6
+    "r": "Pós-doutorando(a)",
+    "n": 1
    }
   ],
   "escolaridade": [
    {
     "r": "Ensino fundamental",
-    "n": 4
+    "n": 5
    },
    {
     "r": "Ensino médio",
-    "n": 15
+    "n": 17
    },
    {
     "r": "Ensino técnico",
@@ -498,11 +525,11 @@
    },
    {
     "r": "Graduação",
-    "n": 36
+    "n": 37
    },
    {
     "r": "Especialização ou MBA",
-    "n": 16
+    "n": 17
    },
    {
     "r": "Mestrado",
@@ -510,7 +537,7 @@
    },
    {
     "r": "Doutorado ou pós-doutorado",
-    "n": 21
+    "n": 22
    }
   ],
   "parceiras": []
@@ -577,6 +604,15 @@
    "instituicoes": 8,
    "ufs": 13,
    "previstos": 137,
+   "recebidos": 216
+  },
+  {
+   "dia": "2026-11-23",
+   "cadastros": 79,
+   "pessoas": 71,
+   "instituicoes": 8,
+   "ufs": 13,
+   "previstos": 162,
    "recebidos": 216
   }
  ]
