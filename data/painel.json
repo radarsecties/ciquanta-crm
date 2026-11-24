@@ -1,9 +1,9 @@
 {
- "coletadoEm": "2026-11-23T21:25:19.438Z",
+ "coletadoEm": "2026-11-24T04:05:26.739Z",
  "fonte": "Painel CIQUANTA (painelciquanta.secties.pb.gov.br)",
  "dados": {
   "ok": true,
-  "atualizado": "2026-11-23T18:25",
+  "atualizado": "2026-11-24T01:05",
   "total": 79,
   "pessoas": 71,
   "instituicoes": 8,
@@ -212,32 +212,19 @@
     "dia": "2026-11-23",
     "n": 3,
     "acum": 79
+   },
+   {
+    "dia": "2026-11-24",
+    "n": 0,
+    "acum": 79
    }
   ],
-  "cad7": 21,
-  "prev": 162,
-  "rec": 216,
+  "cad7": 12,
+  "prev": 154,
+  "rec": 224,
   "img": 0.8598130841121495,
   "not": 0.719626168224299,
   "sessoes": [
-   {
-    "data": "2026-11-23",
-    "hora": "09:00",
-    "conf": 2,
-    "pend": 0
-   },
-   {
-    "data": "2026-11-23",
-    "hora": "10:30",
-    "conf": 5,
-    "pend": 0
-   },
-   {
-    "data": "2026-11-23",
-    "hora": "14:00",
-    "conf": 1,
-    "pend": 0
-   },
    {
     "data": "2026-11-24",
     "hora": "15:30",
@@ -614,6 +601,15 @@
    "ufs": 13,
    "previstos": 162,
    "recebidos": 216
+  },
+  {
+   "dia": "2026-11-24",
+   "cadastros": 79,
+   "pessoas": 71,
+   "instituicoes": 8,
+   "ufs": 13,
+   "previstos": 154,
+   "recebidos": 224
   }
  ]
 }

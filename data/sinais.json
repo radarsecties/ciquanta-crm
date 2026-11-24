@@ -1,7 +1,50 @@
 {
- "atualizadoEm": "2026-11-23T21:25:51.793Z",
+ "atualizadoEm": "2026-11-24T04:05:59.687Z",
  "aviso": "Títulos e links de notícias públicas; o conteúdo pertence a cada veículo.",
  "itens": [
+  {
+   "id": "7649de35cd74",
+   "titulo": "Rio Grande do Sul lança fundo inédito de R$ 100 milhões para acelerar startups deep tech",
+   "fonte": "Brasil Inovador",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZE11QzFiVE9lMTVTUXNIMThJRll1Vk1vS04yZUdVNmRGTHRzNkcwMjE4MlBYMGZFcGVPbnB2RFNqY0lqQkpIdXhRTEtNM1l5dlFBSm1sZzJCWkJBNGlrT3JtMnhpNnJEQTA3TGZ5Q1lBdVdRNld1TnRLYm96dUtESjRpWG85UEtXdFVjQ2tfdk9VQlViMzg1RXQzb3VMTU5LaFN6dmM5QWJhc256WDE4WTNYYjVhaWVvRHc?oc=5",
+   "data": "2026-11-24T01:16:22.000Z",
+   "temas": [
+    "investimento"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Rio Grande do Sul lança fundo inédito de R$ 100 milhões para acelerar startups deep tech Brasil Inovador",
+   "coletadoEm": "2026-11-24T04:05:43.867Z"
+  },
+  {
+   "id": "9dadfb445167",
+   "titulo": "Governador da Paraíba apresentará projetos de computação quântica e radiotelescópio no MIT",
+   "fonte": "Termômetro da Política",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaVRnQmdTOExhRTZEaFUwU2xJNUMyQXVaNjRFTFBLaFh4aXBUMExrZXZpV1pKYXl0a1hhMmJJRDB2d1BZWWlaUHJ1NnVxQjFzS1ZzVEVpLUxEZTdFRXB6WUxfNjVHbDhLNUZjN0dCZ1hNWldONUp0b3dVNFg1MmZhYlc5WERDYWlzdFJOVktBN001bW5zZ3d1a3hEQmliTHg3ZnQtWlQ3VVNCdWVMUTlCSTB1WmdvSzRSbkYzUUVMV1hza1VUOHc4Tk5pUHpucVlqTHRXZENMZ01wMWRqVnI2S2xIajFrZVN3MFBjeA?oc=5",
+   "data": "2026-11-23T22:08:00.000Z",
+   "temas": [
+    "quantica",
+    "energia"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Governador da Paraíba apresentará projetos de computação quântica e radiotelescópio no MIT Termômetro da Política",
+   "coletadoEm": "2026-11-24T04:05:27.056Z"
+  },
+  {
+   "id": "0a73de1fd10e",
+   "titulo": "ANP propõe mudanças nas regras de investimentos obrigatórios em PD&I no setor de petróleo e gás",
+   "fonte": "Mattos Filho",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tbWNndE5FMk95RVZHcUlkS2FGNHA3N01fM3NFRHdxd1JYdEVveXhUZmtCRGR0Qmpncjc5QlJadTRyYXNQWWFCT1pmbHU1S25VQnYzdmdDZXIzTTFQbGRZUUdUMUVFMUxBQUVFZ1g0Y1ozbzhIQkE?oc=5",
+   "data": "2026-11-23T21:40:24.000Z",
+   "temas": [
+    "pdi"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "ANP propõe mudanças nas regras de investimentos obrigatórios em PD&I no setor de petróleo e gás Mattos Filho",
+   "coletadoEm": "2026-11-24T04:05:45.736Z"
+  },
   {
    "id": "ea980dd6dd00",
    "titulo": "Chamada FAPESP Jovem Pesquisador voltada a estrangeiros prorroga prazo de inscrição",
@@ -17,6 +60,20 @@
    "edital": true,
    "resumo": "Submissão de propostas pode ser feita até 3 de dezembro. Iniciativa vai selecionar até 20 cientistas com destacada atuação internacional para desenvolver pesquisas em instituições paulistas",
    "coletadoEm": "2026-11-23T21:25:51.744Z"
+  },
+  {
+   "id": "4783f29a8fa0",
+   "titulo": "Brasil se Prepara para a Era Quântica: Abin Lança Estratégia de Criptografia Pós-Quântica",
+   "fonte": "Jornal Digital da Região Oeste",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYjFrV3ZGa0hJdTg4WUFzTlQ3Wm5hajhqWkplNExwVy1sX1YtS2lFamlPd0d3dUFKc3lpMTZhUXlueUtRdFFFUVAzU3IyN19RZFdJa2tvWF9mTERpZzRaNFM3SGFkbDZ0VDNOREFBSkJHLXdJYlFLZ2pRMVp4T1VyUE5aNUowWmtPZWlNMlA5My1jaTJzQW00OW4ySFVyODgxdkhKVU9KeHR3V2dJV2NpckhYc05DaDliZkExNXZLUGRCUGY3SEpFTE51bw?oc=5",
+   "data": "2026-11-23T21:00:40.000Z",
+   "temas": [
+    "seguranca"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Brasil se Prepara para a Era Quântica: Abin Lança Estratégia de Criptografia Pós-Quântica Jornal Digital da Região Oeste",
+   "coletadoEm": "2026-11-24T04:05:34.345Z"
   },
   {
    "id": "60bf016f854e",
@@ -136,6 +193,20 @@
    "coletadoEm": "2026-11-23T21:25:19.834Z"
   },
   {
+   "id": "f16bc4e51d16",
+   "titulo": "DigiTech Firjan SENAI promove o primeiro workshop de Computação Quântica para empresários de TIC",
+   "fonte": "Sistema Firjan",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcjFzb2tEYUNZWlVRT3kxcU9EYWIzM1c4ZUdGU0V4bE4xaDlWUkQ1TmtmalB2ZE80MnR2aTJxN2RmTU5rWF9OaThpc3ExNDNfU1BOVW85S1hLczVrbjNtbWRyU3B4MEpkbktsNFlOZUVZdmVmLVpTdkttZ1lIb0dfVEduLUl5YURIM2ZieFdtSm51enBKamdpSXozMmM4VlV4dUJQSjZYYV92dUlDZWV4dWFmM3VUUXJXMS1pa0g1ZkU0S3pfNjgzZTQtWjk4TzVL?oc=5",
+   "data": "2026-11-23T17:49:00.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "DigiTech Firjan SENAI promove o primeiro workshop de Computação Quântica para empresários de TIC Sistema Firjan",
+   "coletadoEm": "2026-11-24T04:05:27.056Z"
+  },
+  {
    "id": "dad5294ef243",
    "titulo": "IA do Google reduz em até 290 vezes recursos exigidos por cálculo quântico",
    "fonte": "Exame",
@@ -178,6 +249,20 @@
    "edital": false,
    "resumo": "Agência Brasileira de Inteligência propõe plano de criptografia pós-quântica Opina News",
    "coletadoEm": "2026-11-23T21:25:27.169Z"
+  },
+  {
+   "id": "308a07354a35",
+   "titulo": "DeepMind Usa Agentes de IA para Otimizar Algoritmos Quânticos para a Ciência",
+   "fonte": "blockchain.news",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcDZfdE1wZmRPOEwxVkcyREFaZ1lfa0RhbjV1engtRHFWOXlvVTllUTlaeGpYdnJlNldKZ2NBdkt3bmg5T3I3LUNBLVNwNnZ1ZlpRREhKQ0tCR2tiaUxldVBTNUVlbTVZS0o5Y0ZXeTZwa0FVSl9ZUzQ3OTRNVjlIbHo5QUxOU085?oc=5",
+   "data": "2026-11-23T17:30:24.000Z",
+   "temas": [
+    "energia"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "DeepMind Usa Agentes de IA para Otimizar Algoritmos Quânticos para a Ciência blockchain.news",
+   "coletadoEm": "2026-11-24T04:05:40.180Z"
   },
   {
    "id": "506e7a32e49f",
@@ -265,7 +350,8 @@
     "seguranca",
     "financeiro",
     "saude",
-    "energia"
+    "energia",
+    "agro"
    ],
    "orgs": [],
    "edital": false,
@@ -280,7 +366,8 @@
    "data": "2026-11-23T11:50:51.000Z",
    "temas": [
     "quantica",
-    "financeiro"
+    "financeiro",
+    "saude"
    ],
    "orgs": [],
    "edital": false,
@@ -342,7 +429,8 @@
    "data": "2026-11-22T20:28:00.000Z",
    "temas": [
     "quantica",
-    "energia"
+    "energia",
+    "saude"
    ],
    "orgs": [],
    "edital": false,
@@ -1542,7 +1630,8 @@
    "data": "2026-11-16T19:51:58.000Z",
    "temas": [
     "quantica",
-    "ciquanta"
+    "ciquanta",
+    "saude"
    ],
    "orgs": [],
    "edital": false,
@@ -2199,7 +2288,8 @@
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNczRJMEVycnNabkE1NjNfR2tlQ0VidDVwSGNNWV9scXJpS0NpNmdmbnNnNWZOS2Ezcm9sZ3NMV3kySzNtZlktU1lXbDZpdl83T19PNnd5MXR0ZE5NZzhtRmlGcmQ0OHBEbUV1ZG1jVHZiY1dBMGhnd01xSHFUSmNpemtWQ1VMdFE3dHVfX2htRQ?oc=5",
    "data": "2026-11-13T13:26:26.000Z",
    "temas": [
-    "financeiro"
+    "financeiro",
+    "saude"
    ],
    "orgs": [],
    "edital": false,
@@ -2550,7 +2640,8 @@
    "data": "2026-11-12T11:56:00.000Z",
    "temas": [
     "quantica",
-    "financeiro"
+    "financeiro",
+    "saude"
    ],
    "orgs": [],
    "edital": false,
@@ -2578,7 +2669,8 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORGUxZ1cyYXV4RUUzamtIZlpac1hGN0k5UFNlMlJsY1ZSRVZNYTA0MzQyQlQtUkN0XzlFckc5VDF1N0l6Z1FrOU9ZNENWRERRT0JKU3FuakdFQWM1S1pQU1BGWjQ3NTR1ZENUaTl4eXowamlEU1ZuaV82THdtVnAxY2RpU0VtTklvb0lwZDI2R2NJUUdnUUZhbEFkTVRwckhOQ29RUk1qM0NPcnZHZXVhUVpoTXRrZHJNdjFZLVMtQnNMQXZPdFBSbzdwclAwdw?oc=5",
    "data": "2026-11-12T10:38:00.000Z",
    "temas": [
-    "quantica"
+    "quantica",
+    "saude"
    ],
    "orgs": [],
    "edital": false,
@@ -2792,7 +2884,8 @@
    "data": "2026-11-10T15:29:33.000Z",
    "temas": [
     "quantica",
-    "ciquanta"
+    "ciquanta",
+    "saude"
    ],
    "orgs": [],
    "edital": false,
@@ -2973,6 +3066,20 @@
    "edital": false,
    "resumo": "Pesquisa da Sectigo revela que 78% dos líderes de TI preveem mudanças profundas na PKI para a era pós-quântica CryptoID",
    "coletadoEm": "2026-11-16T22:20:09.667Z"
+  },
+  {
+   "id": "adea8d1cb2cc",
+   "titulo": "Paraíba recebe computadores quânticos de última geração para impulsionar pesquisas científicas",
+   "fonte": "Poder Paraíba",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZWduSFBESjhiM2FmNUlpOU56RGRjb2RjUVV1MmRZZDZoRWhvc01oV2xoTTI3My1jN0xqZVdfTmpvUDBrWkY4bFozRXkwbkt3bTFMNkFyanFhUFZDWDRvdDZkY2dnWmZzVzBiVHRSTFcxT1JFVGRkcUxGNGRlVG5WeTBTSlpoX0VTbmRBTG55bzdlY1lsU2owV2l0VnlibDlfQkttcUdMdWNxOTBKV2s3OFF6ZjR5QmVoakN0NU9iaDc?oc=5",
+   "data": "2026-11-07T08:00:00.000Z",
+   "temas": [
+    "saude"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Paraíba recebe computadores quânticos de última geração para impulsionar pesquisas científicas Poder Paraíba",
+   "coletadoEm": "2026-11-24T04:05:38.252Z"
   },
   {
    "id": "af75197690e1",
