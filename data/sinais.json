@@ -1,7 +1,178 @@
 {
- "atualizadoEm": "2026-11-24T04:05:59.687Z",
+ "atualizadoEm": "2026-11-24T20:10:45.095Z",
  "aviso": "Títulos e links de notícias públicas; o conteúdo pertence a cada veículo.",
  "itens": [
+  {
+   "id": "822ae41d71ea",
+   "titulo": "Chance de computador quântico quebrar criptografia em 10 anos é de 28% a 49%",
+   "fonte": "Paraíba Business",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM1dvMWtmSnpjOWcwM09NdHZuSmctTWk3VXB3T3JTZnQ1bnZzdjBnOXBxSG5FNUszTDFnbUVnNGt1WnlQWm83dS0xQzJrU05OcS1DdjhUVEx3S1BLc0JrVE94V25PSUExRnhUcE1SaTdldEtzOThTZmdlQ1E0bmlhV1ZfckVrOHRLb2dDTjUtakxXdWh0cW5uN0tWUmNpZHpxZkZFSE1yeGhQUQ?oc=5",
+   "data": "2026-11-24T17:40:00.000Z",
+   "temas": [
+    "quantica",
+    "ciquanta",
+    "financeiro"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Chance de computador quântico quebrar criptografia em 10 anos é de 28% a 49% Paraíba Business",
+   "coletadoEm": "2026-11-24T20:10:12.549Z"
+  },
+  {
+   "id": "e908d1a1fb01",
+   "titulo": "Ethereum ‘para’ atualização para focar em resolver ameaça da computação quântica",
+   "fonte": "BitNotícias",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSUVvQmJvMHpjc1Fpckx4QWNnN3p2X0pmM1VOOG1QODFWZHNELWdUSjhTSElIOE41XzZERWhNWTVzdW5EX1BjNUhuVmVCeDIxZUNNRFo3UnllT0s1RnM2SG5rZlBmd2gtZjROVEwxcTY2UTl4Z3ZwMV9vXzhQb3VMUGhhYUpiQWJScXR2N184aWVtZw?oc=5",
+   "data": "2026-11-24T15:00:18.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Ethereum ‘para’ atualização para focar em resolver ameaça da computação quântica BitNotícias",
+   "coletadoEm": "2026-11-24T20:10:12.551Z"
+  },
+  {
+   "id": "3f015ca6c5e9",
+   "titulo": "Portugal tem oportunidade para se posicionar na linha da frente da computação quântica",
+   "fonte": "Forbes Portugal",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdWpKelYyTGY0MTJNcU84M1JYNmtQdmdQQnJ3azFFVWtfR1NXbEFFNUh3SVR6N3dIbWZtYUJsQ3FDdkxDLUVkNzB0NGlmN0Zxc3hWSTVCaXRsUEYyVThZa0xSOGlLNjZQQ1hxWXh0djExRnFYa3dIemRMR3BCVEIweVVQTS1PTkc5M1Bwb0Fvei1mdnhZRkh5M3pGcDBGRzJvUWZrOVpSYzhib1M3aXBGUG9R?oc=5",
+   "data": "2026-11-24T14:12:11.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Portugal tem oportunidade para se posicionar na linha da frente da computação quântica Forbes Portugal",
+   "coletadoEm": "2026-11-24T20:10:12.551Z"
+  },
+  {
+   "id": "e95fb31a46da",
+   "titulo": "Aeroflex mira liderança latino-americana com nova fábrica de R$ 150 milhões e investimentos em tecnologia",
+   "fonte": "Portal Nosso Dia",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZHNvcjQyVjhpWDlUSkRsQ0JYOFA3SnBwRXVwcWtBdnd1Ni1qWVNWa1F2bXp0WkRUVjYxVk9FejhrUk5Vd1BNd0o4aHBiVFhDQWhzcVJtMU9mbjNyZnVzbFdrRndtNGF1YjFfTUhFQ0tBMlFyV0ZEVDBoOFhUMEQwcVpodVhENl9hWlp5TG5JWEo0bkxYM2RnN0JqRHVQN3pWVG5YaEdtMzNoTTB6NDVtZUQ4bkUxTmFNWHNEeHBSTVhTYWZiczhoaQ?oc=5",
+   "data": "2026-11-24T13:15:21.000Z",
+   "temas": [
+    "pdi"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Aeroflex mira liderança latino-americana com nova fábrica de R$ 150 milhões e investimentos em tecnologia Portal Nosso Dia",
+   "coletadoEm": "2026-11-24T20:10:30.982Z"
+  },
+  {
+   "id": "5437608cbf87",
+   "titulo": "Rio Grande do Sul lança 1º fundo do país para startups deep tech",
+   "fonte": "TV Sim Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUmRlYk5NOV9MSlF4bGZrX0M3MmFvb1VKUU8tSmhLMDFWemJwRVhDRFhzODRnT1drN213X0pGSV9kMUR6SFFUTXVncGZKS3FXLTc0cDFHckh5OV9WQldjWktYb2V1bXZ2Wkx1UG1wb3ZlNnZkMC1vc2hHM1Nkck1KQU1QTEJJYnJ6aWc5STVFNk9MQ2xPTk5kenJRN1piT3lDVFI2X1NfbGZPZ3FrM0pMQ0NYalFFX3RTMHM1LWRWWGI?oc=5",
+   "data": "2026-11-24T12:15:50.000Z",
+   "temas": [
+    "investimento"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Rio Grande do Sul lança 1º fundo do país para startups deep tech TV Sim Brasil",
+   "coletadoEm": "2026-11-24T20:10:29.061Z"
+  },
+  {
+   "id": "57fb56ba147c",
+   "titulo": "Abin elabora plano de transição para criptografia pós-quântica com meta em 2029 e conclusão em 2035",
+   "fonte": "sentidohorario.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR1FSZFBNaW0teUxqakZRWjJCWGM0UHg3MkNqcVlTejlhSERYc3lYYVY5ZVNYZ3I1RDQ2UnJ1OUUxR1hESDREZ01ZUjBTb1hKdE9IZ19lUVdJSFh0R0hhdEUxcE4ydGF5R2lmUHB0c1ZxYi1KV213aW42SG93ZDhwN2pDM0NJcGVyWHlCY1pEMWZaODlEV3FpZTB0NzlTOEJfZVJSb0w4a0xVRkd1UzNITzhIQy1aRXlFcVVzN0xVOWViM0RCS3YxcThR?oc=5",
+   "data": "2026-11-24T11:04:50.000Z",
+   "temas": [
+    "seguranca"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Abin elabora plano de transição para criptografia pós-quântica com meta em 2029 e conclusão em 2035 sentidohorario.com.br",
+   "coletadoEm": "2026-11-24T20:10:19.864Z"
+  },
+  {
+   "id": "a2065b818d35",
+   "titulo": "Estado cria fundo de R$ 100 milhões para startups de tecnologia avançada",
+   "fonte": "Rádio Guaíba",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZjNlOHhlWWgxakxwQ3dPSHF0cWloc0hnajBIZTJKQWVRZlRXOHdxd2pFNE9aX3BUZnJoQ3pSLS11emozZ0RMU0hpSTVHQkQ1S3ZXN2dDNFVNR0RQZWI4YTJndmFLMU1XaFp4MGhwZWZSc0R2VTVxbkM3X2dMQ0dsYl92cFRLVzFBWnluMGR4SmxYQmpsalFVaFBR?oc=5",
+   "data": "2026-11-24T10:15:00.000Z",
+   "temas": [
+    "investimento"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Estado cria fundo de R$ 100 milhões para startups de tecnologia avançada Rádio Guaíba",
+   "coletadoEm": "2026-11-24T20:10:29.062Z"
+  },
+  {
+   "id": "95ddc35cf232",
+   "titulo": "Badesul lança fundo de R$ 100 milhões para startups do RS",
+   "fonte": "Grupo AMANHÃ",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHpMOEQ2Qmcwdk1wdWo4TGFYOVJOWXhPd1cxdFV0YVVGTnRvejlWcE1BNjkwV2hCSVRCbG5vd2dmUUlpSlNSOWUwQU1ldFB5d3RFTFJ6NThxV2tpaWMxQXFrc2xnMVVBdzVQZjhERnZBcjBNUmlSY2dJbzNFZElqTGJzazZ0YUlXSVBETGliaDZ2ZlE5SmxSbUlTSWVwal9Fbnc?oc=5",
+   "data": "2026-11-24T09:51:00.000Z",
+   "temas": [
+    "investimento"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Badesul lança fundo de R$ 100 milhões para startups do RS Grupo AMANHÃ",
+   "coletadoEm": "2026-11-24T20:10:29.061Z"
+  },
+  {
+   "id": "50d62ae6f089",
+   "titulo": "Google usa IA para baratear cálculos quânticos com provas matemáticas",
+   "fonte": "O Cafezinho",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWG82eHJURGxVbnZ3ckFSWldhUF9VN1lnc20zd0lVS1dTVnZ0a3NCSFQzeXI0NFUtaUR1OHFQaERrT012VldCd1U1NG1LSWI5UGJVRlFRVmlBTWUwaUVwd3VBdzlTbUFWckR6WE1fZXpUWnctblFDT25Vb1hRdG54VVFOak9RNE85aTdIcDJEa1pieEhOVFRpMWhVRV93cXVtRmlLNWktd0JPOW9l0gGyAUFVX3lxTE9DSmg1R2FNVklrSjFJZ0RkT1FfUVBnajB3RTloZnNJOV8wVFFTYUExcFNUTmg5WHhGYld3RVhick40V3hfSnJUSGJOajVCbER5VlM1a1dKVTlrOUxFNUdDUGs3ejYzSGNpWnFDSlppRzBmdkVva0lqZTk2dEM0ZW5lS3MwUWlrdWFWcExnM1cyRkljQllaRW5UZE00MG1uZ2d3WGRRSkpGSU1yZjR0eVN1S0E?oc=5",
+   "data": "2026-11-24T07:20:00.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Google usa IA para baratear cálculos quânticos com provas matemáticas O Cafezinho",
+   "coletadoEm": "2026-11-24T20:10:12.551Z"
+  },
+  {
+   "id": "0644f44e5a6c",
+   "titulo": "A Ethereum Foundation prioriza IA em vez de computação quântica. Veja o que investidores abrem mão",
+   "fonte": "BeInCrypto",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yQThCamFqTnlodVN1Z0JUNi14bFJvc29hZ1BxN0VvZWtoTWV0b3E0SDhTQkFSV2wwUEw0cjBCMVB6RnFMYXN6Q1BrczMyaEZmWnFrSGJtWlEzX0x3NURQM0tYQ3pGUzJKTTJ3SE1DYlhtVXJ4SlAxYXRfeVZEZw?oc=5",
+   "data": "2026-11-24T06:15:12.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "A Ethereum Foundation prioriza IA em vez de computação quântica. Veja o que investidores abrem mão BeInCrypto",
+   "coletadoEm": "2026-11-24T20:10:12.550Z"
+  },
+  {
+   "id": "a0d6da35cd76",
+   "titulo": "RS lança edital para criação de fundo voltado para startups",
+   "fonte": "www.correiodamanha.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLVR3MDlPbTFzeWVGS1hPODhJclVvZ3FBVFVUZzJramY4RU5SdXpfU016OHZWRmN5RjV4ZjNWSTdFbndZZXJ4clNpUWRPTVozZWZ4MXU0WTJHNmNFQWxmTTNTSUl0LUJLUjBOSV81NTg5dXhtdjYyalhoaDBwZWRyZmVyWkNlQUZtSmxYeHNtZGVWaW5yMU9ZMlNtZzFrWHRpY1pLMjU1blhqUDRRaWJ5VG9tcDhxcEtHMmJHWFM1RmFQZU41cHlTV01n?oc=5",
+   "data": "2026-11-24T06:01:00.000Z",
+   "temas": [
+    "investimento",
+    "edital"
+   ],
+   "orgs": [],
+   "edital": true,
+   "resumo": "RS lança edital para criação de fundo voltado para startups www.correiodamanha.com.br",
+   "coletadoEm": "2026-11-24T20:10:29.062Z"
+  },
+  {
+   "id": "10e5200dcb87",
+   "titulo": "RS lança edital para criação de fundo destinado a startups de tecnologia avançada",
+   "fonte": "Correio do Povo",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdHMzc3NSeGVQYkxwdkxEY09NZGtpWWZRNXdPbTRwN0ctMWdGTi1VVkdfdXhlTlZmWnJPNDVFS1pCcWFPMmxQb0RMQ1kwLXREZHdUdGJWM0lqU2RLYmxlUXYwcTBFdU5SSzREbnJGS01VZTZQeFRLS29mLWtpYzE2ZDdJYXk3aEFzOExfVWFxd25yY1pKNHE5YmtVaWltZWxLejkzbUNDQjBJbDRJU1pkQml4OHhfT25Dbi03MVRLV2xKS2EwZ2tjeU82SkxtQTdsby0zOS1XZi1qcEpia0pjdg?oc=5",
+   "data": "2026-11-24T03:19:34.000Z",
+   "temas": [
+    "edital"
+   ],
+   "orgs": [],
+   "edital": true,
+   "resumo": "RS lança edital para criação de fundo destinado a startups de tecnologia avançada Correio do Povo",
+   "coletadoEm": "2026-11-24T20:10:32.922Z"
+  },
   {
    "id": "7649de35cd74",
    "titulo": "Rio Grande do Sul lança fundo inédito de R$ 100 milhões para acelerar startups deep tech",
@@ -185,7 +356,8 @@
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcUpYNkJVU1pWczVkbUVoZ0oxenNHT1dPVDNLWmxDbFM2TkN2Q0VjOTgwaGRaYXIzamRZb3RaZ3RZZXRDWVE3Vk85eXEyY0xJSzZyeEkzMUhfSWJGUEJvVUNXNzRhOVhYTkNfWUhOWk1VV0c4TUs2aFc2VEFKN19KdzdTeWJPNTFjMWMzSzI2MNIBjwFBVV95cUxQcUpYNkJVU1pWczVkbUVoZ0oxenNHT1dPVDNLWmxDbFM2TkN2Q0VjOTgwaGRaYXIzamRZb3RaZ3RZZXRDWVE3Vk85eXEyY0xJSzZyeEkzMUhfSWJGUEJvVUNXNzRhOVhYTkNfWUhOWk1VV0c4TUs2aFc2VEFKN19KdzdTeWJPNTFjMWMzSzI2MA?oc=5",
    "data": "2026-11-23T17:54:56.000Z",
    "temas": [
-    "quantica"
+    "quantica",
+    "saude"
    ],
    "orgs": [],
    "edital": false,
@@ -199,7 +371,8 @@
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcjFzb2tEYUNZWlVRT3kxcU9EYWIzM1c4ZUdGU0V4bE4xaDlWUkQ1TmtmalB2ZE80MnR2aTJxN2RmTU5rWF9OaThpc3ExNDNfU1BOVW85S1hLczVrbjNtbWRyU3B4MEpkbktsNFlOZUVZdmVmLVpTdkttZ1lIb0dfVEduLUl5YURIM2ZieFdtSm51enBKamdpSXozMmM4VlV4dUJQSjZYYV92dUlDZWV4dWFmM3VUUXJXMS1pa0g1ZkU0S3pfNjgzZTQtWjk4TzVL?oc=5",
    "data": "2026-11-23T17:49:00.000Z",
    "temas": [
-    "quantica"
+    "quantica",
+    "energia"
    ],
    "orgs": [],
    "edital": false,
@@ -322,6 +495,20 @@
    "coletadoEm": "2026-11-23T21:25:27.168Z"
   },
   {
+   "id": "85d35abe6639",
+   "titulo": "Abin revela plano de criptografia pós-quântica para reforçar segurança de dados",
+   "fonte": "PrimeiroJornal",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR3VBejVfT21CNW5TalA4NlBwT3Q2c1NrQjZWQlFPTFRXRU5nRVpOcVRmWlNla0oxeDB2MGhmT3NjSzVxWEdDOXl1X19OYTNvVjlZdWlIelNINkRMY3l5Zi1rT0xDcTZrYUpVN0c1dDJnSGRYb3FjN1R1bG51WXlnVlBuX1B2ZG5XWjQtUllNZFBGaFhsNGt4YlFuaw?oc=5",
+   "data": "2026-11-23T16:35:31.000Z",
+   "temas": [
+    "seguranca"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Abin revela plano de criptografia pós-quântica para reforçar segurança de dados PrimeiroJornal",
+   "coletadoEm": "2026-11-24T20:10:19.864Z"
+  },
+  {
    "id": "176100ca71fb",
    "titulo": "Bradesco inicia testes com tecnologia quântica para proteger ativos e dados financeiros de ataques hackers",
    "fonte": "BitNotícias",
@@ -373,6 +560,20 @@
    "edital": false,
    "resumo": "Computação quântica acelera e força revisão urgente da criptografia 93 Notícias",
    "coletadoEm": "2026-11-23T21:25:19.833Z"
+  },
+  {
+   "id": "def590d23d18",
+   "titulo": "Governo do RS lança edital para selecionar gestora de fundo destinado a startups de tecnologia avançada",
+   "fonte": "Timoneiro",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQakFJSkE4RlMyeWc4M2ZkS3pvRzFNS1VWWGhfY0ZPNm9jR2xNOXBkZ1E4UTJodGFJMGZsc3Q5OEpXeXQ0bk8wWVlZT0kxOUk1eVhpZmN3UlhGUnMxR1dMQTAwZmdVSVRhS3l4d0xMM0Q5dlRRenhxLS1sY25VblFSQWF3b0NPTUJJWklDZXBhRjFJYkNTMDQ0eGpjSmtSdTdCYk81ai03WmRyX2Mw?oc=5",
+   "data": "2026-11-23T11:37:23.000Z",
+   "temas": [
+    "investimento"
+   ],
+   "orgs": [],
+   "edital": true,
+   "resumo": "Governo do RS lança edital para selecionar gestora de fundo destinado a startups de tecnologia avançada Timoneiro",
+   "coletadoEm": "2026-11-24T20:10:29.062Z"
   },
   {
    "id": "1424cbe10261",
@@ -466,6 +667,20 @@
    "edital": true,
    "resumo": "Governo do Estado lança edital inédito para startups de tecnologia avançada na segunda (23) Portal do Estado do Rio Grande do Sul",
    "coletadoEm": "2026-11-23T21:25:36.513Z"
+  },
+  {
+   "id": "50f906de4742",
+   "titulo": "Computação quântica e blockchain: alerta a IOSCO",
+   "fonte": "Bit2Me News",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ubWI4bHRyWGthY0dFTUFObmxQOExMaGRJV1A0LUlpTWNYRmVnTTNVLXhaY2treG9iOWdNTkdHRU8xeEZJVl9yNHlmZ3RVamh6LVhhdm1QWGV4bUx2OUZDbHZsTUxnaGRLVHlRbUdReTFXSlVQbjhQakNMVXFDdw?oc=5",
+   "data": "2026-11-22T16:00:33.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Computação quântica e blockchain: alerta a IOSCO Bit2Me News",
+   "coletadoEm": "2026-11-24T20:10:12.552Z"
   },
   {
    "id": "c707b94f58bd",
@@ -756,6 +971,20 @@
    "coletadoEm": "2026-11-21T00:16:07.414Z"
   },
   {
+   "id": "d1df3b4c4bcc",
+   "titulo": "Computadores quânticos já estão no Brasil: como o país entrou no jogo",
+   "fonte": "Olhar Digital",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZVZLOUxWSU1RN052NWxoNmh0aWJmZm1zRGc1NFBsQ1lCX1ZYX1ZlVDNONnd6VDlyZzF4VUYzeDhTVmFuTUdVM0VlclR0SUVFWmw4bC1QTm03VHZwWE5kX0pJNmhaTzQ3amozM0ttaVNsS0FMV1lJbEVUWTNnSGhqNFp4SW9jcU13VndZQy1qTW83T0YwMkp3WmZKd3U2Q052QW5IeW05ZlB6aGljNElYSlY4MktOeExfaTJ0TTlSQmpOenc?oc=5",
+   "data": "2026-11-19T20:39:00.000Z",
+   "temas": [
+    "energia"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Computadores quânticos já estão no Brasil: como o país entrou no jogo Olhar Digital",
+   "coletadoEm": "2026-11-24T20:10:25.386Z"
+  },
+  {
    "id": "d2dad86610bd",
    "titulo": "Google Quantum AI demonstra contextualidade em 105 qubits",
    "fonte": "Unite.AI",
@@ -947,6 +1176,20 @@
    "edital": false,
    "resumo": "Primeiro computador quântico da América Latina vai ser instalado na Paraíba Jornal O Sul",
    "coletadoEm": "2026-11-19T00:45:09.093Z"
+  },
+  {
+   "id": "7eeca464aa71",
+   "titulo": "BASF Inaugura Centro De Inovação Em Poliuretanos No ABC",
+   "fonte": "ABC Agora",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GQXVaZG5jbnBCRklzWWJxaG1EZXJKUFZQeDBWNktySV9tWXljSk9uMnR2ZjVUYkt5Z2F2cGtOdjZ5M2lTb0diWXY3SkZvWEk2SEliTHpCRVRaZ2pHUnlLb0RjN0Y2TWNjbHNLQm5nSGRZWkJWOGpTWjJXZmM?oc=5",
+   "data": "2026-11-18T20:21:00.000Z",
+   "temas": [
+    "pdi"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "BASF Inaugura Centro De Inovação Em Poliuretanos No ABC ABC Agora",
+   "coletadoEm": "2026-11-24T20:10:30.982Z"
   },
   {
    "id": "1c1bb6f8e59d",
@@ -1308,6 +1551,20 @@
    "coletadoEm": "2026-11-17T18:34:42.549Z"
   },
   {
+   "id": "ff2fe775323e",
+   "titulo": "Computadores quânticos chegam à Paraíba e serão instalados em JP",
+   "fonte": "PB Hoje",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVllsMGNnWGlQZTRLSkhsczMyT3FBT2tvcEFSTjRxRk90SFJ3ZTZMMVUxYXUwc0hLR21wVnMxN3hnZXAxUlBMQXJQUThXU0wwMUhnVXh4TEt2aDVDV2t0dFVJTnVrX01pVVI4WlZUbm9jQ0JfSWlFSmdsb1RjVWpxOEx3T1MtSVRhR3BLOUVraG9HSkJSTk1xY2FCUQ?oc=5",
+   "data": "2026-11-17T12:00:12.000Z",
+   "temas": [
+    "ciquanta"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Computadores quânticos chegam à Paraíba e serão instalados em JP PB Hoje",
+   "coletadoEm": "2026-11-24T20:10:18.034Z"
+  },
+  {
    "id": "9ebaac1cab5d",
    "titulo": "Secretário diz que computadores quânticos terão impacto direto nas universidades",
    "fonte": "Cariri em Ação",
@@ -1391,6 +1648,20 @@
    "edital": false,
    "resumo": "Paraíba recebe os primeiros computadores quânticos da América Latina Vitrine do Cariri",
    "coletadoEm": "2026-11-18T01:19:22.439Z"
+  },
+  {
+   "id": "ca905a676748",
+   "titulo": "WS: Paraíba entra no mapa global da ciência quântica e prova que gestão eficiente atrai desenvolvimento",
+   "fonte": "WSCOM",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWWRlQWZEaVgyOWJ5aDVTbFZGemNIRTRBS0hfOGk2M0x0TDY3OUl5NFNZVDNTSGNBM0c0YW1yXzR3LU0zX1dlUVNHS016LWVxMmJSNEpXbTVHbFJabUEyNzMtc0ZCVENmMDBoN0F1M3lvY1lybkNvcklyVUtnN053S0lxNVFiamdKNE1KTXYySmI0NUswTm01cXcxZjR6eEFVZ0x6Nkk4dk43YmFvRUhLVm9hQnB0elJiSDZYUS1ma3FTWGd2b1pFNW5TQ0N2TTBKSEZYSFNGSlQ0WlJtMUdZaklRYzdMZw?oc=5",
+   "data": "2026-11-17T09:01:46.000Z",
+   "temas": [
+    "ciquanta"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "WS: Paraíba entra no mapa global da ciência quântica e prova que gestão eficiente atrai desenvolvimento WSCOM",
+   "coletadoEm": "2026-11-24T20:10:18.032Z"
   },
   {
    "id": "d5a187d74c1d",
@@ -1528,7 +1799,8 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlNVV3pXb3ZZUWJ6eDBWUFBvQkNLWmhJdTVLM3ljNWQ0ekh5OGFxdjhWVXdZdjUzaUh2ekFtS2tMazB0X2lsdUxiRERRaDJubDFjU2xBSTV2NjdOcWxHZ0R5M3htVXBLTXJHcENQSHo4SWVYOFd4Qm5scFVpSGQxenlJcWRrcXJsRzNHMDk4WnQyNUt4LVdLTC11V0d3VkFPSGJlTFVCWVR2WGVTa29BWnNhS0RpMjRB?oc=5",
    "data": "2026-11-16T22:13:37.000Z",
    "temas": [
-    "quantica"
+    "quantica",
+    "ciquanta"
    ],
    "orgs": [],
    "edital": false,
@@ -1543,7 +1815,8 @@
    "data": "2026-11-16T22:00:00.000Z",
    "temas": [
     "quantica",
-    "saude"
+    "saude",
+    "ciquanta"
    ],
    "orgs": [],
    "edital": false,
@@ -1565,6 +1838,34 @@
    "coletadoEm": "2026-11-17T00:13:49.160Z"
   },
   {
+   "id": "ccfa286ec8aa",
+   "titulo": "Governador acompanha chegada dos primeiros computadores quânticos da América Latina à Paraíba",
+   "fonte": "Termômetro da Política",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNEFxX3pXYmtuX0F5VWNLS09sV3duRlBfUVFBZ3BGalN0UHFpMGdIaTd0U2lxcDVQSGRNMHhBZW1hZm1Qd0FnQi1zT1p5eEkzX2xfSlc0MFZEc090Y09jUV9PeHNvcWJpYzh6MTRfZXRiVDAtRmR5US1ZNXp1QjFnWXZndmlnYmlUeGxBcUdDUUk2Ul9UUDE1SDZuU2R2OW0zdU5WbWNxRzFEck1oaFhqWGJqbVpERmo4Z2gtN3BtRFZRdUNJdmNISDE3SndTeGtfOVpjVWdWT1lXMER5el9nbmRIa2pjUTJ0Z1ZNX0hUSTA?oc=5",
+   "data": "2026-11-16T21:31:00.000Z",
+   "temas": [
+    "ciquanta"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Governador acompanha chegada dos primeiros computadores quânticos da América Latina à Paraíba Termômetro da Política",
+   "coletadoEm": "2026-11-24T20:10:18.029Z"
+  },
+  {
+   "id": "9edb358d044d",
+   "titulo": "Primeiros computadores quânticos da América Latina chegam à Paraíba e serão instalados em João Pessoa",
+   "fonte": "83 Agora",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOajZQbkxaekl0Y0J3bzV5U0l1RDh3UXNtRWtnQ2QzYTY5eUlLLVF2Z1h4UjBVRUdFbjRfY0g0Q19VYTNZNG1wamYzcVE5a0d2M2ROLThLWFZTUXVvMzVFOFZUUWtOZzh5VWR2eGdqWVVoRHNUUXc3aGExQkVNMFdfYWFlR2hWU1VwRHE3TXRnQmdOaS1QWGNfMlNwZ05ZUkNNbEZvcVgwYk5hOWNPcUhLdzFOUXFiRHFGZ3B4WVVaV3lZUDA?oc=5",
+   "data": "2026-11-16T21:15:29.000Z",
+   "temas": [
+    "ciquanta"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Primeiros computadores quânticos da América Latina chegam à Paraíba e serão instalados em João Pessoa 83 Agora",
+   "coletadoEm": "2026-11-24T20:10:18.032Z"
+  },
+  {
    "id": "8822cc92b98b",
    "titulo": "Dois computadores quânticos chegam a João Pessoa",
    "fonte": "WSCOM",
@@ -1577,6 +1878,20 @@
    "edital": false,
    "resumo": "Dois computadores quânticos chegam a João Pessoa WSCOM",
    "coletadoEm": "2026-11-16T22:20:06.865Z"
+  },
+  {
+   "id": "7111815576d0",
+   "titulo": "Chegada do computador quântico a João Pessoa sofre atraso e será reprogramada para esta tarde",
+   "fonte": "Paraíba dia a dia",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdVpWeEZGcmdOYXhmYW1wX3hUeDQyQlpCUlZkWk1peGlQWmpLdlpzcjlTamNNU1U5Y1dJbnhoZTVFTXBiY1ZKbXM4bG8zV19jejJsanUyR1Y4cUxwUXZxcDlaU05QSlZnZVVVeXNQX0JkT1NkQjh1aktoMGRqRG5DU3pMMnN2TEdlYVQ5U2lGZmtGNjBaWEo1YXJyWkpGTXNnNnFBcE1ROGc4eV9XUENTVnpVVFR4eTNjd1ZIaGRiMmtrQQ?oc=5",
+   "data": "2026-11-16T20:28:45.000Z",
+   "temas": [
+    "ciquanta"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Chegada do computador quântico a João Pessoa sofre atraso e será reprogramada para esta tarde Paraíba dia a dia",
+   "coletadoEm": "2026-11-24T20:10:18.033Z"
   },
   {
    "id": "c5ca1386d99f",
@@ -1785,18 +2100,64 @@
    "coletadoEm": "2026-11-16T22:20:19.309Z"
   },
   {
+   "id": "7d9808e08b37",
+   "titulo": "Computador quântico chega a João Pessoa nesta segunda-feira (16) sob escolta especial",
+   "fonte": "Poder Paraíba",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWl9BRllORXNEckNuY0x3WTNDUHl0N3Z0ZnZ3TzlTVEs0alQxRW5sUVJtUUVpYV8yYjNOenF4YU1ZNjhlbHhOS3hNeVdrNlNKeGRTbkEtOV84SDJoSDNkdGY1aHlnaERnZ1haV0VsckR6SGd1QkRiOUNKZDdfRHJKSHh2dDluNlNLWGVrUkJGaGZOVXhoSHFlRXQ1OG5oNzhrRDlCVEdRSGZJNnJiejNfWkVn?oc=5",
+   "data": "2026-11-16T13:48:50.000Z",
+   "temas": [
+    "ciquanta"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Computador quântico chega a João Pessoa nesta segunda-feira (16) sob escolta especial Poder Paraíba",
+   "coletadoEm": "2026-11-24T20:10:18.033Z"
+  },
+  {
+   "id": "b4709cde50c3",
+   "titulo": "Carreta com computador quântico atrasa e deve chegar a João Pessoa à tarde",
+   "fonte": "Polêmica Paraíba",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZV9CQzZGd1dvaC16UFczekZSbF9Ec1VWcGpDclVrSTJ4NHVlTGdDQ2dVM3ZJb09uX2FidjlLYVdiak1fSXM1MWhiZW1HME5oSDBtQ1Bnak9HTm9MYlpTOUNxdmhyN0l4aTVVWnVXZXg0MUtLaVVZYXp2Z2J3SUZXZXFxZHUxTU5uNHVmNzFHYVRScDczLWtEbGg3VWRoUUNXak1maUtzWnpiLVVJeGpsSUhBbndxQm9ZOWFVbDY4Rno1UHMzMTd3?oc=5",
+   "data": "2026-11-16T13:16:43.000Z",
+   "temas": [
+    "ciquanta"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Carreta com computador quântico atrasa e deve chegar a João Pessoa à tarde Polêmica Paraíba",
+   "coletadoEm": "2026-11-24T20:10:18.034Z"
+  },
+  {
    "id": "9566b4ed58ac",
    "titulo": "Computador quântico chega a João Pessoa na tarde desta segunda-feira",
    "fonte": "Maurílio Júnior",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMkthNFJmNmN2NmxuUnFUN2R2Rm1sUGFydWNWVUUzN3VvQU1JNlBmVjM4eU9MSDRHV3M5Qko0b25mOTNVWmxxNnNBVzVBYXJLQ25WeEV2V0VYeXR6THVSOEZ6TFd6azVPNFd5WWdKS0VqRlNLZlJScFJmdzdzcW9RVU5SWm5weEZlQVpMQ0ZrekxZQ09DTjM4Mk1NQnNnWVpfWGRGbTVhQjUyTXM?oc=5",
    "data": "2026-11-16T13:14:24.000Z",
    "temas": [
-    "quantica"
+    "quantica",
+    "ciquanta"
    ],
    "orgs": [],
    "edital": false,
    "resumo": "Computador quântico chega a João Pessoa na tarde desta segunda-feira Maurílio Júnior",
    "coletadoEm": "2026-11-16T22:20:06.865Z"
+  },
+  {
+   "id": "da97969738c8",
+   "titulo": "Computador quântico deixa Porto de Suape e chega a João Pessoa nesta segunda-feira",
+   "fonte": "Polêmica Paraíba",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVVpzLUpsLVBubVE0emZ1MzhKaW9EN21nRUVjdU1mV3MydFRwMFJheVF5YTc0OWVqeG1ReE8teFBZelJPemR6TlBTdkl2OG9NM1R2R2J4NWNMenFSTUdoR3EtdVQ3ZEExRXVpSkRvbVRNTDBMX1FWMlN6dnRid2tyVkJiVXNqaHlUcURpSW5aQlNJUngzWDhUSGt2WDhkSmpWR0dlcFBMTkdtZERQTFNvd0xUeTdHeUoyN3ZvSXZvNERBbHJo?oc=5",
+   "data": "2026-11-16T11:48:34.000Z",
+   "temas": [
+    "ciquanta"
+   ],
+   "orgs": [
+    "ref-porto",
+    "ref-porto-de-suape"
+   ],
+   "edital": false,
+   "resumo": "Computador quântico deixa Porto de Suape e chega a João Pessoa nesta segunda-feira Polêmica Paraíba",
+   "coletadoEm": "2026-11-24T20:10:18.034Z"
   },
   {
    "id": "11c0e8059bfb",
@@ -1872,6 +2233,20 @@
    "coletadoEm": "2026-11-18T18:04:13.161Z"
   },
   {
+   "id": "22113850a561",
+   "titulo": "Computador quântico chega a João Pessoa nesta segunda-feira (16)",
+   "fonte": "Paraíba dia a dia",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQkZKZGsweHhrdDNSSkV2TGN6OFlqb0llTXBxakRTeFRCeGg2NG5lU0tfWTVqa0d3SXNUYUpxZGJpRDlfdG14YUduWk5kN3pzcmM0VWQzalhqUE9GaksxQjRWOTQweDNCNzE3QnpsaDJsRWZiQy1meHdHcWJsUENqamppM1NlOS1YTHNRUVNwZlZzSEhaZUxVOA?oc=5",
+   "data": "2026-11-16T04:50:09.000Z",
+   "temas": [
+    "ciquanta"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Computador quântico chega a João Pessoa nesta segunda-feira (16) Paraíba dia a dia",
+   "coletadoEm": "2026-11-24T20:10:18.031Z"
+  },
+  {
    "id": "9b5a1f181c38",
    "titulo": "Abrindo caminho para que os jovens trabalhem com tecnologia quântica em Gia Lai.",
    "fonte": "Vietnam.vn",
@@ -1884,6 +2259,20 @@
    "edital": false,
    "resumo": "Abrindo caminho para que os jovens trabalhem com tecnologia quântica em Gia Lai. Vietnam.vn",
    "coletadoEm": "2026-11-16T22:20:06.865Z"
+  },
+  {
+   "id": "d054233d44a8",
+   "titulo": "Computador quântico chega a João Pessoa nesta segunda-feira em operação especial",
+   "fonte": "Parlamento PB",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTUFJWVZ6V0tEZi1VdG9GM3NKb3ZhMXNXbms4QXRpNk5hREEtWVFjcnFsRzJVbG9MTWpwOFkzLTliODFwb1c0amVxeDlqSXBpLVMwM3I3ejJKT0JscFprQUJmczJteUF3OEh4WTNhamdrWXIyeUNITUpETUF3cWJYbkVTYkpFNG9NTDFYR3Qxd3pLVFQ0cW5ySEFhWDhFRUw4ckZGVEJiSjlQa0lUakE?oc=5",
+   "data": "2026-11-16T00:17:27.000Z",
+   "temas": [
+    "ciquanta"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Computador quântico chega a João Pessoa nesta segunda-feira em operação especial Parlamento PB",
+   "coletadoEm": "2026-11-24T20:10:18.032Z"
   },
   {
    "id": "be8a08359b46",
@@ -1972,6 +2361,20 @@
    "coletadoEm": "2026-11-16T22:20:23.069Z"
   },
   {
+   "id": "af86b981cd8b",
+   "titulo": "Paraíba encerra missão em Lisboa apresentando o Ciquanta e com visita ao Parahyba TecHub",
+   "fonte": "Portal do Litoral PB",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHFLX0pGVmhhLVlBOUFUbktTdVN2OHlEVUxrY1d5WDdmTUxEOTV6Unh4LUhuck5WUjA4cWlUYVVzMi1wVWhUcGVhQndoekxPb2NQMGYyUVJrTFBFOU9jQ2Q5dXlCX1NrYmFKOGs5RlpMNGZHWHhTS3VMcWpYWjZBT2tsejVQUTJkVEFVdDhIWFRaM0JiMm1PbkdVYm1tQ282dlR1VWZ2dnJsYlFReUlkelhIYmdKZHl2cHdVdmpubmdLN280?oc=5",
+   "data": "2026-11-14T12:43:00.000Z",
+   "temas": [
+    "ciquanta"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Paraíba encerra missão em Lisboa apresentando o Ciquanta e com visita ao Parahyba TecHub Portal do Litoral PB",
+   "coletadoEm": "2026-11-24T20:10:18.033Z"
+  },
+  {
    "id": "243d1f3e0c92",
    "titulo": "Furtado apresenta projeto de computadores quânticos em Lisboa e anuncia edital para startups",
    "fonte": "Maurílio Júnior",
@@ -2040,6 +2443,20 @@
    "edital": false,
    "resumo": "Computadores quânticos na Paraíba exigem -273,14 °C para operar; veja detalhes PB Hoje",
    "coletadoEm": "2026-11-16T22:20:08.696Z"
+  },
+  {
+   "id": "3b2440fb9327",
+   "titulo": "Computadores quânticos da Paraíba exigem refrigeração próxima do zero absoluto; réplica já pode ser visitada em João Pessoa",
+   "fonte": "83 Agora",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUWdrRnRRcGd4WFJUOWRGbGFLSWVlVnZPam5DbmcwWXpmTnNHQ0hpb3lKMzN5Y0FBdHI4YmNjcG5IcnlzdkE3cmtYOTlhMEs2Y1dBZUNFZFBqWU9jWUV4WE9zbnJoQl9xTk5fUEdrcVpDRHlSYlJGRHlTMU53TVBaZGM2VlhpcVpfTVptYWpvdHRuelVqVUszeWs5Tjc4RXpmUWhLaWNjQUhNbmRneDlZVEVzVDFWTEVfVEJ5VUwycVdDb2stbEkzWWFKNnZweVlYNXRuR1FSWno2NTB6MU1r?oc=5",
+   "data": "2026-11-14T10:34:25.000Z",
+   "temas": [
+    "ciquanta"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Computadores quânticos da Paraíba exigem refrigeração próxima do zero absoluto; réplica já pode ser visitada em João Pessoa 83 Agora",
+   "coletadoEm": "2026-11-24T20:10:18.032Z"
   },
   {
    "id": "7af1a1562b0e",
@@ -2723,6 +3140,20 @@
    "coletadoEm": "2026-11-16T22:20:26.308Z"
   },
   {
+   "id": "3057a70f51d9",
+   "titulo": "Paraíba terá computadores quânticos inéditos na América Latina; réplica está aberta à visitação em João Pessoa",
+   "fonte": "THMais",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQa2tjSml3OXQxRUsweWxXS2QxNHVQcmFJZ1V3ZmV0bmVmSmNJa09xZ2Z1YWtSV1g0R29ERzN1R0N3NEhxaWJmOXEweGNHTmFJWHY2NjhvY1BTSVh1ODh2UzE5SkktamtMS0VzT0Q5TVZjZlhELWVZaDVNZVU2THNubVVpandMOW4tNndGWTV3d3E3Z2QtSnlsQmhhemdJM2NfT1BqamNmMy1VUkJjMWpJVGxpVmppcVdZZTNmckJpY3ZfVXh0WWMwVVJKRk45eTBHTFFpRUtqUjdBRzJPbkxzYk5lMGFFdkk?oc=5",
+   "data": "2026-11-11T18:20:03.000Z",
+   "temas": [
+    "ciquanta"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Paraíba terá computadores quânticos inéditos na América Latina; réplica está aberta à visitação em João Pessoa THMais",
+   "coletadoEm": "2026-11-24T20:10:18.033Z"
+  },
+  {
    "id": "30844d3a5e3f",
    "titulo": "Petrobras e CNPq lançam edital de R$ 30,24 milhões para ampliar participação de estudantes negras na ciência",
    "fonte": "Portal Nosso Meio",
@@ -3082,6 +3513,20 @@
    "coletadoEm": "2026-11-24T04:05:38.252Z"
   },
   {
+   "id": "99bf985a4160",
+   "titulo": "Nordeste recebe primeiros computadores quânticos da América Latina",
+   "fonte": "NE9",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQelcya3ZvSVpsLVQ3MEd4ZnoxY3JPT2dMOUFLWW5IRFdHX2FOVmZsOTNpNUZIcWxWT1JCSGVOMlNuWC1iR1B3cmdhY090SmstMWJTS1VaYkRyQkxuRVZMVWxWX1pIQjBxblNmQkpTWEtEMG42RmtrakUyZW1OaTZXeVNhaFJueDJEdGFHb3AtTQ?oc=5",
+   "data": "2026-11-06T13:02:12.000Z",
+   "temas": [
+    "ciquanta"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Nordeste recebe primeiros computadores quânticos da América Latina NE9",
+   "coletadoEm": "2026-11-24T20:10:18.030Z"
+  },
+  {
    "id": "af75197690e1",
    "titulo": "Primeiro computador quântico da América Latina chega ao Porto de Suape para ser instalado na Paraíba",
    "fonte": "JC",
@@ -3171,6 +3616,20 @@
    "edital": false,
    "resumo": "A “magia” por trás da computação quântica Portal da UFRN",
    "coletadoEm": "2026-11-23T21:25:32.856Z"
+  },
+  {
+   "id": "de9cea370e99",
+   "titulo": "Computadores quânticos chegam ao Nordeste e impulsionam projeto de R$ 200 milhões",
+   "fonte": "Defesa em Foco",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUFZWS0lwYmNIQy1jdFU1bmEwWXFRbDV3dlhNRTFITlNhbUIxekZ4MVQ0cWRJMWxDM01KOWFLNUVMbG00OEpySV92dk43RFR1Q3BRNnV6MmRxOENhRm9GYm9QQllFZTRGS2loa3JCVTEwUnlXVEFMS2VEMVdVX3p3X3NDV3RqbFFlSWN1N0xjdHo0anNXcl9wbng0M05NaVhxY1lCaFB2VEYwX2RqX1hlNDI3SQ?oc=5",
+   "data": "2026-11-06T08:00:00.000Z",
+   "temas": [
+    "ciquanta"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Computadores quânticos chegam ao Nordeste e impulsionam projeto de R$ 200 milhões Defesa em Foco",
+   "coletadoEm": "2026-11-24T20:10:18.031Z"
   },
   {
    "id": "ca2920950fbe",
@@ -3321,6 +3780,20 @@
    "edital": false,
    "resumo": "Pesquisa da UEA desenvolve pontos quânticos com potencial para tornar energia solar mais eficiente Diário da Capital",
    "coletadoEm": "2026-11-20T17:48:54.165Z"
+  },
+  {
+   "id": "9174e747fd67",
+   "titulo": "Computadores quânticos de US$ 10 mi da Paraíba viajam 28 dias e chegam a Suape",
+   "fonte": "Movimento Econômico",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM25EYm1aQlhYRmc4WFdzTWY5RWdCUEFVcXBzaDA1cjlMc1YtS213Zjc5dks3X2t4ZWdDZDVQRTdGZURtOUo4YlhubU9Qa1hMaUt1TUNSWnNsVGJCNjNLRURYTi01WGxFN0Q3TmhUM3hlLXZFcXNBRTJ3RnZrWkQ5UFV5WjVXMDQySDBCSDhYN3pOU25aTnlQUm9MSlQ1VXFpT0RLaGItcDR5eGtSMUlfYWVJZnZwUlVwcXNTSzRlS0RDemc5NEk5eVRpMTBXWW8?oc=5",
+   "data": "2026-11-05T08:00:00.000Z",
+   "temas": [
+    "ciquanta"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Computadores quânticos de US$ 10 mi da Paraíba viajam 28 dias e chegam a Suape Movimento Econômico",
+   "coletadoEm": "2026-11-24T20:10:18.030Z"
   },
   {
    "id": "7120a14b8045",
@@ -3732,6 +4205,20 @@
    "edital": false,
    "resumo": "'Maior risco para o Bitcoin é que ele é inútil, e não computação quântica', afirma famoso minerador de BTC da China BitNotícias",
    "coletadoEm": "2026-11-23T21:25:29.175Z"
+  },
+  {
+   "id": "5f976cf37d2d",
+   "titulo": "População pode visitar réplica do computador quântico no Centro Histórico de JP",
+   "fonte": "Política JP",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOam9aVEpvWmhRSjJsSFNRNzlFc0phOEZlV0wwOGFueHNnWU5Wb0MxTkdjSWE3QUVJMG1pNTJuVFJmVEJQZVlkSU5tX1p4ZE43ZGdDVEJTSnFFeHpfLTlNakxyTnAzajR0aWdHek1qQ0RlNC01WlhrNk96WWdhZEt0dE1haXY3Zzg4V245cXRieDBpUUlhMElhd3k5MjJsczctSlBCT1pvVUxYSjNVc0FIdDVJeHB5LU5RU3FsSlFhWVM?oc=5",
+   "data": "2026-10-27T07:00:00.000Z",
+   "temas": [
+    "ciquanta"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "População pode visitar réplica do computador quântico no Centro Histórico de JP Política JP",
+   "coletadoEm": "2026-11-24T20:10:18.030Z"
   },
   {
    "id": "102ce2d0036f",
@@ -4343,36 +4830,6 @@
    "edital": false,
    "resumo": "Movimento conecta estudantes, especialistas e projetos de inovação dos dois países em iniciativas voltadas à indústria, educação tecnológica e inteligência artificial Em um movimento que aproxima os ecossistemas de inovação do Brasil e do Canadá, a Unidade Embrapii Instituto Atlâ",
    "coletadoEm": "2026-11-16T22:20:26.318Z"
-  },
-  {
-   "id": "8106f6039111",
-   "titulo": "Embrapii reúne principais eventos de inovação e tecnologia em agosto",
-   "fonte": "EMBRAPII",
-   "link": "https://embrapii.org.br/embrapii-reune-principais-eventos-de-inovacao-e-tecnologia-em-agosto/",
-   "data": "2026-07-27T18:47:07.000Z",
-   "temas": [
-    "pdi"
-   ],
-   "orgs": [
-    "ref-embrapii"
-   ],
-   "edital": false,
-   "resumo": "Em agosto, a Embrapii acompanha uma agenda de eventos voltados à inovação, pesquisa e desenvolvimento tecnológico em diferentes regiões do país. A programação inclui encontros sobre mobilidade, deep tech, hidrogênio, biogás, indústria têxtil, materiais avançados, empreendedorismo",
-   "coletadoEm": "2026-11-16T22:20:26.319Z"
-  },
-  {
-   "id": "82f3b77969a6",
-   "titulo": "RAMP abre primeira chamada transnacional para projetos de pesquisa e inovação em matérias-primas",
-   "fonte": "EMBRAPII",
-   "link": "https://embrapii.org.br/ramp-abre-primeira-chamada-transnacional-para-projetos-de-pesquisa-e-inovacao-em-materias-primas/",
-   "data": "2026-07-27T18:26:33.000Z",
-   "temas": [
-    "edital"
-   ],
-   "orgs": [],
-   "edital": true,
-   "resumo": "Iniciativa apoiará projetos colaborativos voltados ao desenvolvimento de soluções para fortalecer cadeias de valor de matérias-primas e impulsionar as transições verde e digital A Raw Materials Partnership for the Green and Digital Transition (RAMP) é uma parceria multilateral vo",
-   "coletadoEm": "2026-11-16T22:20:26.320Z"
   }
  ]
 }

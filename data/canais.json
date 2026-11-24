@@ -131,7 +131,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "08561701000101",
-   "linkedin": "https://www.linkedin.com/company/pagbank"
+   "linkedin": "https://www.linkedin.com/company/pagbank",
+   "buscaWebEm": "2026-11-24T20:11:13.097Z"
   },
   "ref-mercado-pago": {
    "verificadoEm": "2026-11-19T00:45:47.321Z",
@@ -139,7 +140,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "10573521000191",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-24T20:11:13.186Z"
   },
   "ref-banco-bv": {
    "verificadoEm": "2026-11-19T00:45:49.057Z",
@@ -171,7 +173,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-24T20:11:13.363Z"
   },
   "ref-b3": {
    "verificadoEm": "2026-11-19T00:45:54.252Z",
@@ -188,7 +191,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/cielo"
+   "linkedin": "https://www.linkedin.com/company/cielo",
+   "buscaWebEm": "2026-11-24T20:11:13.275Z"
   },
   "ref-sicoob": {
    "verificadoEm": "2026-11-19T00:45:59.941Z",
@@ -395,7 +399,8 @@
     }
    ],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/instituto-butantan"
+   "linkedin": "https://www.linkedin.com/company/instituto-butantan",
+   "buscaWebEm": "2026-11-24T20:11:13.465Z"
   },
   "ref-grupo-fleury": {
    "verificadoEm": "2026-11-19T00:46:24.450Z",
@@ -419,7 +424,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/dasa"
+   "linkedin": "https://www.linkedin.com/company/dasa",
+   "buscaWebEm": "2026-11-24T20:11:13.749Z"
   },
   "ref-hospital-sirio-libanes": {
    "verificadoEm": "2026-11-19T00:46:37.618Z",
@@ -427,7 +433,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://br.linkedin.com/company/siriolibanes"
+   "linkedin": "https://br.linkedin.com/company/siriolibanes",
+   "buscaWebEm": "2026-11-24T20:11:13.561Z"
   },
   "ref-rede-d-or": {
    "verificadoEm": "2026-11-19T00:46:33.388Z",
@@ -435,7 +442,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "06047087000139",
-   "linkedin": "https://www.linkedin.com/company/rededor-saoluiz"
+   "linkedin": "https://www.linkedin.com/company/rededor-saoluiz",
+   "buscaWebEm": "2026-11-24T20:11:13.659Z"
   },
   "ref-eurofarma": {
    "verificadoEm": "2026-11-22T17:10:12.370Z",
@@ -1618,14 +1626,14 @@
    "buscaWebEm": "2026-11-17T18:40:03.399Z"
   },
   "ref-ime-instituto-militar-de-engenharia": {
-   "verificadoEm": "2026-11-21T16:47:48.775Z",
+   "verificadoEm": "2026-11-24T20:10:52.573Z",
    "versao": 2,
    "status": "erro",
    "erro": "fetch failed",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-21T16:50:19.312Z"
+   "buscaWebEm": "2026-11-24T20:11:12.698Z"
   },
   "ref-cpqd": {
    "verificadoEm": "2026-11-18T01:20:38.015Z",
@@ -1719,7 +1727,7 @@
    "buscaWebEm": "2026-11-20T17:49:54.511Z"
   },
   "ref-movida": {
-   "verificadoEm": "2026-11-21T16:47:42.565Z",
+   "verificadoEm": "2026-11-24T20:10:45.149Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -1764,7 +1772,7 @@
    "linkedin": "https://www.linkedin.com/company/rumologistica"
   },
   "ref-azul-linhas-aereas": {
-   "verificadoEm": "2026-11-21T16:47:42.614Z",
+   "verificadoEm": "2026-11-24T20:10:45.446Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -1932,7 +1940,7 @@
    "linkedin": "https://br.linkedin.com/company/correios"
   },
   "ref-marcopolo": {
-   "verificadoEm": "2026-11-21T16:47:42.615Z",
+   "verificadoEm": "2026-11-24T20:10:45.345Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -1949,7 +1957,7 @@
    "linkedin": "https://pt.linkedin.com/company/boschbrasil"
   },
   "ref-magazine-luiza": {
-   "verificadoEm": "2026-11-21T16:47:42.674Z",
+   "verificadoEm": "2026-11-24T20:10:45.582Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -1967,7 +1975,7 @@
    "buscaWebEm": "2026-11-20T17:49:54.634Z"
   },
   "ref-ifood": {
-   "verificadoEm": "2026-11-21T16:47:42.631Z",
+   "verificadoEm": "2026-11-24T20:10:45.529Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -1984,7 +1992,7 @@
    "linkedin": "https://pt.linkedin.com/company/complexo-industrial-portu"
   },
   "ref-ita-instituto-tecnologico-de-aeronautica": {
-   "verificadoEm": "2026-11-21T16:47:42.872Z",
+   "verificadoEm": "2026-11-24T20:10:45.937Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -2019,14 +2027,14 @@
    "buscaWebEm": "2026-11-20T17:49:54.763Z"
   },
   "ref-vivo-telefonica-brasil": {
-   "verificadoEm": "2026-11-21T16:47:43.621Z",
+   "verificadoEm": "2026-11-24T20:10:48.009Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-21T16:50:19.491Z"
+   "buscaWebEm": "2026-11-24T20:11:12.916Z"
   },
   "ref-loggi": {
    "verificadoEm": "2026-11-18T01:20:36.509Z",
@@ -2075,7 +2083,7 @@
    "linkedin": "https://www.linkedin.com/company/brisanettelecom"
   },
   "ref-ericsson-brasil": {
-   "verificadoEm": "2026-11-21T16:47:43.265Z",
+   "verificadoEm": "2026-11-24T20:10:46.617Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -2102,7 +2110,7 @@
    "buscaWebEm": "2026-11-21T00:17:06.338Z"
   },
   "ref-intelbras": {
-   "verificadoEm": "2026-11-21T16:47:43.048Z",
+   "verificadoEm": "2026-11-24T20:10:45.630Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -2541,14 +2549,14 @@
    "linkedin": ""
   },
   "ref-ufpe": {
-   "verificadoEm": "2026-11-21T16:48:07.945Z",
+   "verificadoEm": "2026-11-24T20:11:10.595Z",
    "versao": 2,
    "status": "erro",
    "erro": "fetch failed",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-21T16:50:19.412Z"
+   "buscaWebEm": "2026-11-24T20:11:12.802Z"
   },
   "ref-usp": {
    "verificadoEm": "2026-11-18T01:21:54.865Z",
@@ -2560,14 +2568,14 @@
    "buscaWebEm": "2026-11-21T16:50:19.736Z"
   },
   "ref-ufcg": {
-   "verificadoEm": "2026-11-21T16:48:07.945Z",
+   "verificadoEm": "2026-11-24T20:11:10.595Z",
    "versao": 2,
    "status": "erro",
    "erro": "fetch failed",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-21T16:50:19.814Z"
+   "buscaWebEm": "2026-11-24T20:11:13.004Z"
   },
   "ref-eviden-atos": {
    "emails": [],
@@ -3564,5 +3572,5 @@
    "buscaWebEm": "2026-11-23T21:26:42.782Z"
   }
  },
- "atualizadoEm": "2026-11-24T04:06:29.238Z"
+ "atualizadoEm": "2026-11-24T20:11:13.856Z"
 }

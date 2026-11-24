@@ -1,7 +1,27 @@
 {
- "atualizadoEm": "2026-11-24T04:05:59.689Z",
+ "atualizadoEm": "2026-11-24T20:10:45.097Z",
  "aviso": "Chamadas identificadas automaticamente em notícias; confirme prazo e regras na página oficial.",
  "itens": [
+  {
+   "id": "ed-a0d6da35cd76",
+   "titulo": "RS lança edital para criação de fundo voltado para startups",
+   "orgao": "www.correiodamanha.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLVR3MDlPbTFzeWVGS1hPODhJclVvZ3FBVFVUZzJramY4RU5SdXpfU016OHZWRmN5RjV4ZjNWSTdFbndZZXJ4clNpUWRPTVozZWZ4MXU0WTJHNmNFQWxmTTNTSUl0LUJLUjBOSV81NTg5dXhtdjYyalhoaDBwZWRyZmVyWkNlQUZtSmxYeHNtZGVWaW5yMU9ZMlNtZzFrWHRpY1pLMjU1blhqUDRRaWJ5VG9tcDhxcEtHMmJHWFM1RmFQZU41cHlTV01n?oc=5",
+   "publicado": "2026-11-24T06:01:00.000Z",
+   "prazo": "",
+   "fonte": "Google Notícias",
+   "coletadoEm": "2026-11-24T20:10:29.062Z"
+  },
+  {
+   "id": "ed-10e5200dcb87",
+   "titulo": "RS lança edital para criação de fundo destinado a startups de tecnologia avançada",
+   "orgao": "Correio do Povo",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdHMzc3NSeGVQYkxwdkxEY09NZGtpWWZRNXdPbTRwN0ctMWdGTi1VVkdfdXhlTlZmWnJPNDVFS1pCcWFPMmxQb0RMQ1kwLXREZHdUdGJWM0lqU2RLYmxlUXYwcTBFdU5SSzREbnJGS01VZTZQeFRLS29mLWtpYzE2ZDdJYXk3aEFzOExfVWFxd25yY1pKNHE5YmtVaWltZWxLejkzbUNDQjBJbDRJU1pkQml4OHhfT25Dbi03MVRLV2xKS2EwZ2tjeU82SkxtQTdsby0zOS1XZi1qcEpia0pjdg?oc=5",
+   "publicado": "2026-11-24T03:19:34.000Z",
+   "prazo": "",
+   "fonte": "Google Notícias",
+   "coletadoEm": "2026-11-24T20:10:32.922Z"
+  },
   {
    "id": "ed-ea980dd6dd00",
    "titulo": "Chamada FAPESP Jovem Pesquisador voltada a estrangeiros prorroga prazo de inscrição",
@@ -21,6 +41,16 @@
    "prazo": "",
    "fonte": "Google Notícias",
    "coletadoEm": "2026-11-23T21:25:36.514Z"
+  },
+  {
+   "id": "ed-def590d23d18",
+   "titulo": "Governo do RS lança edital para selecionar gestora de fundo destinado a startups de tecnologia avançada",
+   "orgao": "Timoneiro",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQakFJSkE4RlMyeWc4M2ZkS3pvRzFNS1VWWGhfY0ZPNm9jR2xNOXBkZ1E4UTJodGFJMGZsc3Q5OEpXeXQ0bk8wWVlZT0kxOUk1eVhpZmN3UlhGUnMxR1dMQTAwZmdVSVRhS3l4d0xMM0Q5dlRRenhxLS1sY25VblFSQWF3b0NPTUJJWklDZXBhRjFJYkNTMDQ0eGpjSmtSdTdCYk81ai03WmRyX2Mw?oc=5",
+   "publicado": "2026-11-23T11:37:23.000Z",
+   "prazo": "",
+   "fonte": "Google Notícias",
+   "coletadoEm": "2026-11-24T20:10:29.062Z"
   },
   {
    "id": "ed-c3ddb0996e85",
