@@ -50,14 +50,14 @@
    "buscaWebEm": "2026-11-24T04:06:28.639Z"
   },
   "ref-banco-inter": {
-   "verificadoEm": "2026-11-22T17:10:12.815Z",
+   "verificadoEm": "2026-11-25T19:16:20.803Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 404",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-24T04:06:28.785Z"
+   "buscaWebEm": "2026-11-25T19:16:56.671Z"
   },
   "ref-banco-do-brasil": {
    "verificadoEm": "2026-11-18T18:06:38.516Z",
@@ -204,14 +204,14 @@
    "buscaWebEm": "2026-11-24T04:06:29.086Z"
   },
   "ref-caixa-economica-federal": {
-   "verificadoEm": "2026-11-22T17:10:44.082Z",
+   "verificadoEm": "2026-11-25T19:16:54.334Z",
    "versao": 2,
    "status": "erro",
-   "erro": "fetch failed",
+   "erro": "This operation was aborted",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-22T17:11:19.793Z"
+   "buscaWebEm": "2026-11-25T19:16:56.326Z"
   },
   "ref-bb-seguridade": {
    "verificadoEm": "2026-11-19T00:45:59.969Z",
@@ -326,14 +326,14 @@
    "linkedin": ""
   },
   "ref-hospital-israelita-albert-einstein": {
-   "verificadoEm": "2026-11-22T17:10:12.237Z",
+   "verificadoEm": "2026-11-25T19:16:19.558Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-22T17:11:19.714Z"
+   "buscaWebEm": "2026-11-25T19:16:56.219Z"
   },
   "ref-caixa-seguridade": {
    "verificadoEm": "2026-11-19T00:46:17.512Z",
@@ -448,14 +448,14 @@
    "buscaWebEm": "2026-11-24T20:11:13.659Z"
   },
   "ref-eurofarma": {
-   "verificadoEm": "2026-11-22T17:10:12.370Z",
+   "verificadoEm": "2026-11-25T19:16:19.573Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-22T17:11:19.859Z"
+   "buscaWebEm": "2026-11-25T19:16:56.412Z"
   },
   "ref-bp-a-beneficencia-portuguesa-de-sao-paul": {
    "verificadoEm": "2026-11-19T00:46:36.799Z",
@@ -473,14 +473,14 @@
    "buscaWebEm": "2026-11-25T02:47:55.675Z"
   },
   "ref-ache-laboratorios": {
-   "verificadoEm": "2026-11-22T17:10:12.519Z",
+   "verificadoEm": "2026-11-25T19:16:19.745Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-22T17:11:19.919Z"
+   "buscaWebEm": "2026-11-25T19:16:56.492Z"
   },
   "ref-hypera-pharma": {
    "verificadoEm": "2026-11-19T00:46:35.818Z",
@@ -575,13 +575,14 @@
    "buscaWebEm": "2026-11-25T02:47:55.908Z"
   },
   "ref-jbs": {
-   "verificadoEm": "2026-11-22T17:10:12.707Z",
+   "verificadoEm": "2026-11-25T19:16:19.880Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-25T19:16:56.768Z"
   },
   "ref-blau-farmaceutica": {
    "verificadoEm": "2026-11-19T00:46:51.540Z",
@@ -637,7 +638,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-25T19:16:56.946Z"
   },
   "ref-bunge-brasil": {
    "verificadoEm": "2026-11-19T00:47:03.337Z",
@@ -645,10 +647,11 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "http://linkedin.com/company/bunge"
+   "linkedin": "http://linkedin.com/company/bunge",
+   "buscaWebEm": "2026-11-25T19:16:57.029Z"
   },
   "ref-marfrig": {
-   "verificadoEm": "2026-11-22T17:10:26.079Z",
+   "verificadoEm": "2026-11-25T19:16:34.704Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 504",
@@ -657,14 +660,14 @@
    "linkedin": ""
   },
   "ref-syngenta-brasil": {
-   "verificadoEm": "2026-11-22T17:10:12.715Z",
+   "verificadoEm": "2026-11-25T19:16:19.936Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-22T17:11:19.983Z"
+   "buscaWebEm": "2026-11-25T19:16:56.580Z"
   },
   "ref-minerva-foods": {
    "verificadoEm": "2026-11-19T00:47:14.028Z",
@@ -686,7 +689,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-25T19:16:57.194Z"
   },
   "ref-amaggi": {
    "verificadoEm": "2026-11-19T00:47:12.579Z",
@@ -700,7 +704,8 @@
     }
    ],
    "cnpj": "00315457000195",
-   "linkedin": "https://www.linkedin.com/company/amaggi"
+   "linkedin": "https://www.linkedin.com/company/amaggi",
+   "buscaWebEm": "2026-11-25T19:16:57.113Z"
   },
   "ref-brf": {
    "verificadoEm": "2026-11-19T00:47:36.550Z",
@@ -708,7 +713,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-25T19:16:56.854Z"
   },
   "ref-corteva-agriscience-brasil": {
    "verificadoEm": "2026-11-19T00:47:16.732Z",
@@ -756,7 +762,7 @@
    "linkedin": ""
   },
   "ref-solinftec": {
-   "verificadoEm": "2026-11-22T17:10:12.786Z",
+   "verificadoEm": "2026-11-25T19:16:19.828Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -2762,10 +2768,9 @@
    "linkedin": ""
   },
   "ref-ufba": {
-   "verificadoEm": "2026-11-22T17:10:16.881Z",
+   "verificadoEm": "2026-11-25T19:16:41.511Z",
    "versao": 2,
-   "status": "erro",
-   "erro": "fetch failed",
+   "status": "ok",
    "emails": [],
    "cnpj": "",
    "linkedin": ""
@@ -2828,7 +2833,7 @@
    "linkedin": ""
   },
   "ref-abdi": {
-   "verificadoEm": "2026-11-22T17:10:11.780Z",
+   "verificadoEm": "2026-11-25T19:16:19.397Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -2978,7 +2983,7 @@
    "buscaWebEm": "2026-11-18T18:08:17.108Z"
   },
   "ref-bid-banco-interamericano-de-desenvolvime": {
-   "verificadoEm": "2026-11-22T17:10:11.810Z",
+   "verificadoEm": "2026-11-25T19:16:19.249Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -3399,7 +3404,7 @@
    "linkedin": ""
   },
   "ref-quantum-machines": {
-   "verificadoEm": "2026-11-22T17:10:12.046Z",
+   "verificadoEm": "2026-11-25T19:16:19.378Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -3424,7 +3429,7 @@
    "linkedin": "https://www.linkedin.com/company/oqc"
   },
   "ref-keysight-technologies": {
-   "verificadoEm": "2026-11-22T17:10:12.214Z",
+   "verificadoEm": "2026-11-25T19:16:19.593Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -3584,5 +3589,5 @@
    "buscaWebEm": "2026-11-23T21:26:42.782Z"
   }
  },
- "atualizadoEm": "2026-11-25T02:47:56.208Z"
+ "atualizadoEm": "2026-11-25T19:16:57.296Z"
 }

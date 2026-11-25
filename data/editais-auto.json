@@ -1,7 +1,27 @@
 {
- "atualizadoEm": "2026-11-25T02:47:53.468Z",
+ "atualizadoEm": "2026-11-25T19:16:19.176Z",
  "aviso": "Chamadas identificadas automaticamente em notícias; confirme prazo e regras na página oficial.",
  "itens": [
+  {
+   "id": "ed-702d262262eb",
+   "titulo": "Oportunidade para startups: inscrições abertas até 4 de dezembro para apresentar soluções à indústria da beleza",
+   "orgao": "Agência Sebrae de Notícias",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcFVTTHg3V0pqRzNtaDRfWHkxbUxFV2ZITkRRb3Q2MWlhcGdtNmF3V2RNOWZoTlRnNEw4aTVmXzIyUFpXZUw0aXVmMmNxQlZaTkZBWkhWS0dLQ3psWkxvMVF0cnBJbjRIVElZZ0xiVEtnT0E1RjUzVkZkY0MzY0d5VUJvYnBJcklIcGpUMDJEeXpqRmZZMVRoVllmLXhNVGdRUk9zS0V3aU5Cb1o1Um5BWFZVREZOZGdxeTRPNDMxQU5FLXlKNThNZ1dPWjgwMVJ5S1p0VEpIbVhVZVNfTUwtVU1SZlUwR2dhb0JIa01yb1FNTjMy?oc=5",
+   "publicado": "2026-11-25T13:00:45.000Z",
+   "prazo": "2026-12-04",
+   "fonte": "Google Notícias",
+   "coletadoEm": "2026-11-25T19:16:07.389Z"
+  },
+  {
+   "id": "ed-7cf65f3389a6",
+   "titulo": "Sanepar prorroga inscrições do Edital Turquesa para projetos tecnológicos no saneamento",
+   "orgao": "Brasil Inovador",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc1VLQ0hzOXlpN0hSMTFXaURlM2xjamhRbk8tNEI3bWg3NmpkZjNFZm1QVFVNQmFUdjAtTDVqQXpHWlRVSlVBcjVPZmZVd2N0S1RKS2lEVi1IUWc1VE1tU2UzZi1lRUxWUnBGV1lLalZRamxNWmh4dnZGWWdvalNyaEtJTTU4c2ZUSzV2bUVPWG1pRWJ5WndkRThfYkVVSjc1VmFqcVJ3bnhXRjQ2UDREeFNPZWhacjFIeHc?oc=5",
+   "publicado": "2026-11-24T21:50:08.000Z",
+   "prazo": "",
+   "fonte": "Google Notícias",
+   "coletadoEm": "2026-11-25T19:16:07.390Z"
+  },
   {
    "id": "ed-a0d6da35cd76",
    "titulo": "RS lança edital para criação de fundo voltado para startups",
@@ -111,6 +131,16 @@
    "prazo": "",
    "fonte": "Google Notícias",
    "coletadoEm": "2026-11-19T18:17:39.199Z"
+  },
+  {
+   "id": "ed-e80f06657538",
+   "titulo": "IFPE lança edital para fortalecimento dos grupos de pesquisa da instituição – Campus Paulista",
+   "orgao": "IFPE",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQWs1RzJDYTJYLVdYUzFVbGExc1ZweXdqOHI5T3Q3MDY3eU54U3JKb1VzR0VISERsMmF0RlZjbzhQTFJsaUFHMGJaOUVPMll6Si1fNTJtQjF0VE5vRHUxeFNwLTZNYlEzdEEzcm5vaWxaeFE4QVVUdEJJOHJwVkUxQWg2cE11Z0VxOG1CS1NoTXZxd2ZwbGZESEEwZENQR0swOWZaVV9uWmxvZWxrbkZZOV94bmQ2NEcxRW8xUU9n?oc=5",
+   "publicado": "2026-11-18T19:26:12.000Z",
+   "prazo": "",
+   "fonte": "Google Notícias",
+   "coletadoEm": "2026-11-25T19:16:09.243Z"
   },
   {
    "id": "ed-01ee8399f7c6",

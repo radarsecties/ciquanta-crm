@@ -1,7 +1,452 @@
 {
- "atualizadoEm": "2026-11-25T02:47:53.466Z",
+ "atualizadoEm": "2026-11-25T19:16:19.174Z",
  "aviso": "Títulos e links de notícias públicas; o conteúdo pertence a cada veículo.",
  "itens": [
+  {
+   "id": "29c447d58c74",
+   "titulo": "Fundação Ethereum escolhe Keccak-256 para segurança quântica e de IA",
+   "fonte": "Cointelegraph Brasil",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX3VNLWF4LXBoT0pRZkdwcVhObkcxZmYtV3YzZXRnNmNjMTY2SkhVVEhPQVotUU5OYkhLNmxjQS0zUmRsRzgzTnR2RWtLWlI2aHAyaURON2NhLThtNU9BTjBJa1EwQ3kyQ2ZSay1vSW5LLWxuLUo0SkotT01jRzNBb0FuenI2d1VjdmZlbW1tMEl1QzlqelE?oc=5",
+   "data": "2026-11-25T19:13:38.000Z",
+   "temas": [
+    "quantica",
+    "financeiro"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Fundação Ethereum escolhe Keccak-256 para segurança quântica e de IA Cointelegraph Brasil",
+   "coletadoEm": "2026-11-25T19:15:46.604Z"
+  },
+  {
+   "id": "6428b03807d9",
+   "titulo": "Bruxelas planeia fundo de 50 mil milhões para impulsionar tecnologias quânticas | União Europeia",
+   "fonte": "Público",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOd1JPOTBPNXFSVXFPWmtJYXkwQVZ5NWdNYm5Ta1o2ZS1TZFc4azBKbW55anFXWUJPU283RFd3TTF6MGlsSldncXk2OGJBRnZHRUJWWmFYRmVERHRlTDlfSVVYc2p5MWlqTllTTjVlRUdqQnZtSzAza3FZTEpQbndTODNxa2REZWVEcG1MZEpicUdIVGU5OEZGODBVM0hlMWQyN0F2d3loNGpDYkZqc3FpSXR5RDl2OWRkb2xHNkxTVnNiZUhPa0stdTZiMHZrZw?oc=5",
+   "data": "2026-11-25T18:09:21.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Bruxelas planeia fundo de 50 mil milhões para impulsionar tecnologias quânticas | União Europeia Público",
+   "coletadoEm": "2026-11-25T19:15:48.487Z"
+  },
+  {
+   "id": "cd81b29c41f8",
+   "titulo": "Mais de 7 milhões de Bitcoins estão expostos a possíveis ataques quânticos e desenvolvedores divergem sobre solução",
+   "fonte": "BitNotícias",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTTF1YWNoSmRtUE0tbXhpX1Rqb3hqRFJKbTVBcEw0Y2ItZmFkZ2dFZmtkLUFpMHR6eWNrZDA0YzdZT0NCcUdsdjhXcGhsNE9QWUtGN2h0WFBKZF9wS3VkUDFUdzluTmdiVTJtZHE1YmFqcHNxNll0OUptSENfUXpRaTJ4QV9XSklQWDJoWmlBdmZ4WFhB?oc=5",
+   "data": "2026-11-25T18:00:20.000Z",
+   "temas": [
+    "financeiro"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Mais de 7 milhões de Bitcoins estão expostos a possíveis ataques quânticos e desenvolvedores divergem sobre solução BitNotícias",
+   "coletadoEm": "2026-11-25T19:15:55.928Z"
+  },
+  {
+   "id": "f426470dc15b",
+   "titulo": "União Europeia anuncia fundo de € 50 bilhões para disputar corrida mundial da computação quântica",
+   "fonte": "Terra",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOZlZxQkFVcHlOY0NERVB3Rzd5V2FOVmxuZmRkZ1NzbWlmWWJHMlVpSktIdjBFOXBCN3ltdnBhMnY5a2Frdm0xSkxvYlc2VzY1RlV6d0h3Qzk3X1Y1SmJELWlRVFZDVzcwLWpJcTFJVGx5X1ZMMXo3X05sYmhRTmN3THRGQVU5U1B2T1JzbDQwdmZ5ZFVwbndWS19YZVRsQUxiUVpNcUtLTlgxT1BDMU9MVWMxRERvNWFrbEV4UndYTWZJMjRCYVduOEdrV2RnVmNNVms0YjQ4a3EwQmFYT0tkZ2dELWZpcE14U29mVV9kZE43WG9DSmliOEgwWDlaZExO?oc=5",
+   "data": "2026-11-25T16:31:00.000Z",
+   "temas": [
+    "quantica",
+    "saude",
+    "energia"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "União Europeia anuncia fundo de € 50 bilhões para disputar corrida mundial da computação quântica Terra",
+   "coletadoEm": "2026-11-25T19:15:46.602Z"
+  },
+  {
+   "id": "46c69b2285e2",
+   "titulo": "UE anuncia plano de fundo de €50 bilhões para IA e computação quântica",
+   "fonte": "O Cafezinho",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ1ViS1lwVlJUTURNVVBXTmRVTkg4cS1rXzNzZ3J5S3dtcWpvRXBTZWRrVDlXVlR3eXcyTmg1ZU9kRUxaeWdlemUyX3BFWmlaYWF2RzhOUkJmSHFKU1ZjSWhWeUFkN2ZrTDQ1ZjVwOTdnSV9QbjdfQl9adjFqVGF4LUNQMFdVcG1pNWppeUVPTVA0VVJtWm5IMXBvbkhCeHpvUWZXMGI0V0lCRVRfYmfSAbMBQVVfeXFMUFFkcXFmSUlmc21TM1Y3QlBjMXdPR3NEdGZya09MTk1JVnBidWljeldQMkV2REVIaW5vUlU0Q2MyV0FNRmZ3RGoxUDVFN1d0dUxkU3lhM3ZtdnBZM3BuWldSYXBzMVhfZnZfLVpRRFE1NVdPNWZRcVBXby0wYWtYTVBmRUNLcDllUDFyLUlNTGJoQi05aG5VYzdQZUVIWHVyNFloU3k4YVVpZUVZLWRIcEcyOEU?oc=5",
+   "data": "2026-11-25T16:30:00.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "UE anuncia plano de fundo de €50 bilhões para IA e computação quântica O Cafezinho",
+   "coletadoEm": "2026-11-25T19:15:46.604Z"
+  },
+  {
+   "id": "b238d76bbb77",
+   "titulo": "A União Europeia planeja investir 50 bilhões de euros para promover a inteligência artificial e a computação quântica.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObHNPRXJZZ1VST3BhaEpqdzFYeE1TSnV0NHJRTlpRRDREWVBUZDktSFpmVGFmazYzamdKd1ljejFfejU3LXM0LUNqVDVjdUFkczh6ZVJacVNlLWRwLTRoUzlzYUJQWjEyQkNmUkJmLVBpRHhna3lhdFQ0UFhISmVZaTREUFNTRl9vaGJtdnZ1QndzaDh2WHZyN043dEJMaVhoSmdLSzdn?oc=5",
+   "data": "2026-11-25T16:00:14.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "A União Europeia planeja investir 50 bilhões de euros para promover a inteligência artificial e a computação quântica. Vietnam.vn",
+   "coletadoEm": "2026-11-25T19:15:46.606Z"
+  },
+  {
+   "id": "e9f648073ef9",
+   "titulo": "Amazon investe em P&D quase o dobro de toda a América Latina e Caribe",
+   "fonte": "TeleSíntese",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV3dEcjBQMl91WXBiYTJsdXpQZEZxS1ZoWDJTQmJydGNRdzJBZ01QY1Bib3pLa1VUQ3NKaFBfQ0RnMTR5UFlub0xIVDR5a2haSVdNaV9yZ1ZZSC0yNWxTWWFDV2FvZGY4MEMyV010ckVLMy1QSG1DYjdXakZSN3RRZ0FIR1lSTm9EaUNBdkI5VWNRSmI2LTNRa3ZfYmg?oc=5",
+   "data": "2026-11-25T14:58:48.000Z",
+   "temas": [
+    "pdi"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Amazon investe em P&D quase o dobro de toda a América Latina e Caribe TeleSíntese",
+   "coletadoEm": "2026-11-25T19:16:05.388Z"
+  },
+  {
+   "id": "7b169895ff75",
+   "titulo": "Lei do Bem abre oportunidades para empresas investirem em inovação e desenvolvimento no Pará",
+   "fonte": "RedePará",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY3gwcU9tSkZzOFI0SE5lRlZiQl9zcTFTZHdpVHcybHR0dTN6Q1QxTVF6MmhHUjYtbzZTVHktOXRPMS01VHFkQ0NZMTZSdXlQeGFnM3E0WEM4SzVETWcxcVU0VHFvcU54WldjUW5BaE1DTmdlaE05MXpLTnJVN1c1ckhxbmR6UTFvMm12eGFqMHRSQW1SUUFXRmpacHNoN2E5TTRFYWxKYU54VGRUcDRIek00RVlCSGhEMzhYSlVUbE9sd210dXJjX2tFMA?oc=5",
+   "data": "2026-11-25T14:56:54.000Z",
+   "temas": [
+    "pdi"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Lei do Bem abre oportunidades para empresas investirem em inovação e desenvolvimento no Pará RedePará",
+   "coletadoEm": "2026-11-25T19:16:05.388Z"
+  },
+  {
+   "id": "959851aa357d",
+   "titulo": "Nexent Capital lança fundo para IA preparada para a computação quântica e ativos de energia",
+   "fonte": "Unite.AI",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQXB5WkVibUlOVnNyemMzQVUyNGhiYTcwdS1YX0QyTlZDMTVrcllQQUM0amFxeS1lX1FweG44MDZWb29sSzZhLTdjenVIay0yUTMxVW5aXzM4WGUtVDZZdG56aWFJWDA3ZUdDaHh1VGJ5VENyM1RNMDVtM2theEtQN0l2UVJ6d25UTXBKMHdPUnRfNWV4Qm1v?oc=5",
+   "data": "2026-11-25T14:41:04.000Z",
+   "temas": [
+    "quantica",
+    "saude",
+    "energia"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Nexent Capital lança fundo para IA preparada para a computação quântica e ativos de energia Unite.AI",
+   "coletadoEm": "2026-11-25T19:15:46.604Z"
+  },
+  {
+   "id": "024c111e5f6e",
+   "titulo": "UE propõe fundo tecnológico de € 50 mil milhões e Lei Quântica em meio a riscos para as criptomoedas",
+   "fonte": "CoinMarketCap",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV0lJRUp2MW45QmhiYkUyNVQ0anZzYlhKYmpjYmZ2cDItXy1YcnpIc015T1Y2SVVsSHVoSTRNOGFpOTN6VFNVRmkxaE1aTUZvUDRsR25TcElkZG1CeXUtdGMwVlZHeUtTMk9MQlA4RkdYTnNYd2pINUYzUjR4NmR2LXhEVG4xN1lWN0RSUWpJZWpQTkk?oc=5",
+   "data": "2026-11-25T14:27:21.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "UE propõe fundo tecnológico de € 50 mil milhões e Lei Quântica em meio a riscos para as criptomoedas CoinMarketCap",
+   "coletadoEm": "2026-11-25T19:15:46.605Z"
+  },
+  {
+   "id": "d8dcf5f6ea80",
+   "titulo": "A UE planeja investir 50 bilhões de euros em inteligência artificial e computação quântica.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ2F0ZTJrUGtPdGd6bWtPX2VTQ2pHcTZlTjExbnlraU1WdjZKcWFDbmhKMzZVYWhqb19zQ1R4aGdnNW5sWnZTTFNsRzJsTmZ4ZDlub05yRVFIRU51aERCSTQxNE52MG9PSlZnV0dfN1pDZHd3WUVfWGtMSGpOc3ZySW80Z1JBQQ?oc=5",
+   "data": "2026-11-25T14:23:55.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "A UE planeja investir 50 bilhões de euros em inteligência artificial e computação quântica. Vietnam.vn",
+   "coletadoEm": "2026-11-25T19:15:46.606Z"
+  },
+  {
+   "id": "e1d1ec6b8757",
+   "titulo": "UE propõe fundo de € 50 bilhões para tecnologia quântica",
+   "fonte": "TeleSíntese",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd3VGUEZhNG9INGRiU1FwRVgxd3FteEU3VFdkTkdMQmVVT0lVVmFmV05RSEpKYTRwaXZSNnpMUFhtSEEzTElGc3A2M0xMelVxT2hKNFpyd29PaWY3NUZqVjFJX0s3V3hicnNaOUpMTi0xTWxFZ3VBSW5wbEtsUG43WHJlVzhlTXF2UHBnVQ?oc=5",
+   "data": "2026-11-25T13:31:59.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "UE propõe fundo de € 50 bilhões para tecnologia quântica TeleSíntese",
+   "coletadoEm": "2026-11-25T19:15:48.486Z"
+  },
+  {
+   "id": "67ab6a93a6be",
+   "titulo": "A ameaça quântica começa nas chaves que sua empresa desconhece",
+   "fonte": "economiasp.com",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcXZPMzNXMURzVEhsa2N0Nlh5VWt1WnpHMFJ1NEY2akNPSkd3S0R6YnV3ZGw5NzkzNGdCQnZEbjNvOTI3c3BnRjIwd0dVRnJHVzJHbWdGeHgtYWFYZUdsWnFyNTd2Y1hibkd1UUFjbFFQZ2tGZ2VxREpxdE9wT25rRXNFSUZKSDN4WUNQZEwxcElyWTFkbGFkbnZtbUVtdw?oc=5",
+   "data": "2026-11-25T13:21:09.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "A ameaça quântica começa nas chaves que sua empresa desconhece economiasp.com",
+   "coletadoEm": "2026-11-25T19:15:46.604Z"
+  },
+  {
+   "id": "03330a8b3aee",
+   "titulo": "União Europeia lança plano para impulsionar tecnologia quântica",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb2Z4Qm5yamk1UUR4N0NhSGpULUptTkxBLUEzUUMxSk56bjgtN01lanczWldUNHRkVTRCbW1BN1l0N0pTTExiTGxQcEZjQ2hHdkRuQ3hBRGRFVGFWV3RBWTNPR2Z0bkxBampEV0pTanBJTmVDaE5NM3BoQXoxakpYQ3VSU1RhX3RhNGZTOUI2Rm94cmhfTVpnWDVkN21NM3JWRXlZdnBFUHl5SEZuNkdnWWxpRkpaQdIBxAFBVV95cUxNai1JUGpTbXZOVm9maWh0TDhTajIwR3RobDdGWFJkVTB0cUU5YlVnUm5zUTdvU2lXVkxqa3dZcGp4YXI1N01TUURSVnZ1SGdPaFZITDRLZEo1TEI1bTU3eGFiS1I3b3p6SnhkSUhsVlExVnBQOGlXUUg2QnA5dFlqdW1ZX0lUUlJ6TGVCNjFBRjNrd0RPSko1UDhMbjBYS3pZRDZvVXJJU1I0MEpwb2xjdmtfNE9yZFJSMW1uNDgzczF4Qkcx?oc=5",
+   "data": "2026-11-25T13:08:34.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "União Europeia lança plano para impulsionar tecnologia quântica Valor Econômico",
+   "coletadoEm": "2026-11-25T19:15:46.603Z"
+  },
+  {
+   "id": "b7beee38e6b4",
+   "titulo": "UE planeja investir € 50 bilhões em inteligência artificial e computação quântica",
+   "fonte": "UOL Notícias",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQREoydkwxejVkdW5yNTBBeWhaOFZBRWM0Rk5hdzZTU0xkdVlvNTh6Q2x5SlRDWDBkYnBZVUxTYlktVklRSFpsYy1xQVA5ajBKTUxBY1dYdTdjWG1seVotMEI0YzFNWkNIX01VbnJ2RzAydkZYakVOX3BlZGsxQWNFck9vUDY0OVNCLTFVeEVCYUZBQ3BoeUtmRVFGeWNvaFJyMkdGRlVtQ1ZjNkNYbjJTS0d0QkN2dTBSSGVJMkQydUtzcnZnQnVIRkwweGhESGhaYWF0R0hqMjVOVnh3?oc=5",
+   "data": "2026-11-25T13:05:47.000Z",
+   "temas": [
+    "quantica",
+    "saude"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "UE planeja investir € 50 bilhões em inteligência artificial e computação quântica UOL Notícias",
+   "coletadoEm": "2026-11-25T19:15:46.603Z"
+  },
+  {
+   "id": "01f137138c06",
+   "titulo": "Fundação Ethereum escolhe Keccak-256 para atualização de hash pós-quântica",
+   "fonte": "CoinMarketCap",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPai0tbTN4TVo4UnRTeTI1V0s1ZlBSWmlrWXI1ZFpndnNTaXZRN1c3cFlJbXEzVkNSc0pPbnU2bm9LdVc3eWNYVjlUX3M5ay13SGZETktMa0VkYU9aUXNqZFpCUTBnU19WVUcyMHctOEN4SDBxUGJCeE1yMlJWLVpqSVVRRDhFVW14aHhIc045TmRPYlJ4?oc=5",
+   "data": "2026-11-25T13:03:24.000Z",
+   "temas": [
+    "quantica",
+    "seguranca"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Fundação Ethereum escolhe Keccak-256 para atualização de hash pós-quântica CoinMarketCap",
+   "coletadoEm": "2026-11-25T19:15:46.604Z"
+  },
+  {
+   "id": "702d262262eb",
+   "titulo": "Oportunidade para startups: inscrições abertas até 4 de dezembro para apresentar soluções à indústria da beleza",
+   "fonte": "Agência Sebrae de Notícias",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcFVTTHg3V0pqRzNtaDRfWHkxbUxFV2ZITkRRb3Q2MWlhcGdtNmF3V2RNOWZoTlRnNEw4aTVmXzIyUFpXZUw0aXVmMmNxQlZaTkZBWkhWS0dLQ3psWkxvMVF0cnBJbjRIVElZZ0xiVEtnT0E1RjUzVkZkY0MzY0d5VUJvYnBJcklIcGpUMDJEeXpqRmZZMVRoVllmLXhNVGdRUk9zS0V3aU5Cb1o1Um5BWFZVREZOZGdxeTRPNDMxQU5FLXlKNThNZ1dPWjgwMVJ5S1p0VEpIbVhVZVNfTUwtVU1SZlUwR2dhb0JIa01yb1FNTjMy?oc=5",
+   "data": "2026-11-25T13:00:45.000Z",
+   "temas": [
+    "edital"
+   ],
+   "orgs": [],
+   "edital": true,
+   "resumo": "Oportunidade para startups: inscrições abertas até 4 de dezembro para apresentar soluções à indústria da beleza Agência Sebrae de Notícias",
+   "coletadoEm": "2026-11-25T19:16:07.390Z"
+  },
+  {
+   "id": "99f4613cd0f7",
+   "titulo": "União Europeia cria fundo de 50 mil milhões para tecnologias quânticas e IA",
+   "fonte": "Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLVh4cGFDWV9pdjlTVDNOMm1KdWpHMjRhaDJObFptN2hpby1ITmlkOE9CT0dMcWlQbkN2aFhZVktLSEJ6YnpyU2cxQlJtUHNKU0tEaVpEa1FaeDZXUzF0WkxWMUl1MU9CZnVma1dDNkVHeDQ5TTE1dXNhRnVPVWZIeVNnZFJ2QjduaVZkZVQ1VHFEWEpuUG1nVXVzSDlJQWdWMmRsZjdYeGJ6UTNoNmpr?oc=5",
+   "data": "2026-11-25T12:28:59.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "União Europeia cria fundo de 50 mil milhões para tecnologias quânticas e IA Euronews.com",
+   "coletadoEm": "2026-11-25T19:15:48.486Z"
+  },
+  {
+   "id": "c58a8ae64994",
+   "titulo": "União Europeia propõe fundo de €50 mil milhões para tecnologia quântica",
+   "fonte": "Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXZ2TWwyc1Q4b2IzMXUwNEkxN2F4RHFKcThoaHBOWEZjaVZHZ204a3JUZHEtZU5aVV9fWEpmVThqVGJtNlJ1RzNiX3h4cXBnV0kwTEVIclY5amVubVBpdm5ERTdhVWFHajdmSVhTZ2pGNXBIZ3lJODNjRXduY29neGI1LVE3Z3MteGdFU2lVTlBhV0thOVNtMHBDeGhTSm1GWGNqLV91U3Y?oc=5",
+   "data": "2026-11-25T12:28:59.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "União Europeia propõe fundo de €50 mil milhões para tecnologia quântica Euronews.com",
+   "coletadoEm": "2026-11-25T19:15:48.487Z"
+  },
+  {
+   "id": "291c9d353133",
+   "titulo": "Bruxelas propõe fundo estratégico para dar escala às tecnologias quânticas",
+   "fonte": "pressnet.pt",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUnFkdWtPQVg1X2pTOWQ4anFxQ2xfUXRLbld2anFsVWJ0SlBJUTNQWGFYMzRkdS1QXzAtTDBGeW1CckJXRE9aVVlxODFsZFU0UTZYTnJpMnBWRVZzZmMybmYxbUh6b3BTMDVETDZDNFlrdjNyaGxSYld2b1JRTG8tOHI3YXZuX0FpWnowN1ppMU9ldjlPNUtmd21pRmRuY2drY0pIZ0RyTnhzUQ?oc=5",
+   "data": "2026-11-25T12:25:42.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Bruxelas propõe fundo estratégico para dar escala às tecnologias quânticas pressnet.pt",
+   "coletadoEm": "2026-11-25T19:15:48.487Z"
+  },
+  {
+   "id": "0f2e356ad034",
+   "titulo": "Fundação Ethereum diz que IA representa uma ameaça mais urgente do que a computação quântica",
+   "fonte": "Portal do Bitcoin",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOU1jWVBVcDNNVzRFcklJOFdycVNfOGl0R1JBUEM5RHR6Z214Z2lPZXM0TWl6ZFFlZXJJRDZNWnduRkRDeDg2N1VDYWxKUE80NW1EajZWVzROWEptTXI0NnVXcWhsOGZiaDhoWDFqdXEwWm9PMGZqSGhzMFY2c19PVEFzZzk2TzFFQnlpcW9MMzM4M0tTU1M1T00tY3hFaHQ4TlpwUjJWVktYaUhwdjVEdWhRTWlmVENMNnZBc3UyVWdjOEFsV0Fv0gHMAUFVX3lxTE9FUUFrclhVTWEyYlpPengwdnJrRUtKQ2pNZkJVWGhnNzZMQUVSbGZOeVI2R2dNa2NybDM3OXZuTXBaSUg2RFJHWVh1cU5ISmNtQ0VfelBDajl2MGtTckozb0R4ZGhQN1RSME1RaVdESGF4X3dOLVJyaGdxV2s3STZDeHRYMmtvWVloa2QzRWFEVzFjUGxZZzMwMk8wQTZ1WTZHX1lEenRKV1JCSjRsdkFUVUVVOVJQRkJxY1F5bHlvRzFibGNtY3I4WWk4Yg?oc=5",
+   "data": "2026-11-25T12:14:00.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Fundação Ethereum diz que IA representa uma ameaça mais urgente do que a computação quântica Portal do Bitcoin",
+   "coletadoEm": "2026-11-25T19:15:46.604Z"
+  },
+  {
+   "id": "995105569524",
+   "titulo": "UE propõe fundo de €50 bi para IA e computação quântica",
+   "fonte": "SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa3VkcG9MTGdmUE9yLVhjTVJqWXlGZ3M0T0RqRzYtTUdQdDl0azQ1dFR0b0tuZ241MWFTTVZqcUFiWmJETzhPbnJmSHZLdWx5b191QV9XMVFjWXY2WVF2R1lmMVRoUlhLeUJJZmVzREtKd29rY25MNFJsaS1aWGhWOA?oc=5",
+   "data": "2026-11-25T11:17:22.000Z",
+   "temas": [
+    "quantica",
+    "financeiro"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "UE propõe fundo de €50 bi para IA e computação quântica SpaceMoney",
+   "coletadoEm": "2026-11-25T19:15:46.607Z"
+  },
+  {
+   "id": "f596b22c7e66",
+   "titulo": "Bruxelas quer tornar UE num dos líderes mundiais da produção de tecnologias quânticas",
+   "fonte": "Now Canal",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaGJ4WlluaHNKTVA2Q2JDWTFPRlZWQU1MaEhZS3N6d1ZzbEpPUUlOZk1WakdvX0hnM1NmNjBoS1NMMUdQNmlmWGcwRVYxZGFoZkdGQ2dpcHJ6VGY4MndUck4xZWdTVnJWRmlScy1uTTRkSkJCeXptM0JCaFgzLU1OSlphLVh1NTkzWDFLUUt3RnBlSEROMWdFYy04NTQzWWpOd2NNN095TmRxRXo2YmJUcEhLVDk3NXExN3FCdVJkbmphaUU?oc=5",
+   "data": "2026-11-25T11:17:00.000Z",
+   "temas": [
+    "financeiro"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Bruxelas quer tornar UE num dos líderes mundiais da produção de tecnologias quânticas Now Canal",
+   "coletadoEm": "2026-11-25T19:15:55.929Z"
+  },
+  {
+   "id": "ed43a8f3ca69",
+   "titulo": "UE propõe fundo de US$ 54,7 bilhões para startups de IA e computação quântica, juntamente com iniciativa de segurança pós-quântica",
+   "fonte": "CoinDesk",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNenByRWhnSjN2ZU1lbFdrbF9zVGx2UFFUQkVHXzBmVWRLVUdBRl9JcWZudy0yS0Z6WWpPUUF0ekJZZERodFNDRlI3a1ltengtX29zanJ0Z3ZyRVJJMzJ1dTZ2cUdZeDY1VlRQVDlGazF0aEp3aDlfbmp6MFJNZUZjd21fdnNlc0NVTkNIakVaenpjMHZFTEg4Y2lGZ3hYTG8tb1BVYlVTaWczMHdvV09vSDF5RV83d3ZwX2g0SW1RX3A4QzBXTzUzdHlVQm0yd0J3cllmVFp1M2xLdWpD?oc=5",
+   "data": "2026-11-25T11:00:27.000Z",
+   "temas": [
+    "quantica",
+    "financeiro"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "UE propõe fundo de US$ 54,7 bilhões para startups de IA e computação quântica, juntamente com iniciativa de segurança pós-quântica CoinDesk",
+   "coletadoEm": "2026-11-25T19:15:46.603Z"
+  },
+  {
+   "id": "19657c225b14",
+   "titulo": "Europa quer acelerar na corrida das tecnologias quânticas. Nova proposta aposta na investigação, indústria e segurança",
+   "fonte": "Tek Notícias",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUmQ0NG0zanc0andSd1hsclV6NXUwc09adWFIeGNPNE1NemVsN3RFRUVXRGRybHhvMlBYU3B5VkY0a0w1S3ZnNXEtNHF1d0h1djVwbDBmRWtmSEtJWlZuUzZuY3poYkpxR0ZyQ0VMdTRoZlNmdGRlbXpJMnVuR0EtcEEwTFUwbGhMWFlqYWVXU3BXUjZGWmtmWm1HaTJqR08wWHBILUlBUGNWQnVZcW9YbjBJLXdFRGk2NVUzanMtRkhJYlcxMjllOVZKdldKNHd6czlvVUQ1WXR6S0J2RHRObGMzNHZZdUVadTVLZ0VTX1VHdkg5S0JTdTR6MA?oc=5",
+   "data": "2026-11-25T10:27:33.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Europa quer acelerar na corrida das tecnologias quânticas. Nova proposta aposta na investigação, indústria e segurança Tek Notícias",
+   "coletadoEm": "2026-11-25T19:15:48.487Z"
+  },
+  {
+   "id": "7ef54f8f4708",
+   "titulo": "Europa vai criar fundo estratégico para dar \"músculo\" às tecnologias quânticas",
+   "fonte": "Jornal de Negócios",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZWhXLTJQU01lQTNUNi1pZ0ZHRUNVZk1sN1JncG01Um5PTmdUYlFnSkZFdUtRTklSRUFMQUtDaXhncVZSNG1jbFhEY2l5YjdNRXVpY2loNThEWjFfMG96YTdJRXpDWFpUQkZPLXRneEVpdHpKdXJKdEl3R2VIODNjOUg0UEhiUnlTVjdYLUQxcW9CSDdzZ2ZMTWNHQk1JRHRHRUNWYmxvSHU4cGY2ZHhTVWR3ek9kRi1EdzlRRWRGM3FCMFhQY1Q3SXFxMGFJMFcwTmVv0gHOAUFVX3lxTE95eWNDNnkxdTctZE5aZVlDTlRROXV6LVZmTkd2Vll0Tnhfa2wyTXhIN2ltbUNoVnpIdUNNNDdwSldfbC16cS1GOG5PT3IwMDRYcnVNcUxzTkZ4VGRybnZJMm1hOGVMV0J4ZkVmbUVGSUZhYTRFTU5OQU1MVFlwdVBKdW1xQjNHcjhOQktwZEtmU0JLaGtLaUlxVFFUMmRXWFQtQzEwSlBlNnJVS0s4Y00xVFYxUGJidU1uVlNoWmlfQzdOSDlGdmp2N1ZRWEhn?oc=5",
+   "data": "2026-11-25T10:12:10.000Z",
+   "temas": [
+    "quantica",
+    "energia"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Europa vai criar fundo estratégico para dar \"músculo\" às tecnologias quânticas Jornal de Negócios",
+   "coletadoEm": "2026-11-25T19:15:46.606Z"
+  },
+  {
+   "id": "c4985ae6734d",
+   "titulo": "UE planeia fundo de 50 mil milhões de euros para IA e computação quântica",
+   "fonte": "Jornal de Notícias",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMmppOV9Vak9jXzl4ZkxscUpqWGlsUUVGNmE2c3dJMFBsUnBTT3UwbkxuQllVRV9QdUszaEp2akdHdmIwWi1LS2J0a2VLdW90UDRRRFE1ajJMYkRfN25ienRrYzRhVzZWdjd5bGlFMnk1ZHc0SW5GcUtwTThUbGxiOHFGaGROUEc1OG1wT2RLUTIxS01KcTFxM2JPNTJ3UGUtdTZpemhabDRKRjcwZi1yaHBRd9IBpwFBVV95cUxPeVE1LXA4NTJjRXRvNmc3Z0taQ1NuUHExT2t5NXhnRTZxdVgyMWo1MXNKQ1BEU3UtQ2U1RHNtU3VrSnBDSDMtVGo2TUpCWWlZeEZpU3BHcmVSQXFfcjR4VmRmeXlSd2lua1hwbTdZcnh6UHphaUg5cFo1RmlUSDRaVU5vVVowb2gya3h0RUswNWZkZWJJRWlWTGRGdmhhSTJmZDFEWVAzbw?oc=5",
+   "data": "2026-11-25T09:31:00.000Z",
+   "temas": [
+    "quantica",
+    "saude"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "UE planeia fundo de 50 mil milhões de euros para IA e computação quântica Jornal de Notícias",
+   "coletadoEm": "2026-11-25T19:15:46.606Z"
+  },
+  {
+   "id": "039fe25bff05",
+   "titulo": "Europa planeja criar um fundo soberano de capital de € 50 bilhões para impulsionar a tecnologia quântica",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rbXowUHpwdVM3WjBQUVRGa0pydHlIeE1ET3QyVXBST0RCX0hwTExmTTBfT2o5SjNWREJ1bTRhMWVnUExsTG15eXVJeE1QZGx1cDg3SEo4MDBxN1dNTDlUeTVuUFJyTTVPSm5qcV9GbnQtdm03Ylg0?oc=5",
+   "data": "2026-11-25T09:14:48.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Europa planeja criar um fundo soberano de capital de € 50 bilhões para impulsionar a tecnologia quântica TradingView",
+   "coletadoEm": "2026-11-25T19:15:48.486Z"
+  },
+  {
+   "id": "78da439a2231",
+   "titulo": "A Europa planeja criar um fundo soberano de capital de risco de € 50 bilhões para impulsionar a tecnologia quântica",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1EVTNGdFdSMHdIOGlkQlE0LS1jN2Y5VDV2TE5KRzRCSGhVT1FHaTZXS2VaNkUwTFo1ME42M2ZhWFJxQUpnSDZ0WG5Ub3FZa0NDNTNHSkdqano2WkYycUk2STZwYjhITXFzR3EwbDkzSlJPLXdBZTE0Vg?oc=5",
+   "data": "2026-11-25T09:14:48.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "A Europa planeja criar um fundo soberano de capital de risco de € 50 bilhões para impulsionar a tecnologia quântica TradingView",
+   "coletadoEm": "2026-11-25T19:15:48.487Z"
+  },
+  {
+   "id": "aab58782d9e2",
+   "titulo": "UE busca até US$ 55 bilhões para fundo de IA e computação quântica: relatório",
+   "fonte": "Cointelegraph Brasil",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN2E1R3l0Vkd4ZDAzX0xWTzZQYlh1RTFHeWh4RkVaLTNPMkV1b1pyN2xyeUNBN1J2YTBpNDBvMW9vYUNLN245TjFJWTZtc003ZkZSTElkY1Nnd2FlOWltODlMQXB5Wmg3cVlmbzRJdnoyXzJ4OUtnZnRfTnpwWkd6N0UxcXVJc01DNDZqUw?oc=5",
+   "data": "2026-11-25T08:58:14.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "UE busca até US$ 55 bilhões para fundo de IA e computação quântica: relatório Cointelegraph Brasil",
+   "coletadoEm": "2026-11-25T19:15:46.603Z"
+  },
+  {
+   "id": "794528ffaa41",
+   "titulo": "UE articula fundo de €50 bi para IA e computação quântica",
+   "fonte": "SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBLU21pb1NBYTc0OXAySlNuSU16Nko4czJvSFgtYzdLTHEzVXVqLU9RYzZzaEQta0ZQb3g3Z1NveFpxRFlEMjhTRU5UUUZJajQ4QVRsa0tueVVrWVZZUDl4WXBJQ21Bazh3eTVpRHU0aDlKNE1rdnZ1N055c3ZhUQ?oc=5",
+   "data": "2026-11-25T08:55:59.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "UE articula fundo de €50 bi para IA e computação quântica SpaceMoney",
+   "coletadoEm": "2026-11-25T19:15:46.606Z"
+  },
   {
    "id": "c89adbb62667",
    "titulo": "Agência Brasileira de Inteligência apresenta estratégia para proteger o Brasil da computação quântica",
@@ -9,12 +454,27 @@
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdDNUbVpxR25aODAxSUswUkJwOUZGM1M0ZnZsUVRaSkQxZjlwTmFsdlhJRWZJVV9uZTRhT01vZzFreWlHZU1kT0xUZVUwRE55bHk1SXFhNmlWSjJ4bVJsMmxSUThfQWhxcHlRMDVrdkw0NUIxbXdXdDdmZlh1RGRTMWtob1VNQ3hlcU5fMlhSRVExQ1U3?oc=5",
    "data": "2026-11-24T22:00:13.000Z",
    "temas": [
-    "quantica"
+    "quantica",
+    "financeiro"
    ],
    "orgs": [],
    "edital": false,
    "resumo": "Agência Brasileira de Inteligência apresenta estratégia para proteger o Brasil da computação quântica BitNotícias",
    "coletadoEm": "2026-11-25T02:47:20.564Z"
+  },
+  {
+   "id": "7cf65f3389a6",
+   "titulo": "Sanepar prorroga inscrições do Edital Turquesa para projetos tecnológicos no saneamento",
+   "fonte": "Brasil Inovador",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc1VLQ0hzOXlpN0hSMTFXaURlM2xjamhRbk8tNEI3bWg3NmpkZjNFZm1QVFVNQmFUdjAtTDVqQXpHWlRVSlVBcjVPZmZVd2N0S1RKS2lEVi1IUWc1VE1tU2UzZi1lRUxWUnBGV1lLalZRamxNWmh4dnZGWWdvalNyaEtJTTU4c2ZUSzV2bUVPWG1pRWJ5WndkRThfYkVVSjc1VmFqcVJ3bnhXRjQ2UDREeFNPZWhacjFIeHc?oc=5",
+   "data": "2026-11-24T21:50:08.000Z",
+   "temas": [
+    "edital"
+   ],
+   "orgs": [],
+   "edital": true,
+   "resumo": "Sanepar prorroga inscrições do Edital Turquesa para projetos tecnológicos no saneamento Brasil Inovador",
+   "coletadoEm": "2026-11-25T19:16:07.390Z"
   },
   {
    "id": "8a98ff9a30ef",
@@ -23,7 +483,8 @@
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWGZvbmdncTJLSEp2dmdPc3dEWVNLTHNXc1BESmMzYkh6ZU90UkRUcW1CR21VRDMtRDBlS2RkQjBfOG5FR1hhYVlSUHJwNnFtQ09SZDZ5UFJCZEdlNE0wcW41T3k2Z1otMGNIaGpWbnJCcEdyWmVFNnk1a0JUYzc1RFRZV3d1dw?oc=5",
    "data": "2026-11-24T20:21:18.000Z",
    "temas": [
-    "quantica"
+    "quantica",
+    "energia"
    ],
    "orgs": [
     "ref-xanadu"
@@ -45,6 +506,21 @@
    "edital": false,
    "resumo": "Fundação Ethereum diz que IA agora é um risco mais urgente do que a computação quântica CoinMarketCap",
    "coletadoEm": "2026-11-25T02:47:20.565Z"
+  },
+  {
+   "id": "5e4abb379ecc",
+   "titulo": "Sem inventário de chaves, empresas arriscam atrasar a migração pós-quântica, alerta Futurex",
+   "fonte": "IT Forum",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wVG52NjRleDFrRUw3UFlLN1VoTmNDNmhPUkZPaFJyNVJ2S0xLYzYyY0h4cmdpWC1yU3RCdkVMYXZoVnRFM2ttU0R3eno5Y2o0NnJ3U1p3YjA4TmI0NTBPLVNsel9OQVFWWk9JVEtEb3c5eXNpd1HSAXtBVV95cUxPQUF3WjN2MXQzNlNhajZxd1dkMkg2Skd0TnFVcUZJRV8wemxHYzliRlQxcGdKd0RJLXVvMTRHVjdVUjJORHpzNlVOcGVpSzNDZHpfeDNZSzNDMFJYU2FFWTZlNXdJd0pSd25NdEltbThpMEpkLWZBeEFPakU?oc=5",
+   "data": "2026-11-24T19:22:30.000Z",
+   "temas": [
+    "seguranca",
+    "financeiro"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Sem inventário de chaves, empresas arriscam atrasar a migração pós-quântica, alerta Futurex IT Forum",
+   "coletadoEm": "2026-11-25T19:15:53.980Z"
   },
   {
    "id": "822ae41d71ea",
@@ -69,7 +545,8 @@
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSUVvQmJvMHpjc1Fpckx4QWNnN3p2X0pmM1VOOG1QODFWZHNELWdUSjhTSElIOE41XzZERWhNWTVzdW5EX1BjNUhuVmVCeDIxZUNNRFo3UnllT0s1RnM2SG5rZlBmd2gtZjROVEwxcTY2UTl4Z3ZwMV9vXzhQb3VMUGhhYUpiQWJScXR2N184aWVtZw?oc=5",
    "data": "2026-11-24T15:00:18.000Z",
    "temas": [
-    "quantica"
+    "quantica",
+    "financeiro"
    ],
    "orgs": [],
    "edital": false,
@@ -202,6 +679,20 @@
    "edital": true,
    "resumo": "RS lança edital para criação de fundo voltado para startups www.correiodamanha.com.br",
    "coletadoEm": "2026-11-24T20:10:29.062Z"
+  },
+  {
+   "id": "1bd6a2154adb",
+   "titulo": "Abin prepara proteção de dados contra ameaça quântica; entenda",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSzZlM181X2ZaQ1NkNl9sdFhnSHZkNHdGNXYyXzJ6QkxQTXN6S2ZHd0lnV3BRQ3ExRk91RllWajQ5Y2c4SGxVR1FkUTBtVVNnV3htSldDVl9vRHM4dVlaTTQyZUktQ0dacUYxYXZINXFlSmNlOWw1Y09hbHhucmhCamZ0ZThfa1dqTVBRYXYwOWxtem0yOXZNNmZiVFdGQUhSUWc?oc=5",
+   "data": "2026-11-24T05:01:57.000Z",
+   "temas": [
+    "financeiro"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Abin prepara proteção de dados contra ameaça quântica; entenda CNN Brasil",
+   "coletadoEm": "2026-11-25T19:15:55.928Z"
   },
   {
    "id": "10e5200dcb87",
@@ -1248,6 +1739,20 @@
    "edital": false,
    "resumo": "BASF Inaugura Centro De Inovação Em Poliuretanos No ABC ABC Agora",
    "coletadoEm": "2026-11-24T20:10:30.982Z"
+  },
+  {
+   "id": "e80f06657538",
+   "titulo": "IFPE lança edital para fortalecimento dos grupos de pesquisa da instituição – Campus Paulista",
+   "fonte": "IFPE",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQWs1RzJDYTJYLVdYUzFVbGExc1ZweXdqOHI5T3Q3MDY3eU54U3JKb1VzR0VISERsMmF0RlZjbzhQTFJsaUFHMGJaOUVPMll6Si1fNTJtQjF0VE5vRHUxeFNwLTZNYlEzdEEzcm5vaWxaeFE4QVVUdEJJOHJwVkUxQWg2cE11Z0VxOG1CS1NoTXZxd2ZwbGZESEEwZENQR0swOWZaVV9uWmxvZWxrbkZZOV94bmQ2NEcxRW8xUU9n?oc=5",
+   "data": "2026-11-18T19:26:12.000Z",
+   "temas": [
+    "edital"
+   ],
+   "orgs": [],
+   "edital": true,
+   "resumo": "IFPE lança edital para fortalecimento dos grupos de pesquisa da instituição – Campus Paulista IFPE",
+   "coletadoEm": "2026-11-25T19:16:09.243Z"
   },
   {
    "id": "1c1bb6f8e59d",
@@ -3718,6 +4223,20 @@
    "coletadoEm": "2026-11-24T20:10:18.031Z"
   },
   {
+   "id": "269ee9113b25",
+   "titulo": "Computadores quânticos chegam à Paraíba e serão instalados em João Pessoa",
+   "fonte": "WSCOM",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYVNnWWl2NXVjUHIxZ3daTXRRaDVYMDh5U29pNEJmWWpZc3FmX0QtX0VwbXUtMWJxR1B3clNFZVA5VzJNZFRuWTRzbk9OQVRZcHpaeTFaZHBDYWZJcDNPMWVtQ1FCb3N4M2Y1MXNGeHlDam1CSm1ZSUtxek9vemttLUJ6Mm1uYkFlQUoyaDJvdVJrVFRKN01MSHQzNTVNMmVqU0pvSlBvSmtQZFJEckFhNkNibU1MQmp2Y1pQazQ0MFpnX05vUENfcUJ3ajhhUQ?oc=5",
+   "data": "2026-11-06T08:00:00.000Z",
+   "temas": [
+    "saude"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Computadores quânticos chegam à Paraíba e serão instalados em João Pessoa WSCOM",
+   "coletadoEm": "2026-11-25T19:15:57.914Z"
+  },
+  {
    "id": "ca2920950fbe",
    "titulo": "Edital de Chamada Pública Permanente referente à campanha “A PoliFeira é da UFSM: Venha Fazer Parte!”",
    "fonte": "UFSM",
@@ -3755,7 +4274,8 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObnlaVnVTUDc2X2lyNlRyYUlHM0RiWVhWTTlGUE5lLVh1MGhqYXNaYWFuRlUxMEtCam5fdVdXSXZZeHB3dEFtbkp0c21SSTdIeFpQZ0tYUFBZcUgzdlE1MDNlcm0wUmRHWXN3Y093RTZKMWR0VHpHV1ZFRFdHdFJwZEhDaGc1QVpoZGhpWHRNaTVUTXRrU2dJUXRzSmhLMzNTd3RR?oc=5",
    "data": "2026-11-05T08:00:00.000Z",
    "temas": [
-    "seguranca"
+    "seguranca",
+    "financeiro"
    ],
    "orgs": [],
    "edital": false,
@@ -3948,7 +4468,8 @@
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY2hXZER3cXNmcUxFVThsdVlNTzg5VTI0OER6NXlDaXF0cmtrTEFNc2hISUhJdlZ5YklZclN5eXZ1N18xcWl3c0VWbmJoZXIzWjhVbzR4TGtFV19kVDZPbm5BTjBtUkJDVF9yeURqc2RuMjNlbDlFUHd1VEk0RDNwNGVYd3JBZjVaWnJFaTZ3ajRUWjA?oc=5",
    "data": "2026-11-04T08:00:00.000Z",
    "temas": [
-    "seguranca"
+    "seguranca",
+    "financeiro"
    ],
    "orgs": [],
    "edital": false,
@@ -4249,6 +4770,20 @@
    "edital": false,
    "resumo": "Temor com computação quântica colocou um teto no preço do bitcoin, diz fundador da Stacks Exame",
    "coletadoEm": "2026-11-16T22:20:15.440Z"
+  },
+  {
+   "id": "4271b2009dde",
+   "titulo": "Computador clássico do Caltech resolve problema-chave sobre a nitrogenase sem recorrer à computação quântica",
+   "fonte": "Correio Braziliense",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSFlPUW1FUzl1dnRMLVVDNnFWZjMxLWcxZWV5WDFnODR2dldPY2VVclpTMXJWOWUtc18tT19HNm1ROXRrd2ZGVmlwQV9oYm5xVFhlOG1HREJ3MTlJQ3djV3g4bmFobjNmOVU4VkgtRWJzZWRYWDRfMi1uejUyYmhYTmVlX0hsZEU1dDdSbXhfUHYzcU5mN3NhbzFiTUwxWkQxZENsR2N6dlk0NTBRZUJWNG9YTThrSWhwYTBMUWc2c3BoSjE0cHhkdVBKTFF4ZDFSNUtNSUpXNDdIbVpqeGFuTUR0UldSUk80Yjl3?oc=5",
+   "data": "2026-10-28T07:00:00.000Z",
+   "temas": [
+    "energia"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Computador clássico do Caltech resolve problema-chave sobre a nitrogenase sem recorrer à computação quântica Correio Braziliense",
+   "coletadoEm": "2026-11-25T19:15:59.831Z"
   },
   {
    "id": "0a4100b43256",
@@ -4898,23 +5433,6 @@
    ],
    "edital": false,
    "resumo": "Iniciativa atenderá Paraná, Santa Catarina e Rio Grande do Sul em um momento de expansão no apoio de novos projetos de pesquisa e desenvolvimento A Empresa Brasileira de Pesquisa e Inovação Industrial (Embrapii) passa a contar com uma representação dedicada aos estados do Paraná,",
-   "coletadoEm": "2026-11-16T22:20:26.318Z"
-  },
-  {
-   "id": "d113f3324c72",
-   "titulo": "Unidade Embrapii Instituto Atlântico estreita laços com universidades do Canadá para formação de talentos e desenvolvimento de tecnologias emergentes",
-   "fonte": "EMBRAPII",
-   "link": "https://embrapii.org.br/unidade-embrapii-instituto-atlantico-estreita-lacos-com-universidades-do-canada-para-formacao-de-talentos-e-desenvolvimento-de-tecnologias-emergentes/",
-   "data": "2026-07-28T19:13:42.000Z",
-   "temas": [
-    "pdi"
-   ],
-   "orgs": [
-    "ref-instituto-atlantico",
-    "ref-embrapii"
-   ],
-   "edital": false,
-   "resumo": "Movimento conecta estudantes, especialistas e projetos de inovação dos dois países em iniciativas voltadas à indústria, educação tecnológica e inteligência artificial Em um movimento que aproxima os ecossistemas de inovação do Brasil e do Canadá, a Unidade Embrapii Instituto Atlâ",
    "coletadoEm": "2026-11-16T22:20:26.318Z"
   }
  ]
