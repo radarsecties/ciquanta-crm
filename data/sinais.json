@@ -1,7 +1,51 @@
 {
- "atualizadoEm": "2026-11-24T20:10:45.095Z",
+ "atualizadoEm": "2026-11-25T02:47:53.466Z",
  "aviso": "Títulos e links de notícias públicas; o conteúdo pertence a cada veículo.",
  "itens": [
+  {
+   "id": "c89adbb62667",
+   "titulo": "Agência Brasileira de Inteligência apresenta estratégia para proteger o Brasil da computação quântica",
+   "fonte": "BitNotícias",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdDNUbVpxR25aODAxSUswUkJwOUZGM1M0ZnZsUVRaSkQxZjlwTmFsdlhJRWZJVV9uZTRhT01vZzFreWlHZU1kT0xUZVUwRE55bHk1SXFhNmlWSjJ4bVJsMmxSUThfQWhxcHlRMDVrdkw0NUIxbXdXdDdmZlh1RGRTMWtob1VNQ3hlcU5fMlhSRVExQ1U3?oc=5",
+   "data": "2026-11-24T22:00:13.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Agência Brasileira de Inteligência apresenta estratégia para proteger o Brasil da computação quântica BitNotícias",
+   "coletadoEm": "2026-11-25T02:47:20.564Z"
+  },
+  {
+   "id": "8a98ff9a30ef",
+   "titulo": "AMD, Rolls-Royce e Xanadu Avançam na Computação Quântica com a Plataforma Lux",
+   "fonte": "blockchain.news",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWGZvbmdncTJLSEp2dmdPc3dEWVNLTHNXc1BESmMzYkh6ZU90UkRUcW1CR21VRDMtRDBlS2RkQjBfOG5FR1hhYVlSUHJwNnFtQ09SZDZ5UFJCZEdlNE0wcW41T3k2Z1otMGNIaGpWbnJCcEdyWmVFNnk1a0JUYzc1RFRZV3d1dw?oc=5",
+   "data": "2026-11-24T20:21:18.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [
+    "ref-xanadu"
+   ],
+   "edital": false,
+   "resumo": "AMD, Rolls-Royce e Xanadu Avançam na Computação Quântica com a Plataforma Lux blockchain.news",
+   "coletadoEm": "2026-11-25T02:47:20.566Z"
+  },
+  {
+   "id": "369aa36c1cc4",
+   "titulo": "Fundação Ethereum diz que IA agora é um risco mais urgente do que a computação quântica",
+   "fonte": "CoinMarketCap",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTldYSEp0UTFMT1ZjcF8xbWpINlVvM25JWEhTVER5R3EwUGpwMDRENV9MUmRENFpDdGcxQUdWVWowd1JEWVpEaHRSZHJta2Q3RzNLWWdnRU5RR0owQ0pjZDZvNGFuY2J2aWI2cDVNWXkzLWVueDM1czk3WHZyeGNDdjI1UTR3Z0NjSE5hRlJUYmxfeFU?oc=5",
+   "data": "2026-11-24T20:11:44.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Fundação Ethereum diz que IA agora é um risco mais urgente do que a computação quântica CoinMarketCap",
+   "coletadoEm": "2026-11-25T02:47:20.565Z"
+  },
   {
    "id": "822ae41d71ea",
    "titulo": "Chance de computador quântico quebrar criptografia em 10 anos é de 28% a 49%",
@@ -186,6 +230,20 @@
    "edital": false,
    "resumo": "Rio Grande do Sul lança fundo inédito de R$ 100 milhões para acelerar startups deep tech Brasil Inovador",
    "coletadoEm": "2026-11-24T04:05:43.867Z"
+  },
+  {
+   "id": "eabddbfbdb12",
+   "titulo": "Estudo identifica lacunas de verificação em hardware criptográfico pós-quântico",
+   "fonte": "IndexBox",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQzlxUkJLS3I1a0JqQlk0bjh6OUtFb1NmWXRidHRvcXRuQTI0c3JrSE9CV21YT0lOLWJtVVN6dVdlb2pwOVFxNVFBcFlGakllbFhHR2puZkRoWWlQN1ZIaFZtc0huSlZDVjR1UXFlYkdaZ2RwY0V1NVlCUzRzOGs0Z3hTdzRuVVc4SndLYlYwek9FNDFPUVFYRmttc19SSzM0OFhjOGVzWQ?oc=5",
+   "data": "2026-11-23T22:10:54.000Z",
+   "temas": [
+    "seguranca"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Estudo identifica lacunas de verificação em hardware criptográfico pós-quântico IndexBox",
+   "coletadoEm": "2026-11-25T02:47:27.965Z"
   },
   {
    "id": "9dadfb445167",
@@ -1392,6 +1450,20 @@
    "coletadoEm": "2026-11-21T00:16:07.414Z"
   },
   {
+   "id": "79adb63e0988",
+   "titulo": "Incubadora USP/IPEN abre chamada para apoiar novas deep techs; inscrições até 20 de janeiro",
+   "fonte": "niddedigital.com",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeU0wSnQ3ZFlOZl9RaWxvMW1wRzNfNkFSSVRDZ2dmSk5MenJqb0RQNTVWbUN6WkN4dDdZNVMyVGNJdjNnZjhtWDdHakI2UTdOc2VIOVdHbXVYU1V5U2pucHpUbDRjNHRQeVBRYkRYbEc5akFTbnlfd3RxclNqOEJ4QVhTMjNfN053Q2dQLWtnMWdKRl84WTI2b0I0NXFSLXUydjBHeFJ0MmljZVN4cmV1Rzc0cHNLcU0?oc=5",
+   "data": "2026-11-17T21:28:37.000Z",
+   "temas": [
+    "edital"
+   ],
+   "orgs": [],
+   "edital": true,
+   "resumo": "Incubadora USP/IPEN abre chamada para apoiar novas deep techs; inscrições até 20 de janeiro niddedigital.com",
+   "coletadoEm": "2026-11-25T02:47:43.097Z"
+  },
+  {
    "id": "593afa124870",
    "titulo": "O processo de ascensão da China como potência científica e sua experiência para o Vietnã.",
    "fonte": "Vietnam.vn",
@@ -1535,6 +1607,20 @@
    "edital": true,
    "resumo": "Ei, startups! Chamada aberta para o Deep Tech Indústria, programa de soluções tecnológicas Agência de Notícias da Indústria",
    "coletadoEm": "2026-11-17T18:34:58.996Z"
+  },
+  {
+   "id": "d76316bb4a00",
+   "titulo": "IFPE lança edital para fortalecimento dos grupos de pesquisa da instituição – IFPE – Instituto Federal de Pernambuco",
+   "fonte": "IFPE",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb0VsUnRXT3JiSmpEMk5DQ2h4MUFWMFBoM0RHQ3E5LVFULWJ4MFRBel9ERmpoRUNtVDBIelYtRURhLVJoVWFMbVRYNnN4dHp2NjcteHQ3elEyYTQxQ0p6MDlqenFaanpwbGZaSEs5YWd4ZFZTelJQdlJFVjBUUEVkZE1kNktMVVVleDZDNWpFekR2SlZubkMwZnluamt4WWtvOTkwOGpfdHR0QzVsQms0QWJ3?oc=5",
+   "data": "2026-11-17T14:22:38.000Z",
+   "temas": [
+    "edital"
+   ],
+   "orgs": [],
+   "edital": true,
+   "resumo": "IFPE lança edital para fortalecimento dos grupos de pesquisa da instituição – IFPE – Instituto Federal de Pernambuco IFPE",
+   "coletadoEm": "2026-11-25T02:47:43.097Z"
   },
   {
    "id": "69eed45db3ef",

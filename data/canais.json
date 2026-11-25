@@ -408,7 +408,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://br.linkedin.com/company/grupo-fleury"
+   "linkedin": "https://br.linkedin.com/company/grupo-fleury",
+   "buscaWebEm": "2026-11-25T02:47:55.495Z"
   },
   "ref-hapvida-notredame-intermedica": {
    "verificadoEm": "2026-11-19T00:46:27.240Z",
@@ -416,7 +417,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "44649812000138",
-   "linkedin": "https://www.linkedin.com/company/hapvidasaude"
+   "linkedin": "https://www.linkedin.com/company/hapvidasaude",
+   "buscaWebEm": "2026-11-25T02:47:55.562Z"
   },
   "ref-dasa": {
    "verificadoEm": "2026-11-19T00:46:31.239Z",
@@ -467,7 +469,8 @@
     }
    ],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/bporgbr"
+   "linkedin": "https://www.linkedin.com/company/bporgbr",
+   "buscaWebEm": "2026-11-25T02:47:55.675Z"
   },
   "ref-ache-laboratorios": {
    "verificadoEm": "2026-11-22T17:10:12.519Z",
@@ -485,7 +488,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-25T02:47:55.847Z"
   },
   "ref-hcor": {
    "verificadoEm": "2026-11-19T00:46:38.886Z",
@@ -493,7 +497,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "60453024000128",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-25T02:47:55.735Z"
   },
   "ref-sabin-diagnostico-e-saude": {
    "verificadoEm": "2026-11-19T00:46:49.312Z",
@@ -501,7 +506,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://br.linkedin.com/company/grupo-sabin"
+   "linkedin": "https://br.linkedin.com/company/grupo-sabin",
+   "buscaWebEm": "2026-11-25T02:47:55.792Z"
   },
   "ref-cristalia": {
    "verificadoEm": "2026-11-19T00:46:40.474Z",
@@ -509,7 +515,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/282007"
+   "linkedin": "https://www.linkedin.com/company/282007",
+   "buscaWebEm": "2026-11-25T02:47:55.974Z"
   },
   "ref-ems": {
    "verificadoEm": "2026-11-19T00:46:54.436Z",
@@ -555,7 +562,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/biommbr"
+   "linkedin": "https://www.linkedin.com/company/biommbr",
+   "buscaWebEm": "2026-11-25T02:47:56.033Z"
   },
   "ref-libbs": {
    "verificadoEm": "2026-11-19T00:46:59.596Z",
@@ -563,7 +571,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "61230314000175",
-   "linkedin": "https://www.linkedin.com/company/libbsfarmaceutica"
+   "linkedin": "https://www.linkedin.com/company/libbsfarmaceutica",
+   "buscaWebEm": "2026-11-25T02:47:55.908Z"
   },
   "ref-jbs": {
    "verificadoEm": "2026-11-22T17:10:12.707Z",
@@ -586,7 +595,8 @@
     }
    ],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/1048603"
+   "linkedin": "https://www.linkedin.com/company/1048603",
+   "buscaWebEm": "2026-11-25T02:47:56.150Z"
   },
   "ref-embrapa": {
    "verificadoEm": "2026-11-19T00:46:58.680Z",
@@ -609,7 +619,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/uni-o-qu-mica-farmac-utica-nacional"
+   "linkedin": "https://www.linkedin.com/company/uni-o-qu-mica-farmac-utica-nacional",
+   "buscaWebEm": "2026-11-25T02:47:56.087Z"
   },
   "ref-bayer-brasil": {
    "verificadoEm": "2026-11-19T00:47:05.014Z",
@@ -798,7 +809,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/hospital-moinhos-de-vento"
+   "linkedin": "https://www.linkedin.com/company/hospital-moinhos-de-vento",
+   "buscaWebEm": "2026-11-25T02:47:55.618Z"
   },
   "ref-instituto-tecnologico-vale-itv": {
    "verificadoEm": "2026-11-17T18:35:20.778Z",
@@ -3572,5 +3584,5 @@
    "buscaWebEm": "2026-11-23T21:26:42.782Z"
   }
  },
- "atualizadoEm": "2026-11-24T20:11:13.856Z"
+ "atualizadoEm": "2026-11-25T02:47:56.208Z"
 }

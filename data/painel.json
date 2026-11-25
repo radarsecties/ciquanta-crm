@@ -1,9 +1,9 @@
 {
- "coletadoEm": "2026-11-24T20:10:12.209Z",
+ "coletadoEm": "2026-11-25T02:47:20.150Z",
  "fonte": "Painel CIQUANTA (painelciquanta.secties.pb.gov.br)",
  "dados": {
   "ok": true,
-  "atualizado": "2026-11-24T17:10",
+  "atualizado": "2026-11-24T23:47",
   "total": 84,
   "pessoas": 75,
   "instituicoes": 9,
@@ -220,10 +220,10 @@
    }
   ],
   "cad7": 17,
-  "prev": 232,
+  "prev": 233,
   "rec": 224,
-  "img": 0.8695652173913043,
-  "not": 0.7217391304347827,
+  "img": 0.8706896551724138,
+  "not": 0.7241379310344828,
   "sessoes": [
    {
     "data": "2026-11-24",
@@ -326,6 +326,12 @@
     "hora": "15:30",
     "conf": 0,
     "pend": 7
+   },
+   {
+    "data": "2026-12-04",
+    "hora": "14:00",
+    "conf": 0,
+    "pend": 1
    },
    {
     "data": "2026-12-04",
@@ -520,7 +526,7 @@
    },
    {
     "r": "Mestrado",
-    "n": 6
+    "n": 7
    },
    {
     "r": "Doutorado ou pós-doutorado",
@@ -609,6 +615,15 @@
    "instituicoes": 9,
    "ufs": 13,
    "previstos": 232,
+   "recebidos": 224
+  },
+  {
+   "dia": "2026-11-25",
+   "cadastros": 84,
+   "pessoas": 75,
+   "instituicoes": 9,
+   "ufs": 13,
+   "previstos": 233,
    "recebidos": 224
   }
  ]

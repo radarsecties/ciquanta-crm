@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-24T20:10:45.097Z",
+ "atualizadoEm": "2026-11-25T02:47:53.468Z",
  "aviso": "Chamadas identificadas automaticamente em notícias; confirme prazo e regras na página oficial.",
  "itens": [
   {
@@ -123,6 +123,16 @@
    "coletadoEm": "2026-11-19T00:45:25.684Z"
   },
   {
+   "id": "ed-79adb63e0988",
+   "titulo": "Incubadora USP/IPEN abre chamada para apoiar novas deep techs; inscrições até 20 de janeiro",
+   "orgao": "niddedigital.com",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeU0wSnQ3ZFlOZl9RaWxvMW1wRzNfNkFSSVRDZ2dmSk5MenJqb0RQNTVWbUN6WkN4dDdZNVMyVGNJdjNnZjhtWDdHakI2UTdOc2VIOVdHbXVYU1V5U2pucHpUbDRjNHRQeVBRYkRYbEc5akFTbnlfd3RxclNqOEJ4QVhTMjNfN053Q2dQLWtnMWdKRl84WTI2b0I0NXFSLXUydjBHeFJ0MmljZVN4cmV1Rzc0cHNLcU0?oc=5",
+   "publicado": "2026-11-17T21:28:37.000Z",
+   "prazo": "2027-01-20",
+   "fonte": "Google Notícias",
+   "coletadoEm": "2026-11-25T02:47:43.097Z"
+  },
+  {
    "id": "ed-b929090be5e6",
    "titulo": "Ei, startups! Chamada aberta para o Deep Tech Indústria, programa de soluções tecnológicas",
    "orgao": "Agência de Notícias da Indústria",
@@ -131,6 +141,16 @@
    "prazo": "",
    "fonte": "Google Notícias",
    "coletadoEm": "2026-11-17T18:34:58.995Z"
+  },
+  {
+   "id": "ed-d76316bb4a00",
+   "titulo": "IFPE lança edital para fortalecimento dos grupos de pesquisa da instituição – IFPE – Instituto Federal de Pernambuco",
+   "orgao": "IFPE",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb0VsUnRXT3JiSmpEMk5DQ2h4MUFWMFBoM0RHQ3E5LVFULWJ4MFRBel9ERmpoRUNtVDBIelYtRURhLVJoVWFMbVRYNnN4dHp2NjcteHQ3elEyYTQxQ0p6MDlqenFaanpwbGZaSEs5YWd4ZFZTelJQdlJFVjBUUEVkZE1kNktMVVVleDZDNWpFekR2SlZubkMwZnluamt4WWtvOTkwOGpfdHR0QzVsQms0QWJ3?oc=5",
+   "publicado": "2026-11-17T14:22:38.000Z",
+   "prazo": "",
+   "fonte": "Google Notícias",
+   "coletadoEm": "2026-11-25T02:47:43.096Z"
   },
   {
    "id": "ed-be8a08359b46",
