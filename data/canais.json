@@ -722,7 +722,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/corteva"
+   "linkedin": "https://www.linkedin.com/company/corteva",
+   "buscaWebEm": "2026-11-26T01:57:37.506Z"
   },
   "ref-basf-brasil": {
    "verificadoEm": "2026-11-19T00:47:22.609Z",
@@ -768,7 +769,8 @@
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-26T01:57:37.883Z"
   },
   "ref-john-deere-brasil": {
    "verificadoEm": "2026-11-19T00:47:20.663Z",
@@ -776,7 +778,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "89674782000158",
-   "linkedin": "https://www.linkedin.com/company/john-deere"
+   "linkedin": "https://www.linkedin.com/company/john-deere",
+   "buscaWebEm": "2026-11-26T01:57:37.719Z"
   },
   "ref-jacto": {
    "verificadoEm": "2026-11-19T00:47:26.446Z",
@@ -784,7 +787,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-26T01:57:37.606Z"
   },
   "ref-cooxupe": {
    "verificadoEm": "2026-11-19T00:47:26.407Z",
@@ -886,7 +890,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/cemaden"
+   "linkedin": "https://www.linkedin.com/company/cemaden",
+   "buscaWebEm": "2026-11-26T01:57:37.961Z"
   },
   "ref-eletrobras": {
    "verificadoEm": "2026-11-17T18:35:31.487Z",
@@ -991,7 +996,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "03034433000156",
-   "linkedin": "https://pt.linkedin.com/company/c-mara-de-comercializa-o-de-energia-el-trica"
+   "linkedin": "https://pt.linkedin.com/company/c-mara-de-comercializa-o-de-energia-el-trica",
+   "buscaWebEm": "2026-11-26T01:57:38.133Z"
   },
   "ref-energisa": {
    "verificadoEm": "2026-11-17T18:35:52.100Z",
@@ -1139,7 +1145,8 @@
     }
    ],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-26T01:57:38.056Z"
   },
   "ref-light": {
    "verificadoEm": "2026-11-17T18:36:11.961Z",
@@ -1161,7 +1168,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/engie-brasil"
+   "linkedin": "https://www.linkedin.com/company/engie-brasil",
+   "buscaWebEm": "2026-11-26T01:57:38.295Z"
   },
   "ref-auren-energia": {
    "verificadoEm": "2026-11-24T04:06:00.208Z",
@@ -1196,7 +1204,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/isaenergiabrasil"
+   "linkedin": "https://www.linkedin.com/company/isaenergiabrasil",
+   "buscaWebEm": "2026-11-26T01:57:38.452Z"
   },
   "ref-shell-brasil": {
    "verificadoEm": "2026-11-17T18:36:25.193Z",
@@ -1238,7 +1247,8 @@
    "erro": "fetch failed",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-26T01:57:38.376Z"
   },
   "ref-prio": {
    "verificadoEm": "2026-11-24T04:06:00.274Z",
@@ -1298,7 +1308,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-26T01:57:38.217Z"
   },
   "ref-galp-brasil": {
    "verificadoEm": "2026-11-17T18:36:45.944Z",
@@ -3587,7 +3598,12 @@
    "emails": [],
    "status": "ok",
    "buscaWebEm": "2026-11-23T21:26:42.782Z"
+  },
+  "ref-cnh-industrial-brasil": {
+   "emails": [],
+   "status": "ok",
+   "buscaWebEm": "2026-11-26T01:57:37.797Z"
   }
  },
- "atualizadoEm": "2026-11-25T19:16:57.296Z"
+ "atualizadoEm": "2026-11-26T01:57:38.535Z"
 }

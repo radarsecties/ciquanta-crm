@@ -1,9 +1,9 @@
 {
- "coletadoEm": "2026-11-25T19:15:46.169Z",
+ "coletadoEm": "2026-11-26T01:57:02.742Z",
  "fonte": "Painel CIQUANTA (painelciquanta.secties.pb.gov.br)",
  "dados": {
   "ok": true,
-  "atualizado": "2026-11-25T16:15",
+  "atualizado": "2026-11-25T22:57",
   "total": 84,
   "pessoas": 75,
   "instituicoes": 9,
@@ -225,10 +225,10 @@
    }
   ],
   "cad7": 13,
-  "prev": 190,
+  "prev": 209,
   "rec": 226,
-  "img": 0.8909090909090909,
-  "not": 0.6909090909090909,
+  "img": 0.8928571428571429,
+  "not": 0.6964285714285714,
   "sessoes": [
    {
     "data": "2026-11-25",
@@ -245,7 +245,7 @@
    {
     "data": "2026-11-26",
     "hora": "10:30",
-    "conf": 25,
+    "conf": 24,
     "pend": 0
    },
    {
@@ -264,12 +264,12 @@
     "data": "2026-11-27",
     "hora": "14:00",
     "conf": 6,
-    "pend": 1
+    "pend": 16
    },
    {
     "data": "2026-11-27",
     "hora": "15:30",
-    "conf": 15,
+    "conf": 20,
     "pend": 3
    },
    {
@@ -481,7 +481,7 @@
   "escolaridade": [
    {
     "r": "Ensino fundamental",
-    "n": 4
+    "n": 5
    },
    {
     "r": "Ensino médio",
@@ -493,11 +493,11 @@
    },
    {
     "r": "Graduação",
-    "n": 35
+    "n": 36
    },
    {
     "r": "Especialização ou MBA",
-    "n": 19
+    "n": 20
    },
    {
     "r": "Mestrado",
@@ -505,7 +505,7 @@
    },
    {
     "r": "Doutorado ou pós-doutorado",
-    "n": 21
+    "n": 20
    }
   ],
   "parceiras": []
@@ -599,6 +599,15 @@
    "instituicoes": 9,
    "ufs": 13,
    "previstos": 190,
+   "recebidos": 226
+  },
+  {
+   "dia": "2026-11-26",
+   "cadastros": 84,
+   "pessoas": 75,
+   "instituicoes": 9,
+   "ufs": 13,
+   "previstos": 209,
    "recebidos": 226
   }
  ]
