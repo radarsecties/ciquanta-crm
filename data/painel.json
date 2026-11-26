@@ -1,15 +1,15 @@
 {
- "coletadoEm": "2026-11-26T01:57:02.742Z",
+ "coletadoEm": "2026-11-26T19:00:01.153Z",
  "fonte": "Painel CIQUANTA (painelciquanta.secties.pb.gov.br)",
  "dados": {
   "ok": true,
-  "atualizado": "2026-11-25T22:57",
-  "total": 84,
-  "pessoas": 75,
+  "atualizado": "2026-11-26T16:00",
+  "total": 85,
+  "pessoas": 76,
   "instituicoes": 9,
   "ufs": 13,
-  "cidades": 34,
-  "fora": 0.5595238095238095,
+  "cidades": 35,
+  "fora": 0.5647058823529412,
   "porUf": [
    {
     "uf": "PB",
@@ -54,6 +54,12 @@
     "total": 3
    },
    {
+    "uf": "RS",
+    "pessoas": 2,
+    "insts": 1,
+    "total": 3
+   },
+   {
     "uf": "GO",
     "pessoas": 2,
     "insts": 0,
@@ -69,12 +75,6 @@
     "uf": "RN",
     "pessoas": 2,
     "insts": 0,
-    "total": 2
-   },
-   {
-    "uf": "RS",
-    "pessoas": 1,
-    "insts": 1,
     "total": 2
    },
    {
@@ -100,11 +100,11 @@
     "n": 20
    },
    {
-    "r": "Centro-Oeste",
-    "n": 5
+    "r": "Sul",
+    "n": 6
    },
    {
-    "r": "Sul",
+    "r": "Centro-Oeste",
     "n": 5
    },
    {
@@ -222,20 +222,19 @@
     "dia": "2026-11-25",
     "n": 0,
     "acum": 84
+   },
+   {
+    "dia": "2026-11-26",
+    "n": 1,
+    "acum": 85
    }
   ],
-  "cad7": 13,
-  "prev": 209,
-  "rec": 226,
-  "img": 0.8928571428571429,
-  "not": 0.6964285714285714,
+  "cad7": 12,
+  "prev": 213,
+  "rec": 228,
+  "img": 0.8879310344827587,
+  "not": 0.7068965517241379,
   "sessoes": [
-   {
-    "data": "2026-11-25",
-    "hora": "10:30",
-    "conf": 2,
-    "pend": 0
-   },
    {
     "data": "2026-11-26",
     "hora": "09:00",
@@ -274,9 +273,15 @@
    },
    {
     "data": "2026-11-30",
+    "hora": "09:00",
+    "conf": 0,
+    "pend": 1
+   },
+   {
+    "data": "2026-11-30",
     "hora": "15:30",
     "conf": 0,
-    "pend": 9
+    "pend": 10
    },
    {
     "data": "2026-12-01",
@@ -291,10 +296,22 @@
     "pend": 5
    },
    {
+    "data": "2026-12-02",
+    "hora": "14:00",
+    "conf": 0,
+    "pend": 2
+   },
+   {
     "data": "2026-12-03",
     "hora": "10:30",
     "conf": 0,
     "pend": 25
+   },
+   {
+    "data": "2026-12-03",
+    "hora": "14:00",
+    "conf": 0,
+    "pend": 2
    },
    {
     "data": "2026-12-03",
@@ -399,17 +416,17 @@
   "temas": [
    {
     "r": "Computação quântica",
-    "n": 61,
+    "n": 62,
+    "b": 8
+   },
+   {
+    "r": "Algoritmos e software quântico",
+    "n": 56,
     "b": 8
    },
    {
     "r": "IA e computação quântica",
     "n": 56,
-    "b": 8
-   },
-   {
-    "r": "Algoritmos e software quântico",
-    "n": 55,
     "b": 8
    },
    {
@@ -419,12 +436,12 @@
    },
    {
     "r": "Comunicação quântica",
-    "n": 28,
+    "n": 29,
     "b": 4
    },
    {
     "r": "Simulação de moléculas e materiais",
-    "n": 23,
+    "n": 24,
     "b": 6
    },
    {
@@ -459,7 +476,7 @@
    },
    {
     "r": "Pesquisador(a)",
-    "n": 13
+    "n": 14
    },
    {
     "r": "Profissional da indústria",
@@ -489,11 +506,11 @@
    },
    {
     "r": "Ensino técnico",
-    "n": 3
+    "n": 4
    },
    {
     "r": "Graduação",
-    "n": 36
+    "n": 37
    },
    {
     "r": "Especialização ou MBA",
@@ -505,7 +522,7 @@
    },
    {
     "r": "Doutorado ou pós-doutorado",
-    "n": 20
+    "n": 22
    }
   ],
   "parceiras": []
@@ -603,12 +620,12 @@
   },
   {
    "dia": "2026-11-26",
-   "cadastros": 84,
-   "pessoas": 75,
+   "cadastros": 85,
+   "pessoas": 76,
    "instituicoes": 9,
    "ufs": 13,
-   "previstos": 209,
-   "recebidos": 226
+   "previstos": 213,
+   "recebidos": 228
   }
  ]
 }

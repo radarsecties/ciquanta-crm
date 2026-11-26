@@ -1178,7 +1178,8 @@
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-26T19:00:37.696Z"
   },
   "ref-casa-dos-ventos": {
    "verificadoEm": "2026-11-17T18:36:17.669Z",
@@ -1257,7 +1258,8 @@
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-26T19:00:37.926Z"
   },
   "ref-totalenergies-brasil": {
    "verificadoEm": "2026-11-17T18:36:35.772Z",
@@ -1275,7 +1277,8 @@
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-26T19:00:38.216Z"
   },
   "ref-repsol-sinopec-brasil": {
    "verificadoEm": "2026-11-17T18:36:38.460Z",
@@ -1283,7 +1286,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/3007028"
+   "linkedin": "https://www.linkedin.com/company/3007028",
+   "buscaWebEm": "2026-11-26T19:00:37.839Z"
   },
   "ref-raizen": {
    "verificadoEm": "2026-11-17T18:36:41.047Z",
@@ -1291,7 +1295,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "33453598000123",
-   "linkedin": "https://www.linkedin.com/company/raizenoficial"
+   "linkedin": "https://www.linkedin.com/company/raizenoficial",
+   "buscaWebEm": "2026-11-26T19:00:38.139Z"
   },
   "ref-ibp-instituto-brasileiro-de-petroleo-e-g": {
    "verificadoEm": "2026-11-24T04:06:00.538Z",
@@ -1300,7 +1305,8 @@
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-26T19:00:38.359Z"
   },
   "ref-edp-brasil": {
    "verificadoEm": "2026-11-17T18:36:45.779Z",
@@ -1323,7 +1329,8 @@
     }
    ],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/galp"
+   "linkedin": "https://www.linkedin.com/company/galp",
+   "buscaWebEm": "2026-11-26T19:00:37.773Z"
   },
   "ref-gerdau": {
    "verificadoEm": "2026-11-24T04:06:00.821Z",
@@ -1332,7 +1339,8 @@
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-26T19:00:38.423Z"
   },
   "ref-vibra-energia": {
    "verificadoEm": "2026-11-17T18:36:50.249Z",
@@ -1354,7 +1362,8 @@
     }
    ],
    "cnpj": "",
-   "linkedin": "https://br.linkedin.com/company/transpetro-petrobras-transporte"
+   "linkedin": "https://br.linkedin.com/company/transpetro-petrobras-transporte",
+   "buscaWebEm": "2026-11-26T19:00:38.286Z"
   },
   "ref-cbmm": {
    "verificadoEm": "2026-11-17T18:36:53.562Z",
@@ -1647,7 +1656,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/eneva"
+   "linkedin": "https://www.linkedin.com/company/eneva",
+   "buscaWebEm": "2026-11-26T19:00:37.612Z"
   },
   "ref-quati": {
    "emails": [],
@@ -3603,7 +3613,17 @@
    "emails": [],
    "status": "ok",
    "buscaWebEm": "2026-11-26T01:57:37.797Z"
+  },
+  "ref-exxonmobil-brasil": {
+   "emails": [],
+   "status": "ok",
+   "buscaWebEm": "2026-11-26T19:00:37.994Z"
+  },
+  "ref-bp-brasil": {
+   "emails": [],
+   "status": "ok",
+   "buscaWebEm": "2026-11-26T19:00:38.076Z"
   }
  },
- "atualizadoEm": "2026-11-26T01:57:38.535Z"
+ "atualizadoEm": "2026-11-26T19:00:38.504Z"
 }

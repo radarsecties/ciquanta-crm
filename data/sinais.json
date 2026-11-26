@@ -1,7 +1,79 @@
 {
- "atualizadoEm": "2026-11-26T01:57:35.640Z",
+ "atualizadoEm": "2026-11-26T19:00:35.635Z",
  "aviso": "Títulos e links de notícias públicas; o conteúdo pertence a cada veículo.",
  "itens": [
+  {
+   "id": "2c34555209b6",
+   "titulo": "Finep lança edital de R$ 120 milhões para pesquisas em saúde",
+   "fonte": "Movimento Econômico",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTTI4WnVjN3o1N3V5SmY2bE9iTVh1OGJ1WlJMWW1lMzNnN1F5Z1JpS3BlZ0xEM1pxbWZ0cG9fRmZBUkY4RTBUR05CTWpiZkp3T0RVOS1jaVI2M3doblFmREg5d2lmM2M1T3c4VmVmRlUxTTk2X2pkV3V4Tnl1MERkWWM0NVAwZFNmeXVZVWFBSjBLWWljSG93cUVUQzBMVGRCNWIxLXNIM1NieDNFVGdaWUNDQ0dlVUlWTGdUeQ?oc=5",
+   "data": "2026-11-26T18:22:37.000Z",
+   "temas": [
+    "edital"
+   ],
+   "orgs": [
+    "ref-finep"
+   ],
+   "edital": true,
+   "resumo": "Finep lança edital de R$ 120 milhões para pesquisas em saúde Movimento Econômico",
+   "coletadoEm": "2026-11-26T19:00:24.969Z"
+  },
+  {
+   "id": "7d0e5801b692",
+   "titulo": "Após perder o bonde da IA, Europa agora mira tecnologia quântica",
+   "fonte": "Startups",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd29YVi00TVRIYUdGSlZjNjFOWUZxQzQxcGxwWnBpOUpfYVlWU0QxN19yeXZWVENRVDF0OXdaT1ZBVWVIRjNqenlQZTRuS2p0eElVTW5BQ2tmT3h3WXRPVmZtaFpxNklwOEpiV2cxQ1ZlX3JKa1lCaW9aQ3hhR015QXJ6WlJUU0hoaC1Lb090MVBacmFiSUROd0NHaUZGUVZqSFNjMUs3VTQ0VzNaUEFvaUlQZGtaSWlpZWJ4M0d3?oc=5",
+   "data": "2026-11-26T17:58:39.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Após perder o bonde da IA, Europa agora mira tecnologia quântica Startups",
+   "coletadoEm": "2026-11-26T19:00:03.401Z"
+  },
+  {
+   "id": "8c95b4f486a7",
+   "titulo": "BYD reforça investimentos em tecnologia com lançamento do Denza Bao 3",
+   "fonte": "93 Notícias",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdmt6UTB6Z3c0aHZrcTREdTF2dTVYX201eGhlVV92Qzd0VFpESC1LWGJ5MFg4dnBFTWZtRWxrMkpwcUs5ZlZvaXBDdmtBZ2VkVXVDMVR1RGF1WUxaTTg5TGJla3VBSnlENWNmampEQVRMOGFadXhqNXRNUUNGUmJHekpZRkJnQmlY?oc=5",
+   "data": "2026-11-26T11:41:05.000Z",
+   "temas": [
+    "pdi"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "BYD reforça investimentos em tecnologia com lançamento do Denza Bao 3 93 Notícias",
+   "coletadoEm": "2026-11-26T19:00:20.930Z"
+  },
+  {
+   "id": "a96973242c7c",
+   "titulo": "Fundação Ethereum afirma que a IA é uma ameaça mais urgente do que a computação quântica",
+   "fonte": "BitNotícias",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPajN1RDYwQmlaZGIyMENYNzJhM0RYWmxmcXE2dndXMFBRZy1CYkxWRF9KWE9WOVlvRVhMOGlEZmxVbWY0Yi1ZR193UjBpeE52SVhoU2QtUHJWRWNHS3VHd0xxSTJod1lNNGN4anNWai14cEs5WWM5TmxqUzNKUjI5UmVBZHR1X0Nf?oc=5",
+   "data": "2026-11-26T11:00:28.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Fundação Ethereum afirma que a IA é uma ameaça mais urgente do que a computação quântica BitNotícias",
+   "coletadoEm": "2026-11-26T19:00:01.508Z"
+  },
+  {
+   "id": "62af02c09645",
+   "titulo": "Ethereum recomenda Keccak-256 para segurança pós-quântica",
+   "fonte": "Webitcoin",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRjVOdENHTktiZ1J2MlhSTUZKeUtpSGlyQk4yVmNKaTJ6Nmh3NVhiVjVWZkdqOG5RM2dMSXdYS2dYQjVOdGFabkxhQWdhZ1ZaWFhBTjVPNVRkNU00N1VmRU1KVWlYdjQ0aUtYZXRlMC1ROVdFbXFxZG1lMGhkZmZQTFpGTDFTLXhNRHZz?oc=5",
+   "data": "2026-11-26T09:11:41.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Ethereum recomenda Keccak-256 para segurança pós-quântica Webitcoin",
+   "coletadoEm": "2026-11-26T19:00:01.508Z"
+  },
   {
    "id": "6ee83c65e8a2",
    "titulo": "RS lança fundo de R$ 100 milhões para investir em startups",
@@ -37,7 +109,8 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMElLNlZHMjJ0ZWxyTVhhcUxKOFlOdVByTVd5eGRldmJzWDF4SzJDR0NuTzZnVFp4ZWFneFNoaW1KMURVWklQdEZ6S05zbk9KS2pJZ25IaE9OQmhSS25vLUMtOXI0U0hIb2R4NTllWjdBX3k5YWpaTWplVllEcUtUdXpyOTBQQm5CZnhwZU9pUElUYm41dTZNbDZxa3VscGxJLVUzWEpialRfVGdCM1RpNzhPLXpEUFJuRW4tN2doZUVJbVkzZW5QUQ?oc=5",
    "data": "2026-11-25T20:00:56.000Z",
    "temas": [
-    "quantica"
+    "quantica",
+    "saude"
    ],
    "orgs": [],
    "edital": false,
@@ -153,7 +226,8 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ1ViS1lwVlJUTURNVVBXTmRVTkg4cS1rXzNzZ3J5S3dtcWpvRXBTZWRrVDlXVlR3eXcyTmg1ZU9kRUxaeWdlemUyX3BFWmlaYWF2RzhOUkJmSHFKU1ZjSWhWeUFkN2ZrTDQ1ZjVwOTdnSV9QbjdfQl9adjFqVGF4LUNQMFdVcG1pNWppeUVPTVA0VVJtWm5IMXBvbkhCeHpvUWZXMGI0V0lCRVRfYmfSAbMBQVVfeXFMUFFkcXFmSUlmc21TM1Y3QlBjMXdPR3NEdGZya09MTk1JVnBidWljeldQMkV2REVIaW5vUlU0Q2MyV0FNRmZ3RGoxUDVFN1d0dUxkU3lhM3ZtdnBZM3BuWldSYXBzMVhfZnZfLVpRRFE1NVdPNWZRcVBXby0wYWtYTVBmRUNLcDllUDFyLUlNTGJoQi05aG5VYzdQZUVIWHVyNFloU3k4YVVpZUVZLWRIcEcyOEU?oc=5",
    "data": "2026-11-25T16:30:00.000Z",
    "temas": [
-    "quantica"
+    "quantica",
+    "saude"
    ],
    "orgs": [],
    "edital": false,
@@ -772,7 +846,8 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWG82eHJURGxVbnZ3ckFSWldhUF9VN1lnc20zd0lVS1dTVnZ0a3NCSFQzeXI0NFUtaUR1OHFQaERrT012VldCd1U1NG1LSWI5UGJVRlFRVmlBTWUwaUVwd3VBdzlTbUFWckR6WE1fZXpUWnctblFDT25Vb1hRdG54VVFOak9RNE85aTdIcDJEa1pieEhOVFRpMWhVRV93cXVtRmlLNWktd0JPOW9l0gGyAUFVX3lxTE9DSmg1R2FNVklrSjFJZ0RkT1FfUVBnajB3RTloZnNJOV8wVFFTYUExcFNUTmg5WHhGYld3RVhick40V3hfSnJUSGJOajVCbER5VlM1a1dKVTlrOUxFNUdDUGs3ejYzSGNpWnFDSlppRzBmdkVva0lqZTk2dEM0ZW5lS3MwUWlrdWFWcExnM1cyRkljQllaRW5UZE00MG1uZ2d3WGRRSkpGSU1yZjR0eVN1S0E?oc=5",
    "data": "2026-11-24T07:20:00.000Z",
    "temas": [
-    "quantica"
+    "quantica",
+    "saude"
    ],
    "orgs": [],
    "edital": false,
@@ -1683,7 +1758,8 @@
    "data": "2026-11-19T19:28:03.000Z",
    "temas": [
     "saude",
-    "quantica"
+    "quantica",
+    "energia"
    ],
    "orgs": [],
    "edital": false,
@@ -3894,7 +3970,8 @@
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQa2tjSml3OXQxRUsweWxXS2QxNHVQcmFJZ1V3ZmV0bmVmSmNJa09xZ2Z1YWtSV1g0R29ERzN1R0N3NEhxaWJmOXEweGNHTmFJWHY2NjhvY1BTSVh1ODh2UzE5SkktamtMS0VzT0Q5TVZjZlhELWVZaDVNZVU2THNubVVpandMOW4tNndGWTV3d3E3Z2QtSnlsQmhhemdJM2NfT1BqamNmMy1VUkJjMWpJVGxpVmppcVdZZTNmckJpY3ZfVXh0WWMwVVJKRk45eTBHTFFpRUtqUjdBRzJPbkxzYk5lMGFFdkk?oc=5",
    "data": "2026-11-11T18:20:03.000Z",
    "temas": [
-    "ciquanta"
+    "ciquanta",
+    "energia"
    ],
    "orgs": [],
    "edital": false,
