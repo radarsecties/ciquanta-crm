@@ -1,7 +1,144 @@
 {
- "atualizadoEm": "2026-11-27T01:56:48.442Z",
+ "atualizadoEm": "2026-11-27T18:59:40.339Z",
  "aviso": "Títulos e links de notícias públicas; o conteúdo pertence a cada veículo.",
  "itens": [
+  {
+   "id": "326457d0316f",
+   "titulo": "FAPESP e Cern lançam chamada para ampliar participação paulista no laboratório europeu",
+   "fonte": "Agência FAPESP",
+   "link": "https://agencia.fapesp.br/fapesp-e-cern-lancam-chamada-para-ampliar-participacao-paulista-no-laboratorio-europeu/59698",
+   "data": "2026-11-27T18:59:40.267Z",
+   "temas": [
+    "edital"
+   ],
+   "orgs": [
+    "ref-fapesp"
+   ],
+   "edital": true,
+   "resumo": "Edital apoia projetos teóricos, experimentais, tecnológicos e de instrumentação em quaisquer instalações e programas da organização responsável pelo Grande Colisor de Hádrons",
+   "coletadoEm": "2026-11-27T18:59:40.268Z"
+  },
+  {
+   "id": "0c0e48240e52",
+   "titulo": "Haroldo Jacobovicz avalia o impacto da computação quântica sobre a segurança de dados das empresas - TNOnline",
+   "fonte": "TNOnline",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeEpXYTFUQkxpUVBPbkdrZE9yS0NNcUFEaThmWEVxaUpGaFNQVHN0VXVHUGtzb2JWMk9DNDN4cGZSVkdYa29TRmZTMWNLQ20yWHBPcjZFam5nbjhaYVlYazkweDdIbENXblZYZEF1S1R1Q2cxa3AxUmJ4Y0M3YVNfR21NY05NcnRzT2ZJUkRvYnd6MHhqUzFad3BTRXM0YmdpM0FiNEVOUTVuWW5XUlFhNWh5QkFyQkJiX3VFTXdPeTh5MlA5bXd0TEVDcHYzOVVsOC05bUtiMkpjbi16MVItQUljaVR0MS1l0gHzAUFVX3lxTFBPZlZQVVlEd3Z5cnc0bDZRd2ZhNWZSQk1rNGVDeURBWjk1NE1tdnpkSWNORXdqM1hBYjFOQlNSN3R4TWdkZGRrV2p6WUQ3QzZaaUEwTVdHWlRFV01RZXp0WklOQVNXX2hHc1VXbmpTUERJSWlqUmcwbTQzWEVYQUJRaXVaX0dqSHYwYTAzTXEzb3FzUlpWcE54TjNha1VKeHhIT2ppVHJfSE1zR2hWTl8xcnM2MGIyeU5DTnhXdm54OHJLSWd3bFJRWVpzamtEeXJzN2phQVdSN1AzQmRseGpwekdELTVtek5vUzFEU0c5MGluWQ?oc=5",
+   "data": "2026-11-27T18:17:42.000Z",
+   "temas": [
+    "quantica",
+    "saude"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Haroldo Jacobovicz avalia o impacto da computação quântica sobre a segurança de dados das empresas - TNOnline TNOnline",
+   "coletadoEm": "2026-11-27T18:59:07.344Z"
+  },
+  {
+   "id": "20fb5c796ab3",
+   "titulo": "Lucas Ribeiro anuncia viagem ao exterior para apresentar computador quântico da Paraíba; Fred Coutinho assumirá temporariamente o Governo",
+   "fonte": "Blog Milton Figueiredo",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPakIxdFdWWjVrdVk5NEVtbm0wZzZXdHRrTTVGSmlkQXkxNVcwOGR1SzlXRHFneGFOOWZDMEZDMVBFWVpBbXRsZjNPZ20wUlVldUp5VkluV1hRZTY2SmFST0NNbFJOd3B0dHZhMXl2bUlFbHEzb0c1bExlTjVKOENDTzhqdkZ6aVpLT2tHWm5pRExGb2FyUVdFTEpfVThaYkYtVDVEc25COVFLdF9CM3gzYVQwcTRNUWl1UGdrV1hvT0xqWE95ZGhMNWVCdzY4MnNBMXEyWk9QaFVmcUJDNkVDcFY3YmZ2SWRlMUhGYi1QZkRKaTJrNTNaOF9YLXFVd05qeU54VlRncy1Sbm1pUkY4TGRzM0RQODNQRFE?oc=5",
+   "data": "2026-11-27T18:07:02.000Z",
+   "temas": [
+    "ciquanta"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Lucas Ribeiro anuncia viagem ao exterior para apresentar computador quântico da Paraíba; Fred Coutinho assumirá temporariamente o Governo Blog Milton Figueiredo",
+   "coletadoEm": "2026-11-27T18:59:12.882Z"
+  },
+  {
+   "id": "e9747d5a64c5",
+   "titulo": "O Quantum Act e a transição gradual para a criptografia pós-quântica",
+   "fonte": "Monitor Mercantil",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOFJLUnd2TV82UXpPSzBmUEpCbTk2VzJjbVdnZTIxVUZ4RENVV1YtNG0wUVRnQWVQU21tYUZicE1KVFJNOEhKdG8tT2VMcWNIbnZPWkhVN2ZnMkpHY0RkUzcwd3BsVC10Q09TYlRVMFFvb1BqQV9BUDNhZF9OMlo0Nlhpd2o3dC1Nc25MX3NUUlZfVVlxMEplbklZOXpVRXhrSU1n?oc=5",
+   "data": "2026-11-27T17:07:00.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "O Quantum Act e a transição gradual para a criptografia pós-quântica Monitor Mercantil",
+   "coletadoEm": "2026-11-27T18:59:07.343Z"
+  },
+  {
+   "id": "cbc69ff3c630",
+   "titulo": "Bradesco testa comunicação quântica para reforçar a cibersegurança",
+   "fonte": "Startups",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFFYZ0pDNzYzVDhlS1BQc3kyYkxTRTlKeUtSVjg1a3BsOTltc0lXb0lwUEhkOUJiLURrV3ByMnlCMjY1NWp4TGxwd2V0dUptU1h5VWlPbkllRVpRSmRWQU1xQkxWN19OVm1PS1AyVm9mVFk3alN3ZG5EUFlzbnVsc1VYV3Vpd21DMXNqS1NYRzRJVy1VM3ZnakZfZ0Ficl8zR2hEa1dnQ2JBcXM?oc=5",
+   "data": "2026-11-27T16:55:16.000Z",
+   "temas": [
+    "quantica",
+    "financeiro"
+   ],
+   "orgs": [
+    "ref-bradesco",
+    "ref-inovabra-bradesco"
+   ],
+   "edital": false,
+   "resumo": "Bradesco testa comunicação quântica para reforçar a cibersegurança Startups",
+   "coletadoEm": "2026-11-27T18:59:09.225Z"
+  },
+  {
+   "id": "ca4140c28006",
+   "titulo": "Como o Vietnã pode monetizar a computação quântica?",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeUFvVXNlOUI2WGx4WVRPWkJER1pCNVdPY3IxVzI2Q0s4M2YzTFdVUko0MUhxYmp4eG5SM29QaHAyX29Vb216YUplTEttSEhpbHZaTjJMdFdyZmdoeUNJR2Nhd3prZThfTlp1MG80NUw0NUoxTXF0cm9NMEJNUC1xNHpGNHlzX2FZSnNpd1Nn?oc=5",
+   "data": "2026-11-27T13:59:40.000Z",
+   "temas": [
+    "quantica",
+    "financeiro"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Como o Vietnã pode monetizar a computação quântica? Vietnam.vn",
+   "coletadoEm": "2026-11-27T18:59:07.343Z"
+  },
+  {
+   "id": "7c82e0e0df04",
+   "titulo": "O primeiro grande avanço da computação quântica pode não estar na medicina; entenda",
+   "fonte": "BossaNews Brasil",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNElEd0JxNkgtV201X2UwOXR3NUlfTnlnbGJsemtxTXV3TXFIUUp6RmZZZnJzZEtWLTZHMVktdTNfb29vbFdJcXNYMVAyOElWMjZBTWs5aHNIaUVHTXZrYXZkcWx5UEVKd1Mzc2RYRzNWN29VOGhwYlhsem9KdHlYLXRnTElQMm0wUDJMQ1ZFQUZ3eENLQmQ1eTZzMFc0dm00U0x5bmVrUkZ4X2Fm?oc=5",
+   "data": "2026-11-27T09:51:12.000Z",
+   "temas": [
+    "quantica",
+    "energia"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "O primeiro grande avanço da computação quântica pode não estar na medicina; entenda BossaNews Brasil",
+   "coletadoEm": "2026-11-27T18:59:07.344Z"
+  },
+  {
+   "id": "daba093ec344",
+   "titulo": "FAPITEC LANÇA EDITAL DE R$ 1,1 MI PARA PESQUISAS VOLTADAS À GESTÃO DOS RECURSOS HÍDRICOS E CLIMÁTICOS EM SERGIPE",
+   "fonte": "FaxAju",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQX0NnaTA2Q2tGbGEza2dONjRlY3N4b1Q4eVdUV1FpTXQ1Mnl5bm5HeXBUbldMSEZkTmNVQ2RzY21KM1o2YTJNMDBpWWliZUZueUFZb0RGd180aElTaXdrcXFvdHR6a0JsNDA5WTlxUHZaVXB0SWlZdlJBRHJmSzhpVDIyc19CampWX2MxWk5lLXdNMlJUekZ5TXAxVHFJa05RSm5GWkM5TVd6VUdCWU5LQ3RDR1UyMGFtYm9mb0RVcWh5M3ZkVVNoR1lFTl9Zdmh3d2VMNWYzYk4?oc=5",
+   "data": "2026-11-27T08:29:00.000Z",
+   "temas": [
+    "edital"
+   ],
+   "orgs": [
+    "ref-fapitec"
+   ],
+   "edital": true,
+   "resumo": "FAPITEC LANÇA EDITAL DE R$ 1,1 MI PARA PESQUISAS VOLTADAS À GESTÃO DOS RECURSOS HÍDRICOS E CLIMÁTICOS EM SERGIPE FaxAju",
+   "coletadoEm": "2026-11-27T18:59:31.763Z"
+  },
+  {
+   "id": "f50e3895abef",
+   "titulo": "Preparando recursos humanos para a ciência quântica.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpZVZLdzFDT3lCUFhXWU5XekNyazR3VzBWenM3NkM4eDhldW51TTM0X2RvcEVVUGhLMW9NOG84ZFl0NExOa2p3OXNQQU9tMngwYWZQdG11OHRzX25OZ0Y2NFdaM3RpVTZ4UVNvZ2xtMkR5dWc?oc=5",
+   "data": "2026-11-27T06:33:58.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Preparando recursos humanos para a ciência quântica. Vietnam.vn",
+   "coletadoEm": "2026-11-27T18:59:07.344Z"
+  },
   {
    "id": "2c34555209b6",
    "titulo": "Finep lança edital de R$ 120 milhões para pesquisas em saúde",
@@ -463,6 +600,20 @@
    "coletadoEm": "2026-11-25T19:15:46.604Z"
   },
   {
+   "id": "1d743317fc08",
+   "titulo": "Bruxelas propõe um fundo de 50.000 milhões para colocar a indústria quântica europeia na liderança mundial",
+   "fonte": "Demócrata",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb2tZRFFxbnpDb1pFSkU2LTJSbFpxSnpIUmIxbHRPcUZYNjdReWlLMFoxeDNnR0JXUm43V2pXMEdzcnVHdk1GaThDdEQ5Y1NFekJwZ0dwN2ZVM1pjUVVuOWZrSUY1RzBxOFEzRVFIZkt3YkVucDVaNk1WSUxjVHNEZ0I0bWpycDJjZGh5S1pWTkpOc0tRNkJ0RENSSG1vcTk3dkczS1h3QWVlQndlWVp0aF9BRDBKNjdNY1FpM29NdWhEMXpZeTZQU2Q2UDV0eUUwYnFvVGVfYUJFUkQ2ekFGdmVR0gHiAUFVX3lxTE1va1lEUXFuekNvWkVKRTYtMlJsWnFKekhSYjFsdE9xRlg2N1F5aUswWjF4M2dHQldSbjdXalcwR3NydUd2TUZpOEN0RDljU0V6QnBnR3A3ZlUzWmNRVW45ZmtJRjVHMHE4UTNFUUhmS3diRW5wNVo2TVZJTGNUc0RnQjRtanJwMmNkaHlLWlZOSk5zS1E2QnREQ1JIbW9xOTd2RzNLWHdBZWVCd2VZWnRoX0FEMEo2N01jUWkzb011aEQxell5NlBTZDZQNXR5RTBicW9UZV9hQkVSRDZ6QUZ2ZVE?oc=5",
+   "data": "2026-11-25T11:26:52.000Z",
+   "temas": [
+    "financeiro"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Bruxelas propõe um fundo de 50.000 milhões para colocar a indústria quântica europeia na liderança mundial Demócrata",
+   "coletadoEm": "2026-11-27T18:59:16.746Z"
+  },
+  {
    "id": "995105569524",
    "titulo": "UE propõe fundo de €50 bi para IA e computação quântica",
    "fonte": "SpaceMoney",
@@ -542,7 +693,8 @@
    "data": "2026-11-25T10:12:10.000Z",
    "temas": [
     "quantica",
-    "energia"
+    "energia",
+    "financeiro"
    ],
    "orgs": [],
    "edital": false,
@@ -1081,7 +1233,8 @@
    "temas": [
     "quantica",
     "seguranca",
-    "saude"
+    "saude",
+    "financeiro"
    ],
    "orgs": [],
    "edital": false,
@@ -1360,6 +1513,20 @@
    "edital": false,
    "resumo": "A ameaça quântica já entrou no radar da cibersegurança Canaltech",
    "coletadoEm": "2026-11-23T21:25:19.832Z"
+  },
+  {
+   "id": "d50fb650bbec",
+   "titulo": "Programa MOVER: due diligence de fornecedores e comprovação dos dispêndios em P&D",
+   "fonte": "Legal 500",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNeHFiaGpjYmVIdGRIWkp5Nm5MdUhxS0lteXhONTQzVmxMSjZfNlVCdC1kWnBlUlJmNi1RSTJySS11cDBwd0Exajd0WjRzMWtTOUdIME1KWHk3MzNWbURacGtnU1lfY245cGtiUzNnQkpaQzhhd1A4M3VFMlU1MmxtN19hYkRrWXdnVm16X1lIYXFHVERodjdJbDR0VGZzcFVJOURfNllnbjhwMjZEOUpOR3lVa2RJb2pCSXBsem1zdUZiWTJ3cklLckJnUG85bGFBbEVxMmhXZFBlaGIzSkU0WDRsMEZLWHhweFR6VTdCQk5lTTE4VkJHVXZEMlplUQ?oc=5",
+   "data": "2026-11-23T08:00:00.000Z",
+   "temas": [
+    "pdi"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Programa MOVER: due diligence de fornecedores e comprovação dos dispêndios em P&D Legal 500",
+   "coletadoEm": "2026-11-27T18:59:26.040Z"
   },
   {
    "id": "532aad47370f",
@@ -3058,6 +3225,20 @@
    "coletadoEm": "2026-11-18T18:04:13.161Z"
   },
   {
+   "id": "9607964144e7",
+   "titulo": "Computadores quânticos avaliados em R$ 83 milhões chegam a João Pessoa; montagem começa ainda este mês",
+   "fonte": "ClickPB",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWVNhQ3hLMGtPekRVMm4yMFVEa2tneHVQaFFURVNHQ042NVM3eEw2NEQ4eWFkSE9kWkpBdjJrQVVpVWo1SUJ5eUZQdHhOdWFBek5falZmdjNXYnJMZlY2Y0VSc2dmanFxME04WWVIT1B1LXExd2ROQTQxZkZCX0x6UWplaWRhdm9H?oc=5",
+   "data": "2026-11-16T08:00:00.000Z",
+   "temas": [
+    "financeiro"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Computadores quânticos avaliados em R$ 83 milhões chegam a João Pessoa; montagem começa ainda este mês ClickPB",
+   "coletadoEm": "2026-11-27T18:59:16.745Z"
+  },
+  {
    "id": "22113850a561",
    "titulo": "Computador quântico chega a João Pessoa nesta segunda-feira (16)",
    "fonte": "Paraíba dia a dia",
@@ -3137,7 +3318,8 @@
    "temas": [
     "quantica",
     "ciquanta",
-    "saude"
+    "saude",
+    "financeiro"
    ],
    "orgs": [],
    "edital": false,
@@ -3455,7 +3637,8 @@
    "data": "2026-11-13T15:10:20.000Z",
    "temas": [
     "quantica",
-    "seguranca"
+    "seguranca",
+    "financeiro"
    ],
    "orgs": [],
    "edital": false,
@@ -3914,7 +4097,8 @@
    "data": "2026-11-12T10:38:00.000Z",
    "temas": [
     "quantica",
-    "saude"
+    "saude",
+    "financeiro"
    ],
    "orgs": [],
    "edital": false,
@@ -4238,6 +4422,20 @@
    "edital": true,
    "resumo": "Edital de R$ 3,2 milhões abre apoio a projetos de inovação na agricultura familiar em Três Lagoas Hojemais.com.br",
    "coletadoEm": "2026-11-21T16:47:30.788Z"
+  },
+  {
+   "id": "1552d857b87c",
+   "titulo": "Réplica de computador quântico está aberta à visitação em João Pessoa",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNc1hIVEw3b3lUeHFkeGFLUmJLdDVQRVAwdnBrNTNBUXZTZUVrVzRLeWU4eGU3RnN2QU5JTnYyMjhyYmsyVkdsVXN1Z0RQWjRFcVdfYjk5WWdwMHB2bVc5eTBzX3MyNXZFSEtIdWRhUU5WYmRJeklFUmhEcWNNbFdKY3BwZzZBdWVtQzhVRk4ySlR2aFlBQ0Y4TWFoVWxMNTl3YjlENXM1ZGg0Zjc0TFdVd1BVMm9ReDV4bG4xZ3ltSldORC13UnV2c3RZRmNWSnPSAd4BQVVfeXFMTTJpT2R3M09PT0lnSGxuM0kwMGVhTFJFdXZwTU1YeUlNc3pUNTRHMkRVYXB0TVJPcVc3bEZOd2wydUw4Vi0xWjFPR3hsQUxrTm9xaUE3ZDNiZU9POEREM1lEelFObEp6SXRNTnZQbC16TV9EUmVNamNyWWZSRkk3RTRYUFpLYXZsUzVvdElQTFdHZGxvVHlTVkFmMk9Ka09vX3RoSW1rcUdkYjd3QTctUFBpX0JtRHg3LTRBWExieWZRWll2SlNIalhIT2QzVDdabFhmcDdHSTh0N3lteERB?oc=5",
+   "data": "2026-11-10T08:00:00.000Z",
+   "temas": [
+    "ciquanta"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Réplica de computador quântico está aberta à visitação em João Pessoa G1",
+   "coletadoEm": "2026-11-27T18:59:12.881Z"
   },
   {
    "id": "2b0d063df241",

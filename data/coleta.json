@@ -1,6 +1,75 @@
 {
  "execucoes": [
   {
+   "em": "2026-11-27T19:00:09.079Z",
+   "segundos": 66,
+   "etapas": [
+    {
+     "id": "painel",
+     "nome": "Painel CIQUANTA",
+     "ok": true,
+     "ignorada": false,
+     "n": 87,
+     "segundos": 4,
+     "msg": "painel: 87 cadastros (78 pessoas, 9 instituições, 14 estados), 215 visitantes previstos, 254 já recebidos"
+    },
+    {
+     "id": "sinais",
+     "nome": "Notícias e editais",
+     "ok": true,
+     "ignorada": false,
+     "n": 45,
+     "segundos": 33,
+     "msg": "sinais: 462 lidos, 45 novos, 397 guardados (62 citam organizações) · editais: 4 novos, 39 guardados"
+    },
+    {
+     "id": "canais",
+     "nome": "Canais institucionais e CNPJ",
+     "ok": true,
+     "ignorada": false,
+     "n": 14,
+     "segundos": 26,
+     "msg": "canais: 14 sites, 0 páginas lidas (0 com canal, 0 com diretoria ou setor estratégico, 0 com CNPJ, 14 sem resposta) · base: 90 organizações com canal, 206 e-mails"
+    },
+    {
+     "id": "receita",
+     "nome": "Dados da Receita Federal",
+     "ok": true,
+     "ignorada": false,
+     "n": 0,
+     "segundos": 2,
+     "msg": "receita: 0 CNPJ atualizados, 1 sem resposta · base: 55 organizações com dados cadastrais"
+    },
+    {
+     "id": "pesquisadores",
+     "nome": "Pessoas de P&D (OpenAlex e ORCID)",
+     "ok": true,
+     "ignorada": false,
+     "n": 0,
+     "segundos": 0,
+     "msg": "pesquisadores: 0 organizações consultadas, 0 com produção identificada, 0 pessoas de P&D, 0 com e-mail profissional público, 0 falhas · base: 1474 pessoas"
+    },
+    {
+     "id": "descoberta",
+     "nome": "Descoberta com IA",
+     "ok": false,
+     "n": 0,
+     "segundos": 0,
+     "msg": "401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"Invalid bearer token\"},\"request_id\":\"req_011ChTww1L3WTqJYTXZ3qvMG\"}"
+    },
+    {
+     "id": "contatos-ia",
+     "nome": "Diretorias na web com IA",
+     "ok": true,
+     "ignorada": false,
+     "n": 0,
+     "segundos": 0,
+     "msg": "contatos com IA: 12 organizações pesquisadas, 0 e-mails sugeridos, 0 confirmados na página-fonte, 0 recusados na verificação, 0 lideranças de P&D confirmadas"
+    }
+   ],
+   "integridade": "ok"
+  },
+  {
    "em": "2026-11-27T01:56:51.081Z",
    "segundos": 41,
    "etapas": [
@@ -1401,35 +1470,35 @@
   }
  ],
  "ultima": {
-  "em": "2026-11-27T01:56:51.081Z",
-  "segundos": 41,
+  "em": "2026-11-27T19:00:09.079Z",
+  "segundos": 66,
   "etapas": [
    {
     "id": "painel",
     "nome": "Painel CIQUANTA",
     "ok": true,
     "ignorada": false,
-    "n": 86,
-    "segundos": 5,
-    "msg": "painel: 86 cadastros (77 pessoas, 9 instituições, 13 estados), 216 visitantes previstos, 228 já recebidos"
+    "n": 87,
+    "segundos": 4,
+    "msg": "painel: 87 cadastros (78 pessoas, 9 instituições, 14 estados), 215 visitantes previstos, 254 já recebidos"
    },
    {
     "id": "sinais",
     "nome": "Notícias e editais",
     "ok": true,
     "ignorada": false,
-    "n": 33,
+    "n": 45,
     "segundos": 33,
-    "msg": "sinais: 443 lidos, 33 novos, 384 guardados (59 citam organizações) · editais: 2 novos, 37 guardados"
+    "msg": "sinais: 462 lidos, 45 novos, 397 guardados (62 citam organizações) · editais: 4 novos, 39 guardados"
    },
    {
     "id": "canais",
     "nome": "Canais institucionais e CNPJ",
     "ok": true,
     "ignorada": false,
-    "n": 0,
-    "segundos": 0,
-    "msg": "canais: 0 sites, 0 páginas lidas (0 com canal, 0 com diretoria ou setor estratégico, 0 com CNPJ, 0 sem resposta) · base: 90 organizações com canal, 206 e-mails"
+    "n": 14,
+    "segundos": 26,
+    "msg": "canais: 14 sites, 0 páginas lidas (0 com canal, 0 com diretoria ou setor estratégico, 0 com CNPJ, 14 sem resposta) · base: 90 organizações com canal, 206 e-mails"
    },
    {
     "id": "receita",
@@ -1455,7 +1524,7 @@
     "ok": false,
     "n": 0,
     "segundos": 0,
-    "msg": "401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"Invalid bearer token\"},\"request_id\":\"req_011ChSbu5E4SLpHN65egpVST\"}"
+    "msg": "401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"Invalid bearer token\"},\"request_id\":\"req_011ChTww1L3WTqJYTXZ3qvMG\"}"
    },
    {
     "id": "contatos-ia",
@@ -1463,7 +1532,7 @@
     "ok": true,
     "ignorada": false,
     "n": 0,
-    "segundos": 1,
+    "segundos": 0,
     "msg": "contatos com IA: 12 organizações pesquisadas, 0 e-mails sugeridos, 0 confirmados na página-fonte, 0 recusados na verificação, 0 lideranças de P&D confirmadas"
    }
   ],

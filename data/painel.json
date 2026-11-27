@@ -1,15 +1,15 @@
 {
- "coletadoEm": "2026-11-27T01:56:15.784Z",
+ "coletadoEm": "2026-11-27T18:59:06.979Z",
  "fonte": "Painel CIQUANTA (painelciquanta.secties.pb.gov.br)",
  "dados": {
   "ok": true,
-  "atualizado": "2026-11-26T22:56",
-  "total": 86,
-  "pessoas": 77,
+  "atualizado": "2026-11-27T15:59",
+  "total": 87,
+  "pessoas": 78,
   "instituicoes": 9,
-  "ufs": 13,
-  "cidades": 35,
-  "fora": 0.5697674418604651,
+  "ufs": 14,
+  "cidades": 36,
+  "fora": 0.5747126436781609,
   "porUf": [
    {
     "uf": "PB",
@@ -88,12 +88,18 @@
     "pessoas": 1,
     "insts": 0,
     "total": 1
+   },
+   {
+    "uf": "CE",
+    "pessoas": 1,
+    "insts": 0,
+    "total": 1
    }
   ],
   "regioes": [
    {
     "r": "Nordeste",
-    "n": 54
+    "n": 55
    },
    {
     "r": "Sudeste",
@@ -227,26 +233,19 @@
     "dia": "2026-11-26",
     "n": 2,
     "acum": 86
+   },
+   {
+    "dia": "2026-11-27",
+    "n": 1,
+    "acum": 87
    }
   ],
-  "cad7": 13,
-  "prev": 216,
-  "rec": 228,
-  "img": 0.8803418803418803,
-  "not": 0.7094017094017094,
+  "cad7": 14,
+  "prev": 215,
+  "rec": 254,
+  "img": 0.8770491803278688,
+  "not": 0.7049180327868853,
   "sessoes": [
-   {
-    "data": "2026-11-26",
-    "hora": "09:00",
-    "conf": 2,
-    "pend": 0
-   },
-   {
-    "data": "2026-11-26",
-    "hora": "10:30",
-    "conf": 24,
-    "pend": 0
-   },
    {
     "data": "2026-11-27",
     "hora": "09:00",
@@ -275,13 +274,19 @@
     "data": "2026-11-30",
     "hora": "09:00",
     "conf": 0,
-    "pend": 1
+    "pend": 5
+   },
+   {
+    "data": "2026-11-30",
+    "hora": "14:00",
+    "conf": 0,
+    "pend": 19
    },
    {
     "data": "2026-11-30",
     "hora": "15:30",
     "conf": 0,
-    "pend": 13
+    "pend": 15
    },
    {
     "data": "2026-12-01",
@@ -376,7 +381,7 @@
   ],
   "exp": [
    19,
-   28,
+   29,
    26
   ],
   "atuantesUf": [
@@ -416,22 +421,22 @@
   "temas": [
    {
     "r": "Computação quântica",
-    "n": 62,
+    "n": 63,
     "b": 8
    },
    {
     "r": "Algoritmos e software quântico",
-    "n": 57,
+    "n": 58,
     "b": 8
    },
    {
     "r": "IA e computação quântica",
-    "n": 56,
+    "n": 57,
     "b": 8
    },
    {
     "r": "Otimização",
-    "n": 41,
+    "n": 42,
     "b": 8
    },
    {
@@ -440,14 +445,14 @@
     "b": 4
    },
    {
+    "r": "Criptografia pós-quântica",
+    "n": 27,
+    "b": 3
+   },
+   {
     "r": "Simulação de moléculas e materiais",
     "n": 24,
     "b": 6
-   },
-   {
-    "r": "Criptografia pós-quântica",
-    "n": 26,
-    "b": 3
    },
    {
     "r": "Hardware e qubits supercondutores",
@@ -480,7 +485,7 @@
    },
    {
     "r": "Profissional da indústria",
-    "n": 12
+    "n": 13
    },
    {
     "r": "Docente",
@@ -502,7 +507,7 @@
    },
    {
     "r": "Ensino médio",
-    "n": 24
+    "n": 25
    },
    {
     "r": "Ensino técnico",
@@ -510,7 +515,7 @@
    },
    {
     "r": "Graduação",
-    "n": 37
+    "n": 40
    },
    {
     "r": "Especialização ou MBA",
@@ -522,7 +527,7 @@
    },
    {
     "r": "Doutorado ou pós-doutorado",
-    "n": 22
+    "n": 23
    }
   ],
   "parceiras": []
@@ -629,12 +634,12 @@
   },
   {
    "dia": "2026-11-27",
-   "cadastros": 86,
-   "pessoas": 77,
+   "cadastros": 87,
+   "pessoas": 78,
    "instituicoes": 9,
-   "ufs": 13,
-   "previstos": 216,
-   "recebidos": 228
+   "ufs": 14,
+   "previstos": 215,
+   "recebidos": 254
   }
  ]
 }

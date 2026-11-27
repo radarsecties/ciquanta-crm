@@ -1,7 +1,27 @@
 {
- "atualizadoEm": "2026-11-27T01:56:48.444Z",
+ "atualizadoEm": "2026-11-27T18:59:40.342Z",
  "aviso": "Chamadas identificadas automaticamente em notícias; confirme prazo e regras na página oficial.",
  "itens": [
+  {
+   "id": "ed-326457d0316f",
+   "titulo": "FAPESP e Cern lançam chamada para ampliar participação paulista no laboratório europeu",
+   "orgao": "Agência FAPESP",
+   "link": "https://agencia.fapesp.br/fapesp-e-cern-lancam-chamada-para-ampliar-participacao-paulista-no-laboratorio-europeu/59698",
+   "publicado": "2026-11-27T18:59:40.267Z",
+   "prazo": "",
+   "fonte": "Agência FAPESP",
+   "coletadoEm": "2026-11-27T18:59:40.267Z"
+  },
+  {
+   "id": "ed-daba093ec344",
+   "titulo": "FAPITEC LANÇA EDITAL DE R$ 1,1 MI PARA PESQUISAS VOLTADAS À GESTÃO DOS RECURSOS HÍDRICOS E CLIMÁTICOS EM SERGIPE",
+   "orgao": "FaxAju",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQX0NnaTA2Q2tGbGEza2dONjRlY3N4b1Q4eVdUV1FpTXQ1Mnl5bm5HeXBUbldMSEZkTmNVQ2RzY21KM1o2YTJNMDBpWWliZUZueUFZb0RGd180aElTaXdrcXFvdHR6a0JsNDA5WTlxUHZaVXB0SWlZdlJBRHJmSzhpVDIyc19CampWX2MxWk5lLXdNMlJUekZ5TXAxVHFJa05RSm5GWkM5TVd6VUdCWU5LQ3RDR1UyMGFtYm9mb0RVcWh5M3ZkVVNoR1lFTl9Zdmh3d2VMNWYzYk4?oc=5",
+   "publicado": "2026-11-27T08:29:00.000Z",
+   "prazo": "",
+   "fonte": "Google Notícias",
+   "coletadoEm": "2026-11-27T18:59:31.762Z"
+  },
   {
    "id": "ed-2c34555209b6",
    "titulo": "Finep lança edital de R$ 120 milhões para pesquisas em saúde",

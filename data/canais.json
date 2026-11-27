@@ -858,7 +858,7 @@
    "linkedin": "https://www.linkedin.com/company/saomartinho"
   },
   "ref-re-green": {
-   "verificadoEm": "2026-11-24T04:06:05.734Z",
+   "verificadoEm": "2026-11-27T18:59:46.610Z",
    "versao": 2,
    "status": "erro",
    "erro": "fetch failed",
@@ -876,7 +876,7 @@
    "buscaWebEm": "2026-11-19T18:18:28.787Z"
   },
   "ref-moss": {
-   "verificadoEm": "2026-11-24T04:06:00.043Z",
+   "verificadoEm": "2026-11-27T18:59:40.553Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -1044,14 +1044,14 @@
    "linkedin": "https://br.linkedin.com/company/energisa"
   },
   "ref-equatorial": {
-   "verificadoEm": "2026-11-24T04:06:00.095Z",
+   "verificadoEm": "2026-11-27T18:59:41.280Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-24T04:06:28.419Z"
+   "buscaWebEm": "2026-11-27T19:00:08.637Z"
   },
   "ref-energisa-paraiba": {
    "verificadoEm": "2026-11-17T18:35:52.921Z",
@@ -1172,14 +1172,14 @@
    "buscaWebEm": "2026-11-26T01:57:38.295Z"
   },
   "ref-auren-energia": {
-   "verificadoEm": "2026-11-24T04:06:00.208Z",
+   "verificadoEm": "2026-11-27T18:59:40.669Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-26T19:00:37.696Z"
+   "buscaWebEm": "2026-11-27T19:00:08.737Z"
   },
   "ref-casa-dos-ventos": {
    "verificadoEm": "2026-11-17T18:36:17.669Z",
@@ -1190,14 +1190,14 @@
    "linkedin": "http://linkedin.com/company/casa-dos-ventos-energias-renov-veis"
   },
   "ref-petrobras": {
-   "verificadoEm": "2026-11-24T04:06:00.622Z",
+   "verificadoEm": "2026-11-27T18:59:41.424Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-24T04:06:28.324Z"
+   "buscaWebEm": "2026-11-27T19:00:08.579Z"
   },
   "ref-isa-energia-brasil": {
    "verificadoEm": "2026-11-17T18:36:20.599Z",
@@ -1242,24 +1242,24 @@
    "buscaWebEm": "2026-11-20T00:56:21.057Z"
   },
   "ref-taesa": {
-   "verificadoEm": "2026-11-24T04:06:25.632Z",
+   "verificadoEm": "2026-11-27T19:00:06.756Z",
    "versao": 2,
    "status": "erro",
    "erro": "fetch failed",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-26T01:57:38.376Z"
+   "buscaWebEm": "2026-11-27T19:00:08.707Z"
   },
   "ref-prio": {
-   "verificadoEm": "2026-11-24T04:06:00.274Z",
+   "verificadoEm": "2026-11-27T18:59:40.813Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-26T19:00:37.926Z"
+   "buscaWebEm": "2026-11-27T19:00:08.773Z"
   },
   "ref-totalenergies-brasil": {
    "verificadoEm": "2026-11-17T18:36:35.772Z",
@@ -1271,14 +1271,14 @@
    "buscaWebEm": "2026-11-20T00:56:21.150Z"
   },
   "ref-acelen": {
-   "verificadoEm": "2026-11-24T04:06:00.430Z",
+   "verificadoEm": "2026-11-27T18:59:40.949Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-26T19:00:38.216Z"
+   "buscaWebEm": "2026-11-27T19:00:08.802Z"
   },
   "ref-repsol-sinopec-brasil": {
    "verificadoEm": "2026-11-17T18:36:38.460Z",
@@ -1299,14 +1299,14 @@
    "buscaWebEm": "2026-11-26T19:00:38.139Z"
   },
   "ref-ibp-instituto-brasileiro-de-petroleo-e-g": {
-   "verificadoEm": "2026-11-24T04:06:00.538Z",
+   "verificadoEm": "2026-11-27T18:59:41.153Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-26T19:00:38.359Z"
+   "buscaWebEm": "2026-11-27T19:00:08.842Z"
   },
   "ref-edp-brasil": {
    "verificadoEm": "2026-11-17T18:36:45.779Z",
@@ -1333,14 +1333,14 @@
    "buscaWebEm": "2026-11-26T19:00:37.773Z"
   },
   "ref-gerdau": {
-   "verificadoEm": "2026-11-24T04:06:00.821Z",
+   "verificadoEm": "2026-11-27T18:59:41.461Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-26T19:00:38.423Z"
+   "buscaWebEm": "2026-11-27T19:00:08.876Z"
   },
   "ref-vibra-energia": {
    "verificadoEm": "2026-11-17T18:36:50.249Z",
@@ -1375,7 +1375,7 @@
    "buscaWebEm": "2026-11-20T00:56:21.334Z"
   },
   "ref-nexa-resources": {
-   "verificadoEm": "2026-11-24T04:06:00.490Z",
+   "verificadoEm": "2026-11-27T18:59:41.008Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -1513,14 +1513,14 @@
    "buscaWebEm": "2026-11-20T17:49:54.168Z"
   },
   "ref-weg": {
-   "verificadoEm": "2026-11-24T04:06:00.649Z",
+   "verificadoEm": "2026-11-27T18:59:41.326Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-24T04:06:28.492Z"
+   "buscaWebEm": "2026-11-27T19:00:08.672Z"
   },
   "ref-usiminas": {
    "verificadoEm": "2026-11-17T18:37:11.058Z",
@@ -1550,17 +1550,17 @@
    "buscaWebEm": "2026-11-27T01:56:50.554Z"
   },
   "ref-ambev": {
-   "verificadoEm": "2026-11-24T04:06:00.830Z",
+   "verificadoEm": "2026-11-27T18:59:41.421Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-27T01:56:50.808Z"
+   "buscaWebEm": "2026-11-27T19:00:08.914Z"
   },
   "ref-alpargatas": {
-   "verificadoEm": "2026-11-24T04:06:00.966Z",
+   "verificadoEm": "2026-11-27T18:59:41.569Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -1765,7 +1765,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "01166372000155",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-27T19:00:08.954Z"
   },
   "ref-lenovo-brasil": {
    "verificadoEm": "2026-11-18T01:20:00.435Z",
@@ -1791,7 +1792,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "01472720000384",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-27T19:00:08.987Z"
   },
   "ref-localiza": {
    "verificadoEm": "2026-11-18T01:20:02.904Z",
@@ -3641,5 +3643,5 @@
    "buscaWebEm": "2026-11-27T01:56:50.921Z"
   }
  },
- "atualizadoEm": "2026-11-27T01:56:51.039Z"
+ "atualizadoEm": "2026-11-27T19:00:09.020Z"
 }
