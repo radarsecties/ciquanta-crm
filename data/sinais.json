@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-26T19:00:35.635Z",
+ "atualizadoEm": "2026-11-27T01:56:48.442Z",
  "aviso": "Títulos e links de notícias públicas; o conteúdo pertence a cada veículo.",
  "itens": [
   {
@@ -627,7 +627,8 @@
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBLU21pb1NBYTc0OXAySlNuSU16Nko4czJvSFgtYzdLTHEzVXVqLU9RYzZzaEQta0ZQb3g3Z1NveFpxRFlEMjhTRU5UUUZJajQ4QVRsa0tueVVrWVZZUDl4WXBJQ21Bazh3eTVpRHU0aDlKNE1rdnZ1N055c3ZhUQ?oc=5",
    "data": "2026-11-25T08:55:59.000Z",
    "temas": [
-    "quantica"
+    "quantica",
+    "saude"
    ],
    "orgs": [],
    "edital": false,
@@ -748,7 +749,8 @@
    "data": "2026-11-24T14:12:11.000Z",
    "temas": [
     "quantica",
-    "financeiro"
+    "financeiro",
+    "energia"
    ],
    "orgs": [],
    "edital": false,
@@ -3437,7 +3439,8 @@
    "data": "2026-11-13T18:27:00.000Z",
    "temas": [
     "quantica",
-    "saude"
+    "saude",
+    "energia"
    ],
    "orgs": [],
    "edital": false,
@@ -4340,13 +4343,28 @@
    "coletadoEm": "2026-11-24T04:05:38.252Z"
   },
   {
+   "id": "366ee5306583",
+   "titulo": "Computadores quânticos avaliados em R$ 80 milhões desembarcam no Brasil e estão a caminho de João Pessoa",
+   "fonte": "Maurílio Júnior",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdnBiTGgydkp0YTk2Vnl6VFR5clM0aU1PYlhxRG5OSTNaNkVQLTlnNkhZWHp2YlFYZWd1OVBNQ0ZvS2k2LU9FQ25qczBkeFF6eUVKanNtSW5CWkpHUmRfTG9SYUZIYW0yU19IUXNadlRNdktNOWx2WWJMTGtkSUcxLXRpcWh4MWFhcDhRQ0o4VlZFQjVZWmRZX1pLNzJ6cG9EdnlJS3YtSS1uaUNvOVNIbmtXOFRRTndHY3hyV0twYkw3amE2bVZYMFFOeFVGREwyZUxzS1ktaXZYUQ?oc=5",
+   "data": "2026-11-07T08:00:00.000Z",
+   "temas": [
+    "energia"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Computadores quânticos avaliados em R$ 80 milhões desembarcam no Brasil e estão a caminho de João Pessoa Maurílio Júnior",
+   "coletadoEm": "2026-11-27T01:56:29.289Z"
+  },
+  {
    "id": "99bf985a4160",
    "titulo": "Nordeste recebe primeiros computadores quânticos da América Latina",
    "fonte": "NE9",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQelcya3ZvSVpsLVQ3MEd4ZnoxY3JPT2dMOUFLWW5IRFdHX2FOVmZsOTNpNUZIcWxWT1JCSGVOMlNuWC1iR1B3cmdhY090SmstMWJTS1VaYkRyQkxuRVZMVWxWX1pIQjBxblNmQkpTWEtEMG42RmtrakUyZW1OaTZXeVNhaFJueDJEdGFHb3AtTQ?oc=5",
    "data": "2026-11-06T13:02:12.000Z",
    "temas": [
-    "ciquanta"
+    "ciquanta",
+    "energia"
    ],
    "orgs": [],
    "edital": false,

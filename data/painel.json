@@ -1,15 +1,15 @@
 {
- "coletadoEm": "2026-11-26T19:00:01.153Z",
+ "coletadoEm": "2026-11-27T01:56:15.784Z",
  "fonte": "Painel CIQUANTA (painelciquanta.secties.pb.gov.br)",
  "dados": {
   "ok": true,
-  "atualizado": "2026-11-26T16:00",
-  "total": 85,
-  "pessoas": 76,
+  "atualizado": "2026-11-26T22:56",
+  "total": 86,
+  "pessoas": 77,
   "instituicoes": 9,
   "ufs": 13,
   "cidades": 35,
-  "fora": 0.5647058823529412,
+  "fora": 0.5697674418604651,
   "porUf": [
    {
     "uf": "PB",
@@ -30,16 +30,16 @@
     "total": 10
    },
    {
+    "uf": "AL",
+    "pessoas": 3,
+    "insts": 1,
+    "total": 4
+   },
+   {
     "uf": "RJ",
     "pessoas": 4,
     "insts": 0,
     "total": 4
-   },
-   {
-    "uf": "AL",
-    "pessoas": 2,
-    "insts": 1,
-    "total": 3
    },
    {
     "uf": "DF",
@@ -93,7 +93,7 @@
   "regioes": [
    {
     "r": "Nordeste",
-    "n": 53
+    "n": 54
    },
    {
     "r": "Sudeste",
@@ -225,15 +225,15 @@
    },
    {
     "dia": "2026-11-26",
-    "n": 1,
-    "acum": 85
+    "n": 2,
+    "acum": 86
    }
   ],
-  "cad7": 12,
-  "prev": 213,
+  "cad7": 13,
+  "prev": 216,
   "rec": 228,
-  "img": 0.8879310344827587,
-  "not": 0.7068965517241379,
+  "img": 0.8803418803418803,
+  "not": 0.7094017094017094,
   "sessoes": [
    {
     "data": "2026-11-26",
@@ -281,7 +281,7 @@
     "data": "2026-11-30",
     "hora": "15:30",
     "conf": 0,
-    "pend": 10
+    "pend": 13
    },
    {
     "data": "2026-12-01",
@@ -376,7 +376,7 @@
   ],
   "exp": [
    19,
-   27,
+   28,
    26
   ],
   "atuantesUf": [
@@ -421,7 +421,7 @@
    },
    {
     "r": "Algoritmos e software quântico",
-    "n": 56,
+    "n": 57,
     "b": 8
    },
    {
@@ -431,12 +431,12 @@
    },
    {
     "r": "Otimização",
-    "n": 40,
+    "n": 41,
     "b": 8
    },
    {
     "r": "Comunicação quântica",
-    "n": 29,
+    "n": 30,
     "b": 4
    },
    {
@@ -446,7 +446,7 @@
    },
    {
     "r": "Criptografia pós-quântica",
-    "n": 25,
+    "n": 26,
     "b": 3
    },
    {
@@ -484,7 +484,7 @@
    },
    {
     "r": "Docente",
-    "n": 10
+    "n": 11
    },
    {
     "r": "Mestrando(a) ou doutorando(a)",
@@ -502,7 +502,7 @@
    },
    {
     "r": "Ensino médio",
-    "n": 23
+    "n": 24
    },
    {
     "r": "Ensino técnico",
@@ -625,6 +625,15 @@
    "instituicoes": 9,
    "ufs": 13,
    "previstos": 213,
+   "recebidos": 228
+  },
+  {
+   "dia": "2026-11-27",
+   "cadastros": 86,
+   "pessoas": 77,
+   "instituicoes": 9,
+   "ufs": 13,
+   "previstos": 216,
    "recebidos": 228
   }
  ]

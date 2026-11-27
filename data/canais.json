@@ -1409,7 +1409,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://linkedin.com/company/arcelormittal-brasil"
+   "linkedin": "https://linkedin.com/company/arcelormittal-brasil",
+   "buscaWebEm": "2026-11-27T01:56:50.368Z"
   },
   "ref-unigel": {
    "verificadoEm": "2026-11-17T18:36:59.620Z",
@@ -1417,7 +1418,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/unigel"
+   "linkedin": "https://www.linkedin.com/company/unigel",
+   "buscaWebEm": "2026-11-27T01:56:50.432Z"
   },
   "ref-csn": {
    "verificadoEm": "2026-11-17T18:37:00.948Z",
@@ -1478,7 +1480,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/2562"
+   "linkedin": "https://www.linkedin.com/company/2562",
+   "buscaWebEm": "2026-11-27T01:56:50.496Z"
   },
   "ref-grupo-boticario": {
    "verificadoEm": "2026-11-17T18:37:07.129Z",
@@ -1486,7 +1489,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "15026092529297",
-   "linkedin": "https://www.linkedin.com/company/grupo-boticario"
+   "linkedin": "https://www.linkedin.com/company/grupo-boticario",
+   "buscaWebEm": "2026-11-27T01:56:50.621Z"
   },
   "ref-suzano": {
    "verificadoEm": "2026-11-17T18:37:08.537Z",
@@ -1524,7 +1528,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://br.linkedin.com/company/usiminas-s"
+   "linkedin": "https://br.linkedin.com/company/usiminas-s",
+   "buscaWebEm": "2026-11-27T01:56:50.285Z"
   },
   "ref-klabin": {
    "verificadoEm": "2026-11-17T18:37:16.147Z",
@@ -1532,7 +1537,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/klabin"
+   "linkedin": "https://www.linkedin.com/company/klabin",
+   "buscaWebEm": "2026-11-27T01:56:50.682Z"
   },
   "ref-natura": {
    "verificadoEm": "2026-11-17T18:37:16.160Z",
@@ -1540,7 +1546,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-27T01:56:50.554Z"
   },
   "ref-ambev": {
    "verificadoEm": "2026-11-24T04:06:00.830Z",
@@ -1549,7 +1556,8 @@
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-27T01:56:50.808Z"
   },
   "ref-alpargatas": {
    "verificadoEm": "2026-11-24T04:06:00.966Z",
@@ -1566,7 +1574,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-27T01:56:50.747Z"
   },
   "ref-tupy": {
    "verificadoEm": "2026-11-17T18:37:19.580Z",
@@ -1593,7 +1602,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "09811654000170",
-   "linkedin": "https://www.linkedin.com/company/grupo-moura"
+   "linkedin": "https://www.linkedin.com/company/grupo-moura",
+   "buscaWebEm": "2026-11-27T01:56:50.866Z"
   },
   "ref-braskem": {
    "verificadoEm": "2026-11-17T18:37:25.024Z",
@@ -1624,7 +1634,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/25950"
+   "linkedin": "https://www.linkedin.com/company/25950",
+   "buscaWebEm": "2026-11-27T01:56:50.982Z"
   },
   "ref-samsung-brasil": {
    "verificadoEm": "2026-11-17T18:37:28.186Z",
@@ -3623,7 +3634,12 @@
    "emails": [],
    "status": "ok",
    "buscaWebEm": "2026-11-26T19:00:38.076Z"
+  },
+  "ref-ceitec": {
+   "emails": [],
+   "status": "ok",
+   "buscaWebEm": "2026-11-27T01:56:50.921Z"
   }
  },
- "atualizadoEm": "2026-11-26T19:00:38.504Z"
+ "atualizadoEm": "2026-11-27T01:56:51.039Z"
 }
