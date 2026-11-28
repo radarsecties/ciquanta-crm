@@ -1,21 +1,21 @@
 {
- "coletadoEm": "2026-11-27T18:59:06.979Z",
+ "coletadoEm": "2026-11-28T01:40:48.710Z",
  "fonte": "Painel CIQUANTA (painelciquanta.secties.pb.gov.br)",
  "dados": {
   "ok": true,
-  "atualizado": "2026-11-27T15:59",
-  "total": 87,
-  "pessoas": 78,
+  "atualizado": "2026-11-27T22:40",
+  "total": 88,
+  "pessoas": 79,
   "instituicoes": 9,
   "ufs": 14,
   "cidades": 36,
-  "fora": 0.5747126436781609,
+  "fora": 0.5681818181818182,
   "porUf": [
    {
     "uf": "PB",
-    "pessoas": 34,
+    "pessoas": 35,
     "insts": 3,
-    "total": 37
+    "total": 38
    },
    {
     "uf": "SP",
@@ -99,7 +99,7 @@
   "regioes": [
    {
     "r": "Nordeste",
-    "n": 55
+    "n": 56
    },
    {
     "r": "Sudeste",
@@ -236,11 +236,11 @@
    },
    {
     "dia": "2026-11-27",
-    "n": 1,
-    "acum": 87
+    "n": 2,
+    "acum": 88
    }
   ],
-  "cad7": 14,
+  "cad7": 15,
   "prev": 215,
   "rec": 254,
   "img": 0.8770491803278688,
@@ -382,7 +382,7 @@
   "exp": [
    19,
    29,
-   26
+   27
   ],
   "atuantesUf": [
    {
@@ -431,12 +431,12 @@
    },
    {
     "r": "IA e computação quântica",
-    "n": 57,
+    "n": 58,
     "b": 8
    },
    {
     "r": "Otimização",
-    "n": 42,
+    "n": 43,
     "b": 8
    },
    {
@@ -445,14 +445,14 @@
     "b": 4
    },
    {
+    "r": "Simulação de moléculas e materiais",
+    "n": 25,
+    "b": 6
+   },
+   {
     "r": "Criptografia pós-quântica",
     "n": 27,
     "b": 3
-   },
-   {
-    "r": "Simulação de moléculas e materiais",
-    "n": 24,
-    "b": 6
    },
    {
     "r": "Hardware e qubits supercondutores",
@@ -461,7 +461,7 @@
    },
    {
     "r": "Materiais quânticos",
-    "n": 17,
+    "n": 18,
     "b": 2
    },
    {
@@ -485,7 +485,7 @@
    },
    {
     "r": "Profissional da indústria",
-    "n": 13
+    "n": 14
    },
    {
     "r": "Docente",
@@ -636,6 +636,15 @@
    "dia": "2026-11-27",
    "cadastros": 87,
    "pessoas": 78,
+   "instituicoes": 9,
+   "ufs": 14,
+   "previstos": 215,
+   "recebidos": 254
+  },
+  {
+   "dia": "2026-11-28",
+   "cadastros": 88,
+   "pessoas": 79,
    "instituicoes": 9,
    "ufs": 14,
    "previstos": 215,

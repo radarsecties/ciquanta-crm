@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-27T18:59:40.342Z",
+ "atualizadoEm": "2026-11-28T01:41:20.907Z",
  "aviso": "Chamadas identificadas automaticamente em notícias; confirme prazo e regras na página oficial.",
  "itens": [
   {
@@ -31,6 +31,16 @@
    "prazo": "",
    "fonte": "Google Notícias",
    "coletadoEm": "2026-11-26T19:00:24.969Z"
+  },
+  {
+   "id": "ed-6294a0987791",
+   "titulo": "Governo lança edital de R$ 120 milhões para pesquisa clínica no SUS",
+   "orgao": "TV Sim Brasil",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSTdURUI2QnRJb1NENjkwVmJnLTZ4c3I3LVh5UG00ckhkNEJqZTRxc2VvNXJ5WWtSckt5Qm5xZXhsSWNtUGZMb0FoemJsdHZVQ0pFRVE0bXpZa1J6SDl0Yjl0YlFoU08zUFRpOWxFYVBhRVp4cDdyNl9iM1p5SFRZTUJDX2N1UVAzeWt0dzBEaHVadlRXRTQ5TGRDeWpwOG93alNlbWN5cWVYOWZYZElZbVhB?oc=5",
+   "publicado": "2026-11-26T11:09:55.000Z",
+   "prazo": "",
+   "fonte": "Google Notícias",
+   "coletadoEm": "2026-11-28T01:41:11.605Z"
   },
   {
    "id": "ed-702d262262eb",

@@ -1,7 +1,21 @@
 {
- "atualizadoEm": "2026-11-27T18:59:40.339Z",
+ "atualizadoEm": "2026-11-28T01:41:20.906Z",
  "aviso": "Títulos e links de notícias públicas; o conteúdo pertence a cada veículo.",
  "itens": [
+  {
+   "id": "2bdd662e9059",
+   "titulo": "Ethereum vai suar criptografia Keccak-256 para combater ameaça da computação quântica",
+   "fonte": "BitNotícias",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWkJ2WHlrMktfS1JDT2cyMk14TExUVTI0bUl5NlhGaWtJWVQxbFNqTWpraktpS0c5TWxuXzFKeDgwVG9LeGhZTV9TTWd3ckVzVVFZTnRYWFEtdDJNdzlsX1Z5Y2FtNURxcUY5X1lVM1VJQUoxT1BEZnp4S3JiSDZ0WE1n?oc=5",
+   "data": "2026-11-27T21:00:02.000Z",
+   "temas": [
+    "quantica"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Ethereum vai suar criptografia Keccak-256 para combater ameaça da computação quântica BitNotícias",
+   "coletadoEm": "2026-11-28T01:40:49.160Z"
+  },
   {
    "id": "326457d0316f",
    "titulo": "FAPESP e Cern lançam chamada para ampliar participação paulista no laboratório europeu",
@@ -87,7 +101,8 @@
    "data": "2026-11-27T13:59:40.000Z",
    "temas": [
     "quantica",
-    "financeiro"
+    "financeiro",
+    "saude"
    ],
    "orgs": [],
    "edital": false,
@@ -102,7 +117,8 @@
    "data": "2026-11-27T09:51:12.000Z",
    "temas": [
     "quantica",
-    "energia"
+    "energia",
+    "saude"
    ],
    "orgs": [],
    "edital": false,
@@ -182,6 +198,20 @@
    "edital": false,
    "resumo": "BYD reforça investimentos em tecnologia com lançamento do Denza Bao 3 93 Notícias",
    "coletadoEm": "2026-11-26T19:00:20.930Z"
+  },
+  {
+   "id": "6294a0987791",
+   "titulo": "Governo lança edital de R$ 120 milhões para pesquisa clínica no SUS",
+   "fonte": "TV Sim Brasil",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSTdURUI2QnRJb1NENjkwVmJnLTZ4c3I3LVh5UG00ckhkNEJqZTRxc2VvNXJ5WWtSckt5Qm5xZXhsSWNtUGZMb0FoemJsdHZVQ0pFRVE0bXpZa1J6SDl0Yjl0YlFoU08zUFRpOWxFYVBhRVp4cDdyNl9iM1p5SFRZTUJDX2N1UVAzeWt0dzBEaHVadlRXRTQ5TGRDeWpwOG93alNlbWN5cWVYOWZYZElZbVhB?oc=5",
+   "data": "2026-11-26T11:09:55.000Z",
+   "temas": [
+    "edital"
+   ],
+   "orgs": [],
+   "edital": true,
+   "resumo": "Governo lança edital de R$ 120 milhões para pesquisa clínica no SUS TV Sim Brasil",
+   "coletadoEm": "2026-11-28T01:41:11.605Z"
   },
   {
    "id": "a96973242c7c",
@@ -694,7 +724,8 @@
    "temas": [
     "quantica",
     "energia",
-    "financeiro"
+    "financeiro",
+    "saude"
    ],
    "orgs": [],
    "edital": false,
@@ -1036,6 +1067,20 @@
    "edital": true,
    "resumo": "RS lança edital para criação de fundo voltado para startups www.correiodamanha.com.br",
    "coletadoEm": "2026-11-24T20:10:29.062Z"
+  },
+  {
+   "id": "e6df187c3b1a",
+   "titulo": "Estratégia para criptografia pós-quântica",
+   "fonte": "www.correiodamanha.com.br",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQckxSa2lVLUZISjB6eVVwMHBOOElpSFM2NTZSZDhWc1RVOUJhYXBFQjFOZnZfS1Iyd1ZUMUN4aGNkUVE2TGZwQmVZTFpPY1RuazRFNUxhcHlFUjMtcUsycHItdlpvTGxTRTRFUDJLM0NtMWFIai1iQVhEOFpaNnZ2VXpTcUctRWN6bkZQZVl1M3c1cEVlWWlGT3doRGhMQ2FncktBV1Zpbw?oc=5",
+   "data": "2026-11-24T06:01:00.000Z",
+   "temas": [
+    "seguranca"
+   ],
+   "orgs": [],
+   "edital": false,
+   "resumo": "Estratégia para criptografia pós-quântica www.correiodamanha.com.br",
+   "coletadoEm": "2026-11-28T01:40:56.555Z"
   },
   {
    "id": "1bd6a2154adb",

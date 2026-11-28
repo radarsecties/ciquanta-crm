@@ -1676,14 +1676,14 @@
    "buscaWebEm": "2026-11-17T18:40:03.399Z"
   },
   "ref-ime-instituto-militar-de-engenharia": {
-   "verificadoEm": "2026-11-24T20:10:52.573Z",
+   "verificadoEm": "2026-11-28T01:41:27.407Z",
    "versao": 2,
    "status": "erro",
    "erro": "fetch failed",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-24T20:11:12.698Z"
+   "buscaWebEm": "2026-11-28T01:41:49.439Z"
   },
   "ref-cpqd": {
    "verificadoEm": "2026-11-18T01:20:38.015Z",
@@ -1743,7 +1743,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "22086683000184",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-28T01:41:49.724Z"
   },
   "ref-cti-renato-archer": {
    "verificadoEm": "2026-11-18T01:19:53.977Z",
@@ -1778,7 +1779,7 @@
    "buscaWebEm": "2026-11-20T17:49:54.511Z"
   },
   "ref-movida": {
-   "verificadoEm": "2026-11-24T20:10:45.149Z",
+   "verificadoEm": "2026-11-28T01:41:21.098Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -1824,13 +1825,14 @@
    "linkedin": "https://www.linkedin.com/company/rumologistica"
   },
   "ref-azul-linhas-aereas": {
-   "verificadoEm": "2026-11-24T20:10:45.446Z",
+   "verificadoEm": "2026-11-28T01:41:21.240Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-28T01:41:49.988Z"
   },
   "ref-latam-brasil": {
    "verificadoEm": "2026-11-18T01:20:08.627Z",
@@ -1838,7 +1840,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "02012862000160",
-   "linkedin": ""
+   "linkedin": "",
+   "buscaWebEm": "2026-11-28T01:41:50.064Z"
   },
   "ref-vli": {
    "verificadoEm": "2026-11-18T01:20:08.842Z",
@@ -1882,7 +1885,8 @@
     }
    ],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/2401836"
+   "linkedin": "https://www.linkedin.com/company/2401836",
+   "buscaWebEm": "2026-11-28T01:41:49.794Z"
   },
   "ref-gol": {
    "verificadoEm": "2026-11-18T01:20:10.513Z",
@@ -1981,7 +1985,8 @@
     }
    ],
    "cnpj": "59104760000604",
-   "linkedin": "https://www.linkedin.com/company/toyota-do-brasil"
+   "linkedin": "https://www.linkedin.com/company/toyota-do-brasil",
+   "buscaWebEm": "2026-11-28T01:41:50.197Z"
   },
   "ref-correios": {
    "verificadoEm": "2026-11-18T01:20:23.680Z",
@@ -1989,10 +1994,11 @@
    "status": "ok",
    "emails": [],
    "cnpj": "34028316000103",
-   "linkedin": "https://br.linkedin.com/company/correios"
+   "linkedin": "https://br.linkedin.com/company/correios",
+   "buscaWebEm": "2026-11-28T01:41:49.923Z"
   },
   "ref-marcopolo": {
-   "verificadoEm": "2026-11-24T20:10:45.345Z",
+   "verificadoEm": "2026-11-28T01:41:21.078Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -2009,7 +2015,7 @@
    "linkedin": "https://pt.linkedin.com/company/boschbrasil"
   },
   "ref-magazine-luiza": {
-   "verificadoEm": "2026-11-24T20:10:45.582Z",
+   "verificadoEm": "2026-11-28T01:41:21.394Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -2027,7 +2033,7 @@
    "buscaWebEm": "2026-11-20T17:49:54.634Z"
   },
   "ref-ifood": {
-   "verificadoEm": "2026-11-24T20:10:45.529Z",
+   "verificadoEm": "2026-11-28T01:41:21.312Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -2044,7 +2050,7 @@
    "linkedin": "https://pt.linkedin.com/company/complexo-industrial-portu"
   },
   "ref-ita-instituto-tecnologico-de-aeronautica": {
-   "verificadoEm": "2026-11-24T20:10:45.937Z",
+   "verificadoEm": "2026-11-28T01:41:21.633Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -2067,7 +2073,8 @@
    "status": "ok",
    "emails": [],
    "cnpj": "",
-   "linkedin": "https://www.linkedin.com/company/mrs-logistica"
+   "linkedin": "https://www.linkedin.com/company/mrs-logistica",
+   "buscaWebEm": "2026-11-28T01:41:49.858Z"
   },
   "ref-mercado-livre": {
    "verificadoEm": "2026-11-18T01:20:33.260Z",
@@ -2079,14 +2086,14 @@
    "buscaWebEm": "2026-11-20T17:49:54.763Z"
   },
   "ref-vivo-telefonica-brasil": {
-   "verificadoEm": "2026-11-24T20:10:48.009Z",
+   "verificadoEm": "2026-11-28T01:41:22.537Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-24T20:11:12.916Z"
+   "buscaWebEm": "2026-11-28T01:41:49.587Z"
   },
   "ref-loggi": {
    "verificadoEm": "2026-11-18T01:20:36.509Z",
@@ -2135,7 +2142,7 @@
    "linkedin": "https://www.linkedin.com/company/brisanettelecom"
   },
   "ref-ericsson-brasil": {
-   "verificadoEm": "2026-11-24T20:10:46.617Z",
+   "verificadoEm": "2026-11-28T01:41:22.127Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -2162,7 +2169,7 @@
    "buscaWebEm": "2026-11-21T00:17:06.338Z"
   },
   "ref-intelbras": {
-   "verificadoEm": "2026-11-24T20:10:45.630Z",
+   "verificadoEm": "2026-11-28T01:41:21.396Z",
    "versao": 2,
    "status": "erro",
    "erro": "HTTP 403",
@@ -2601,14 +2608,14 @@
    "linkedin": ""
   },
   "ref-ufpe": {
-   "verificadoEm": "2026-11-24T20:11:10.595Z",
+   "verificadoEm": "2026-11-28T01:41:46.845Z",
    "versao": 2,
    "status": "erro",
    "erro": "fetch failed",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-24T20:11:12.802Z"
+   "buscaWebEm": "2026-11-28T01:41:49.519Z"
   },
   "ref-usp": {
    "verificadoEm": "2026-11-18T01:21:54.865Z",
@@ -2620,14 +2627,14 @@
    "buscaWebEm": "2026-11-21T16:50:19.736Z"
   },
   "ref-ufcg": {
-   "verificadoEm": "2026-11-24T20:11:10.595Z",
+   "verificadoEm": "2026-11-28T01:41:46.845Z",
    "versao": 2,
    "status": "erro",
    "erro": "fetch failed",
    "emails": [],
    "cnpj": "",
    "linkedin": "",
-   "buscaWebEm": "2026-11-24T20:11:13.004Z"
+   "buscaWebEm": "2026-11-28T01:41:49.658Z"
   },
   "ref-eviden-atos": {
    "emails": [],
@@ -3641,7 +3648,12 @@
    "emails": [],
    "status": "ok",
    "buscaWebEm": "2026-11-27T01:56:50.921Z"
+  },
+  "ref-general-motors-do-brasil": {
+   "emails": [],
+   "status": "ok",
+   "buscaWebEm": "2026-11-28T01:41:50.130Z"
   }
  },
- "atualizadoEm": "2026-11-27T19:00:09.020Z"
+ "atualizadoEm": "2026-11-28T01:41:50.263Z"
 }
